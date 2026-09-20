@@ -21,7 +21,7 @@ spec:
             args:
             - >-
               set -e; mkdir -p /repo/data/raw_subs;
-              apk add --no-cache git openssh-client >/dev/null 2>&1;
+              apk add --no-cache git openssh-client ffmpeg >/dev/null 2>&1;
               pip install -q yt-dlp;
               cd /repo && git pull --rebase origin HEAD >/dev/null 2>&1 || true;
               python /repo/sync/wiki-tube-sync/manage.py run;
