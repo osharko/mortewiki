@@ -10,8 +10,8 @@ view_count: "12114"
 like_count: "936"
 comment_count: "48"
 playlist_index: "0"
-tags: ["rispondo", "calenda", "lenin"]
-related: ["20181011-6QHVknk5d-o", "20241204-4HQQgmuKJYA", "20251107-9YK4zwffORQ", "20260508-LAuCrb2qyQw", "20260526-pvNPSuHJznQ", "20250821-8_DHVNR7qRo"]
+tags: ["lienin", "calenda", "inghilterra", "borghesia", "cauzzi", "cauzi"]
+related: ["20250821-8_DHVNR7qRo", "20241118-G5_Xl9Lv4jU", "20260129-1o9qL96k5OY", "20240910-b33l186pH04", "20260906-UonTUjrzUT0", "20250124-upFt6wNCg8Q", "20260905-93Bk9W6fGSQ", "20231002-pNe3PhDr-EI", "20260531-FhFS6ryUvwo", "20260619-y8-CUN5JYss"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181011-6QHVknk5d-o|Mortebianca compie 5 anni - Rispondo alle vostre domande #2]]
-- [[20241204-4HQQgmuKJYA|Le domande a cui non rispondo]]
-- [[20251107-9YK4zwffORQ|Rispondo ad una critica educatissima e costruttiva]]
-- [[20260508-LAuCrb2qyQw|Rispondo a 4 critiche diverse]]
-- [[20260526-pvNPSuHJznQ|Rispondo alla frecciata di Michele Boldrin ORA!!!]]
 - [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
+- [[20240910-b33l186pH04|LA STORIA (Secondo MARX)]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20250124-upFt6wNCg8Q|Una Rivoluzione in America?]]
+- [[20260905-93Bk9W6fGSQ|Leopardi e antinatalismo]]
+- [[20231002-pNe3PhDr-EI|E se la FRANCIA avesse vinto la GUERRA DEI SETTE ANNI?]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]

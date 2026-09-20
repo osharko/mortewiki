@@ -12,8 +12,8 @@ comment_count: "109"
 playlist: "Anime e Manga"
 playlist_id: "PLU8-xwslFxH8yssm8Owl7QkPl0RhxBUUh"
 playlist_index: "36"
-tags: ["guerra", "mondiale", "ninja", "riassunto", "part"]
-related: ["20170113-VSskW7z2BSM", "20170416-yRxTja2Z7lo", "20180628-rwCbxX3Wl8c", "20220303-TiRY5wVHL1A", "20221012-CKUHAN5rLm0", "20221113-nRYYBlqBw0w", "20221130-DsS0lxEubZY", "20221219-XTXAPzjsiIw", "20230514-i7fzBJOAhs8", "20231002-pNe3PhDr-EI"]
+tags: ["naruto", "anzo", "chakra", "ninja", "mifune", "madara"]
+related: ["20170806-Hvzy5BQHxX4", "20180318-rwKsWcNXbEU", "20171127-91FEJdozPQ8", "20171224-X-bFGwnB4is", "20170709-fma2jtVejFE", "20161120-KfB_jm1xinM", "20151024-yqn-3_WOffI", "20180415-XDWa6mVwiB4", "20161218-NJfH-g5e_T0", "20170416-yRxTja2Z7lo"]
 video_type: "video"
 description: "Prima parte dell'Arco della Quarta Guerra Mondiale fra l'Alleanza dei Ninja e Samurai e l'Esercito di Redivivi e di Zetsu di Tobi/Madara.\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nFanart usata:\nhttp://3.bp.blogspot.com/-AVtiGGLE9e8/UCSlCL2MfwI/AAAAAAAAADU/FsriIy2uD9U/s1600/naruto_531__mifune_vs_hanzo_by_neil_d_luffy-d3bbizw.jpg\nMOOSECA:\nhttps://www.youtube.com/watch?v=sWCUK19b_wQ\nAchilles Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=zV-P1xa8rGI\nhttps://www.youtube.com/watch?v=bVe4JeuoXxY\nFuture Gladiator Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=3h4DYaTkUXw\nhttps://www.youtube.com/watch?v=ZvD8QSO7NPw\nhttps://www.youtube.com/watch?v=5V1or2JQkNI"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
+- [[20170806-Hvzy5BQHxX4|Obito e Madara - Un confronto filosofico]]
+- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
+- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
+- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
+- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20161120-KfB_jm1xinM|Naruto contro Pain]]
+- [[20151024-yqn-3_WOffI|Naruto: l'Inizio]]
+- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
+- [[20161218-NJfH-g5e_T0|La fine di PAIN]]
 - [[20170416-yRxTja2Z7lo|La Guerra Mondiale dei Ninja - Riassunto (Part 2)]]
-- [[20180628-rwCbxX3Wl8c|TEORIE SU FALLOUT 5 - Chi ha iniziato la GUERRA?]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
-- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
-- [[20221219-XTXAPzjsiIw|E se la GERMANIA avesse vinto la Prima Guerra Mondiale?]]
-- [[20230514-i7fzBJOAhs8|Chi vincerà la Guerra dello Streaming?]]
-- [[20231002-pNe3PhDr-EI|E se la FRANCIA avesse vinto la GUERRA DEI SETTE ANNI?]]

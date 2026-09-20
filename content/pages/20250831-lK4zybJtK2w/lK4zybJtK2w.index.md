@@ -10,8 +10,8 @@ view_count: "7463"
 like_count: "622"
 comment_count: "67"
 playlist_index: "0"
-tags: ["critica", "alla", "robofobia", "agli", "slurs"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["slurs", "insulti", "evita", "tratti", "coscienti", "insultare"]
+related: ["20200726-cZUxl_7sAwU", "20260714-aLl6KZqULBc", "20250529-HfVS5zFkmI0", "20201224-QAcT36Qkdc8", "20250913-tw2W3ZPrbJE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
+- [[20260714-aLl6KZqULBc|BOLDRIN MI INSULTA - Rispondiamo al Messia di ORA!]]
+- [[20250529-HfVS5zFkmI0|Il dibattito su Nietzsche + la questione Fat shaming]]
+- [[20201224-QAcT36Qkdc8|Regolamento del Canale]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]

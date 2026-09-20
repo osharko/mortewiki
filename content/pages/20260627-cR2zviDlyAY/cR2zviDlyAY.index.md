@@ -10,8 +10,8 @@ view_count: "5348"
 like_count: "353"
 comment_count: "53"
 playlist_index: "0"
-tags: ["hexed", "sono", "convintissimo"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["tolken", "exed", "house", "frozen", "trailer", "anelli"]
+related: ["20260410-7kqYnIHd-4s", "20251214--BfnnWaimoQ", "20171116-2_DKdiKxVZE", "20260416-dLQ9EZb-_qw", "20241229-dfUYlYyAIF4", "20250217-qgz4ff0Daww", "20260521-2ekuUIx1Cvo", "20250629-1wpwu_FsHSQ", "20250324-PzzyWA0R7R8", "20250923-Jdbq9JApgus"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
+- [[20251214--BfnnWaimoQ|Mr House è vivo nella seconda stagione di Fallout?]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
+- [[20241229-dfUYlYyAIF4|Canali ereditati: funzionano?]]
+- [[20250217-qgz4ff0Daww|Razze cattive nei fantasy (Tolkien, Frieren, Martin)]]
+- [[20260521-2ekuUIx1Cvo|I Robot per Tolkien]]
+- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
+- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
+- [[20250923-Jdbq9JApgus|Fallout è una critica al capitalismo]]

@@ -10,8 +10,8 @@ view_count: "5426"
 like_count: "399"
 comment_count: "57"
 playlist_index: "0"
-tags: ["raccolta", "firme", "riformare", "gruppo", "ecco"]
-related: ["20250509-sAJrhWaZLsA", "20190314-6M3zDZP1w60", "20190407-EZxUbdnDB1M", "20210401-Sc8iIM29gxU"]
+tags: ["regolamento", "hater", "fallacia", "admin", "utente", "sban"]
+related: ["20260730-mvwWdzs5gPs", "20260308-lwwMqKKIDI0", "20251124-avrmErwu0Tk", "20241228-lkBSn3Ik3zY", "20260911-xpaEtnJJF8k", "20200429-5ksJ_atnAYU", "20260304-FTDRaTnL7D0", "20250116-fkB4-96iin0", "20250322-gb7Hp_-HMlg", "20250220-Sb5g2mS2-J0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
-- [[20190314-6M3zDZP1w60|Ecco le Magliette ufficiali del Canale]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20210401-Sc8iIM29gxU|Ecco la mia Faccia!]]
+- [[20260730-mvwWdzs5gPs|La politica dei Warn (o cartellini)]]
+- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]
+- [[20251124-avrmErwu0Tk|Idolatria portami via]]
+- [[20241228-lkBSn3Ik3zY|IL PEGGIOR video sull'INCESTO che io abbia mai visto]]
+- [[20260911-xpaEtnJJF8k|Difficoltà nei videogiochi: tra Gatekeeping e Capitalismo]]
+- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
+- [[20250116-fkB4-96iin0|Occidentalismo vs Orientalismo: due facce della stessa fallacia]]
+- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
+- [[20250220-Sb5g2mS2-J0|Cos'è il Criptofascismo?]]

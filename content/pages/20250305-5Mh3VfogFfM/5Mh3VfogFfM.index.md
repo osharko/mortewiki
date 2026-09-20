@@ -10,8 +10,8 @@ view_count: "20522"
 like_count: "1244"
 comment_count: "64"
 playlist_index: "0"
-tags: ["disastrosa", "america", "trump"]
-related: ["20230807-iKUM7SfFgqI", "20250124-upFt6wNCg8Q", "20250721-kD4HD5-BWcw", "20260723-zrza0q95Q7k", "20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0"]
+tags: ["stalinisti", "oligarchia", "borghesia", "oligarchi", "sanders", "adam"]
+related: ["20260605-BdxjbOWNBkw", "20260203-xXkaBG2D-lk", "20250512-_Grsa_mjlUU", "20250402-2EV81_chTkc", "20170305-KEufFIPRXVk", "20251101-UDydP_MgAdI", "20260215-KZi6yzpLsW0", "20250421-0IATCCXpVu4", "20251109--BksbKgj4e0", "20260307-YumZXTRtrU0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230807-iKUM7SfFgqI|Il Mistero della STONEHENGE in AMERICA....]]
-- [[20250124-upFt6wNCg8Q|Una Rivoluzione in America?]]
-- [[20250721-kD4HD5-BWcw|Socialismo e Sud America]]
-- [[20260723-zrza0q95Q7k|Ulisse è andato in America?]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20260203-xXkaBG2D-lk|Perché i ricchi si comportano come aristocratici?]]
+- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
+- [[20250402-2EV81_chTkc|Stalinismo: eterno alleato del liberismo]]
+- [[20170305-KEufFIPRXVk|Il VERO Matrix 4 - Matrix Online]]
+- [[20251101-UDydP_MgAdI|Che succede se Trump arresta Zohran Mamdani?]]
+- [[20260215-KZi6yzpLsW0|La Filosofia di 1984]]
+- [[20250421-0IATCCXpVu4|Bernie Sanders non è un centrista]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20260307-YumZXTRtrU0|No, la scienza non è capitalista]]

@@ -10,8 +10,8 @@ view_count: "13741"
 like_count: "505"
 comment_count: "45"
 playlist_index: "0"
-tags: ["referendum", "islanda", "europa"]
-related: ["20250408-lT-sJvOpjdM", "20260320-Lssba8mZIMw", "20230219-zOxtKKhedQI", "20250307-mdez_E0_V88", "20250429-hm9Ek-RNl7w", "20250709-oX0cRj4qvNI", "20250928--aKzIU-_lPE", "20251128-IR7vbCMEPO0", "20260428-s7kvI9qgIbU", "20260430-QUXUrmgMeMc"]
+tags: ["islanda", "europeismo", "pesca", "referendum", "concentriamoci", "scandinavi"]
+related: ["20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20260119-Ei20aYi6FEk", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20260320-Lssba8mZIMw|REFERENDUM: Qualcuno odia i GIUDICI]]
-- [[20230219-zOxtKKhedQI|E se gli OTTOMANI avessero conquistato l'Europa?]]
-- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
-- [[20250429-hm9Ek-RNl7w|Perché la Svizzera dovrebbe diventare Europa]]
-- [[20250709-oX0cRj4qvNI|Slavi ed Est Europa: imparare dalla storia per ridisegnare i confini]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]

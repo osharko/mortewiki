@@ -10,8 +10,8 @@ view_count: "4663"
 like_count: "387"
 comment_count: "79"
 playlist_index: "0"
-tags: ["critica", "hate", "watching"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["detesti", "sufficienza", "moneta", "sottoponendo", "giocata", "potevi"]
+related: ["20250206-jlG-fLpk8G8", "20241117-CgUhuFS6Clc", "20241206-_j4XwppAZH0", "20250302-J3DkzHuOhCg", "20260824-cNYu_H4axOI", "20200902-qGiwPDfhiDo", "20250415-88ahxSeQh9E", "20250301-aBVmRjg_o1U", "20260313-7neGt3aSE3w", "20250219-tcZo6upgb60"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20241206-_j4XwppAZH0|Critica al BRICS]]
+- [[20250302-J3DkzHuOhCg|Funko Pop: cosa ne penso]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
+- [[20250301-aBVmRjg_o1U|Leggende Pokemon Z-A, analisi gameplay trailer]]
+- [[20260313-7neGt3aSE3w|La Filosofia di MorteBIANCA (Parte 2)]]
+- [[20250219-tcZo6upgb60|Altre domande, altre risposte]]

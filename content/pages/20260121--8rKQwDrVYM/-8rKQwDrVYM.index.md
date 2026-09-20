@@ -10,8 +10,8 @@ view_count: "6429"
 like_count: "564"
 comment_count: "42"
 playlist_index: "0"
-tags: ["rojava", "sotto", "assedio", "nuovo"]
-related: ["20260126-zvHJWqo35ak", "20150621--fAWBj5vv1M", "20171231-PRp2yK5yR4k", "20200314-CRLoS967aZ0", "20240811-sbDtXS8Nkns", "20250804-8o5Xyb4Q8Sk"]
+tags: ["isis", "rojava", "erdogan", "curdi", "turchia", "siria"]
+related: ["20251118-Q5fHdhvoM7Y", "20250303-55UesOxanQs", "20251105-ftcTfO4Q4JY", "20260126-zvHJWqo35ak", "20250325-Rk9BX3mfdGg", "20260109-Tn8JtrbiCBQ", "20211126-yWsFGXkMbYA", "20260904-yywIbRjSk6Q"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,11 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20251118-Q5fHdhvoM7Y|Perché il Medio Oriente è così?]]
+- [[20250303-55UesOxanQs|Ocalan e la tregua con Erdogan]]
+- [[20251105-ftcTfO4Q4JY|NASSER e il sogno panarabista]]
 - [[20260126-zvHJWqo35ak|Rojava: 3 scenari]]
-- [[20150621--fAWBj5vv1M|SOTTO IL DEEP WEB - Creepypasta #17]]
-- [[20171231-PRp2yK5yR4k|L'Alba di un nuovo giorno - Creepypasta #82]]
-- [[20200314-CRLoS967aZ0|Nuovo Contest!]]
-- [[20240811-sbDtXS8Nkns|Mi sono REINCARNATO di nuovo – Creepypasta 234]]
-- [[20250804-8o5Xyb4Q8Sk|Il nuovo partito di Corbyn sta TERRORIZZANDO gli Antiwoke]]
+- [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
+- [[20260109-Tn8JtrbiCBQ|Iran e Russia: tutte le ultime news]]
+- [[20211126-yWsFGXkMbYA|STRAPPARE LUNGO I BORDI È UN CAPOLAVORO]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]

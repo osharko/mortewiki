@@ -10,8 +10,8 @@ view_count: "5245"
 like_count: "456"
 comment_count: "32"
 playlist_index: "0"
-tags: ["palworld", "pokemon", "vendetta"]
-related: ["20240614-tlrMiE7BzRY", "20241116-zW2mk3zC1b4", "20250524-zSGQoSrx00A", "20251114-uznIlHcFInI", "20250301-aBVmRjg_o1U", "20251025-pRSIEbpX97Q", "20171113-dixNExIirds", "20171210-UDxl83w1s5U", "20200206-pxQBbKS0n5w", "20230607-U6lYXM40OOE"]
+tags: ["nintendo", "pokémon", "marchio", "pocket", "digimon", "pair"]
+related: ["20251114-uznIlHcFInI", "20251220-Kf_lc_hw9n0", "20250922-8onAikE00Dc", "20250524-zSGQoSrx00A", "20251025-pRSIEbpX97Q", "20240614-tlrMiE7BzRY", "20200215-r4gqCDLGFl4", "20200313-vVUJlCn37NE", "20250326-XnkbgT-yDys", "20251218-NOr_HttEIfg"]
 video_type: "video"
 description: "L'abbiamo capito che Pokemon Company e Nintendo sono distinte, si capisce cosa sto dicendo lo stesso e non penso che Nintendo si opponga."
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
-- [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
 - [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20250301-aBVmRjg_o1U|Leggende Pokemon Z-A, analisi gameplay trailer]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
 - [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]
-- [[20171210-UDxl83w1s5U|La filosofia di V per Vendetta]]
-- [[20200206-pxQBbKS0n5w|Mortecuore 2 - La Vendetta del Simp]]
-- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]

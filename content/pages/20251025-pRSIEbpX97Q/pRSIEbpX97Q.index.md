@@ -10,8 +10,8 @@ view_count: "10756"
 like_count: "679"
 comment_count: "91"
 playlist_index: "0"
-tags: ["lento", "declino", "pokemon"]
-related: ["20241207-pmJ8mTrleLU", "20250918-qdp_jqICIhE", "20251010-rdRF7kOetK8", "20250301-aBVmRjg_o1U", "20250828-gUXRvczylOM", "20251114-uznIlHcFInI"]
+tags: ["pokémon", "nintendo", "archeus", "digimon", "plasma", "arkeus"]
+related: ["20200405-4FIOk8SHwjc", "20250828-gUXRvczylOM", "20251220-Kf_lc_hw9n0", "20231117-Vb4_0DGuOvA", "20251114-uznIlHcFInI", "20240614-tlrMiE7BzRY", "20200215-r4gqCDLGFl4", "20200313-vVUJlCn37NE", "20250326-XnkbgT-yDys", "20251218-NOr_HttEIfg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241207-pmJ8mTrleLU|Ascesa e declino del New Atheism]]
-- [[20250918-qdp_jqICIhE|Il trionfo di Khrushchev e il declino di Brezhnev]]
-- [[20251010-rdRF7kOetK8|Declino degli USA, ascesa dell'UE, confronto con la Cina]]
-- [[20250301-aBVmRjg_o1U|Leggende Pokemon Z-A, analisi gameplay trailer]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
 - [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
 - [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]

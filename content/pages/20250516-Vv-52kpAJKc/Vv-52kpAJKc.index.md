@@ -10,8 +10,8 @@ view_count: "8462"
 like_count: "596"
 comment_count: "20"
 playlist_index: "0"
-tags: ["papa", "parla", "inglese"]
-related: ["20231223-_O4mNtUyzzQ", "20241026-3EAwhA0DQ4E", "20250222-QuNpgW83n0w", "20250422-IjEejHvQxTI", "20260328-hLdaH20jhYU", "20260422-TFvtLT44JqQ", "20181216-xAw66CZbIcI", "20250813-92CCkkq4OEw", "20241103-1odWEk69h8E"]
+tags: ["papi", "coca", "cola", "accento", "cattiveria", "kilometer"]
+related: ["20250512-0SKFJ4OIT0Q", "20220509--qwkD8BXOJI", "20200820-tcw8gjc9Uqg", "20210606-KUEe3zpJYdc", "20251113-cvAoFlFBZA4", "20250422-IjEejHvQxTI", "20250131-RnZ3rZr9tuk", "20250817-WlKYmH6i1FQ", "20251024-DmNTskHd94E", "20250318--lB5J8F3meQ"]
 video_type: "video"
 description: "https://en.wikipedia.org/wiki/Pope_Leo_XIV#/media/File:Pope_Leo_XIV_6.png"
 embeddable: "1"
@@ -20,12 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
-- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20220509--qwkD8BXOJI|La Proprietà Privata è davvero Sacra?]]
+- [[20200820-tcw8gjc9Uqg|Gli Errori Grammaticali (e come evitarli)]]
+- [[20210606-KUEe3zpJYdc|La Filosofia dei due Papi]]
+- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
 - [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
-- [[20260328-hLdaH20jhYU|Il Papa ha citato Umineko?!?!]]
-- [[20260422-TFvtLT44JqQ|Se difendi il Papa dalle minacce di Trump sei antidemocratico]]
-- [[20181216-xAw66CZbIcI|Operazioni CIA di cui non si parla - Creepypasta 107]]
-- [[20250813-92CCkkq4OEw|Di che parla Polar Express?]]
-- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20250817-WlKYmH6i1FQ|La situazione umana è folle]]
+- [[20251024-DmNTskHd94E|Genitori single]]
+- [[20250318--lB5J8F3meQ|Legge di Mortebianca: gli apologi dei villain]]

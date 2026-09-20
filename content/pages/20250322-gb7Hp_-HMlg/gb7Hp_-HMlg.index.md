@@ -10,8 +10,8 @@ view_count: "12902"
 like_count: "1027"
 comment_count: "28"
 playlist_index: "0"
-tags: ["voglio", "entrare", "politica"]
-related: ["20250127-jf5rrH7aQdA", "20251125-HePcovHQ4cE", "20260119-Ei20aYi6FEk", "20260128-WggPME6XLKk", "20171019-Y2fk-hvhbwg", "20180204-8_IHgAz-PSI", "20200225-sAIHTx4gvpk", "20220223-mUeQujrOzWs", "20220228-JAaPG9MHvF8", "20221218-ONv2zmj4QsE"]
+tags: ["hater", "proposte", "parlamento", "consensus", "omosessualità", "competente"]
+related: ["20230709-eEpjudjBR2s", "20230710-rkwWGE0175A", "20251124-avrmErwu0Tk", "20260426-TlFsgHQZaNk", "20260315-5BmAX31ewQ0", "20200429-5ksJ_atnAYU", "20260411-9MZT8TX4Dk0", "20250418-YlPgqczhrj4", "20260317-y5pG11MM0to", "20260225-tC5PJ0ukeHI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250127-jf5rrH7aQdA|Quella volta che dissi vi voglio bene (FINITO MALISSIMO)]]
-- [[20251125-HePcovHQ4cE|Voglio riflettere sul tuo Pancreas]]
-- [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
-- [[20260128-WggPME6XLKk|Voglio scalare una montagna]]
-- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
-- [[20180204-8_IHgAz-PSI|Black Mirror e la Politica]]
-- [[20200225-sAIHTx4gvpk|Coronavirus e Politica]]
-- [[20220223-mUeQujrOzWs|La Politica di Warhammer 40.000]]
-- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
-- [[20221218-ONv2zmj4QsE|La Politica di Pinocchio]]
+- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
+- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
+- [[20251124-avrmErwu0Tk|Idolatria portami via]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20260315-5BmAX31ewQ0|Raccolta firme per riformare il gruppo: ecco cosa cambieremo (e cosa no)]]
+- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
+- [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
+- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
+- [[20260317-y5pG11MM0to|Iniziano le Purghe Mortebianchiste]]
+- [[20260225-tC5PJ0ukeHI|Sul gentile responso di Tutubbi]]

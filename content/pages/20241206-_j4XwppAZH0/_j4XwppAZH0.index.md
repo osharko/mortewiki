@@ -10,8 +10,8 @@ view_count: "10905"
 like_count: "892"
 comment_count: "21"
 playlist_index: "0"
-tags: ["critica", "brics"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["india", "bricks", "saudita", "arabia", "moneta", "sudafrica"]
+related: ["20260403-Sfm9saZJfig", "20250325-Rk9BX3mfdGg", "20251118-Q5fHdhvoM7Y", "20241011-Vv4V510t0u8", "20241221-u-4kmodUieg", "20260211-e_4mA45o-XU", "20250502-dW-nA5qTj_4", "20260327-PQUifKDovCM", "20260819-sSr7Cq0lhJY", "20250928--aKzIU-_lPE"]
 video_type: "video"
 description: "https://en.wikipedia.org/wiki/BRICS#/media/File:NDB-HQ-LOGO.jpg"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20260403-Sfm9saZJfig|Perché la Cina ha battuto l'India?]]
+- [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
+- [[20251118-Q5fHdhvoM7Y|Perché il Medio Oriente è così?]]
+- [[20241011-Vv4V510t0u8|Israele UMILIA l'Italia (e noi zitti, a quanto pare)]]
+- [[20241221-u-4kmodUieg|La differenza tra Pacifismo e Isolazionismo]]
+- [[20260211-e_4mA45o-XU|Rick DuFer mi insulta e prevede il futuro: smentiamolo con i dati]]
+- [[20250502-dW-nA5qTj_4|Ricchi comunisti oggi: quali sono?]]
+- [[20260327-PQUifKDovCM|E se ALESSANDRO MAGNO fosse SOPRAVVISSUTO?]]
+- [[20260819-sSr7Cq0lhJY|Vi Sushito una riflessione]]
+- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]

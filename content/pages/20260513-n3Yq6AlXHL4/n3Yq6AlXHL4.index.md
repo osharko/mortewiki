@@ -10,8 +10,8 @@ view_count: "3133"
 like_count: "267"
 comment_count: "40"
 playlist_index: "0"
-tags: ["hood", "videoludico", "dove", "sono", "cresciuto"]
-related: ["20210612-awu5IyEHplE", "20170827-Cx825OF4sE0", "20170907-nQmNVZnP_4I", "20180621-dQMhsnOg_cI", "20200318-sJL0k2ASBcc", "20201129-qJqdiBbaRq0", "20230424-MAPz6iU24l8", "20250306-tZzTqqBov2I", "20250326-XnkbgT-yDys", "20260914-Oo115Yosmpc"]
+tags: ["potter", "harry", "kingdom", "hearts", "town", "destiny"]
+related: ["20200730-j8wQGaXVpEs", "20220728-INYpNinBP8I", "20200308-CQTzmDrXD8c", "20200226-u6p192nXhl8", "20201213-N3kka4lm3SQ", "20241025-AhOI8WB_Vl4", "20201018-ZohFBdKag7Q", "20201115-vTnolObLWJs", "20251212-FjOHAh4A_Do", "20170723-3HLQsq367a4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210612-awu5IyEHplE|La Filosofia di Robin Hood]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20170907-nQmNVZnP_4I|Da dove leggere la Filosofia? - Introduzione al corso online]]
-- [[20180621-dQMhsnOg_cI|La Filosofia in Lovecraft - Da dove leggerlo?]]
-- [[20200318-sJL0k2ASBcc|Fidanzate fantastiche (e dove trovarle) - Mortecuore 3]]
-- [[20201129-qJqdiBbaRq0|Da dove Informarsi? - Le mie Ispirazioni]]
-- [[20230424-MAPz6iU24l8|Dove sono gli ALIENI? - Il Paradosso di Fermi]]
-- [[20250306-tZzTqqBov2I|Youtube ora decide dove mettere gli ads al posto nostro]]
-- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
-- [[20260914-Oo115Yosmpc|A Billion Lies: Fonti schierate e dove trovarle (Parte 3)]]
+- [[20200730-j8wQGaXVpEs|I Giochi di Harry Potter]]
+- [[20220728-INYpNinBP8I|Il Problema di Harry Potter]]
+- [[20200308-CQTzmDrXD8c|La Filosofia di Harry Potter]]
+- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
+- [[20201213-N3kka4lm3SQ|La Filosofia di The Cursed Child (Non c'è)]]
+- [[20241025-AhOI8WB_Vl4|Un film Disney di Kingdom Hearts? Poxxibile? Parliamone]]
+- [[20201018-ZohFBdKag7Q|La Psicologia di Harry Potter]]
+- [[20201115-vTnolObLWJs|Harry Potter - Spiegazione del Finale]]
+- [[20251212-FjOHAh4A_Do|Harry Potter 2 PC Nostalgia]]
+- [[20170723-3HLQsq367a4|La filosofia in Dexter: Morale o Omicidio?]]

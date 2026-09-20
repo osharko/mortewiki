@@ -10,8 +10,8 @@ view_count: "8816"
 like_count: "528"
 comment_count: "96"
 playlist_index: "0"
-tags: ["dolori", "giovane", "mortebianca"]
-related: ["20141022-FZFNb8v4jIc", "20151031-lE2MI1SQAf4", "20151230-cc-fsOP2VUo", "20170401-xtFdl6cevOU", "20180423-28U0JBR6tuw", "20181011-6QHVknk5d-o", "20190627-e9-_Hfmbizs", "20200401-EoCHyJi8Y9U", "20201209-U27-lrpql04", "20210308-E6wVtQ3ElI8"]
+tags: ["ulisse", "cannolo", "pistacchio", "trac", "sapore", "patatine"]
+related: ["20171214-vtYGdzdlG6A", "20241209-Gh142vq95TI", "20260809-6gR5i-qIQ00", "20260201-VHWl_BY3izc", "20241114-16RiTNi6rQQ", "20250829-Y67M7q-X0kM", "20260319-yvURgCgtO0E"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141022-FZFNb8v4jIc|Recensione - Il Giovane favoloso]]
-- [[20151031-lE2MI1SQAf4|SPECIALE 5000 - INTERVISTA A MORTEBIANCA]]
-- [[20151230-cc-fsOP2VUo|MORTEBIANCA - IL TRAILER]]
-- [[20170401-xtFdl6cevOU|MORTEBIANCA FACE REVEAL]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20181011-6QHVknk5d-o|Mortebianca compie 5 anni - Rispondo alle vostre domande #2]]
-- [[20190627-e9-_Hfmbizs|La Caduta di Mortebianca - Speciale 100.000 Iscritti]]
-- [[20200401-EoCHyJi8Y9U|MORTEBIANCA È UN CLOWN?!1]]
-- [[20201209-U27-lrpql04|Mortebianca]]
-- [[20210308-E6wVtQ3ElI8|Iscrizioni per il Contest Mortebianca!]]
+- [[20171214-vtYGdzdlG6A|Il finale di NEW VEGAS]]
+- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
+- [[20260809-6gR5i-qIQ00|Burrito e Nachos: cosa ne penso]]
+- [[20260201-VHWl_BY3izc|Ho preparato uno Scottish Brunch (ASMR Mukbang Taste Test)]]
+- [[20241114-16RiTNi6rQQ|Ho assaggiato il pollo vegetariano]]
+- [[20250829-Y67M7q-X0kM|La Filosofia dei biscotti Plasmon (lore completa)]]
+- [[20260319-yvURgCgtO0E|Una carne etica (ma qualcuno si lamenta comunque)]]

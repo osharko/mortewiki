@@ -10,8 +10,8 @@ view_count: "4215"
 like_count: "359"
 comment_count: "41"
 playlist_index: "0"
-tags: ["rumor", "fallout", "sono", "produzione"]
-related: ["20150226-9N94_hyYamU", "20170113-VSskW7z2BSM", "20170309-y0PiBdL7cAE", "20170406-zWfp_HJkwBU", "20170504-oFJRlMfXfPA", "20170601-77zadUotAKI", "20170629--ZdbW3H70TA", "20170727-Qa2AKnU2QC0", "20170824-dNP_oJWLGMk", "20170921-5oHUQrf-dwQ"]
+tags: ["betesda", "starfield", "brand", "microsoft", "obsidian", "scrolls"]
+related: ["20260719-7bvr2E_6tuU", "20260717-pAm4pcfJfqM", "20250225-jmZ_5QzdFHM", "20250719-9uTekMzI8ZM", "20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20250102-XOArfyW2q58"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150226-9N94_hyYamU|Fallout e Skyrim: Il glitch del terrore - Riscrittura Horror #7]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170309-y0PiBdL7cAE|Fallout 1 - l'Eroe del Vault 13]]
-- [[20170406-zWfp_HJkwBU|Fallout 2 - Il Prescelto]]
-- [[20170504-oFJRlMfXfPA|Fallout Tactics e Brotherhood of Steel (ITA)]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]
-- [[20170727-Qa2AKnU2QC0|Van Buren - Il Fallout 3 Cancellato (LORE completa, parte 2)]]
-- [[20170824-dNP_oJWLGMk|La Filosofia di Fallout 3]]
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
+- [[20260719-7bvr2E_6tuU|Commentiamo TUTTI i Fallout annunciati]]
+- [[20260717-pAm4pcfJfqM|Il prossimo Fallout è di Obsidian!]]
+- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
+- [[20250719-9uTekMzI8ZM|Quali saranno i prossimi Fallout?]]
+- [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
+- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]

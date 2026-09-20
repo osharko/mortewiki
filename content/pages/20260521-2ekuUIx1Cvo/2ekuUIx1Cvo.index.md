@@ -10,8 +10,8 @@ view_count: "3651"
 like_count: "317"
 comment_count: "29"
 playlist_index: "0"
-tags: ["robot", "tolkien"]
-related: ["20181111-FewFpkBZ6oc", "20200705-W7hoFEA70LQ", "20210627-gF6XQO2gd80", "20210815-ZXjIdVxpY6c", "20230813-GAmQbWpuNws", "20240526-MvTM6wGTUzg", "20250803-KdI5mLXR9EU", "20250805-kF-BRJk-Vxs", "20251110-fAe9JYU4ScQ", "20260107-HHgtaoADxzc"]
+tags: ["tolken", "nano", "elfi", "nani", "tolkien", "scavano"]
+related: ["20260410-7kqYnIHd-4s", "20250629-1wpwu_FsHSQ", "20250217-qgz4ff0Daww", "20250324-PzzyWA0R7R8", "20260627-cR2zviDlyAY", "20241229-dfUYlYyAIF4", "20250923-Jdbq9JApgus", "20250508-IXheeD0sLOg", "20241023-bBnBKpzKzLg", "20250824-7L7PlAD1RFg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181111-FewFpkBZ6oc|La Filosofia di Mr Robot]]
-- [[20200705-W7hoFEA70LQ|Tu, Robot - Creepypasta 140]]
-- [[20210627-gF6XQO2gd80|I Robot del DEEP WEB - Creepypasta 165]]
-- [[20210815-ZXjIdVxpY6c|SHINING 2, CODE GEASS 3, MR ROBOT 4, GODZILLA 5, PSYCHO PASS 6, WARHAMMER 7, SAW 8, POKÉMON 9]]
-- [[20230813-GAmQbWpuNws|Super Robot - Creepypasta 209]]
-- [[20240526-MvTM6wGTUzg|IL PRESIDENTE ROBOT - Creepypasta 229]]
-- [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]
-- [[20250805-kF-BRJk-Vxs|Un tristo video sui ROBOT]]
-- [[20251110-fAe9JYU4ScQ|Robot in vendita: conviene?]]
-- [[20260107-HHgtaoADxzc|Perché le ROBOT hanno tutte questa acconciatura?]]
+- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
+- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
+- [[20250217-qgz4ff0Daww|Razze cattive nei fantasy (Tolkien, Frieren, Martin)]]
+- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
+- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
+- [[20241229-dfUYlYyAIF4|Canali ereditati: funzionano?]]
+- [[20250923-Jdbq9JApgus|Fallout è una critica al capitalismo]]
+- [[20250508-IXheeD0sLOg|Mushoku Tensei ma fatto meglio?]]
+- [[20241023-bBnBKpzKzLg|Non sanno più fare il Fantasy]]
+- [[20250824-7L7PlAD1RFg|Il Tecnofeudalesimo di PALANTIR]]

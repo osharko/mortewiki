@@ -10,8 +10,8 @@ view_count: "5012"
 like_count: "338"
 comment_count: "30"
 playlist_index: "0"
-tags: ["alex", "connor", "accusato", "essere", "cristiano"]
-related: ["20241104-LMWuQfejNos", "20250623-ZQ6an4_gVxA", "20260501-MfIGVsJKM5w", "20210211-I-wXo7Jk8fo", "20220508-h94SfUdF4KY", "20231223-_O4mNtUyzzQ", "20241027-vm8qmd_nnVc", "20250523-CboU-fv_Gtc", "20250629-1wpwu_FsHSQ", "20250729-HMW12KVwUjM"]
+tags: ["marco", "alex", "resurrezione", "vangeli", "vangelo", "testamento"]
+related: ["20181014-O0kUiFne7F0", "20180420-NlUnS0zHaK8", "20260617-62SpWKbYSuo", "20230611-RJTYsarj7N0", "20260426-den5aYCED5Q", "20260220-RdORzhEi4eM", "20260803-iZjACtOf9Eo", "20260524-SMgMxXF8va0", "20260202-3Z9ZLo3sBSk", "20251011-Nxw8vwhX4Lw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241104-LMWuQfejNos|Jordan Peterson vs Richard Dawkins da Alex O'Connor]]
-- [[20250623-ZQ6an4_gVxA|IRAN accusato di avere armi di distruzione di massa nascoste (Ci risiamo...)]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
-- [[20210211-I-wXo7Jk8fo|Come essere Sicuri e Anonimi sul Web]]
-- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
-- [[20250523-CboU-fv_Gtc|Gli Scacchi dovrebbero essere Sport?]]
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20250729-HMW12KVwUjM|La Scuola deve essere dura sennò gli studenti escono deboli]]
+- [[20181014-O0kUiFne7F0|La Filosofia di Arancia Meccanica]]
+- [[20180420-NlUnS0zHaK8|La Filosofia del Cristianesimo - #Filosofia 8]]
+- [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
+- [[20260426-den5aYCED5Q|Chi si arrabbia il 25 Aprile è quasi sempre in malafede]]
+- [[20260220-RdORzhEi4eM|Tre consigli per Tutubbi]]
+- [[20260803-iZjACtOf9Eo|Il grande bluff di Trump]]
+- [[20260524-SMgMxXF8va0|E se ALESSANDRO MAGNO fosse SOPRAVVISSUTO? Parte 2]]
+- [[20260202-3Z9ZLo3sBSk|Chi sarà l'erede di Trump?]]
+- [[20251011-Nxw8vwhX4Lw|Perché Netanyahu è TERRORIZZATO da Barghouti?]]

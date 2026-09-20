@@ -10,8 +10,8 @@ view_count: "8575"
 like_count: "643"
 comment_count: "40"
 playlist_index: "0"
-tags: ["politeismo", "origini", "infiltrazione", "decadenza"]
-related: ["20170209-vvwYhiXRDs8", "20200604-I9OBDCBOXx4", "20200701-ywLy3z1YohM", "20231010-h4l1OY2BR60", "20250916-cT85PYE614E", "20241015-prjokmel458"]
+tags: ["politeismo", "santi", "induismo", "idolatria", "monoteisti", "intercessione"]
+related: ["20251221-pFdjZ0Tm-l0", "20251124-avrmErwu0Tk", "20250405-iue5cL-_IE8", "20250602-vtxbafW-VCk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,7 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170209-vvwYhiXRDs8|Le origini della Confraternita d'Acciaio - Wasteland]]
-- [[20200604-I9OBDCBOXx4|Le Origini dell'Animazione e della Grafica (e il loro Futuro)]]
-- [[20200701-ywLy3z1YohM|Le Origini di Disney]]
-- [[20231010-h4l1OY2BR60|STORIA AMERICANA 1: LE ORIGINI]]
-- [[20250916-cT85PYE614E|Le origini della RUSSIA]]
-- [[20241015-prjokmel458|Alle radici della Decadenza italiana]]
+- [[20251221-pFdjZ0Tm-l0|Perché il MONOTEISMO ha trionfato?]]
+- [[20251124-avrmErwu0Tk|Idolatria portami via]]
+- [[20250405-iue5cL-_IE8|La lingua del Dalai Lama]]
+- [[20250602-vtxbafW-VCk|Perché il mestruo è considerato sporco?]]

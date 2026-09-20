@@ -10,8 +10,8 @@ view_count: "7594"
 like_count: "485"
 comment_count: "96"
 playlist_index: "0"
-tags: ["peggior", "commento", "obsession", "abbia", "letto"]
-related: ["20241111-6c1SRAdSMak", "20241228-lkBSn3Ik3zY", "20250415-gliJQTKD8O4", "20250418-YlPgqczhrj4", "20250513-Hua0V8mvi7g", "20250726-a3iKGKd1cTs", "20250901-xDV7d58LBds", "20251005-N3XpTnZ9Dd8", "20260206-8Qx_rLZtL-k", "20241109-NDM8gt8G_4M"]
+tags: ["femminismo", "regista", "obsession", "annullare", "femminista", "legittima"]
+related: ["20250210-ErDESQ5nB4g", "20230811-MBZyU0-Qde8", "20260808--EX0iEn-uEI", "20240212-fX6a8X1oUcY", "20260128-Px2StNHILS8", "20260517-0m1dlc-akzo", "20241021-2M1c1mhw7Lo", "20250806-v7lcRTqfAxI", "20250611-ULKQLbADwbA", "20190428-4zLdsezeEq8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241111-6c1SRAdSMak|IL PEGGIOR PAZIENTE PSICHIATRICO - Creepypasta 240]]
-- [[20241228-lkBSn3Ik3zY|IL PEGGIOR video sull'INCESTO che io abbia mai visto]]
-- [[20250415-gliJQTKD8O4|Il peggior crimine ISRAELIANO]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20250513-Hua0V8mvi7g|Il PEGGIOR commento indipendentista sardo che io abbia mai visto]]
-- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
-- [[20250901-xDV7d58LBds|Il PEGGIOR commento sulla GUERRA che io abbia MAI letto]]
-- [[20251005-N3XpTnZ9Dd8|IL PEGGIOR TERREMOTO della storia - Creepypasta 261]]
-- [[20260206-8Qx_rLZtL-k|Il PEGGIOR video di DuFer (su Epstein)]]
-- [[20241109-NDM8gt8G_4M|Commento gli Oscar all'Animazione (post vittoria di Miyazaki)]]
+- [[20250210-ErDESQ5nB4g|La Filosofia del FEMMINISMO]]
+- [[20230811-MBZyU0-Qde8|La Filosofia in BARBIE (ft BarbieXanax)]]
+- [[20260808--EX0iEn-uEI|Bear non è il villan di Obsession!!!]]
+- [[20240212-fX6a8X1oUcY|La Filosofia di Povere Creature]]
+- [[20260128-Px2StNHILS8|Rick DuFer contro il Femminismo?]]
+- [[20260517-0m1dlc-akzo|Rick DuFer non sa cos'è il Transfemminismo]]
+- [[20241021-2M1c1mhw7Lo|Il caso della famiglia avvelenata]]
+- [[20250806-v7lcRTqfAxI|Mamma, pare che sono sionista!]]
+- [[20250611-ULKQLbADwbA|Unalivazione]]
+- [[20190428-4zLdsezeEq8|La Filosofia nel Truman Show]]

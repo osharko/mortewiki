@@ -10,8 +10,8 @@ view_count: "7918"
 like_count: "823"
 comment_count: "80"
 playlist_index: "0"
-tags: ["quella", "volta", "dissi", "voglio", "bene"]
-related: ["20190403-BkaazMza7oo", "20200123-TGckp6c6QEw", "20250508-bsQG9nmiklI", "20250322-gb7Hp_-HMlg", "20251125-HePcovHQ4cE", "20260119-Ei20aYi6FEk", "20260128-WggPME6XLKk", "20210409-utpE4ywsWpA", "20251012-Z5Jp7iuCuXY"]
+tags: ["pazzesco", "scherzo", "aspettavo", "abituati", "preoccupare", "community"]
+related: ["20220525-fPUumekOZBI", "20250802-NzaykUIBvqA", "20251016-tAcBqKBfXYA", "20240621-eroRrHrqDFA", "20260216--gAYhninVrs", "20220109-FFBFpp6Mw9E"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190403-BkaazMza7oo|Quella volta che ho fregato i Bot DALL'UCRAINA]]
-- [[20200123-TGckp6c6QEw|Quella volta che cagai in casa di Giopizzi (O la buona divulgazione politica)]]
-- [[20250508-bsQG9nmiklI|La storia di QUELLA sedia famosa - La Monoblocco]]
-- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
-- [[20251125-HePcovHQ4cE|Voglio riflettere sul tuo Pancreas]]
-- [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
-- [[20260128-WggPME6XLKk|Voglio scalare una montagna]]
-- [[20210409-utpE4ywsWpA|Come Dormire bene]]
-- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
+- [[20220525-fPUumekOZBI|Mortebianca compie 12 anni]]
+- [[20250802-NzaykUIBvqA|La caduta di ZEB89]]
+- [[20251016-tAcBqKBfXYA|DISTRUGGO Ben Shapiro con Fatti e Logica]]
+- [[20240621-eroRrHrqDFA|LA FILOSOFIA FURRY]]
+- [[20260216--gAYhninVrs|Eulogia per Frusciante]]
+- [[20220109-FFBFpp6Mw9E|Vincitore Del Quinto Contest Mortebianca Maiuscolo]]

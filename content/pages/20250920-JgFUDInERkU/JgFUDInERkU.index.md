@@ -10,8 +10,8 @@ view_count: "5619"
 like_count: "397"
 comment_count: "24"
 playlist_index: "0"
-tags: ["breve", "apologia", "contrapoints"]
-related: ["20250419-0cVrvOd2bXM", "20250904-UxyeeuS9rGc", "20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250417-GHoS0YNX864", "20250425-Ig0wv5jE2MY", "20250515-Azp54fQKR1w", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc"]
+tags: ["natalie", "genocidio", "sanders", "palestina", "points", "sionista"]
+related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20250830-nv4MaICTL6Y", "20250812-iOnylhrbPag", "20250902-aD6n83WTgds", "20260605-BdxjbOWNBkw", "20231029-MhcdzqAUKcI", "20250804-8o5Xyb4Q8Sk", "20250930-0_fHcp5qFs0", "20241022-mdYpUdN0HW0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250419-0cVrvOd2bXM|Una Vtuber va in pensione: una breve riflessione]]
-- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
+- [[20250812-iOnylhrbPag|La Cartoonesca cattiveria di ISRAELE]]
+- [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
+- [[20250804-8o5Xyb4Q8Sk|Il nuovo partito di Corbyn sta TERRORIZZANDO gli Antiwoke]]
+- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
+- [[20241022-mdYpUdN0HW0|Liliana Segre e la Palestina: un rispettoso dissenso]]

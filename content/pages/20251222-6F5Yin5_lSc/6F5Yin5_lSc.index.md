@@ -10,8 +10,8 @@ view_count: "8240"
 like_count: "671"
 comment_count: "34"
 playlist_index: "0"
-tags: ["trump", "paracetamolo"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY"]
+tags: ["paracetamolo", "autismo", "farmaco", "gravidanza", "correlazione", "vaccini"]
+related: ["20211203-UpUfJ2pZ57U", "20240530-1nEKT-zTeEs", "20190609-9VIV0m7fHDU", "20251130-YqXiTofqwYY", "20220813-bSeLluAY_Mg", "20210531-D-NGVs8n3LM", "20250220-K78N-cXh0VI", "20230409-9TsDNLF2Oaw", "20260208-M68D_mLoX7E", "20210303-91GGn_7KwQE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
+- [[20211203-UpUfJ2pZ57U|La Scienza dei VACCINI]]
+- [[20240530-1nEKT-zTeEs|La Filosofia dell'AUTISMO]]
+- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
+- [[20251130-YqXiTofqwYY|Perché il CICLO è così doloroso? Come la risolviamo?]]
+- [[20220813-bSeLluAY_Mg|La Filosofia dell'ABORTO]]
+- [[20210531-D-NGVs8n3LM|SANITÀ (e come migliorarla)]]
+- [[20250220-K78N-cXh0VI|Critica all'ASTROLOGIA]]
+- [[20230409-9TsDNLF2Oaw|Viaggio Astrale - Creepypasta 202]]
+- [[20260208-M68D_mLoX7E|Rinascita - Creepypasta 264]]
+- [[20210303-91GGn_7KwQE|Coronavirus e Africa]]

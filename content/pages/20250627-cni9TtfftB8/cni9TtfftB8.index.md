@@ -12,8 +12,8 @@ comment_count: "25"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "1"
-tags: ["elezioni", "york"]
-related: ["20250501-2IzWuf8zSQ0", "20251005-vaZ84a-kTyM", "20251204-Js6IvBwuCHw", "20260402-VGpKEL1s_6M", "20260531-FhFS6ryUvwo", "20260621-Y9Nz3xlXK4o", "20260814-C1LkGYhibuY", "20250628-hCuI_9od2es", "20260519-iBiw-Nfqn8A"]
+tags: ["mandami", "adams", "primarie", "repubblicani", "york", "candidato"]
+related: ["20251030--lx5H7MfRo4", "20251109--BksbKgj4e0", "20251106-BNe8iY0e9fY", "20260519-iBiw-Nfqn8A", "20260227-mPsWbmqbN8Y", "20250628-hCuI_9od2es", "20251101-UDydP_MgAdI", "20251204-Js6IvBwuCHw", "20251130-sh54xa67Nuo", "20251105-LafzJEe-BFA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -21,12 +21,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
-- [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
-- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
-- [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
-- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
-- [[20260621-Y9Nz3xlXK4o|Bardella - Elezioni Francesi]]
-- [[20260814-C1LkGYhibuY|Le elezioni Brasiliane]]
-- [[20250628-hCuI_9od2es|I centristi stanno strillando per New York]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20251106-BNe8iY0e9fY|Commentario sulla vittoria di Zohran Mamdani]]
 - [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
+- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20250628-hCuI_9od2es|I centristi stanno strillando per New York]]
+- [[20251101-UDydP_MgAdI|Che succede se Trump arresta Zohran Mamdani?]]
+- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
+- [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]

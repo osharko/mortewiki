@@ -10,8 +10,8 @@ view_count: "12913"
 like_count: "988"
 comment_count: "147"
 playlist_index: "0"
-tags: ["ricreare", "partito", "comunista", "italiano", "possibile"]
-related: ["20250804-8o5Xyb4Q8Sk", "20260527-KnusyaTfPCc", "20250810-Cldu7V6BsE0", "20260113-QZWmhiDyPXo", "20260407-gDviSL05JPw", "20220806-QeE7uYbQ_hk", "wLkNnrBPv8w"]
+tags: ["sanders", "bernie", "elettorato", "sondaggi", "meloni", "socialista"]
+related: ["20250421-0IATCCXpVu4", "20260619-y8-CUN5JYss", "20251105-LafzJEe-BFA", "20260906-UonTUjrzUT0", "20260531-FhFS6ryUvwo", "20260601-MiG7c6YOOgE", "20260527-KnusyaTfPCc", "20251101-UDydP_MgAdI", "20251109--BksbKgj4e0", "20250920-JgFUDInERkU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,10 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250804-8o5Xyb4Q8Sk|Il nuovo partito di Corbyn sta TERRORIZZANDO gli Antiwoke]]
+- [[20250421-0IATCCXpVu4|Bernie Sanders non è un centrista]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
 - [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
-- [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
-- [[20260113-QZWmhiDyPXo|Primavera Nucleare: un post-Apocalittico Italiano]]
-- [[20260407-gDviSL05JPw|Fenomenologia di un tipo (anzi, un topo) italiano]]
-- [[20220806-QeE7uYbQ_hk|La Vita migliore possibile]]
-- [[wLkNnrBPv8w|Kagome Kagome, è possibile? - Creepypasta #29]]
+- [[20251101-UDydP_MgAdI|Che succede se Trump arresta Zohran Mamdani?]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]

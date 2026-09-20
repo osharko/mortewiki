@@ -10,8 +10,8 @@ view_count: "10920"
 like_count: "715"
 comment_count: "86"
 playlist_index: "0"
-tags: ["critica", "prezzi", "nintendo"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["nintendo", "lusso", "switch", "console", "inflazione", "prezzi"]
+related: ["20190912-sX777AyfxsI", "20200509-PIjNe3OByjw", "20251019-1qH9ywYa4Vg", "20251114-uznIlHcFInI", "20250209-yfjF8ki7EHw", "20260815-LoFSH3Rwa6o", "20250922-8onAikE00Dc", "20251015-X13TPjDtzyI", "20250526-yQg5jFVG958", "20250828-gUXRvczylOM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20250209-yfjF8ki7EHw|Console-PC portatili: il mio pensiero]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20251015-X13TPjDtzyI|Sui Pokeleaks]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]

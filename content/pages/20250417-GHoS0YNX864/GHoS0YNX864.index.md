@@ -10,8 +10,8 @@ view_count: "5290"
 like_count: "411"
 comment_count: "12"
 playlist_index: "0"
-tags: ["apologia", "pewdiepie"]
-related: ["20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250425-Ig0wv5jE2MY", "20250515-Azp54fQKR1w", "20250920-JgFUDInERkU", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc", "20260302-H8lC4pnGIl0", "20260322-uUpJEd5vCpw"]
+tags: ["league", "svedesi", "pewdiepie", "antidefamation", "antifamation", "antisemitismo"]
+related: ["20250414-BnBLcjB-n7s", "20251016-vxw9sZkxpC4", "20250830-nv4MaICTL6Y", "20231030-dRNbAY6XFDw", "20251002-YMiew8pi3rY", "20260401-mKs1xn6jT80"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
-- [[20260302-H8lC4pnGIl0|Apologia di Cydonia]]
-- [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
+- [[20250414-BnBLcjB-n7s|Elogio a Pewdiepie]]
+- [[20251016-vxw9sZkxpC4|L'Antisemitismo è DAVVERO alle stelle?]]
+- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
+- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]
+- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
+- [[20260401-mKs1xn6jT80|Apologia di Rick DuFer]]

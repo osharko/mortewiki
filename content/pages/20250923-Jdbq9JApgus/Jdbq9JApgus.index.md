@@ -10,8 +10,8 @@ view_count: "4984"
 like_count: "431"
 comment_count: "21"
 playlist_index: "0"
-tags: ["fallout", "critica", "capitalismo"]
-related: ["20150226-9N94_hyYamU", "20170113-VSskW7z2BSM", "20170309-y0PiBdL7cAE", "20170406-zWfp_HJkwBU", "20170504-oFJRlMfXfPA", "20170601-77zadUotAKI", "20170629--ZdbW3H70TA", "20170727-Qa2AKnU2QC0", "20170824-dNP_oJWLGMk", "20170921-5oHUQrf-dwQ"]
+tags: ["kane", "tolken", "rowling", "jake", "platealmente", "interpretare"]
+related: ["20260410-7kqYnIHd-4s", "20231018-HqZGt3YpSV0", "20260421-eEkT449Qi-k", "20260111-fGc-jpcK4TQ", "20260627-cR2zviDlyAY", "20241229-dfUYlYyAIF4", "20250217-qgz4ff0Daww", "20260521-2ekuUIx1Cvo", "20250629-1wpwu_FsHSQ", "20250104-AiEGu0KT9dY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150226-9N94_hyYamU|Fallout e Skyrim: Il glitch del terrore - Riscrittura Horror #7]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170309-y0PiBdL7cAE|Fallout 1 - l'Eroe del Vault 13]]
-- [[20170406-zWfp_HJkwBU|Fallout 2 - Il Prescelto]]
-- [[20170504-oFJRlMfXfPA|Fallout Tactics e Brotherhood of Steel (ITA)]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]
-- [[20170727-Qa2AKnU2QC0|Van Buren - Il Fallout 3 Cancellato (LORE completa, parte 2)]]
-- [[20170824-dNP_oJWLGMk|La Filosofia di Fallout 3]]
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
+- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
+- [[20231018-HqZGt3YpSV0|L'InfalliBBile Padre Kain mi distrugge]]
+- [[20260421-eEkT449Qi-k|L'Assurdismo di Amazing Digital Circus]]
+- [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
+- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
+- [[20241229-dfUYlYyAIF4|Canali ereditati: funzionano?]]
+- [[20250217-qgz4ff0Daww|Razze cattive nei fantasy (Tolkien, Frieren, Martin)]]
+- [[20260521-2ekuUIx1Cvo|I Robot per Tolkien]]
+- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
+- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]

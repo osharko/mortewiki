@@ -10,8 +10,8 @@ view_count: "2731"
 like_count: "263"
 comment_count: "11"
 playlist_index: "0"
-tags: ["amleto", "leone", "fable", "metaphor", "esodo"]
-related: ["20220213-_7pH7axb2H8", "20250509-_b6UTmUr-IU", "20250728---XEhfSbPeU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20260830-6vZulACux14"]
+tags: ["amleto", "mosè", "egitto", "simba", "achille", "shakespeare"]
+related: ["20260820-y3VOejx9K-w", "20220213-_7pH7axb2H8", "20230611-RJTYsarj7N0", "20251105-ftcTfO4Q4JY", "20251127-N2NozxgF7w4", "20230530-l0x0wRikqb8", "20260818-fZU-bXgYN5s", "20250123-tRiNNF-opyI", "20260721-C7mqSY3gxPw", "20250323-T5q1CWcubxc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20260820-y3VOejx9K-w|Il Principe d'Egitto - Il mio video definitivo]]
 - [[20220213-_7pH7axb2H8|La Filosofia del Re Leone]]
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
-- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
-- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
-- [[20260830-6vZulACux14|Aspetto Fable 4 più di GTA 6]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
+- [[20251105-ftcTfO4Q4JY|NASSER e il sogno panarabista]]
+- [[20251127-N2NozxgF7w4|E se CARTAGINE avesse conquistato ROMA?]]
+- [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
+- [[20260818-fZU-bXgYN5s|La Filosofia di Giuseppe - Il Re dei Sogni]]
+- [[20250123-tRiNNF-opyI|Vogliono fare la Passione di Cristo 2...]]
+- [[20260721-C7mqSY3gxPw|La Filosofia di Scarlet]]
+- [[20250323-T5q1CWcubxc|Sull'ebraicità di Gesù (culturale, etnica o religiosa)]]

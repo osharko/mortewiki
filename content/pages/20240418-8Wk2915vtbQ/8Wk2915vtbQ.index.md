@@ -10,8 +10,8 @@ view_count: "444"
 like_count: "18"
 comment_count: "0"
 playlist_index: "0"
-tags: ["ultimo", "film", "star", "trek", "watchparty"]
-related: ["20180927-J_wFYd-aa2g", "20190901-nmVffCY7CjM", "20200402-SrM55h9vvvM", "20251120-7G4PLAQzq08", "20161204-638Dp6-PyPs", "20171224-X-bFGwnB4is", "20180708-FU-Eezlk1CA", "20200503-RJbO_W12gZE", "20230103-3O0uKhBVjzI", "20240826-v9MtjXxzE2o"]
+tags: ["kirk", "trek", "spock", "next", "generation", "fantastico"]
+related: ["20240403-NtZdQrwR_4A", "20240321-WCsJqKLfJkE", "20240410-z93RPNkyeFA", "20240329-Vixn-NVK_sU", "20240320-1LdmwqQKSt4", "20250919-k4OWzYlYgfA", "20250912-kO3kNZubRMw", "20251002-YMiew8pi3rY", "20260202-3Z9ZLo3sBSk", "20250913-tw2W3ZPrbJE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180927-J_wFYd-aa2g|L'ULTIMO VACCINO]]
-- [[20190901-nmVffCY7CjM|L'Ultimo Killer - Creepypasta 124]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20251120-7G4PLAQzq08|L'ultimo pomeriggio]]
-- [[20161204-638Dp6-PyPs|Non c'è nessuna Matrix dentro Matrix Risposta a Film Theorist]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20200503-RJbO_W12gZE|L'Angelo Sterminatore - Il Film che anticipò IL BUCO]]
-- [[20230103-3O0uKhBVjzI|BACKROOMS: IL FILM]]
-- [[20240826-v9MtjXxzE2o|EARWIG - Il primo film in CGI dello Studio GHIBLI]]
+- [[20240403-NtZdQrwR_4A|Rotta verso la Terra (Watchparty con Libri in Pillole)]]
+- [[20240321-WCsJqKLfJkE|Lo Strillo liberistico di Khan (Star Trek 2 commentato con Libri in Pillole)]]
+- [[20240410-z93RPNkyeFA|Star Trek Ultima Frontiera (Watchparty con Libri in Pillole)]]
+- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
+- [[20240320-1LdmwqQKSt4|Star Trek the Motion Picture (Commentiamo con Libri in Pillole)]]
+- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
+- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
+- [[20260202-3Z9ZLo3sBSk|Chi sarà l'erede di Trump?]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]

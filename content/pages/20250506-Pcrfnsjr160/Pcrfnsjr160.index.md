@@ -10,8 +10,8 @@ view_count: "9889"
 like_count: "766"
 comment_count: "25"
 playlist_index: "0"
-tags: ["miopia", "geopolitica", "trump", "sull", "ucraina"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY", "20250926-sRwhOms1cgY"]
+tags: ["putin", "zelenski", "ucraina", "rare", "terre", "rubinetti"]
+related: ["20251122-bT5uXCtc85g", "20220228-JAaPG9MHvF8", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20241107-Zsyc4OecXhA", "20220303-TiRY5wVHL1A", "20260917-qGMQERfraGE", "20260120-l464ALtjP9I"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
-- [[20250926-sRwhOms1cgY|Perché Trump è TERRORIZZATO dalle milizie di autodifesa LGBT]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
+- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
+- [[20260917-qGMQERfraGE|A Billion Lies: Terre non così rare (Parte 6)]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]

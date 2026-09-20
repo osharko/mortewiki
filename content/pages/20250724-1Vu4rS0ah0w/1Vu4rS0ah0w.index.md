@@ -10,8 +10,8 @@ view_count: "5102"
 like_count: "440"
 comment_count: "19"
 playlist_index: "0"
-tags: ["difende", "toppa", "peggio", "buco"]
-related: ["20250701-47YagZqKi48", "20241017-GuWIaEEi6Cc", "20250207-8ududSJJavc", "20260723-4GvDQhFguPM", "20200503-RJbO_W12gZE", "20200606-9F63v4lU3hY", "20241005-ML_QCJsm0hQ", "20260509-e4mIfVSVfwE"]
+tags: ["cortes", "zitta", "votato", "azov", "maga", "cagati"]
+related: ["20260828-lpk6Wr5gsrc", "20250720-V5Pgf1-qvXc", "20251109--BksbKgj4e0", "20240516-NCzCtUHd6LM", "20241111-bMkGoiAhhuI", "20250224-ijJAnHWrzis", "20250408-lT-sJvOpjdM", "20251106-BNe8iY0e9fY", "20260805-sxLK-rvj04E", "20241106-OPbxvJJtkhc"]
 video_type: "video"
 description: "Fonte immagine: https://www.nbcnews.com/politics/congress/democrats-desperately-searching-new-leaders-aoc-stepping-void-rcna196816"
 embeddable: "1"
@@ -20,11 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250701-47YagZqKi48|Greta Thunberg difende il Pride: perché ha ragione (ed è coerente)]]
-- [[20241017-GuWIaEEi6Cc|Semestre filtro a Medicina (la toppa è peggio del buco)]]
-- [[20250207-8ududSJJavc|Il GLADIATORE DUE è PEGGIO DEL PREVISTO....]]
-- [[20260723-4GvDQhFguPM|No, i Tau non sono peggio del Caos]]
-- [[20200503-RJbO_W12gZE|L'Angelo Sterminatore - Il Film che anticipò IL BUCO]]
-- [[20200606-9F63v4lU3hY|La Filosofia del Buco]]
-- [[20241005-ML_QCJsm0hQ|La Filosofia del BUCO 2 (la vendetta)]]
-- [[20260509-e4mIfVSVfwE|Che buco si usa con la Tromba? Una diatriba filosofico-scientifica]]
+- [[20260828-lpk6Wr5gsrc|Mamdani e il Woke 1.0]]
+- [[20250720-V5Pgf1-qvXc|AOC ha sbagliato]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20240516-NCzCtUHd6LM|Perché ISRAELE SPIA i suoi cittadini?]]
+- [[20241111-bMkGoiAhhuI|Gli USA sono (probabilmente) irriformabili]]
+- [[20250224-ijJAnHWrzis|Alexandria Ocasio-Cortez e Bernie Sanders]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20251106-BNe8iY0e9fY|Commentario sulla vittoria di Zohran Mamdani]]
+- [[20260805-sxLK-rvj04E|Mamdani è il democratico più popolare]]
+- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]

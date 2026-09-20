@@ -12,8 +12,8 @@ comment_count: "130"
 playlist: "Libri"
 playlist_id: "PLU8-xwslFxH9HPcXEVGTXfbGYujG4gY3j"
 playlist_index: "4"
-tags: ["filosofia", "delle", "leggi", "della", "robotica"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["asimov", "robotics", "nemesis", "cambly", "robotica", "violare"]
+related: ["20230306-PS2hrmHFfFk", "20251110-fAe9JYU4ScQ", "20230820-dc2sxhkBznE", "20241222-g5JkuphshQQ", "20190120-vpQb690Bbpw"]
 video_type: "video"
 description: "Codice promo CAMBLY: camblymb\nIscriviti con il 50% di sconto: http://bit.ly/3wHMZAQ\nVisioni di Robot: https://amzn.to/3lhJe2M\nUomo Bicentenario: https://amzn.to/3lkAcBV\nNemesis (Inglese): https://amzn.to/3l7AKuS\nIl mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#robot #asimov\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://www.youtube.com/watch?v=Wg4OeD8EqrE&ab_channel=XercesBlue\nhttps://www.youtube.com/watch?v=uzeiN7czEaw&ab_channel=AudioLibrary-FreeMusic\nhttps://www.youtube.com/watch?v=MT0rNXxad4A&ab_channel=ChrisZabriskie\nTrack Title: Tides\nArtist: Windows of Ken\nGenre: Ambient\nMood: Sad\nhttps://soundcloud.com/lemmino/nocturnal"
 embeddable: "1"
@@ -22,13 +22,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20230306-PS2hrmHFfFk|La Filosofia di ASIMOV]]
+- [[20251110-fAe9JYU4ScQ|Robot in vendita: conviene?]]
+- [[20230820-dc2sxhkBznE|Il MIGLIOR Libro sui VIAGGI NEL TEMPO]]
+- [[20241222-g5JkuphshQQ|Critica alla Necrofilia]]
+- [[20190120-vpQb690Bbpw|La Filosofia di Time of Eve]]

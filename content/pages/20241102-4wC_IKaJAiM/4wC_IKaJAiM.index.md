@@ -10,8 +10,8 @@ view_count: "12786"
 like_count: "1037"
 comment_count: "141"
 playlist_index: "0"
-tags: ["potessi", "rinascere", "quale", "stato", "sceglierei"]
-related: ["20231015-veWLMoua7t0", "20250131-Wb-LDQDxaN0", "20250727-MSSoo-_gaos", "20250827-A-SRRM-1aus", "20250909-I_VQjW_rceQ", "20251002-YMiew8pi3rY", "20251030--lx5H7MfRo4", "20260127-Okbt1If7Lkw", "20260301-cKcMk4wkd0Q"]
+tags: ["rinascere", "canada", "riparliamo", "australia", "sottigliezze", "tamponiamo"]
+related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20250501-2IzWuf8zSQ0", "20250111-xNtUS7w_P74", "20260904-yywIbRjSk6Q", "20250122-bGO8tBip2M4", "20260602-9FjDbnaB3iw", "20260915-KTl0cODi8Mc", "20250321-AviBBQdQqYU", "20260113-TIsMYWmys5c"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231015-veWLMoua7t0|Sono stato S B U G I A R D A T O]]
-- [[20250131-Wb-LDQDxaN0|TWITTER si è arreso: il BAN è stato rimosso]]
-- [[20250727-MSSoo-_gaos|Sono stato maledetto - Crepypasta 117]]
-- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
-- [[20250909-I_VQjW_rceQ|Sono stato sfidato da una DIVINITA']]
-- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
-- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
-- [[20260127-Okbt1If7Lkw|Madoka 4 è stato rimandato]]
-- [[20260301-cKcMk4wkd0Q|Jim Carrey è stato davvero clonato?]]
+- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
+- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
+- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
+- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
+- [[20260602-9FjDbnaB3iw|Cuba nell'UE? No.]]
+- [[20260915-KTl0cODi8Mc|A Billion Lies: Nucleare divinizzato (Parte 4)]]
+- [[20250321-AviBBQdQqYU|Gli USA si stanno incattivendo....]]
+- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]

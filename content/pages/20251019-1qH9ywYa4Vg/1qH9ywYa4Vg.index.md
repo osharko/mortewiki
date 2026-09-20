@@ -10,8 +10,8 @@ view_count: "4755"
 like_count: "377"
 comment_count: "26"
 playlist_index: "0"
-tags: ["ancora", "sulle", "console", "portatili"]
-related: ["20201113-1QJsN6Seq38", "20231015-2n3YvIxIAGE", "20250225-jmZ_5QzdFHM", "20250526-yQg5jFVG958", "20260705-jcu-Hvbspu4", "20260903-dbXKY8oYrRo", "20251204-Js6IvBwuCHw", "20260514-PpFGHECYXf4", "20260531-FhFS6ryUvwo", "20200509-PIjNe3OByjw"]
+tags: ["console", "nintendo", "consoline", "deck", "switch", "portatili"]
+related: ["20190912-sX777AyfxsI", "20250209-yfjF8ki7EHw", "20250413-Y0jMmKLzDWk", "20200509-PIjNe3OByjw", "20251114-uznIlHcFInI", "20260815-LoFSH3Rwa6o", "20250526-yQg5jFVG958", "20250210-8Kvt27bCw2Y", "20251015-X13TPjDtzyI", "20250922-8onAikE00Dc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20201113-1QJsN6Seq38|Il Mortecuore Colpisce Ancora (ft Amico Diverte) - Episodio 5]]
-- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
-- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
-- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
-- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
-- [[20260903-dbXKY8oYrRo|Obsession Colpisce Ancora!]]
-- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
-- [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
-- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20250209-yfjF8ki7EHw|Console-PC portatili: il mio pensiero]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
 - [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
+- [[20251015-X13TPjDtzyI|Sui Pokeleaks]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]

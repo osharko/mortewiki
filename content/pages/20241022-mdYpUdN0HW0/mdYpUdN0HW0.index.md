@@ -10,8 +10,8 @@ view_count: "9636"
 like_count: "862"
 comment_count: "58"
 playlist_index: "0"
-tags: ["liliana", "segre", "palestina", "rispettoso", "dissenso"]
-related: ["20231029-MhcdzqAUKcI", "20231030-dRNbAY6XFDw", "20250902-aD6n83WTgds", "20251012-Z5Jp7iuCuXY"]
+tags: ["segre", "genocidio", "olocausto", "liliana", "liberista", "argomentazioni"]
+related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20250920-JgFUDInERkU", "20250930-0_fHcp5qFs0", "20250830-nv4MaICTL6Y", "20241202-BjCeX8GZ9C4", "20241009-21SKO2BuDGk", "20251109-5evZbA6wZqs", "20250423-KPvqg1GRrFs", "20200726-cZUxl_7sAwU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
-- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]
-- [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
-- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
+- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
+- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
+- [[20241202-BjCeX8GZ9C4|Holodomor vs Gaza]]
+- [[20241009-21SKO2BuDGk|Il Conservatorismo come Vittimismo cronico]]
+- [[20251109-5evZbA6wZqs|Perché alcuni EBREI cooperarono con i NAZISTI?]]
+- [[20250423-KPvqg1GRrFs|La Russia è stata esclusa dalla cerimonia di liberazione di Auschwitz]]
+- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]

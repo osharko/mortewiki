@@ -10,8 +10,8 @@ view_count: "6646"
 like_count: "469"
 comment_count: "96"
 playlist_index: "0"
-tags: ["sistemo", "province", "italiane", "norde", "parte"]
-related: ["20180804-PzNGzEXfxS4", "20180815-Ft60FitRK4I", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I", "20200108-aTzCDtRRekE", "20230530-l0x0wRikqb8", "20230531-g_J9Kpza6BE", "20250104-Zpgjz6_E8wE", "20250105-xXnfFPUWdQI", "20250111-xNtUS7w_P74"]
+tags: ["carbonia", "gallura", "emilia", "sardegna", "provincia", "campidano"]
+related: ["20250513-Hua0V8mvi7g", "20250511-wkyU76rAHC0", "20250528-RsQU-zKVSqQ", "20260723-4GvDQhFguPM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,7 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180804-PzNGzEXfxS4|LIVE SU FALLOUT 1 (Hub Parte 1, Tycho è Krillin)]]
-- [[20180815-Ft60FitRK4I|LIVE su FALLOUT 1 (Hub parte 2)]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
-- [[20200108-aTzCDtRRekE|Tutti i Primarchi (Parte 3)]]
-- [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
-- [[20230531-g_J9Kpza6BE|TUTTI i Sequel DISNEY (Parte 2)]]
-- [[20250104-Zpgjz6_E8wE|DISTRUGGO il finale di Game of Thrones (Parte 1)]]
-- [[20250105-xXnfFPUWdQI|DISTRUGGO il finale di Game of Thrones (Parte 2)]]
-- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
+- [[20250513-Hua0V8mvi7g|Il PEGGIOR commento indipendentista sardo che io abbia mai visto]]
+- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
+- [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
+- [[20260723-4GvDQhFguPM|No, i Tau non sono peggio del Caos]]

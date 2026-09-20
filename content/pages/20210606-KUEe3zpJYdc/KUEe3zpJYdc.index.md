@@ -12,8 +12,8 @@ comment_count: "166"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "90"
-tags: ["filosofia", "papi"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["bergoglio", "benedetto", "francesco", "ratzinger", "papi", "martini"]
+related: ["20250728---XEhfSbPeU", "20250512-0SKFJ4OIT0Q", "20250509-sAJrhWaZLsA", "20251113-cvAoFlFBZA4", "20250509-_b6UTmUr-IU", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20260501-MfIGVsJKM5w", "20241026-3EAwhA0DQ4E"]
 video_type: "video"
 description: "I Due Papi: https://amzn.to/3fVswky\nUn grazie all'Oscuro Teologo per tutti i suoi insegnamenti.\nIl mio prossimo LIBRO: http://t.ly/71EY\nIl mio primo LIBRO: https://bitly.com/creepypasta1\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://bit.ly/morte_bianca\nTipeee: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#TheTwoPopes #PapaFrancesco\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nGregorian Chant Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nPrivate Reflection Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nAgnus Dei X Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=qe-Sp3Rv8Zg"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
+- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
+- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
+- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]

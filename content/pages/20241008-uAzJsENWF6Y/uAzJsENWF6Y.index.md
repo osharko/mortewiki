@@ -10,8 +10,8 @@ view_count: "7634"
 like_count: "768"
 comment_count: "55"
 playlist_index: "0"
-tags: ["quando", "protagonista", "perde", "suoi", "poteri"]
-related: ["20180315-Lqu7OZk-NI4", "20180603-ccDndR5utrc", "20230401-75NbvICQxW8", "20250519-g4r0xZF8-9o", "20250614-o-k4deUln80", "20260218-3neleQ8C3zI", "20260404-k1nBoGeq5M0", "20260411-9MZT8TX4Dk0", "20250517-Dm8_KQSzWx8", "20241120-FoRJxzBmYeM"]
+tags: ["finali", "batman", "supereroi", "narrativa", "acquista", "perdano"]
+related: ["20241216-FZMb6bpUTBc", "20250410-VSjw1Npqmuk", "20190203-3OflVc82qb8", "20250305-7Y0v9Q0xAjE", "20251014-iI7HCGIVYT4", "20250127-BCQA2ASjAmo", "20260418-_rR04_MI8B4", "20181019-ip--sYVKtsU", "20241003-OB8XV7OF1VU", "20250808-DyitJwo8Akw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180315-Lqu7OZk-NI4|Quando Word smette di funzionare]]
-- [[20180603-ccDndR5utrc|Quando Internet Sogna - Creepypasta #93]]
-- [[20230401-75NbvICQxW8|Quando è il 1 Aprile e sei iscritto a Mortebianca #shorts]]
-- [[20250519-g4r0xZF8-9o|Quando TUTTI i brand facevano videogiochi]]
-- [[20250614-o-k4deUln80|Quando un maschio è vittima di abuso (fisico o mentale) a nessuno frega niente]]
-- [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
-- [[20260404-k1nBoGeq5M0|Quando gli anime ritornano alle loro origini]]
-- [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
-- [[20250517-Dm8_KQSzWx8|Dov'è finito il protagonista di FALLOUT 3?]]
-- [[20241120-FoRJxzBmYeM|Perché la sinistra NON perde ovunque?]]
+- [[20241216-FZMb6bpUTBc|Può un ANIME cambiare il FINALE del Manga?]]
+- [[20250410-VSjw1Npqmuk|I Super hanno diritto al riposo]]
+- [[20190203-3OflVc82qb8|La Filosofia di Bandersnatch - Black Mirror]]
+- [[20250305-7Y0v9Q0xAjE|I TRE PEGGIORI ANIME (FLOP 3)]]
+- [[20251014-iI7HCGIVYT4|La Filosofia di WATCHMEN]]
+- [[20250127-BCQA2ASjAmo|OSHI NO KO - Spiegazione del finale]]
+- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
+- [[20181019-ip--sYVKtsU|La Filosofia di the Binding of Isaac]]
+- [[20241003-OB8XV7OF1VU|La Filosofia degli INCREDIBILI]]
+- [[20250808-DyitJwo8Akw|Gli Incredibili ha ispirato Invincible e The Boys?]]

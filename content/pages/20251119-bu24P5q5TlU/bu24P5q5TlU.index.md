@@ -10,8 +10,8 @@ view_count: "3387"
 like_count: "277"
 comment_count: "59"
 playlist_index: "0"
-tags: ["sono", "usciti", "candidati", "game", "awards"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["death", "stranding", "bananza", "kong", "claire", "giocato"]
+related: ["20250411-a5vwJrTqH_8", "20250503-l7dtFsZyOl4", "20200223-9abSfFYq7dE", "20240204-TRoHvbOsJmI", "20180708-FU-Eezlk1CA", "20180513-k-x4n5J1RvM", "20210311-R1CwnVhOh8E", "20180610-NuYhwrjvFD4", "20200902-qGiwPDfhiDo", "20260729-I3Hmj6d5Sco"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20250411-a5vwJrTqH_8|Annunciato il film di Death Stranding]]
+- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
+- [[20200223-9abSfFYq7dE|Death Note è TORNATO]]
+- [[20240204-TRoHvbOsJmI|Non hai capito Godzilla]]
+- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
+- [[20180513-k-x4n5J1RvM|La Filosofia in DEATH NOTE]]
+- [[20210311-R1CwnVhOh8E|La Filosofia di Godzilla]]
+- [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]

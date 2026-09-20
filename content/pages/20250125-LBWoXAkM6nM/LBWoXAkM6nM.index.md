@@ -10,8 +10,8 @@ view_count: "12428"
 like_count: "952"
 comment_count: "62"
 playlist_index: "0"
-tags: ["trump", "vuole", "mandati", "obama"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY", "20250926-sRwhOms1cgY"]
+tags: ["obama", "mandati", "clinton", "repubblicani", "putin", "consecutivi"]
+related: ["20220228-JAaPG9MHvF8", "20250206-HiRzQUZUhHY", "20241107-Zsyc4OecXhA", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251109--BksbKgj4e0", "20251122-bT5uXCtc85g", "20241113-RvJ3nmgVDew", "20251105-LafzJEe-BFA", "20260803-iZjACtOf9Eo"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
-- [[20250926-sRwhOms1cgY|Perché Trump è TERRORIZZATO dalle milizie di autodifesa LGBT]]
+- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
+- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
+- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20260803-iZjACtOf9Eo|Il grande bluff di Trump]]

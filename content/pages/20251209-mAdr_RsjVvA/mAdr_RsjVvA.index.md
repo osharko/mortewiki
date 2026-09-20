@@ -10,8 +10,8 @@ view_count: "3262"
 like_count: "234"
 comment_count: "42"
 playlist_index: "0"
-tags: ["coffin", "freud", "live", "mortebianca", "reaction"]
-related: ["20240710-KPmyLsfdVU8", "20191026-erglEe8LlpM", "20180721-6Nm2MoKh1O0", "20180730--VO4mWuAmO8", "20180803-ZU0PN2u7-HI", "20180804-PzNGzEXfxS4", "20180815-Ft60FitRK4I", "20180818-l70zWB-SYgs", "20151031-lE2MI1SQAf4", "20151230-cc-fsOP2VUo"]
+tags: ["signora", "freud", "demone", "ashley", "ambigua", "eccoci"]
+related: ["20191026-erglEe8LlpM", "20250214-qcp0sHCb2Y0", "20240926-0wUt7kmbZVk", "20240710-KPmyLsfdVU8", "20241213-yClCL2gZyOg", "20260303-DejSXDQ373k", "20190707-vIuByvaaI2U", "20260724-ecolHGW-VBo", "20210122-4WJh9fgiGWY", "20160206-tNOCDB9ssfo"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
 - [[20191026-erglEe8LlpM|FREUD, JUNG, GODEL ed EINSTEIN - #Filosofia 24]]
-- [[20180721-6Nm2MoKh1O0|LIVE su NIER AUTOMATA da Twitch]]
-- [[20180730--VO4mWuAmO8|Live su Fallout 1 (Shady Sands)]]
-- [[20180803-ZU0PN2u7-HI|LIVE SU FALLOUT 1 (Junktown)]]
-- [[20180804-PzNGzEXfxS4|LIVE SU FALLOUT 1 (Hub Parte 1, Tycho è Krillin)]]
-- [[20180815-Ft60FitRK4I|LIVE su FALLOUT 1 (Hub parte 2)]]
-- [[20180818-l70zWB-SYgs|LIVE su FALLOUT 1 (Necropolis, One Shot Man)]]
-- [[20151031-lE2MI1SQAf4|SPECIALE 5000 - INTERVISTA A MORTEBIANCA]]
-- [[20151230-cc-fsOP2VUo|MORTEBIANCA - IL TRAILER]]
+- [[20250214-qcp0sHCb2Y0|Demone rosso, demone blu]]
+- [[20240926-0wUt7kmbZVk|La Filosofia della Codipendenza!]]
+- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
+- [[20241213-yClCL2gZyOg|Critica all'INCESTO]]
+- [[20260303-DejSXDQ373k|Una vendetta, una sentenza]]
+- [[20190707-vIuByvaaI2U|La Filosofia di Black Mirror (Stagione 5)]]
+- [[20260724-ecolHGW-VBo|Asmongold: ovvero il fallimento della Redpill]]
+- [[20210122-4WJh9fgiGWY|La Filosofia di SILENT HILL]]
+- [[20160206-tNOCDB9ssfo|Naruto e Gaara: Odio e Amore]]

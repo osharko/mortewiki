@@ -10,8 +10,8 @@ view_count: "4431"
 like_count: "344"
 comment_count: "64"
 playlist_index: "0"
-tags: ["linux", "americano", "circa", "dovremmo", "usarlo"]
-related: ["20250601-vCSmCMSsvm4", "20260421-10lA1pA-CRc", "20260425-IGXcMbxPc3w", "20240121-u65mjPJxj8E", "20260125-rmn7wPtJB34", "20260610-PituFoKdKcU", "20260530-lllfQzG5_Hw", "20210604-PPgciXLt-v0", "20211009-LTGQvTuxIrk", "20250903-FfolkwKdC9U"]
+tags: ["linux", "distro", "windows", "arch", "dipendere", "americane"]
+related: ["20260425-IGXcMbxPc3w", "20250601-vCSmCMSsvm4", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20210805-eCNKJBjVoJA", "20260526-5pi77L9A0gw", "20260525-NKYI2Uo7448", "20250719-9uTekMzI8ZM", "20240515-ZRuVIHUfGlc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
-- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
 - [[20260425-IGXcMbxPc3w|Linux non è meglio di Windows perché ci sono tante distro diverse]]
-- [[20240121-u65mjPJxj8E|STORIA AMERICANA 3: L'IMPERO AMERICANO]]
-- [[20260125-rmn7wPtJB34|La dissoluzione dell'Impero Americano]]
-- [[20260610-PituFoKdKcU|Il collasso dell'Impero Americano]]
-- [[20260530-lllfQzG5_Hw|Amministrative: trionfo delle sinistre (circa), fallimento di ORA! e demagogia della destra]]
-- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
-- [[20211009-LTGQvTuxIrk|Dovremmo ritornare scimmie? - #Filosofia 44]]
-- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
+- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20260204-QxK66ZAFkDE|La fine di Microsoft?]]
+- [[20210805-eCNKJBjVoJA|Byung Chul Han - #Filosofia 42]]
+- [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
+- [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
+- [[20250719-9uTekMzI8ZM|Quali saranno i prossimi Fallout?]]
+- [[20240515-ZRuVIHUfGlc|Cos'è il FRUTIGER AERO?]]

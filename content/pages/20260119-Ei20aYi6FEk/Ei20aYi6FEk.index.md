@@ -10,8 +10,8 @@ view_count: "12500"
 like_count: "927"
 comment_count: "78"
 playlist_index: "0"
-tags: ["voglio", "difendere", "groenlandiaaaaa", "mammaaaa"]
-related: ["20250127-jf5rrH7aQdA", "20250322-gb7Hp_-HMlg", "20251125-HePcovHQ4cE", "20260128-WggPME6XLKk"]
+tags: ["groenlandia", "lucca", "islanda", "calma", "dichiarare", "meloni"]
+related: ["20260117-tspT5RQPpm4", "20260619-y8-CUN5JYss", "20250122-bGO8tBip2M4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260902-Ylm8WnAN5XA", "20260904-yywIbRjSk6Q"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250127-jf5rrH7aQdA|Quella volta che dissi vi voglio bene (FINITO MALISSIMO)]]
-- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
-- [[20251125-HePcovHQ4cE|Voglio riflettere sul tuo Pancreas]]
-- [[20260128-WggPME6XLKk|Voglio scalare una montagna]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
+- [[20210613-KiVbe8DLOJc|Groenlandia: capitale dei Suicidi - Creepypasta 164]]
+- [[20260110-dn34OVusXx0|La risposta adeguata a Trump sulla Groenlandia]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
+- [[20260902-Ylm8WnAN5XA|Sul Referendum Islanda-Europa]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]

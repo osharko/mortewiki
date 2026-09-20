@@ -10,8 +10,8 @@ view_count: "14317"
 like_count: "1005"
 comment_count: "110"
 playlist_index: "0"
-tags: ["parte", "intollerante"]
-related: ["20180804-PzNGzEXfxS4", "20180815-Ft60FitRK4I", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I", "20200108-aTzCDtRRekE", "20230530-l0x0wRikqb8", "20230531-g_J9Kpza6BE", "20250104-Zpgjz6_E8wE", "20250105-xXnfFPUWdQI", "20250111-xNtUS7w_P74"]
+tags: ["brutti", "stereotipo", "pedofili", "bias", "pedofilo", "incel"]
+related: ["20210919-AsrzSYG9Tt0", "20260826-G6S3ZGwI-hA", "20260114-dPMTPFNn-u8", "20260301-cKcMk4wkd0Q", "20260221-N7zhvUWA-rY", "20210411-Po-nnJdlaPI", "20241219-i54WXMtB0jw", "20250214-qcp0sHCb2Y0", "20181226-ngfUX9nTAIY", "20250522-E50ONjn0O_U"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180804-PzNGzEXfxS4|LIVE SU FALLOUT 1 (Hub Parte 1, Tycho è Krillin)]]
-- [[20180815-Ft60FitRK4I|LIVE su FALLOUT 1 (Hub parte 2)]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
-- [[20200108-aTzCDtRRekE|Tutti i Primarchi (Parte 3)]]
-- [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
-- [[20230531-g_J9Kpza6BE|TUTTI i Sequel DISNEY (Parte 2)]]
-- [[20250104-Zpgjz6_E8wE|DISTRUGGO il finale di Game of Thrones (Parte 1)]]
-- [[20250105-xXnfFPUWdQI|DISTRUGGO il finale di Game of Thrones (Parte 2)]]
-- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
+- [[20210919-AsrzSYG9Tt0|Viaggio tra i PEDOFILI del DEEP WEB]]
+- [[20260826-G6S3ZGwI-hA|Anche i pedofili hanno diritti umani]]
+- [[20260114-dPMTPFNn-u8|Età del consenso, adulta e diritto di voto]]
+- [[20260301-cKcMk4wkd0Q|Jim Carrey è stato davvero clonato?]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20210411-Po-nnJdlaPI|La Filosofia di Cuties (Non c'è)]]
+- [[20241219-i54WXMtB0jw|Bias e Bambini - Come nasce l'istinto del gregge]]
+- [[20250214-qcp0sHCb2Y0|Demone rosso, demone blu]]
+- [[20181226-ngfUX9nTAIY|La Scienza dietro il Fetish Asiatico]]
+- [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]

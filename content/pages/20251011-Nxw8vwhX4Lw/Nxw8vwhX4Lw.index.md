@@ -10,8 +10,8 @@ view_count: "7321"
 like_count: "644"
 comment_count: "18"
 playlist_index: "0"
-tags: ["perché", "netanyahu", "terrorizzato", "barghouti"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["amas", "fatà", "barguti", "marco", "palestina", "palestinese"]
+related: ["20240323-51sBpAGNpOE", "20251007-EMI9sz3wvPQ", "20251026-n8-h8uyr9TY", "20250902-aD6n83WTgds", "20231029-MhcdzqAUKcI", "20251004-vmZseap-b9g", "20250827-A-SRRM-1aus", "20251013-4bB0mpteH7c", "20231210-qDve480qKsY", "20231031-jM5c66bJntQ"]
 video_type: "video"
 description: "Fonte immagine: https://www.csmonitor.com/World/Middle-East/2024/0401/Palestinian-Mandela-Marwan-Barghouti-imprisoned-preacher-of-unity"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20251026-n8-h8uyr9TY|I motivi per cui Hamas sta rispettando la tregua]]
+- [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
+- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
+- [[20251004-vmZseap-b9g|Perché né Hamas né Israele apprezzano il piano di Trump?]]
+- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
+- [[20251013-4bB0mpteH7c|Cosa ne pensa MORTEBIANCA del piano di Pace di Trump?]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20231031-jM5c66bJntQ|ISRAELE è colpevole di APARTHEID e GENOCIDIO]]

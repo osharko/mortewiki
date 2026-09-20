@@ -10,8 +10,8 @@ view_count: "11354"
 like_count: "842"
 comment_count: "53"
 playlist_index: "0"
-tags: ["peggiore", "difesa", "della", "nato", "abbia"]
-related: ["20210730-DcZQjaGmwro", "20250208-VKO43N0hpPQ", "20250404-cM894rePYhA", "20250504--cPDe9izQSs", "20250916-5q4UcU_99vQ", "20251224-9bsGm21CExY", "20260118-3c8Oqbiihk0", "20260215-qGBbCXcZdcc", "20260420-4iShMYTBm0I", "20260701-zsBed0cG5bc"]
+tags: ["genocidio", "bannato", "shadow", "articolo", "regolamento", "iraq"]
+related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20241231-3Zox4F7d-v0", "20201016-Ze34fpt50Y4", "20250920-JgFUDInERkU", "20231206-v1owjBd7mbY", "20260730-mvwWdzs5gPs", "20241022-mdYpUdN0HW0", "20250830-nv4MaICTL6Y", "20241202-BjCeX8GZ9C4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20250208-VKO43N0hpPQ|Il mio audio PEGGIORE in assoluto]]
-- [[20250404-cM894rePYhA|Il mio audio PEGGIORE in assoluto 2]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20250916-5q4UcU_99vQ|Il mio audio PEGGIORE in assoluto 3]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
-- [[20260118-3c8Oqbiihk0|Il testo PEGGIORE che io abbia mai letto]]
-- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]
-- [[20260420-4iShMYTBm0I|La PEGGIORE difesa del Copyright che io abbia mai letto]]
-- [[20260701-zsBed0cG5bc|La PEGGIORE critica all'Arte Moderna che io abbia mai letto]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20241231-3Zox4F7d-v0|Regno del Sud Il Film (Speciale 250.000 Iscritti)]]
+- [[20201016-Ze34fpt50Y4|Cosa definisce Shonen e Seinen?]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
+- [[20231206-v1owjBd7mbY|Sono finito su il Giornale per il mio video su ISRAELE]]
+- [[20260730-mvwWdzs5gPs|La politica dei Warn (o cartellini)]]
+- [[20241022-mdYpUdN0HW0|Liliana Segre e la Palestina: un rispettoso dissenso]]
+- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
+- [[20241202-BjCeX8GZ9C4|Holodomor vs Gaza]]

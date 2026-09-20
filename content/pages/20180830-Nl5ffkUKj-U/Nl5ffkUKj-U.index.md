@@ -12,8 +12,8 @@ comment_count: "498"
 playlist: "Arte"
 playlist_id: "PLU8-xwslFxH-t3myhWcWwssJOMVMJdWoT"
 playlist_index: "7"
-tags: ["miei", "gusti", "musicali"]
-related: ["20220611-A02qGitUODE", "20241123-uhLroOo8nPo", "20241127-CepJlIrb0uc", "20260629-VHkG5nczJ4I"]
+tags: ["canzoni", "metal", "musiche", "canzone", "cantanti", "beatles"]
+related: ["20171203-Rxq0QJstA7A", "20250213-NXWNtYOl-ZA", "20180719-709ybMCFiic", "20241115-OyzwU3MdHK0", "20190811-3GrFuJOtU2E", "20190718-jY7yVJ5m9ww", "20180824-pElI_oq_ekE", "20240428-4ii0EE4zTR4", "20241009-WnXrJBN998M", "20260807-bILqi0TDHAs"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice logo: https://lovelyhanakochan.deviantart.com/\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/lemmino/lemmino-infinity\nhttps://soundcloud.com/lemmino/lemmino-voyage\nhttps://www.youtube.com/watch?v=XCr0bsng60Y"
 embeddable: "1"
@@ -22,7 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220611-A02qGitUODE|Elogio ai miei Amici]]
-- [[20241123-uhLroOo8nPo|Alien: Pianeta Terra, i miei timori e le mie speranze]]
-- [[20241127-CepJlIrb0uc|Mr Incredibile guarda i miei video]]
-- [[20260629-VHkG5nczJ4I|Aggiornamento importante su tutti i miei Socialssssss]]
+- [[20171203-Rxq0QJstA7A|LA MUSICA CHE UCCIDE - Creepypasta #80]]
+- [[20250213-NXWNtYOl-ZA|Un consiglio per tutti i musicisti]]
+- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
+- [[20241115-OyzwU3MdHK0|LOST MEDIA ed episodi perduti: tra FILOSOFIA e MUSICA]]
+- [[20190811-3GrFuJOtU2E|Charles Manson - Creepypasta 122]]
+- [[20190718-jY7yVJ5m9ww|La maledizione del Club 27 - Creepypasta #37]]
+- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
+- [[20240428-4ii0EE4zTR4|LA DISNEY SU WISH]]
+- [[20241009-WnXrJBN998M|Come risolvere la FOMO]]
+- [[20260807-bILqi0TDHAs|Se canti sigle dei cartoni cinesi sei una femminuccia]]

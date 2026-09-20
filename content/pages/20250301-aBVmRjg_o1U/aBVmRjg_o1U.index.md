@@ -10,8 +10,8 @@ view_count: "3718"
 like_count: "342"
 comment_count: "29"
 playlist_index: "0"
-tags: ["leggende", "pokemon", "analisi", "gameplay", "trailer"]
-related: ["20240306-rO6gwhLxVeU", "20260709-KtycUhrIEds", "20250828-gUXRvczylOM", "20251025-pRSIEbpX97Q", "20251114-uznIlHcFInI", "20151128-HrmaStRxwe0", "20160319-8nH5kBclonk", "20160326-Nf_8ZtbE8Fg", "20160814-YVmDAKsA6gM", "20161009-tY8pNhXkOB4"]
+tags: ["pokémon", "chikorita", "starter", "archeus", "leggende", "potevi"]
+related: ["20200405-4FIOk8SHwjc", "20231117-Vb4_0DGuOvA", "20200313-vVUJlCn37NE", "20241018-3e0D4lFgBfs", "20191011-JYRfEqEBygs", "20251025-pRSIEbpX97Q", "20251220-Kf_lc_hw9n0", "20240306-rO6gwhLxVeU", "20250814-e-Yzc91yXOA", "20251218-NOr_HttEIfg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240306-rO6gwhLxVeU|POKÉMON LEGGENDE ZA: Analisi e Teorie]]
-- [[20260709-KtycUhrIEds|Leggende Pokémon: Zanzara]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
+- [[20191011-JYRfEqEBygs|Pokémon Horror]]
 - [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20151128-HrmaStRxwe0|Over The Garden Wall - Recensione e Analisi]]
-- [[20160319-8nH5kBclonk|Herobrine (Analisi) - Riscrittura Horror #4]]
-- [[20160326-Nf_8ZtbE8Fg|Ex Machina - Analisi e Recensione]]
-- [[20160814-YVmDAKsA6gM|Matrix Reloaded - Analisi]]
-- [[20161009-tY8pNhXkOB4|Matrix Revolutions - Analisi]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20240306-rO6gwhLxVeU|POKÉMON LEGGENDE ZA: Analisi e Teorie]]
+- [[20250814-e-Yzc91yXOA|Detective Pikachu: ovvero Bulbasaur è canonicamente il miglior starter]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]

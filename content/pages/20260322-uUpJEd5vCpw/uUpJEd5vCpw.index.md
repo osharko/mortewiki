@@ -10,8 +10,8 @@ view_count: "16209"
 like_count: "996"
 comment_count: "165"
 playlist_index: "0"
-tags: ["apologia", "marra", "pulp", "podcast", "meloni"]
-related: ["20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250417-GHoS0YNX864", "20250425-Ig0wv5jE2MY", "20250515-Azp54fQKR1w", "20250920-JgFUDInERkU", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc", "20260302-H8lC4pnGIl0"]
+tags: ["meloni", "marra", "giorgia", "podcast", "intervista", "pulp"]
+related: ["20260324-sary-ahdKLc", "20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260601-MiG7c6YOOgE", "20250304-vOGnydyQbA8", "20260626-uLQhYdH41Ig", "20260527-KnusyaTfPCc", "20260117-tspT5RQPpm4", "20260825-GTSsnHYxARY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
-- [[20260302-H8lC4pnGIl0|Apologia di Cydonia]]
+- [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
+- [[20260626-uLQhYdH41Ig|NO a Italia Viva nel Fronte Progressista]]
+- [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260825-GTSsnHYxARY|Non dovresti parlare di partiti piccoli]]

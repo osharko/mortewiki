@@ -10,7 +10,8 @@ view_count: "11544"
 like_count: "873"
 comment_count: "56"
 playlist_index: "0"
-tags: ["matrimoni"]
+tags: ["matrimoni", "dialetto", "paesino", "trattoria", "child", "neonati"]
+related: ["20260605-Ngx2mUyxnNY", "20260609-8t-Q8Z2E-LE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -18,3 +19,5 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20260605-Ngx2mUyxnNY|Come aumentare le nascite]]
+- [[20260609-8t-Q8Z2E-LE|L'Antimeridionalismo dimostra una virtù del Sud]]

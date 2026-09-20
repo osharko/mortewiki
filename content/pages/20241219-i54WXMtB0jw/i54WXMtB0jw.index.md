@@ -10,8 +10,8 @@ view_count: "8600"
 like_count: "776"
 comment_count: "19"
 playlist_index: "0"
-tags: ["bias", "bambini", "come", "nasce", "istinto"]
-related: ["20240310-LJJ7Mq-bruc", "20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic", "20180913-oarDTu2wT0A", "20181025-vMp6JS1zuWA", "20190905-WDdTpZU8AIk", "20200226-u6p192nXhl8", "20200530-qhxjjApb7Hw"]
+tags: ["bias", "zucchero", "pupazzo", "omosessuali", "adam", "sandler"]
+related: ["20230709-eEpjudjBR2s", "20250529-HfVS5zFkmI0", "20260221-N7zhvUWA-rY", "20230710-rkwWGE0175A", "20240702-kNN5EkHocno", "20241009-21SKO2BuDGk", "20190825-_goj9ecJkwE", "20250929-mJps6ONsgk0", "20260301-cKcMk4wkd0Q", "20160611-MUe7g9ny5N0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240310-LJJ7Mq-bruc|BAMBINI REINCARNATI - Creepypasta 224]]
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20180913-oarDTu2wT0A|Come continuano le creepypasta?]]
-- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
-- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
+- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
+- [[20250529-HfVS5zFkmI0|Il dibattito su Nietzsche + la questione Fat shaming]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
+- [[20240702-kNN5EkHocno|Comunismo + LGBT= Una storica alleanza]]
+- [[20241009-21SKO2BuDGk|Il Conservatorismo come Vittimismo cronico]]
+- [[20190825-_goj9ecJkwE|La Storia di EVANGELION]]
+- [[20250929-mJps6ONsgk0|La mia parte intollerante]]
+- [[20260301-cKcMk4wkd0Q|Jim Carrey è stato davvero clonato?]]
+- [[20160611-MUe7g9ny5N0|Regalami l'AIDS (REALE) - Creepypasta #43]]

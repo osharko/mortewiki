@@ -10,8 +10,8 @@ view_count: "14230"
 like_count: "1098"
 comment_count: "63"
 playlist_index: "0"
-tags: ["pacifista", "trump", "vuole", "annettere", "groenlandia"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY", "20250926-sRwhOms1cgY"]
+tags: ["groenlandia", "canada", "nativi", "danimarca", "canadesi", "tromba"]
+related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20260904-yywIbRjSk6Q", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20250501-2IzWuf8zSQ0", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250111-xNtUS7w_P74"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
-- [[20250926-sRwhOms1cgY|Perché Trump è TERRORIZZATO dalle milizie di autodifesa LGBT]]
+- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
+- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20210613-KiVbe8DLOJc|Groenlandia: capitale dei Suicidi - Creepypasta 164]]
+- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
+- [[20260110-dn34OVusXx0|La risposta adeguata a Trump sulla Groenlandia]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
+- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]

@@ -10,8 +10,8 @@ view_count: "4777"
 like_count: "376"
 comment_count: "30"
 playlist_index: "0"
-tags: ["lore", "friuli", "venezia", "giulia"]
-related: ["20170601-77zadUotAKI", "20170629--ZdbW3H70TA", "20170727-Qa2AKnU2QC0", "20170903-aiMm84PfUks", "20171224-X-bFGwnB4is", "20180219-SXD4pfBPUgw", "20190503-S0y12kQ-PmI", "20231228-Bt6gSX4mZwY", "20240602-leDGM8azp2M", "20241127-YvU6C9hfkAg"]
+tags: ["territori", "friuli", "venezia", "savoia", "giulia", "gorizia"]
+related: ["20251122-bT5uXCtc85g", "20260126-zvHJWqo35ak", "20250528-RsQU-zKVSqQ", "20250408-lT-sJvOpjdM", "20260604-FLTvYMJF_Yo", "20250507-_0Qnnxy5ulc", "20260527-KnusyaTfPCc", "20260530-lllfQzG5_Hw", "20260526-pvNPSuHJznQ", "20260308-lwwMqKKIDI0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]
-- [[20170727-Qa2AKnU2QC0|Van Buren - Il Fallout 3 Cancellato (LORE completa, parte 2)]]
-- [[20170903-aiMm84PfUks|Kaguya - LORE completa di Naruto]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20190503-S0y12kQ-PmI|Warhammer 40.000 (LORE COMPLETA)]]
-- [[20231228-Bt6gSX4mZwY|Pokémon VIOLETTO: Lore tra passato e futuro della serie]]
-- [[20240602-leDGM8azp2M|TUTTA LA LORE DI DUNE]]
-- [[20241127-YvU6C9hfkAg|La TERRIFICANTE lore di CARS]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260126-zvHJWqo35ak|Rojava: 3 scenari]]
+- [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20260604-FLTvYMJF_Yo|Dalla lettera di Lorenzo Furbetti a un fan di ORA!]]
+- [[20250507-_0Qnnxy5ulc|La questione di San Marino]]
+- [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
+- [[20260530-lllfQzG5_Hw|Amministrative: trionfo delle sinistre (circa), fallimento di ORA! e demagogia della destra]]
+- [[20260526-pvNPSuHJznQ|Rispondo alla frecciata di Michele Boldrin ORA!!!]]
+- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]

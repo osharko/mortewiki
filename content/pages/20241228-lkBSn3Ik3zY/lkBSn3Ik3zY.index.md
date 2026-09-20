@@ -10,8 +10,8 @@ view_count: "70179"
 like_count: "2889"
 comment_count: "550"
 playlist_index: "0"
-tags: ["peggior", "video", "sull", "incesto", "abbia"]
-related: ["20241111-6c1SRAdSMak", "20250415-gliJQTKD8O4", "20250418-YlPgqczhrj4", "20250513-Hua0V8mvi7g", "20250726-a3iKGKd1cTs", "20250901-xDV7d58LBds", "20251005-N3XpTnZ9Dd8", "20260206-8Qx_rLZtL-k", "20260816-d7IlAeP3tGs", "20131013-0jkT_-Sv21c"]
+tags: ["incesto", "fallacia", "tabù", "scompare", "cugini", "riproduzione"]
+related: ["20241213-yClCL2gZyOg", "20240926-0wUt7kmbZVk", "20240519-lmN3y_Ekt5E", "20231119-HiohoZ7yl0Q", "20210321--401lEv0u8U", "20260315-5BmAX31ewQ0", "20260911-xpaEtnJJF8k", "20250116-fkB4-96iin0", "20250220-Sb5g2mS2-J0", "20260818-hp6SBFBpo2M"]
 video_type: "video"
 description: "Il video in questione: https://www.youtube.com/watch?v=pM5K6PFIzmI&ab_channel=AlexPlaiser"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241111-6c1SRAdSMak|IL PEGGIOR PAZIENTE PSICHIATRICO - Creepypasta 240]]
-- [[20250415-gliJQTKD8O4|Il peggior crimine ISRAELIANO]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20250513-Hua0V8mvi7g|Il PEGGIOR commento indipendentista sardo che io abbia mai visto]]
-- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
-- [[20250901-xDV7d58LBds|Il PEGGIOR commento sulla GUERRA che io abbia MAI letto]]
-- [[20251005-N3XpTnZ9Dd8|IL PEGGIOR TERREMOTO della storia - Creepypasta 261]]
-- [[20260206-8Qx_rLZtL-k|Il PEGGIOR video di DuFer (su Epstein)]]
-- [[20260816-d7IlAeP3tGs|Il PEGGIOR commento su Obsession che io abbia mai letto]]
-- [[20131013-0jkT_-Sv21c|IL MIO PRIMO VIDEO (Classifica dei personaggi più potenti)]]
+- [[20241213-yClCL2gZyOg|Critica all'INCESTO]]
+- [[20240926-0wUt7kmbZVk|La Filosofia della Codipendenza!]]
+- [[20240519-lmN3y_Ekt5E|La Collina in ALABAMA]]
+- [[20231119-HiohoZ7yl0Q|INBREEDING – Creepypasta 216]]
+- [[20210321--401lEv0u8U|L'Origine dei Sessi]]
+- [[20260315-5BmAX31ewQ0|Raccolta firme per riformare il gruppo: ecco cosa cambieremo (e cosa no)]]
+- [[20260911-xpaEtnJJF8k|Difficoltà nei videogiochi: tra Gatekeeping e Capitalismo]]
+- [[20250116-fkB4-96iin0|Occidentalismo vs Orientalismo: due facce della stessa fallacia]]
+- [[20250220-Sb5g2mS2-J0|Cos'è il Criptofascismo?]]
+- [[20260818-hp6SBFBpo2M|Obsession: la vendemmia di Bear]]

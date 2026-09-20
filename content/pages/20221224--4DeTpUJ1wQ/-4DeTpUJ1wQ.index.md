@@ -12,8 +12,8 @@ comment_count: "272"
 playlist: "Teologia"
 playlist_id: "PLU8-xwslFxH-RDITsv2PJDbann5dJ7AHl"
 playlist_index: "20"
-tags: ["natale", "copia", "invictus"]
-related: ["20181223-R61mD_JsANY", "20191225-DGyCgIQkHLA", "20251225-ti4OEn038TY", "20240407-zAlaUMC59XI"]
+tags: ["dicembre", "vergine", "invictus", "marzo", "crocifisso", "natale"]
+related: ["20191225-DGyCgIQkHLA", "20231118-xxcvzFtN3RI", "20250813-92CCkkq4OEw", "20171224-X-bFGwnB4is", "20180204-8_IHgAz-PSI", "20260110-dn34OVusXx0"]
 video_type: "video"
 description: "Bibbia: https://amzn.to/3FSakEf\nIl mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#natale #horus\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/lemmino/nocturnal\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/lemmino/cipher"
 embeddable: "1"
@@ -22,7 +22,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181223-R61mD_JsANY|La Filosofia di Erased - Speciale di Natale]]
 - [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20251225-ti4OEn038TY|Il Natale (da piccoli)]]
-- [[20240407-zAlaUMC59XI|La Copia di una Copia - Creepypasta 226]]
+- [[20231118-xxcvzFtN3RI|La Filosofia di NIGHTMARE BEFORE CHRISTMAS]]
+- [[20250813-92CCkkq4OEw|Di che parla Polar Express?]]
+- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
+- [[20180204-8_IHgAz-PSI|Black Mirror e la Politica]]
+- [[20260110-dn34OVusXx0|La risposta adeguata a Trump sulla Groenlandia]]

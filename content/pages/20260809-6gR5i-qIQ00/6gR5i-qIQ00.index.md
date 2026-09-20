@@ -10,8 +10,8 @@ view_count: "4444"
 like_count: "56"
 comment_count: "45"
 playlist_index: "0"
-tags: ["burrito", "nachos", "cosa", "penso"]
-related: ["20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20181109-h4s0JcDf0ZE", "20190117-j8JPi-TqpOI", "20190407-EZxUbdnDB1M", "20190630-Yl2XltereaA", "20191003-WkJQmfbYqrU", "20200216-G1lI0Rt4O10", "20200301-Nd1RAJwH62E"]
+tags: ["guacamole", "sapore", "nachos", "salsa", "burger", "megor"]
+related: ["20241209-Gh142vq95TI", "20260802-XQulU3i-adg", "20260201-VHWl_BY3izc", "20241114-16RiTNi6rQQ", "20250829-Y67M7q-X0kM", "20260319-yvURgCgtO0E", "20190814-QbcZ8fXpuHc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20190630-Yl2XltereaA|La Cosa Invisibile - Creepypasta 120]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
-- [[20200216-G1lI0Rt4O10|Cosa c'è oltre l'Orizzonte? - Creepypasta 133]]
-- [[20200301-Nd1RAJwH62E|COSA SI PROVA A MORIRE? - Creepypasta 134]]
+- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
+- [[20260802-XQulU3i-adg|I dolori del giovane Mortebianca]]
+- [[20260201-VHWl_BY3izc|Ho preparato uno Scottish Brunch (ASMR Mukbang Taste Test)]]
+- [[20241114-16RiTNi6rQQ|Ho assaggiato il pollo vegetariano]]
+- [[20250829-Y67M7q-X0kM|La Filosofia dei biscotti Plasmon (lore completa)]]
+- [[20260319-yvURgCgtO0E|Una carne etica (ma qualcuno si lamenta comunque)]]
+- [[20190814-QbcZ8fXpuHc|SALSA GIAPPONESE]]

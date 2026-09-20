@@ -10,8 +10,8 @@ view_count: "9535"
 like_count: "728"
 comment_count: "61"
 playlist_index: "0"
-tags: ["critica", "inutile", "abbia", "ricevuto"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["recensioni", "onward", "coco", "divani", "preferivo", "rovinato"]
+related: ["20190711-kl1p3lnL9sY", "20181213-P8FF4al9MEY", "20180913-oarDTu2wT0A", "20250724-yCpcmLUe-1c", "20250811-2D5Nt-PXNeQ", "20160312-zN1kr3wikMo", "20150926-sX1qD2dlT78", "20190117-j8JPi-TqpOI", "20190605-beRwrPe1eoQ"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20190711-kl1p3lnL9sY|La Filosofia di Yotobi]]
+- [[20181213-P8FF4al9MEY|Fallout 76: Non è la fine del mondo]]
+- [[20180913-oarDTu2wT0A|Come continuano le creepypasta?]]
+- [[20250724-yCpcmLUe-1c|La Filosofia di COCO]]
+- [[20250811-2D5Nt-PXNeQ|L'App ANTIFEMMINISTA del Tè]]
+- [[20160312-zN1kr3wikMo|SPECIALE 10.000 - Il Nostro Trionfo (+ Nome sigla/intro)]]
+- [[20150926-sX1qD2dlT78|Recensione Naruto - Introduzione]]
+- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
+- [[20190605-beRwrPe1eoQ|TOP: I Migliori Youtuber italiani (Secondo me)]]

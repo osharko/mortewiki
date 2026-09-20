@@ -10,8 +10,8 @@ view_count: "4744"
 like_count: "436"
 comment_count: "24"
 playlist_index: "0"
-tags: ["sullo", "stormaggio", "dell", "area"]
-related: ["20150605-JMgwvRxY6NE", "20160501-0jJrHTxWfcI", "20160508-NmsVSV7jhAE", "20160717-pKSvXp0L1fQ", "20171002-I7MpZ0h-joI", "20180211-v5PXYxuQmMY", "20180422-S_tv3q-qCqg", "20180618-oO4PRo9BHUI", "20190530-ryodXEqwPIs", "20191003-WkJQmfbYqrU"]
+tags: ["fermi", "galassia", "naruto", "stormare", "millennials", "cagano"]
+related: ["20171127-91FEJdozPQ8", "20180121-bXOXQ5zGpvM", "20171224-X-bFGwnB4is", "20161218-NJfH-g5e_T0", "20170123-tpNXoYWBnoo", "20180415-XDWa6mVwiB4", "20151024-yqn-3_WOffI", "20160109-OVyZV97HEUs", "20160508-NmsVSV7jhAE", "20160307-mqdv45XdjtM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150605-JMgwvRxY6NE|MANGA VS ANIME - Il manga è sempre meglio dell'Anime?]]
-- [[20160501-0jJrHTxWfcI|I livelli dell'AREA 51 - Creepypasta #40]]
+- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
+- [[20180121-bXOXQ5zGpvM|Naruto the Last - l'Amore ai tempi del chakra]]
+- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
+- [[20161218-NJfH-g5e_T0|La fine di PAIN]]
+- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
+- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
+- [[20151024-yqn-3_WOffI|Naruto: l'Inizio]]
+- [[20160109-OVyZV97HEUs|Naruto vs Neji: Libertà e Destino]]
 - [[20160508-NmsVSV7jhAE|Naruto e Sasuke: la Valle dell'Epilogo]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20171002-I7MpZ0h-joI|La Filosofia dell'Akatsuki]]
-- [[20180211-v5PXYxuQmMY|La sfida dell'Ascensore, la Verità - Creepypasta #34]]
-- [[20180422-S_tv3q-qCqg|La Morte dell'Universo - Creepypasta #90]]
-- [[20180618-oO4PRo9BHUI|Prima dell'Apocalisse - Creepypasta #94]]
-- [[20190530-ryodXEqwPIs|L'Imperatore dell'Umanità - Warhammer 40.000]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
+- [[20160307-mqdv45XdjtM|Tsunade e il significato del Sacrificio]]

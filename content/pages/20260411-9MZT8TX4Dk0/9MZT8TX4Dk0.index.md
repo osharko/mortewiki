@@ -10,8 +10,8 @@ view_count: "6994"
 like_count: "618"
 comment_count: "27"
 playlist_index: "0"
-tags: ["quando", "mussolini", "mise", "autoaccusa"]
-related: ["20180315-Lqu7OZk-NI4", "20180603-ccDndR5utrc", "20230401-75NbvICQxW8", "20241008-uAzJsENWF6Y", "20250519-g4r0xZF8-9o", "20250614-o-k4deUln80", "20260218-3neleQ8C3zI", "20260404-k1nBoGeq5M0", "20250514-09NFcoNAF_M", "20260320-s8-zmip52LE"]
+tags: ["mussolini", "parlamento", "dinastia", "matteotti", "manganello", "retorico"]
+related: ["20250131-RnZ3rZr9tuk", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20250514-09NFcoNAF_M", "20210622-tmnpsoL5rNE", "20250220-Sb5g2mS2-J0", "20250515-kvjs_N2Wv54", "20210429-kbqWynJU7Do"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180315-Lqu7OZk-NI4|Quando Word smette di funzionare]]
-- [[20180603-ccDndR5utrc|Quando Internet Sogna - Creepypasta #93]]
-- [[20230401-75NbvICQxW8|Quando è il 1 Aprile e sei iscritto a Mortebianca #shorts]]
-- [[20241008-uAzJsENWF6Y|Quando il protagonista perde i suoi poteri]]
-- [[20250519-g4r0xZF8-9o|Quando TUTTI i brand facevano videogiochi]]
-- [[20250614-o-k4deUln80|Quando un maschio è vittima di abuso (fisico o mentale) a nessuno frega niente]]
-- [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
-- [[20260404-k1nBoGeq5M0|Quando gli anime ritornano alle loro origini]]
-- [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
 - [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
+- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20250430-gUx4wOdsu-w|Bufale: come contrastarle]]
+- [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20250220-Sb5g2mS2-J0|Cos'è il Criptofascismo?]]
+- [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
+- [[20210429-kbqWynJU7Do|Ezra Pound e Cioran - #Filosofia 39]]

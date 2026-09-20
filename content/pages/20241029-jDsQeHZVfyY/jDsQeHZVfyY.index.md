@@ -10,8 +10,8 @@ view_count: "6317"
 like_count: "691"
 comment_count: "23"
 playlist_index: "0"
-tags: ["empatia", "teoria", "della", "mente"]
-related: ["20250126-VGNHmmeqgnk", "20240701-tQLjlZB_oHk", "20250223-r6zVz5i-QZI", "20141001-_b7LDZmMpCk", "20141115-XBZZ-hbVjFE", "20160102-k2CGAYaqYjY", "20170113-VSskW7z2BSM", "20170209-vvwYhiXRDs8", "20180108-SRaemBYELqc", "20180401-SJrN5ouA4Js"]
+tags: ["risata", "bandiera", "eccitante", "sorridere", "empatia", "soldato"]
+related: ["20260413-JchQdHY22-M", "20250126-VGNHmmeqgnk", "20150418-Lb9nn3qfb4I", "20160626-coz3YbDOLKo", "20240222-JT3sG5KTILA", "20260113-QZWmhiDyPXo", "20170917-B_bc38nLClY", "20260215-qGBbCXcZdcc", "20241224-3Vc0wWzKtsY", "20250228-VI-IovBg0Cw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20260413-JchQdHY22-M|Bandiera terrestre: esaminiamo le proposte]]
 - [[20250126-VGNHmmeqgnk|Il Peccato d'Empatia]]
-- [[20240701-tQLjlZB_oHk|Camminare fa MALE? - La teoria della Scimmia Anfibia]]
-- [[20250223-r6zVz5i-QZI|La Teoria dell'INTERNET MORTO - Creepypasta 248]]
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
-- [[20141115-XBZZ-hbVjFE|L'origine della vita - Riscrittura Horror #11]]
-- [[20160102-k2CGAYaqYjY|La Santa Muerte - il culto della MORTE]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170209-vvwYhiXRDs8|Le origini della Confraternita d'Acciaio - Wasteland]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
-- [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
+- [[20150418-Lb9nn3qfb4I|Happy Puppet Syndrome - Riscrittura Horror #6]]
+- [[20160626-coz3YbDOLKo|Hai paura dei Clown? - Creepypasta #44]]
+- [[20240222-JT3sG5KTILA|Come funziona la PROPAGANDA di ISRAELE]]
+- [[20260113-QZWmhiDyPXo|Primavera Nucleare: un post-Apocalittico Italiano]]
+- [[20170917-B_bc38nLClY|La Sottile linea rossa - Filosofia]]
+- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]
+- [[20241224-3Vc0wWzKtsY|Critica costruttiva a Kurzgesagt]]
+- [[20250228-VI-IovBg0Cw|La Filosofia del PERDONO]]

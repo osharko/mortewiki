@@ -6,8 +6,8 @@ playlist: "I miei Shorts"
 playlist_id: "PLU8-xwslFxH8XRHHIxJNm92L3_tukumhO"
 playlist_index: "3"
 source: "https://youtu.be/faousbkyLyY"
-tags: ["iperborea", "creepypasta", "edit"]
-related: ["20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ", "20141018-k3txtRN-N48", "20150303-KIi6WBdtntI", "20150330-bkJWXlQzEMo", "20150408-pemrddn3Uew", "20150513-V3XISiA7shU", "20150619-Dy4LYExH5Rg", "20150621--fAWBj5vv1M", "20150627-HYE41DCwFBw"]
+tags: ["iperborea", "edit"]
+related: ["20251216-IjAjwGmBaH8", "20241212-Ax9gkuXak7s", "20250128-dO092738ZNk", "20250228-VI-IovBg0Cw", "20241011-p5xWPIn2NYc", "20210905-9myWqEfwjo0"]
 embeddable: "0"
 stub: "1"
 ---
@@ -15,13 +15,9 @@ stub: "1"
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*
 
 ## Correlati
-- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
-- [[20150330-bkJWXlQzEMo|Immortalità Quantistica - Creepypasta #11]]
-- [[20150408-pemrddn3Uew|Post Mortem - Creepypasta #12]]
-- [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]
-- [[20150619-Dy4LYExH5Rg|Gemelli - Creepypasta #16]]
-- [[20150621--fAWBj5vv1M|SOTTO IL DEEP WEB - Creepypasta #17]]
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
+- [[20251216-IjAjwGmBaH8|La Filosofia di Edith Finch]]
+- [[20241212-Ax9gkuXak7s|Una proposta per l'Inno Europeo?]]
+- [[20250128-dO092738ZNk|Cina: vuota opulenza, futuro apofantico]]
+- [[20250228-VI-IovBg0Cw|La Filosofia del PERDONO]]
+- [[20241011-p5xWPIn2NYc|Humanity first? No, grazie!]]
+- [[20210905-9myWqEfwjo0|15 SCP più TERRIFICANTI - Creepypasta 169]]

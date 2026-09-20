@@ -10,8 +10,8 @@ view_count: "3415"
 like_count: "226"
 comment_count: "21"
 playlist_index: "0"
-tags: ["video", "amico", "donny", "alchill"]
-related: ["20131013-0jkT_-Sv21c", "20170702-daCXIBOFdXY", "20180719-709ybMCFiic", "20200224-jG8PYtPcF9Q", "20200402-SrM55h9vvvM", "20200816-4bQINVPCz9o", "20231206-v1owjBd7mbY", "20240713-93hBvl3hhm4", "20241117-CgUhuFS6Clc", "20241127-CepJlIrb0uc"]
+tags: ["donny", "berserk", "ottimismo", "tris", "paleolitico", "ottimista"]
+related: ["20260613-FhyGMpUHhAI", "20190303-xjkRz1s78uA", "20251022-io9M3R9rGyw", "20250927-T9AlBLaIjcg", "20241016-Qkg_xDHA5a8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20131013-0jkT_-Sv21c|IL MIO PRIMO VIDEO (Classifica dei personaggi più potenti)]]
-- [[20170702-daCXIBOFdXY|NON APRIRE QUESTO VIDEO! (Alert - SCP) - Creepypasta #69]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20200224-jG8PYtPcF9Q|CORONAVIRUS (Video Pre-Obbligo)]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20200816-4bQINVPCz9o|Dal Vecchio Mondo - Creepypasta 143 (Speciale 500 video)]]
-- [[20231206-v1owjBd7mbY|Sono finito su il Giornale per il mio video su ISRAELE]]
-- [[20240713-93hBvl3hhm4|Il POTERE di un iscritto - Speciale 1000 video]]
-- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
-- [[20241127-CepJlIrb0uc|Mr Incredibile guarda i miei video]]
+- [[20260613-FhyGMpUHhAI|Perché sono serenamente pessimista]]
+- [[20190303-xjkRz1s78uA|La Filosofia di Donnie Darko - Spiegazione del finale]]
+- [[20251022-io9M3R9rGyw|Sul Triumvirato]]
+- [[20250927-T9AlBLaIjcg|Il genere musicale più ODIATO da Internet]]
+- [[20241016-Qkg_xDHA5a8|La mortalità dell'Autore (e le opere orfane)]]

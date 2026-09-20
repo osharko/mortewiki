@@ -10,8 +10,8 @@ view_count: "6815"
 like_count: "681"
 comment_count: "42"
 playlist_index: "0"
-tags: ["dici", "solo", "ovvietà"]
-related: ["20210822-G1rdaJRo9Vg", "20250204-7yB3loP15w4", "20250708-gD-Sl6jmcwQ"]
+tags: ["ovvietà", "ascolto", "credibile", "papera", "necrofilia", "docce"]
+related: ["20241222-g5JkuphshQQ", "20241013-Do1d9XuxBHQ", "20210228-N92AnUpo7Nk", "20260813-VWoqsF9auaE", "20251012-Z5Jp7iuCuXY", "20221116-aC-UcdnIjLM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,6 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210822-G1rdaJRo9Vg|IL FORUM CON UN SOLO UTENTE - Creepypasta 168]]
-- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]
-- [[20250708-gD-Sl6jmcwQ|La gente pirata solo per egoismo!!!123stella]]
+- [[20241222-g5JkuphshQQ|Critica alla Necrofilia]]
+- [[20241013-Do1d9XuxBHQ|Come salvare i complottisti?]]
+- [[20210228-N92AnUpo7Nk|Auschwitz-Birkenau e MENGELE]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
+- [[20221116-aC-UcdnIjLM|La Filosofia di Chicken Little]]

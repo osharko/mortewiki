@@ -10,8 +10,8 @@ view_count: "3817"
 like_count: "289"
 comment_count: "41"
 playlist_index: "0"
-tags: ["steam", "machine", "cosa", "penso", "gabecube"]
-related: ["20181109-h4s0JcDf0ZE", "20221003-DRN72akAOfA", "20250210-8Kvt27bCw2Y", "20251117-qbPIhoXoj78", "20251129-s9F0qOjHoLE", "20260726-sDUpiGAqrCo", "20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20190117-j8JPi-TqpOI"]
+tags: ["deck", "machine", "console", "xbox", "playstation", "compro"]
+related: ["20200509-PIjNe3OByjw", "20260815-LoFSH3Rwa6o", "20250526-yQg5jFVG958", "20260907-FHFHHiC4SGU", "20251019-1qH9ywYa4Vg", "20250210-8Kvt27bCw2Y", "20250209-yfjF8ki7EHw", "20260705-jcu-Hvbspu4", "20251117-qbPIhoXoj78", "20251027-v3EefgYbUb8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20221003-DRN72akAOfA|Steam vs Epic]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
 - [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
+- [[20250209-yfjF8ki7EHw|Console-PC portatili: il mio pensiero]]
+- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
 - [[20251117-qbPIhoXoj78|La nuova strategia di Valve (Steam Controller 2, Steam Machine 2, Steam Frame)]]
-- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
-- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
+- [[20251027-v3EefgYbUb8|Ho moddato il mio Dreamcast]]

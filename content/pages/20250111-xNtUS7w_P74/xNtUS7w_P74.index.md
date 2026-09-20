@@ -10,8 +10,8 @@ view_count: "10516"
 like_count: "873"
 comment_count: "60"
 playlist_index: "0"
-tags: ["canada", "vuole", "annettere", "parte"]
-related: ["20250416-kX9wUWAVVOY", "20250501-2IzWuf8zSQ0", "20260430-QUXUrmgMeMc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20180804-PzNGzEXfxS4", "20180815-Ft60FitRK4I", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I", "20200108-aTzCDtRRekE"]
+tags: ["canada", "california", "oregon", "culturalmente", "washington", "angeles"]
+related: ["20250416-kX9wUWAVVOY", "20171116-2_DKdiKxVZE", "20260430-QUXUrmgMeMc", "20260416-dLQ9EZb-_qw", "20250501-2IzWuf8zSQ0", "20171019-Y2fk-hvhbwg", "20251214--BfnnWaimoQ", "20240505-3tQOZo_CPuA", "20260904-yywIbRjSk6Q", "20170629--ZdbW3H70TA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -20,12 +20,12 @@ embeddable: "1"
 
 ## Correlati
 - [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
-- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
 - [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20180804-PzNGzEXfxS4|LIVE SU FALLOUT 1 (Hub Parte 1, Tycho è Krillin)]]
-- [[20180815-Ft60FitRK4I|LIVE su FALLOUT 1 (Hub parte 2)]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
-- [[20200108-aTzCDtRRekE|Tutti i Primarchi (Parte 3)]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
+- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
+- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
+- [[20251214--BfnnWaimoQ|Mr House è vivo nella seconda stagione di Fallout?]]
+- [[20240505-3tQOZo_CPuA|La FILOSOFIA di FALLOUT (Serie Amazon)]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]

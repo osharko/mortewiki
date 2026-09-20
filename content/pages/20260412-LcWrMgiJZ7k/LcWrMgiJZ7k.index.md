@@ -10,8 +10,8 @@ view_count: "8779"
 like_count: "621"
 comment_count: "73"
 playlist_index: "0"
-tags: ["starmer", "ripiglia", "sull", "unione", "europea"]
-related: ["20241228-lkBSn3Ik3zY", "20250323-T5q1CWcubxc", "20250506-Pcrfnsjr160", "20250726-a3iKGKd1cTs", "20251126-KMecagjWLyk", "20260221-N7zhvUWA-rY"]
+tags: ["starmer", "brexit", "ungheria", "corbin", "sanchez", "laburisti"]
+related: ["20250903-FfolkwKdC9U", "20260813-VWoqsF9auaE", "20250804-8o5Xyb4Q8Sk", "20260405-ISOYtywMOAQ", "20260415-bf2MjiywJzc", "20260127-drsFnEIUu1s", "20260512-Xnabv3lSijA", "20251128-IR7vbCMEPO0", "20260601-MiG7c6YOOgE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241228-lkBSn3Ik3zY|IL PEGGIOR video sull'INCESTO che io abbia mai visto]]
-- [[20250323-T5q1CWcubxc|Sull'ebraicità di Gesù (culturale, etnica o religiosa)]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
-- [[20251126-KMecagjWLyk|Sull'incontro tra Trump e Mamdani]]
-- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20250804-8o5Xyb4Q8Sk|Il nuovo partito di Corbyn sta TERRORIZZANDO gli Antiwoke]]
+- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
+- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
+- [[20260127-drsFnEIUu1s|Storia della ROMANIA]]
+- [[20260512-Xnabv3lSijA|Celtix: gli indipendentisti trionfano (e Farage trema)]]
+- [[20251128-IR7vbCMEPO0|Europa e Islam]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]

@@ -10,8 +10,8 @@ view_count: "10032"
 like_count: "905"
 comment_count: "50"
 playlist_index: "0"
-tags: ["facciamo", "cosa", "buona", "alcune", "aziende"]
-related: ["20260210-LuMaHUu-gQs", "20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20181109-h4s0JcDf0ZE", "20190117-j8JPi-TqpOI", "20190407-EZxUbdnDB1M", "20190630-Yl2XltereaA", "20191003-WkJQmfbYqrU", "20200216-G1lI0Rt4O10"]
+tags: ["mafia", "crepi", "tabacco", "minorile", "ferrari", "usbc"]
+related: ["20250515-kvjs_N2Wv54", "20260608-XjQKbFVcFXM", "20180722-oBK6t2-Kz5M", "20180108-SRaemBYELqc", "20191207-SWGixUpGM7w", "20230817-xFHFlQUYaks", "20191006-G236uG57kok", "20241223-eV4_htscKRI", "20250427-k1ZP-FkNsa8", "20251019-UbC7lP9wiOE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260210-LuMaHUu-gQs|Trump e l'Insurrection Act: facciamo chiarezza]]
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20190630-Yl2XltereaA|La Cosa Invisibile - Creepypasta 120]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
-- [[20200216-G1lI0Rt4O10|Cosa c'è oltre l'Orizzonte? - Creepypasta 133]]
+- [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
+- [[20260608-XjQKbFVcFXM|Ferrari Luce: la mia opinione richiesta]]
+- [[20180722-oBK6t2-Kz5M|La Filosofia del Padrino]]
+- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
+- [[20191207-SWGixUpGM7w|La Filosofia di ADRIAN - La Serie Evento]]
+- [[20230817-xFHFlQUYaks|La Filosofia Straight Edge (ft Valerio Rosso)]]
+- [[20191006-G236uG57kok|La Filosofia del Camorrista]]
+- [[20241223-eV4_htscKRI|Laurea in Filosofia e lavare i piatti al McDonald's (e discussione sconnessa sul giustizialismo)]]
+- [[20250427-k1ZP-FkNsa8|Elogio del 25 Aprile]]
+- [[20251019-UbC7lP9wiOE|Israele e le sue MAFIE]]

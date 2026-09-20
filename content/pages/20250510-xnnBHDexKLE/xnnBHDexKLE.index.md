@@ -12,8 +12,8 @@ comment_count: "148"
 playlist: "Teologia"
 playlist_id: "PLU8-xwslFxH-RDITsv2PJDbann5dJ7AHl"
 playlist_index: "42"
-tags: ["radici", "lutero"]
-related: ["20241015-prjokmel458"]
+tags: ["lutero", "salvezza", "protestanti", "indulgenze", "agostino", "grazia"]
+related: ["20251121-6A6EczTAx4Y", "20241026-3EAwhA0DQ4E", "20250918-d5zEmFHBnjg", "20230105-2YG-QNBSTBM", "20251029-RxHJ76EZtYE", "20250317-ju7fMck0qMo", "20260221-N7zhvUWA-rY", "20180713-6D1P5L1jFow", "20260617-62SpWKbYSuo", "20180517-fqaml7lvkh0"]
 video_type: "video"
 description: "Sul libero arbitrio: https://amzn.to/4kgvcaU\nTIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#lutero #riforma\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://theneondreamer.bandcamp.com/album/neon-dreams\nhttps://theneondreamer.bandcamp.com/album/dissimulation"
 embeddable: "1"
@@ -22,4 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241015-prjokmel458|Alle radici della Decadenza italiana]]
+- [[20251121-6A6EczTAx4Y|Hazbin Hotel ed il Peccato Originale]]
+- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
+- [[20250918-d5zEmFHBnjg|Perché i cattolici americani sono così?]]
+- [[20230105-2YG-QNBSTBM|E se CARLO V non avesse diviso l'Impero?]]
+- [[20251029-RxHJ76EZtYE|L'Ossessione verso l'Inferno (e perché è anti-biblica)]]
+- [[20250317-ju7fMck0qMo|Calvinismo: anti-cristianesimo per eccellenza]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20180713-6D1P5L1jFow|Rinascimento e Riforma - #Filosofia 11]]
+- [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
+- [[20180517-fqaml7lvkh0|La Patristica e Sant'Agostino - #Filosofia 9]]

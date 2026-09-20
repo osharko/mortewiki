@@ -10,8 +10,8 @@ view_count: "1757"
 like_count: "154"
 comment_count: "10"
 playlist_index: "0"
-tags: ["speranza", "prossimo", "digimon"]
-related: ["20260628-WyLCs2Wewbg", "20250503-l7dtFsZyOl4", "20260717-pAm4pcfJfqM", "20250326-XnkbgT-yDys", "20250915-oVS6mI7DA0E", "20251207-xo095v8Sfac"]
+tags: ["digimon", "pokémon", "multiverso", "bandai", "giocato", "strategico"]
+related: ["20251220-Kf_lc_hw9n0", "20200405-4FIOk8SHwjc", "20200215-r4gqCDLGFl4", "20250915-oVS6mI7DA0E", "20250326-XnkbgT-yDys", "20251207-xo095v8Sfac", "20251025-pRSIEbpX97Q", "20231117-Vb4_0DGuOvA", "20191011-JYRfEqEBygs", "20240614-tlrMiE7BzRY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260628-WyLCs2Wewbg|Prehistoria: una speranza per l'animazione tradizionale]]
-- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
-- [[20260717-pAm4pcfJfqM|Il prossimo Fallout è di Obsidian!]]
-- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
 - [[20250915-oVS6mI7DA0E|Digimon genderfluid?!?!?!123stella?]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
 - [[20251207-xo095v8Sfac|La differenza fondamentale tra pokémon e Digimon]]
+- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
+- [[20191011-JYRfEqEBygs|Pokémon Horror]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]

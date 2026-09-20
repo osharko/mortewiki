@@ -10,8 +10,8 @@ view_count: "4680"
 like_count: "349"
 comment_count: "34"
 playlist_index: "0"
-tags: ["quando", "anime", "ritornano", "alle", "loro"]
-related: ["20180315-Lqu7OZk-NI4", "20180603-ccDndR5utrc", "20230401-75NbvICQxW8", "20241008-uAzJsENWF6Y", "20250519-g4r0xZF8-9o", "20250614-o-k4deUln80", "20260218-3neleQ8C3zI", "20260411-9MZT8TX4Dk0", "20141018-k3txtRN-N48", "20150605-JMgwvRxY6NE"]
+tags: ["arco", "saiyan", "narrativo", "funzionava", "dragon", "ball"]
+related: ["20220717-XO4grJsda3s", "20260317-b1dygEooMAU", "20201212-Xn2y3dOgAV0", "20250519-g4r0xZF8-9o", "20220214-IsUNYtOMlyg", "20191108-rP4Bc4k_ivw", "20190303-xjkRz1s78uA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180315-Lqu7OZk-NI4|Quando Word smette di funzionare]]
-- [[20180603-ccDndR5utrc|Quando Internet Sogna - Creepypasta #93]]
-- [[20230401-75NbvICQxW8|Quando è il 1 Aprile e sei iscritto a Mortebianca #shorts]]
-- [[20241008-uAzJsENWF6Y|Quando il protagonista perde i suoi poteri]]
+- [[20220717-XO4grJsda3s|La mia Storia con gli Anime]]
+- [[20260317-b1dygEooMAU|Storia dei VIRTUAL PET]]
+- [[20201212-Xn2y3dOgAV0|La Filosofia di Sword Art Online]]
 - [[20250519-g4r0xZF8-9o|Quando TUTTI i brand facevano videogiochi]]
-- [[20250614-o-k4deUln80|Quando un maschio è vittima di abuso (fisico o mentale) a nessuno frega niente]]
-- [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
-- [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150605-JMgwvRxY6NE|MANGA VS ANIME - Il manga è sempre meglio dell'Anime?]]
+- [[20220214-IsUNYtOMlyg|La Filosofia di Boruto]]
+- [[20191108-rP4Bc4k_ivw|I SEGRETI DEI POKÉMON]]
+- [[20190303-xjkRz1s78uA|La Filosofia di Donnie Darko - Spiegazione del finale]]

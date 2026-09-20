@@ -10,8 +10,8 @@ view_count: "2763"
 like_count: "258"
 comment_count: "41"
 playlist_index: "0"
-tags: ["madoka", "stato", "rimandato"]
-related: ["20190317-GrXfPBcDr8Y", "20231015-veWLMoua7t0", "20241102-4wC_IKaJAiM", "20250131-Wb-LDQDxaN0", "20250727-MSSoo-_gaos", "20250827-A-SRRM-1aus", "20250909-I_VQjW_rceQ", "20251002-YMiew8pi3rY", "20251030--lx5H7MfRo4", "20260301-cKcMk4wkd0Q"]
+tags: ["madoka", "rimandato", "martin", "shaft", "febbraio", "magica"]
+related: ["20250324-PzzyWA0R7R8", "20260706-jNDtv2e0bCE", "20190317-GrXfPBcDr8Y", "20260313-ynkTjz44iKc", "20241016-Qkg_xDHA5a8", "20250527-ZBCBdVv4q5Y", "20260308-KxiAmVhYs-k"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
+- [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
 - [[20190317-GrXfPBcDr8Y|La Filosofia di Madoka Magica]]
-- [[20231015-veWLMoua7t0|Sono stato S B U G I A R D A T O]]
-- [[20241102-4wC_IKaJAiM|Se potessi rinascere, quale stato sceglierei come patria?]]
-- [[20250131-Wb-LDQDxaN0|TWITTER si è arreso: il BAN è stato rimosso]]
-- [[20250727-MSSoo-_gaos|Sono stato maledetto - Crepypasta 117]]
-- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
-- [[20250909-I_VQjW_rceQ|Sono stato sfidato da una DIVINITA']]
-- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
-- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
-- [[20260301-cKcMk4wkd0Q|Jim Carrey è stato davvero clonato?]]
+- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]
+- [[20241016-Qkg_xDHA5a8|La mortalità dell'Autore (e le opere orfane)]]
+- [[20250527-ZBCBdVv4q5Y|RT poop riporta Robin Williams]]
+- [[20260308-KxiAmVhYs-k|Critica a Catelyn Stark (née Tully)]]

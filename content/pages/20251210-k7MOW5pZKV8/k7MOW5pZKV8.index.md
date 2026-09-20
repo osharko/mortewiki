@@ -10,8 +10,8 @@ view_count: "6505"
 like_count: "519"
 comment_count: "42"
 playlist_index: "0"
-tags: ["hayami", "ovvero", "fantasia", "degli", "autori"]
-related: ["20250315-PhnD0RMTryU", "20250428-0Ah3uih9ERU", "20250814-e-Yzc91yXOA", "20251220-Kf_lc_hw9n0", "20260415-bf2MjiywJzc", "20260428-s7kvI9qgIbU", "20260710-OKKwf6sotu4", "20260724-ecolHGW-VBo", "20161030-15InOj8iByM", "20190111-3HIe9O2A_rc"]
+tags: ["utente", "topo", "hayami", "topi", "antropomorfi", "pulsioni"]
+related: ["20200707-OsMMQmwap3E", "20180730--VO4mWuAmO8", "20190919-jfSd3GAeO9A", "20260407-gDviSL05JPw", "20260304-FTDRaTnL7D0", "20190711-kl1p3lnL9sY", "20210822-G1rdaJRo9Vg", "20260315-5BmAX31ewQ0", "20250803-8bVLbYVp-S0", "20260308-lwwMqKKIDI0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
-- [[20250814-e-Yzc91yXOA|Detective Pikachu: ovvero Bulbasaur è canonicamente il miglior starter]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260710-OKKwf6sotu4|Bryan Johnson: ovvero il fallimento dell'Immortalismo]]
-- [[20260724-ecolHGW-VBo|Asmongold: ovvero il fallimento della Redpill]]
-- [[20161030-15InOj8iByM|La Villa degli Specchi - Creepypasta #53]]
-- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
+- [[20200707-OsMMQmwap3E|L’ESPERIMENTO DEI TOPI DALLA MENTE UMANA (Ft Omega Click) - Creepypasta #9]]
+- [[20180730--VO4mWuAmO8|Live su Fallout 1 (Shady Sands)]]
+- [[20190919-jfSd3GAeO9A|Terrore e Sovrappopolazione]]
+- [[20260407-gDviSL05JPw|Fenomenologia di un tipo (anzi, un topo) italiano]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
+- [[20190711-kl1p3lnL9sY|La Filosofia di Yotobi]]
+- [[20210822-G1rdaJRo9Vg|IL FORUM CON UN SOLO UTENTE - Creepypasta 168]]
+- [[20260315-5BmAX31ewQ0|Raccolta firme per riformare il gruppo: ecco cosa cambieremo (e cosa no)]]
+- [[20250803-8bVLbYVp-S0|La critica più INUTILE è appena PEGGIORATA.....]]
+- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]

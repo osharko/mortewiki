@@ -10,8 +10,8 @@ view_count: "6455"
 like_count: "548"
 comment_count: "54"
 playlist_index: "0"
-tags: ["terrore", "della", "casa"]
-related: ["20150226-9N94_hyYamU", "20190919-jfSd3GAeO9A", "20141001-_b7LDZmMpCk", "20141115-XBZZ-hbVjFE", "20160102-k2CGAYaqYjY", "20170113-VSskW7z2BSM", "20170209-vvwYhiXRDs8", "20180108-SRaemBYELqc", "20180401-SJrN5ouA4Js", "20190505-FijdBtOHHgI"]
+tags: ["orso", "addio", "pingu", "balù", "opossum", "teletabis"]
+related: ["20221024-bSrS1M8unTc", "20200722-S84GtWfk0E4", "20250226-w2vJJBaeAME", "20260325-glBFTY-C52E", "20240902-zY71hagVf6k"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150226-9N94_hyYamU|Fallout e Skyrim: Il glitch del terrore - Riscrittura Horror #7]]
-- [[20190919-jfSd3GAeO9A|Terrore e Sovrappopolazione]]
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
-- [[20141115-XBZZ-hbVjFE|L'origine della vita - Riscrittura Horror #11]]
-- [[20160102-k2CGAYaqYjY|La Santa Muerte - il culto della MORTE]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170209-vvwYhiXRDs8|Le origini della Confraternita d'Acciaio - Wasteland]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
-- [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
-- [[20190505-FijdBtOHHgI|Storia della MASSONERIA]]
+- [[20221024-bSrS1M8unTc|La Filosofia di Koda fratello orso]]
+- [[20200722-S84GtWfk0E4|Risposta alla Risposta della Risposta di Dario Moccia - Cos'è un Anime? (+ Sfogone 2 la Vendemmia)]]
+- [[20250226-w2vJJBaeAME|IL PATRIARCATO È UNA COSA BELLA!]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]
+- [[20240902-zY71hagVf6k|Cosa (NON) è il Cyberpunk]]

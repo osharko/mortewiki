@@ -10,8 +10,8 @@ view_count: "7970"
 like_count: "526"
 comment_count: "37"
 playlist_index: "0"
-tags: ["sulla", "complessità", "dell", "enclave", "suoi"]
-related: ["20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0", "20250523-9KRef9VPR1w"]
+tags: ["enclave", "legione", "complessità", "frank", "cesare", "humanity"]
+related: ["20170406-zWfp_HJkwBU", "20200514-Ril13WrvENo", "20251214--BfnnWaimoQ", "20170921-5oHUQrf-dwQ", "20250302-_Zx7FzBT12s", "20170824-dNP_oJWLGMk", "20180628-rwCbxX3Wl8c", "20170113-VSskW7z2BSM", "20260416-dLQ9EZb-_qw", "20260320-s8-zmip52LE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250523-9KRef9VPR1w|Sulla fine di Shinzo Abe]]
+- [[20170406-zWfp_HJkwBU|Fallout 2 - Il Prescelto]]
+- [[20200514-Ril13WrvENo|La Filosofia di Filthy Frank]]
+- [[20251214--BfnnWaimoQ|Mr House è vivo nella seconda stagione di Fallout?]]
+- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]
+- [[20170824-dNP_oJWLGMk|La Filosofia di Fallout 3]]
+- [[20180628-rwCbxX3Wl8c|TEORIE SU FALLOUT 5 - Chi ha iniziato la GUERRA?]]
+- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
+- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]

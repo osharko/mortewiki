@@ -10,8 +10,8 @@ view_count: "5614"
 like_count: "421"
 comment_count: "32"
 playlist_index: "0"
-tags: ["amministrative", "trionfo", "delle", "sinistre", "circa"]
-related: ["20160312-zN1kr3wikMo", "20250918-qdp_jqICIhE", "20260909-UEGP6k2vN-o", "20191206-z56T1wPZp24", "20191229-bwpQ94_LA9w", "20200509-PIjNe3OByjw", "20210114-3B5iPPoOR4w", "20210502-jqfLgoI81T4", "20230208-A-E1gjmpPY4", "20230312-FeSVtraY8Qk"]
+tags: ["ballottaggio", "centrosinistra", "centrodestra", "centrinistra", "incumbent", "venezia"]
+related: ["20251125-oRcyF209PT8", "20251005-vaZ84a-kTyM", "20260531-FhFS6ryUvwo", "20250309-ahP-3cQlFds", "20251228-w4bnZvkWjEY", "20250421-0IATCCXpVu4", "20260325-glBFTY-C52E", "20260604-FLTvYMJF_Yo", "20241120-FoRJxzBmYeM", "20260527-KnusyaTfPCc"]
 video_type: "video"
 description: "Fonte: https://sondaggibidimedia.com/comunali-2026-risultati/"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160312-zN1kr3wikMo|SPECIALE 10.000 - Il Nostro Trionfo (+ Nome sigla/intro)]]
-- [[20250918-qdp_jqICIhE|Il trionfo di Khrushchev e il declino di Brezhnev]]
-- [[20260909-UEGP6k2vN-o|Sul trionfo di AFD]]
-- [[20191206-z56T1wPZp24|La MOOSEECA dei personaggi delle creepypasta]]
-- [[20191229-bwpQ94_LA9w|L'Estinzione delle Api - Creepypasta 131]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20210114-3B5iPPoOR4w|La Filosofia di Alice nel Paese delle Meraviglie]]
-- [[20210502-jqfLgoI81T4|Il Miracolo delle Tombe - Creepypasta 161]]
-- [[20230208-A-E1gjmpPY4|La Filosofia delle Tre Leggi della Robotica]]
-- [[20230312-FeSVtraY8Qk|Riassunto Accuratissimo delle prime 200 Creepypasta (Lore completa)]]
+- [[20251125-oRcyF209PT8|Commentario alle regionali 2025 (Puglia, Campania e Veneto)]]
+- [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20250309-ahP-3cQlFds|La Transizione ecologica conviene]]
+- [[20251228-w4bnZvkWjEY|Lore del Friuli-Venezia Giulia]]
+- [[20250421-0IATCCXpVu4|Bernie Sanders non è un centrista]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]
+- [[20260604-FLTvYMJF_Yo|Dalla lettera di Lorenzo Furbetti a un fan di ORA!]]
+- [[20241120-FoRJxzBmYeM|Perché la sinistra NON perde ovunque?]]
+- [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]

@@ -12,8 +12,8 @@ comment_count: "139"
 playlist: "Racconti Horror"
 playlist_id: "PLU8-xwslFxH8CGl3iKTE0PQiZQ3OImdwM"
 playlist_index: "83"
-tags: ["luogo", "pericoloso", "sulla", "terra", "creepypasta"]
-related: ["20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0", "20250523-9KRef9VPR1w", "20250612-U_GmJZzTSx8"]
+tags: ["lago", "diavolo", "acque", "avvicino", "carson", "sarcofago"]
+related: ["20240728-lpSahM4hpw0", "20250826-GIA-C11y-qU", "20230129-PU95cbF3C8E", "20211219-8HzydF5yN8s", "20210214-pGyMBP2xloU", "20240419-_YTmJeg43MY", "20230905-rO35mGLe0N0", "20241025-tY_akSPuKOE", "20180412-ApQPwrO01xI", "20220403-ejyzPafsasU"]
 video_type: "video"
 description: "Vir: https://www.youtube.com/channel/UC4kOtUVawaABYedqr6uFHYA\nSvet: https://www.youtube.com/c/SvetKrasna\nIl mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Karačaj #Russia\nMOOSEECA:\nhttps://www.youtube.com/watch?v=b73t9SLss8k&ab_channel=CO.AGMusic\nhttps://www.youtube.com/watch?v=TkoLxwCahrE&ab_channel=CO.AGMusic"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250523-9KRef9VPR1w|Sulla fine di Shinzo Abe]]
-- [[20250612-U_GmJZzTSx8|L'Ipocrisia liberale sulla proprietà sacra]]
+- [[20240728-lpSahM4hpw0|IL FONDO del lago BAIKAL – Creepypasta 233]]
+- [[20250826-GIA-C11y-qU|Il citofono fantasma - Creepypasta 258]]
+- [[20230129-PU95cbF3C8E|UFO NAZISTI - Creepypasta #6]]
+- [[20211219-8HzydF5yN8s|PIROCINESI - Creepypasta 174]]
+- [[20210214-pGyMBP2xloU|La Fobia degli Aghi – Creepypasta 156]]
+- [[20240419-_YTmJeg43MY|Tutti gli Angeli Biblicamente Accurati]]
+- [[20230905-rO35mGLe0N0|L'Acqua di FUKUSHIMA - Cosa dice la Scienza?]]
+- [[20241025-tY_akSPuKOE|La Creazione del Mondo - Analisi della GENESI]]
+- [[20180412-ApQPwrO01xI|Non puoi capire - Creepypasta #15]]
+- [[20220403-ejyzPafsasU|L'Ultima Cena - Creepypasta 179]]

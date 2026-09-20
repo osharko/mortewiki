@@ -10,8 +10,8 @@ view_count: "4123"
 like_count: "286"
 comment_count: "25"
 playlist_index: "0"
-tags: ["maledizione", "minutaggio", "steam"]
-related: ["20190718-jY7yVJ5m9ww", "20200629-u9aTBFfYrw8", "20210711-2TVzWSugVPo", "20181109-h4s0JcDf0ZE", "20221003-DRN72akAOfA", "20250210-8Kvt27bCw2Y", "20251117-qbPIhoXoj78", "20251129-s9F0qOjHoLE", "20260625-ytK33P50E8g"]
+tags: ["giocato", "offline", "minutaggio", "saprà", "andreas", "giocando"]
+related: ["20260729-I3Hmj6d5Sco", "20241117-CgUhuFS6Clc", "20250503-l7dtFsZyOl4", "20200902-qGiwPDfhiDo", "20250119-Ek13yTq2NwE", "20260418-_rR04_MI8B4", "20260824-cNYu_H4axOI", "20251119-bu24P5q5TlU", "20250810-Cldu7V6BsE0", "20250706-LBeD5Ob7W4o"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190718-jY7yVJ5m9ww|La maledizione del Club 27 - Creepypasta #37]]
-- [[20200629-u9aTBFfYrw8|La Maledizione dei Kennedy - Creepypasta #2]]
-- [[20210711-2TVzWSugVPo|La Maledizione dell'Acquario - #Creepypasta 32]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20221003-DRN72akAOfA|Steam vs Epic]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20251117-qbPIhoXoj78|La nuova strategia di Valve (Steam Controller 2, Steam Machine 2, Steam Frame)]]
-- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
-- [[20260625-ytK33P50E8g|Steam Machine: cosa ne penso del GabeCube]]
+- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20250119-Ek13yTq2NwE|Non hai capito i GDR]]
+- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20251119-bu24P5q5TlU|Sono usciti i candidati dei Game Awards]]
+- [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
+- [[20250706-LBeD5Ob7W4o|La mia speranza per il prossimo Digimon]]

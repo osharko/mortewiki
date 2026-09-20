@@ -10,8 +10,8 @@ view_count: "8329"
 like_count: "560"
 comment_count: "42"
 playlist_index: "0"
-tags: ["jordan", "peterson", "richard", "dawkins", "alex"]
-related: ["20251219-EBQwDwYympo"]
+tags: ["peterson", "richard", "dawkins", "hawkins", "jordan", "miracolo"]
+related: ["20230625-gLngvmizkzg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,4 +19,4 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
+- [[20230625-gLngvmizkzg|E se l'Impero del NORD fosse Sopravvissuto?]]

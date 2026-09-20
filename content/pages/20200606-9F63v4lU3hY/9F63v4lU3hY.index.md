@@ -12,8 +12,8 @@ comment_count: "479"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "69"
-tags: ["filosofia", "buco"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["disuguaglianza", "goering", "panna", "cotta", "scende", "prigione"]
+related: ["20260806-iTpDi5XeWj4", "20171210-UDxl83w1s5U", "20211226-bAMJYrp9nkA", "20200116-LW-42WwoUTM"]
 video_type: "video"
 description: "MARX su AMAZON\nhttps://amzn.to/3cCJI9E\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Buco #Netflix #Platform\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nDark Walk Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0\nAll This Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=6xgMwRatNKg\nhttps://www.youtube.com/watch?v=tukn5NK_XRo\nhttps://www.youtube.com/watch?v=5V1or2JQkNI\nFONTI:\nhttps://news.un.org/en/story/2020/01/1055681\nhttps://www.washingtonpost.com/business/2019/09/26/income-inequality-america-highest-its-been-since-census-started-tracking-it-data-show/"
 embeddable: "1"
@@ -22,13 +22,7 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20260806-iTpDi5XeWj4|La DISUGUAGLIANZA sta strangolando la DEMOCRAZIA]]
+- [[20171210-UDxl83w1s5U|La filosofia di V per Vendetta]]
+- [[20211226-bAMJYrp9nkA|Il Sistema Operativo del DEEP WEB - Creepypasta 175]]
+- [[20200116-LW-42WwoUTM|Io e Amico Diverte scappiamo di prigione]]

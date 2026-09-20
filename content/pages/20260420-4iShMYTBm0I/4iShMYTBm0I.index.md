@@ -10,8 +10,8 @@ view_count: "7923"
 like_count: "666"
 comment_count: "108"
 playlist_index: "0"
-tags: ["peggiore", "difesa", "copyright", "abbia", "letto"]
-related: ["20210730-DcZQjaGmwro", "20250208-VKO43N0hpPQ", "20250404-cM894rePYhA", "20250504--cPDe9izQSs", "20250916-5q4UcU_99vQ", "20250930-0_fHcp5qFs0", "20251224-9bsGm21CExY", "20260118-3c8Oqbiihk0", "20260215-qGBbCXcZdcc", "20260701-zsBed0cG5bc"]
+tags: ["plagio", "dante", "siciliano", "inventato", "cessi", "commons"]
+related: ["20240410-SjpVk87JhtA", "20240614-tlrMiE7BzRY", "20260205-6kRSAEQZD_8", "20241001-znzWEeJ4g58", "20250514-98VILQuSOtU", "20190131-ePDpQwsnwpA", "20190531-do45hVcQ6Og", "20251001-qU8c23zqv4M", "20260701-zsBed0cG5bc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20250208-VKO43N0hpPQ|Il mio audio PEGGIORE in assoluto]]
-- [[20250404-cM894rePYhA|Il mio audio PEGGIORE in assoluto 2]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20250916-5q4UcU_99vQ|Il mio audio PEGGIORE in assoluto 3]]
-- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
-- [[20260118-3c8Oqbiihk0|Il testo PEGGIORE che io abbia mai letto]]
-- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]
+- [[20240410-SjpVk87JhtA|PUÒ UNA AI CREARE ARTE? È PLAGIO?]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20260205-6kRSAEQZD_8|Critica a Film Theorist su Hazbin Hotel]]
+- [[20241001-znzWEeJ4g58|AI Art e Copyright: due ipocrisie si incontrano]]
+- [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
+- [[20190131-ePDpQwsnwpA|Leggo le Fanfiction su di me]]
+- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
+- [[20251001-qU8c23zqv4M|They/Them]]
 - [[20260701-zsBed0cG5bc|La PEGGIORE critica all'Arte Moderna che io abbia mai letto]]

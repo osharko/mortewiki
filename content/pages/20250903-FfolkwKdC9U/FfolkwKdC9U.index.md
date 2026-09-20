@@ -10,8 +10,8 @@ view_count: "23550"
 like_count: "1391"
 comment_count: "122"
 playlist_index: "0"
-tags: ["perché", "dovremmo", "riaccogliere", "regno", "unito"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["brexit", "ucraina", "ungheria", "traverso", "riforme", "polonia"]
+related: ["20251122-bT5uXCtc85g", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20260412-LcWrMgiJZ7k", "20241118-G5_Xl9Lv4jU", "20260416-8mvgZUFK5io", "20260405-ISOYtywMOAQ", "20221012-CKUHAN5rLm0", "20250821-8_DHVNR7qRo", "20220303-TiRY5wVHL1A"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
+- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
+- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
+- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]

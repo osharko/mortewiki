@@ -10,8 +10,8 @@ view_count: "4100"
 like_count: "364"
 comment_count: "36"
 playlist_index: "0"
-tags: ["critica", "alla", "videoludica", "bafta"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["pong", "tetris", "influente", "half", "minecraft", "life"]
+related: ["20161110-dTLp-YQ0U9Y", "20241225-AjW3mY8JBRY", "20160319-8nH5kBclonk", "20191031-Sns5GfkvAPw", "20240606-U-0ellPzc1Y", "20260418-_rR04_MI8B4", "20201216-SeA459I2b60", "20260313-7neGt3aSE3w", "20260519-i0u6Xp24vjY", "20190821-oG_-JYmTuEc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20161110-dTLp-YQ0U9Y|Un filosofo su Minecraft]]
+- [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20160319-8nH5kBclonk|Herobrine (Analisi) - Riscrittura Horror #4]]
+- [[20191031-Sns5GfkvAPw|PewDiePie e Minecraft]]
+- [[20240606-U-0ellPzc1Y|La Filosofia di A BUG’S LIFE]]
+- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
+- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
+- [[20260313-7neGt3aSE3w|La Filosofia di MorteBIANCA (Parte 2)]]
+- [[20260519-i0u6Xp24vjY|La Filosofia di El Dorado (e Z)]]
+- [[20190821-oG_-JYmTuEc|Mi cerco su Akinator]]

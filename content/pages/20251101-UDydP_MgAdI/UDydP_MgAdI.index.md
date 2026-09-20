@@ -12,8 +12,8 @@ comment_count: "58"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "4"
-tags: ["succede", "trump", "arresta", "zohran", "mamdani"]
-related: ["20230528-58AOHxJvbb4", "20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw"]
+tags: ["york", "mandami", "sanders", "sindaco", "miliardari", "primaria"]
+related: ["20251030--lx5H7MfRo4", "20251109--BksbKgj4e0", "20251106-BNe8iY0e9fY", "20260519-iBiw-Nfqn8A", "20250627-cni9TtfftB8", "20251105-LafzJEe-BFA", "20251204-Js6IvBwuCHw", "20260906-UonTUjrzUT0", "20250628-hCuI_9od2es", "20251130-sh54xa67Nuo"]
 video_type: "video"
 description: "https://www.reddit.com/r/CommunismMemes/comments/1lnsmxu/how_republicans_see_mamdani/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230528-58AOHxJvbb4|Cosa succede dopo il Comunismo?]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20251106-BNe8iY0e9fY|Commentario sulla vittoria di Zohran Mamdani]]
+- [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
+- [[20250627-cni9TtfftB8|Le elezioni di New York]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20250628-hCuI_9od2es|I centristi stanno strillando per New York]]
+- [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]

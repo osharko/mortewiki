@@ -10,8 +10,8 @@ view_count: "14694"
 like_count: "722"
 comment_count: "50"
 playlist_index: "0"
-tags: ["grande", "bluff", "trump"]
-related: ["20240128-XudYbf3ZNLA", "20260812-QHb4P7HwdTQ", "20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160"]
+tags: ["rubio", "successore", "marco", "repubblicani", "dittature", "obama"]
+related: ["20260202-3Z9ZLo3sBSk", "20250206-HiRzQUZUhHY", "20250125-LBWoXAkM6nM", "20251109--BksbKgj4e0", "20260227-mPsWbmqbN8Y", "20240121-u65mjPJxj8E", "20260616-wFu6leufdOw", "20260210-LuMaHUu-gQs", "20251219-EBQwDwYympo", "20260426-den5aYCED5Q"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240128-XudYbf3ZNLA|Il GRANDE INCENDIO - Creepypasta 221]]
-- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
+- [[20260202-3Z9ZLo3sBSk|Chi sarà l'erede di Trump?]]
+- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
 - [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20240121-u65mjPJxj8E|STORIA AMERICANA 3: L'IMPERO AMERICANO]]
+- [[20260616-wFu6leufdOw|Texas Democratico: presidenziale o statale?]]
+- [[20260210-LuMaHUu-gQs|Trump e l'Insurrection Act: facciamo chiarezza]]
+- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
+- [[20260426-den5aYCED5Q|Chi si arrabbia il 25 Aprile è quasi sempre in malafede]]

@@ -12,8 +12,8 @@ comment_count: "295"
 playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "57"
-tags: ["serial", "killer", "sadico", "crudele", "creepypasta"]
-related: ["20250923-wspByf1_9fI", "20190901-nmVffCY7CjM", "20170604-g8hk2W5N0vM", "20170813-5HCMfUFszmo", "20180225-mUFUQJtM2HY", "20190519-tpVCaOnPsIo", "20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ", "20141018-k3txtRN-N48", "20150303-KIi6WBdtntI"]
+tags: ["killer", "serial", "amavo", "fantasie", "adoravo", "sentivo"]
+related: ["20170723-3HLQsq367a4", "20201220--J10Se9Ab5c", "20220125-ioM5Wh-q31k", "20170820-PGyYprqiJ0U", "20200202-p9m01xnZ1ws", "20150627-HYE41DCwFBw", "20250522-E50ONjn0O_U", "20200802-_Mxyf3Kd2GE", "20170604-g8hk2W5N0vM", "20181007-7k4xsP3GPw4"]
 video_type: "video"
 description: "Attenzione: Contenuti violenti, immagini esplicite, sconsigliato ad un pubblico sensibile.\nIL DIZIONARIO DEI SERIAL KILLER SU AMAZON http://amzn.to/2uKY59f\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\nDark Walk Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nZombie Hoodoo Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nDarkness is Coming Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nOssuary 1 - A Beginning Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250923-wspByf1_9fI|La Filosofia in SERIAL EXPERIMENTS LAIN]]
-- [[20190901-nmVffCY7CjM|L'Ultimo Killer - Creepypasta 124]]
+- [[20170723-3HLQsq367a4|La filosofia in Dexter: Morale o Omicidio?]]
+- [[20201220--J10Se9Ab5c|Ted Bundy - Creepypasta 152]]
+- [[20220125-ioM5Wh-q31k|L'ENIGMA DI ZODIAC - Creepypasta #52]]
+- [[20170820-PGyYprqiJ0U|Dexter - Spiegazione del finale]]
+- [[20200202-p9m01xnZ1ws|Il Macellaio di Rostov - Creepypasta 132]]
+- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
+- [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]
+- [[20200802-_Mxyf3Kd2GE|Leonarda Cianciulli - Creepypasta 142]]
 - [[20170604-g8hk2W5N0vM|La Gang più crudele mai esistita - Creepypasta #67]]
-- [[20170813-5HCMfUFszmo|La Tortura psicologica più crudele - Creepypasta #72]]
-- [[20180225-mUFUQJtM2HY|Il Dittatore più crudele mai esistito - Creepypasta #86]]
-- [[20190519-tpVCaOnPsIo|Lo Sterminio più crudele mai esistito - Creepypasta 118]]
-- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
+- [[20181007-7k4xsP3GPw4|La VERA storia di Leatherface, Ed Gein - Creepypasta 102]]

@@ -10,8 +10,8 @@ view_count: "3731"
 like_count: "264"
 comment_count: "28"
 playlist_index: "0"
-tags: ["fallout", "remastered", "remake", "reboot"]
-related: ["20150226-9N94_hyYamU", "20170113-VSskW7z2BSM", "20170309-y0PiBdL7cAE", "20170406-zWfp_HJkwBU", "20170504-oFJRlMfXfPA", "20170601-77zadUotAKI", "20170629--ZdbW3H70TA", "20170727-Qa2AKnU2QC0", "20170824-dNP_oJWLGMk", "20170921-5oHUQrf-dwQ"]
+tags: ["remake", "remastered", "reboot", "grafica", "pokémon", "gameplay"]
+related: ["20200405-4FIOk8SHwjc", "20260719-7bvr2E_6tuU", "20240306-rO6gwhLxVeU", "20231117-Vb4_0DGuOvA", "20241018-3e0D4lFgBfs", "20200313-vVUJlCn37NE", "20191011-JYRfEqEBygs", "20251220-Kf_lc_hw9n0", "20250719-9uTekMzI8ZM", "20251218-NOr_HttEIfg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150226-9N94_hyYamU|Fallout e Skyrim: Il glitch del terrore - Riscrittura Horror #7]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170309-y0PiBdL7cAE|Fallout 1 - l'Eroe del Vault 13]]
-- [[20170406-zWfp_HJkwBU|Fallout 2 - Il Prescelto]]
-- [[20170504-oFJRlMfXfPA|Fallout Tactics e Brotherhood of Steel (ITA)]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]
-- [[20170727-Qa2AKnU2QC0|Van Buren - Il Fallout 3 Cancellato (LORE completa, parte 2)]]
-- [[20170824-dNP_oJWLGMk|La Filosofia di Fallout 3]]
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20260719-7bvr2E_6tuU|Commentiamo TUTTI i Fallout annunciati]]
+- [[20240306-rO6gwhLxVeU|POKÉMON LEGGENDE ZA: Analisi e Teorie]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
+- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20191011-JYRfEqEBygs|Pokémon Horror]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20250719-9uTekMzI8ZM|Quali saranno i prossimi Fallout?]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]

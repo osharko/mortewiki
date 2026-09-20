@@ -10,8 +10,8 @@ view_count: "5996"
 like_count: "369"
 comment_count: "108"
 playlist_index: "0"
-tags: ["giochi", "giocare", "prima", "morire"]
-related: ["20200730-j8wQGaXVpEs", "20240426-e1UDWKfYYM8", "20240703-ROvAs4NRkm8", "20250206-jlG-fLpk8G8", "20250326-XnkbgT-yDys", "20250403-N3pzM6zHrJg", "20170113-VSskW7z2BSM", "20180618-oO4PRo9BHUI", "20221004-O9-f0Z_Bdh8", "20221219-XTXAPzjsiIw"]
+tags: ["subnautica", "warcraft", "portal", "andreas", "giocato", "cyberpunk"]
+related: ["20240902-zY71hagVf6k", "20241117-CgUhuFS6Clc", "20250503-l7dtFsZyOl4", "20260726-sDUpiGAqrCo", "20260824-cNYu_H4axOI", "20230305-SqnpWqRn380", "20250810-Cldu7V6BsE0", "20200902-qGiwPDfhiDo", "20240204-84WKboHOqlc", "20250119-Ek13yTq2NwE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200730-j8wQGaXVpEs|I Giochi di Harry Potter]]
-- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
-- [[20240703-ROvAs4NRkm8|Perché odio i GDR (e i giochi da tavolo)]]
-- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
-- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
-- [[20250403-N3pzM6zHrJg|Giochi a Episodi vs DLC]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20180618-oO4PRo9BHUI|Prima dell'Apocalisse - Creepypasta #94]]
-- [[20221004-O9-f0Z_Bdh8|Chi si è evoluto prima, Piante o Animali?]]
-- [[20221219-XTXAPzjsiIw|E se la GERMANIA avesse vinto la Prima Guerra Mondiale?]]
+- [[20240902-zY71hagVf6k|Cosa (NON) è il Cyberpunk]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
+- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20230305-SqnpWqRn380|La Filosofia di CYBERPUNK 2077]]
+- [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20240204-84WKboHOqlc|CYBERPUNK 2077: Qual è il Finale CANONICO? - Phantom Liberty]]
+- [[20250119-Ek13yTq2NwE|Non hai capito i GDR]]

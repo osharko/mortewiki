@@ -10,8 +10,8 @@ view_count: "12783"
 like_count: "897"
 comment_count: "76"
 playlist_index: "0"
-tags: ["perché", "sono", "contrario", "esistenza", "dello"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["pontificio", "vaticano", "costantino", "pedro", "donazione", "bizantino"]
+related: ["20260422-TFvtLT44JqQ", "20240202-IIoL9LY1GDY", "20241031-fRV8peE_AJQ", "20220619-oZrm1vgyXGQ", "20251211-RwEJwS-9JKc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20260422-TFvtLT44JqQ|Se difendi il Papa dalle minacce di Trump sei antidemocratico]]
+- [[20240202-IIoL9LY1GDY|E se GIUSTINIANO avesse ricostruito l'IMPERO?]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]
+- [[20220619-oZrm1vgyXGQ|Vai a donare il Sangue (e gli Organi)]]
+- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]

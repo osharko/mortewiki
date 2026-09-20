@@ -6,8 +6,8 @@ playlist: "I miei Shorts"
 playlist_id: "PLU8-xwslFxH8XRHHIxJNm92L3_tukumhO"
 playlist_index: "12"
 source: "https://youtu.be/NRBqmORzA5c"
-tags: ["trump", "turned", "into", "fish", "apparently"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY"]
+tags: ["turned", "apparently", "into", "fish"]
+related: ["20190224-FwzUTMvcGtE"]
 embeddable: "0"
 stub: "1"
 ---
@@ -15,13 +15,4 @@ stub: "1"
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
+- [[20190224-FwzUTMvcGtE|Albert Fish - Creepypasta 112]]

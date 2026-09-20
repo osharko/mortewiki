@@ -10,8 +10,8 @@ view_count: "21173"
 like_count: "1585"
 comment_count: "122"
 playlist_index: "0"
-tags: ["molto", "meno", "abbiamo", "distrutto", "governi"]
-related: ["20250701-ApBpwwnswag", "20210317-vlS5LiWoRCk", "Wx7iDJkqjWM", "20260705-jcu-Hvbspu4"]
+tags: ["berlusconi", "emendamento", "texas", "sembriamo", "idroelettrico", "dicerie"]
+related: ["20230614-9MnclOo_Ayc", "20260206-pABiZkv6YII", "20260616-wFu6leufdOw", "20260227-mPsWbmqbN8Y", "20250310-rH-GC7Km4MA", "20260619-y8-CUN5JYss", "20240308-BwP3YRCd7hA", "20260321-Z73vITwJzn4", "20260909-UEGP6k2vN-o"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250701-ApBpwwnswag|M-Ma Bezos ha speso molto a Venezia]]
-- [[20210317-vlS5LiWoRCk|Cosa abbiamo imparato dal Covid?]]
-- [[Wx7iDJkqjWM|Abbiamo trovato il Lost Media della mia infanzia - Neo Sonic Universe 2003]]
-- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
+- [[20230614-9MnclOo_Ayc|Ora stiamo ESAGERANDO...... (Lutto Nazionale per Berlusconi)]]
+- [[20260206-pABiZkv6YII|La ridicola santificazione di Silvio Berlusconi]]
+- [[20260616-wFu6leufdOw|Texas Democratico: presidenziale o statale?]]
+- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20250310-rH-GC7Km4MA|IDROELETTRICO: la VERA rivoluzione energetica]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20240308-BwP3YRCd7hA|Hitler NON ha legalizzato l'Aborto - Storia dell'Aborto]]
+- [[20260321-Z73vITwJzn4|La risibile santificazione di Umberto Bossi]]
+- [[20260909-UEGP6k2vN-o|Sul trionfo di AFD]]

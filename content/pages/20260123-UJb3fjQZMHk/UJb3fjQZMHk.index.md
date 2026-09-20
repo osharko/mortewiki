@@ -10,8 +10,8 @@ view_count: "11698"
 like_count: "849"
 comment_count: "72"
 playlist_index: "0"
-tags: ["filosofia", "pinguino", "meme"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["pinguino", "montagna", "pinguini", "nichilista", "marte", "volare"]
+related: ["20260128-WggPME6XLKk", "20251012-fqslxNSL-IE", "20260703-3WOUF72vVlI", "20190127-_Gn0S9QVJNA", "20230527-KAoLd3Q62_c", "20170625-ZEkafgKBueE", "20260827-AJFw_q_tGlk", "20240820-t814HTd4x7U", "20250606-3c2BjZ2aLy4", "20230616-I5PHF2RKg_w"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20260128-WggPME6XLKk|Voglio scalare una montagna]]
+- [[20251012-fqslxNSL-IE|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 3]]
+- [[20260703-3WOUF72vVlI|Emma: l'AI Italiana]]
+- [[20190127-_Gn0S9QVJNA|Le PIRAMIDI di MARTE - Creepypasta 110]]
+- [[20230527-KAoLd3Q62_c|STORIA dell'AVIAZIONE]]
+- [[20170625-ZEkafgKBueE|The Martian - Recensione Scientifica e Filosofica]]
+- [[20260827-AJFw_q_tGlk|E se ALESSANDRO MAGNO fosse SOPRAVVISSUTO? Parte 3]]
+- [[20240820-t814HTd4x7U|Pessimismo e Nichilismo Cristiano]]
+- [[20250606-3c2BjZ2aLy4|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 2]]
+- [[20230616-I5PHF2RKg_w|Akinetopsia - Creepypasta 206]]

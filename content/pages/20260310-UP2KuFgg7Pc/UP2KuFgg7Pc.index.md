@@ -12,8 +12,8 @@ comment_count: "81"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "11"
-tags: ["perché", "zohran", "mamdani", "sconfitto", "crimine"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["povertà", "york", "iran", "mandani", "carcere", "trasporti"]
+related: ["20260519-iBiw-Nfqn8A", "20250726-a3iKGKd1cTs", "20251204-Js6IvBwuCHw", "20260906-UonTUjrzUT0", "20251130-sh54xa67Nuo", "20260721-Bp0Ywj1_pio", "20251030--lx5H7MfRo4", "20260805-sxLK-rvj04E", "20260403-rN_ydlfFQiY", "20260109-Tn8JtrbiCBQ"]
 video_type: "video"
 description: "Fonte: https://novaramedia.com/2026/03/06/crime-at-a-historic-low-in-new-york-under-zohran-mamdani/\nImmagine: https://en.wikipedia.org/wiki/Zohran_Mamdani#/media/File:Zohran_K._Mamdani_and_his_Wife.png"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
+- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
+- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]
+- [[20260721-Bp0Ywj1_pio|Mamdani: come la sinistra vince]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20260805-sxLK-rvj04E|Mamdani è il democratico più popolare]]
+- [[20260403-rN_ydlfFQiY|Pena di morte, Ergastolo, Carcere: tra abolizione e riforma]]
+- [[20260109-Tn8JtrbiCBQ|Iran e Russia: tutte le ultime news]]

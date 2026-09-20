@@ -10,8 +10,8 @@ view_count: "9275"
 like_count: "678"
 comment_count: "44"
 playlist_index: "0"
-tags: ["cesare", "mussolini", "cosa", "preferirebbero", "donna"]
-related: ["20250514-09NFcoNAF_M", "20260411-9MZT8TX4Dk0", "20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20181109-h4s0JcDf0ZE", "20190117-j8JPi-TqpOI", "20190407-EZxUbdnDB1M", "20190630-Yl2XltereaA", "20191003-WkJQmfbYqrU"]
+tags: ["mussolini", "cesare", "romani", "confusi", "veni", "governati"]
+related: ["20250302-_Zx7FzBT12s", "20250131-RnZ3rZr9tuk", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20171116-2_DKdiKxVZE", "20250515-Azp54fQKR1w", "20241012-LdQcX3Dm4RM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20250430-gUx4wOdsu-w|Bufale: come contrastarle]]
 - [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20190630-Yl2XltereaA|La Cosa Invisibile - Creepypasta 120]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
+- [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
+- [[20241012-LdQcX3Dm4RM|L'Impero romano era davvero cattivo?]]

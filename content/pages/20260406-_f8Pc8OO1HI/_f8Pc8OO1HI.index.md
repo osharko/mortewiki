@@ -10,8 +10,8 @@ view_count: "9206"
 like_count: "753"
 comment_count: "62"
 playlist_index: "0"
-tags: ["futuro", "programma", "spaziale", "umano"]
-related: ["20181206-U_I9h5SfwIg", "20190829--bOhzN9h6PQ", "20200405-4FIOk8SHwjc", "20200509-PIjNe3OByjw", "20201216-SeA459I2b60", "20211230-tR_0Sb0NVlU", "20230917-tkT3xxcvcko", "20231228-Bt6gSX4mZwY", "20241001-hSR2jzfj434", "20241107-Zsyc4OecXhA"]
+tags: ["relatività", "volare", "viaggiare", "space", "artemis", "quantistica"]
+related: ["20250107-3nEN4xYAjOM", "20230607-U6lYXM40OOE", "20230527-KAoLd3Q62_c", "20240225-SvrSztco8a0", "20250319-Jz1es0_3ScU", "20241030-OJkaL32vlo8", "20250105-lRQi4qp8aHI", "20260516-bAoPOuqL9o0", "20250819-xdze3pAL6gY", "20240609-IWrLGWfrSc0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20211230-tR_0Sb0NVlU|Il futuro di Internet mi preoccupa...]]
-- [[20230917-tkT3xxcvcko|ALL TOMORROWS - Politica e Biologia del FUTURO]]
-- [[20231228-Bt6gSX4mZwY|Pokémon VIOLETTO: Lore tra passato e futuro della serie]]
-- [[20241001-hSR2jzfj434|IL FUTURO di WARHAMMER 40K]]
-- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20250107-3nEN4xYAjOM|La storia del NOBEL (e i suoi problemi)]]
+- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
+- [[20230527-KAoLd3Q62_c|STORIA dell'AVIAZIONE]]
+- [[20240225-SvrSztco8a0|HO FERMATO IL TEMPO - Creepypasta 223]]
+- [[20250319-Jz1es0_3ScU|La Caduta di ELON MUSK]]
+- [[20241030-OJkaL32vlo8|Perché gli anti-Woke ODIANO la psicologia?]]
+- [[20250105-lRQi4qp8aHI|IL LATO OSCURO DI ELON MUSK]]
+- [[20260516-bAoPOuqL9o0|La Verità su ELON MUSK]]
+- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
+- [[20240609-IWrLGWfrSc0|ELON MUSK ALLA RISCOSSA]]

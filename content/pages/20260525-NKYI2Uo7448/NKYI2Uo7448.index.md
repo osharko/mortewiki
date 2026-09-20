@@ -10,8 +10,8 @@ view_count: "8237"
 like_count: "559"
 comment_count: "30"
 playlist_index: "0"
-tags: ["protezionismo", "grazie"]
-related: ["20190613-keNwHt7CDp0", "20241011-p5xWPIn2NYc", "20250609--N6zDHQjxcQ"]
+tags: ["microsoft", "dipendere", "monopolio", "protezionismo", "liberista", "industries"]
+related: ["20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20250803-KdI5mLXR9EU", "20260204-QxK66ZAFkDE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,6 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20241011-p5xWPIn2NYc|Humanity first? No, grazie!]]
-- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
+- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]
+- [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]
+- [[20260204-QxK66ZAFkDE|La fine di Microsoft?]]

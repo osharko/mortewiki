@@ -12,7 +12,8 @@ comment_count: "149"
 playlist: "FILOSOFIA"
 playlist_id: "PLU8-xwslFxH9NwboeEdiYOwWyZX6uCks9"
 playlist_index: "122"
-tags: ["migrazione", "smentiamo", "falsi", "miti"]
+tags: ["migranti", "migrazione", "bufala", "kalergi", "accoglienza", "cittadinanza"]
+related: ["20250313-mpzh-Xn_Lbg", "20260106-lK8Q77CHNeQ", "20260503-OCSEyCqD0Ww", "20220913-GKGJcoyfVpQ", "20230623-l7qFSQgna6M", "20241030-9xQ4B10XtQE", "20250215-gVNPjtjnIW0", "20250509-_b6UTmUr-IU", "20260211-lJgfrviR5UI"]
 video_type: "video"
 description: "TIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#migrazione\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nSigla Live: https://www.youtube.com/watch?v=liMUF306cHs\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/buran_sw/nqf4tpcdcs4i?in=buran_sw/sets/istorii-kosmonavtov-ep\nhttps://soundcloud.com/buran_sw/9hhqwcgzrlln?in=buran_sw/sets/istorii-kosmonavtov-ep\nhttps://soundcloud.com/buran_sw/l6ewdrf0xqwu?in=buran_sw/sets/istorii-kosmonavtov-ep\nALCUNE FONTI:\nPercentuale di detenuti su italiani per reato: https://www.truenumbers.it/detenuti-stranieri/\nSvezia e Stupro: https://en.wikipedia.org/wiki/Rape_in_Sweden#/media/File:Sexual_crimes_in_Sweden.png"
 embeddable: "1"
@@ -21,3 +22,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250313-mpzh-Xn_Lbg|USA vs EU 3: il Ritorno]]
+- [[20260106-lK8Q77CHNeQ|DNA e Israele]]
+- [[20260503-OCSEyCqD0Ww|Perché CAPCOM ha SCONFITTO la KONAMI]]
+- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
+- [[20230623-l7qFSQgna6M|QUESTO MONDO NON MI RENDERÀ CATTIVO è un Capolavoro]]
+- [[20241030-9xQ4B10XtQE|La PSICOLOGIA di ELON MUSK]]
+- [[20250215-gVNPjtjnIW0|Domande e risposte varie]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20260211-lJgfrviR5UI|La Cina non è democratica]]

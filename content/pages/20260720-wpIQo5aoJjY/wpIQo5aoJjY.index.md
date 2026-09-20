@@ -10,8 +10,8 @@ view_count: "13897"
 like_count: "1027"
 comment_count: "162"
 playlist_index: "0"
-tags: ["essere", "fuoricorso", "vergogna"]
-related: ["20210211-I-wXo7Jk8fo", "20220508-h94SfUdF4KY", "20231223-_O4mNtUyzzQ", "20241027-vm8qmd_nnVc", "20250523-CboU-fv_Gtc", "20250629-1wpwu_FsHSQ", "20250729-HMW12KVwUjM", "20250919-k4OWzYlYgfA", "20251219-EBQwDwYympo", "20260221-N7zhvUWA-rY"]
+tags: ["laurea", "facoltà", "genitore", "insulto", "genitoriale", "priorità"]
+related: ["20190512-cVTsRpx4ZQo", "20191017-XDFssQ-VvsU", "20241125-IPWBOeh6XCk", "20190905-WDdTpZU8AIk", "20250202-7bYMgkaZvwI", "20250914-UL77GacRSn4", "20241017-GuWIaEEi6Cc", "20260714-aLl6KZqULBc", "20250802-NzaykUIBvqA", "20201224-QAcT36Qkdc8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210211-I-wXo7Jk8fo|Come essere Sicuri e Anonimi sul Web]]
-- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
-- [[20250523-CboU-fv_Gtc|Gli Scacchi dovrebbero essere Sport?]]
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20250729-HMW12KVwUjM|La Scuola deve essere dura sennò gli studenti escono deboli]]
-- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
-- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
-- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
+- [[20191017-XDFssQ-VvsU|L'Educazione Migliore]]
+- [[20241125-IPWBOeh6XCk|Come trovare il SENSO della tua VITA (Ikigai)]]
+- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
+- [[20250202-7bYMgkaZvwI|Ho sentito che ti ha criticato un esperto]]
+- [[20250914-UL77GacRSn4|Rispondiamo alle critiche costruttive di Reddit]]
+- [[20241017-GuWIaEEi6Cc|Semestre filtro a Medicina (la toppa è peggio del buco)]]
+- [[20260714-aLl6KZqULBc|BOLDRIN MI INSULTA - Rispondiamo al Messia di ORA!]]
+- [[20250802-NzaykUIBvqA|La caduta di ZEB89]]
+- [[20201224-QAcT36Qkdc8|Regolamento del Canale]]

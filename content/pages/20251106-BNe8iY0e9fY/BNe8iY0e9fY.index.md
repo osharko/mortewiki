@@ -12,8 +12,8 @@ comment_count: "115"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "7"
-tags: ["commentario", "sulla", "vittoria", "zohran", "mamdani"]
-related: ["20241106-OPbxvJJtkhc", "20241208-pKPFXw4uv_U", "20251125-oRcyF209PT8", "20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM"]
+tags: ["mandami", "cuomo", "york", "sliwa", "votato", "clinton"]
+related: ["20251030--lx5H7MfRo4", "20251204-Js6IvBwuCHw", "20251101-UDydP_MgAdI", "20251109--BksbKgj4e0", "20250627-cni9TtfftB8", "20260519-iBiw-Nfqn8A", "20251105-LafzJEe-BFA", "20250628-hCuI_9od2es", "20251130-sh54xa67Nuo", "20260427-j8_yXgd6dnw"]
 video_type: "video"
 description: "Fonte immagine: https://www.fanpage.it/esteri/chi-e-zohran-mamdani-il-nuovo-sindaco-di-new-york-dopo-le-elezioni-2025/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20241208-pKPFXw4uv_U|Commentario ai Saturn Awards]]
-- [[20251125-oRcyF209PT8|Commentario alle regionali 2025 (Puglia, Campania e Veneto)]]
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
+- [[20251101-UDydP_MgAdI|Che succede se Trump arresta Zohran Mamdani?]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20250627-cni9TtfftB8|Le elezioni di New York]]
+- [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20250628-hCuI_9od2es|I centristi stanno strillando per New York]]
+- [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]
+- [[20260427-j8_yXgd6dnw|Apologia di Zohran Mamdani]]

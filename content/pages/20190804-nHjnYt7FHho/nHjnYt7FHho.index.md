@@ -12,8 +12,8 @@ comment_count: "118"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "45"
-tags: ["casa", "carta", "victorlaszlo"]
-related: ["20150703-vGQaHhpGHHE", "20180916-3GoW7oDPioo", "20200123-TGckp6c6QEw", "20200411-dg3rHUhFE0M", "20210914-FoUhuzZHtSU", "20211209-6PhZs1nhBXA", "20231208-U24FgIpgQwg", "20250924-pMBbhk5J5vk"]
+tags: ["berlino", "tokyo", "professore", "banda", "nairobi", "palermo"]
+related: ["20200411-dg3rHUhFE0M", "20211209-6PhZs1nhBXA", "20180108-SRaemBYELqc", "20190905-WDdTpZU8AIk", "20210914-FoUhuzZHtSU", "20241210-OkWIsJv3j1E", "20170604-g8hk2W5N0vM", "20241017-RqHqVbNu4QQ", "20180916-3GoW7oDPioo", "20250713-q0_iPAsoc_U"]
 video_type: "video"
 description: "Canale Victor: https://www.youtube.com/user/victorlaszlo88\nCASA DI CARTA MASCHERA SU AMAZON\nhttps://amzn.to/2ZsDdAB\nDonazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: mortebianca0000\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: Vinicius\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nThunder Dreams Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=_rbVt0z6NLM\nhttps://www.youtube.com/watch?v=BnmglWHoVrk"
 embeddable: "1"
@@ -22,11 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150703-vGQaHhpGHHE|La Casa abbandonata - Creepypasta #19]]
-- [[20180916-3GoW7oDPioo|La Filosofia de la Casa di Carta - Ft Victorlaszlo88]]
-- [[20200123-TGckp6c6QEw|Quella volta che cagai in casa di Giopizzi (O la buona divulgazione politica)]]
 - [[20200411-dg3rHUhFE0M|La Casa di Carta 4 (Ft Victorlaszlo88)]]
-- [[20210914-FoUhuzZHtSU|La Casa di Paperissima ft @Victorlaszlo88]]
 - [[20211209-6PhZs1nhBXA|IL FINALE della CASA di CARTA (ft Victorlaszlo88)]]
-- [[20231208-U24FgIpgQwg|LA CASA È UN DIRITTO – Brutalismo Sovietico e Arcologie]]
-- [[20250924-pMBbhk5J5vk|Il Terrore della casa blu]]
+- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
+- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
+- [[20210914-FoUhuzZHtSU|La Casa di Paperissima ft @Victorlaszlo88]]
+- [[20241210-OkWIsJv3j1E|La Filosofia di TOKYO GHOUL]]
+- [[20170604-g8hk2W5N0vM|La Gang più crudele mai esistita - Creepypasta #67]]
+- [[20241017-RqHqVbNu4QQ|La Filosofia di GTO]]
+- [[20180916-3GoW7oDPioo|La Filosofia de la Casa di Carta - Ft Victorlaszlo88]]
+- [[20250713-q0_iPAsoc_U|Sulla Maturità]]

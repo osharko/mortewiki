@@ -10,8 +10,8 @@ view_count: "1774"
 like_count: "163"
 comment_count: "20"
 playlist_index: "0"
-tags: ["prehistoria", "potrebbe", "essere"]
-related: ["20260628-WyLCs2Wewbg", "20250203-UAQDHMtvngk", "20250629-1wpwu_FsHSQ", "20260506-BWcNXtjYK9Q", "20260606-PLb7SEpZKhs", "20260706-jNDtv2e0bCE", "20210211-I-wXo7Jk8fo", "20220508-h94SfUdF4KY", "20231223-_O4mNtUyzzQ", "20241027-vm8qmd_nnVc"]
+tags: ["vizzipop", "hotel", "preistoria", "animazione", "occhioni", "circus"]
+related: ["20251030-wLsf2O3c_2I", "20240327-N3NWXWJfRyI", "20240218-nCh9NAjg-MA", "20200726-cZUxl_7sAwU", "20231106-Py7BT1UUBlI", "20190331-tD9o5iCsmfU", "20260510-3M8iLW9IvLs", "20200604-I9OBDCBOXx4", "20251023-FTJnzuIHU3U", "20260304-FTDRaTnL7D0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260628-WyLCs2Wewbg|Prehistoria: una speranza per l'animazione tradizionale]]
-- [[20250203-UAQDHMtvngk|GTA 6 potrebbe costare 100 dollari]]
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
-- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]
-- [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
-- [[20210211-I-wXo7Jk8fo|Come essere Sicuri e Anonimi sul Web]]
-- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
+- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
+- [[20240327-N3NWXWJfRyI|Dov'è DIO? - TEORIE SU HAZBIN HOTEL]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
+- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
+- [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
+- [[20190331-tD9o5iCsmfU|La Filosofia di Shining]]
+- [[20260510-3M8iLW9IvLs|La Filosofia del Grand Budapest Hotel]]
+- [[20200604-I9OBDCBOXx4|Le Origini dell'Animazione e della Grafica (e il loro Futuro)]]
+- [[20251023-FTJnzuIHU3U|Lackadaisy: della furrica filosofia]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]

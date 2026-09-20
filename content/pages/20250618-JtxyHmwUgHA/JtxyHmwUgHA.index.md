@@ -12,8 +12,8 @@ comment_count: "35"
 playlist: "I miei Shorts"
 playlist_id: "PLU8-xwslFxH8XRHHIxJNm92L3_tukumhO"
 playlist_index: "9"
-tags: ["best", "personaggio", "delle", "creepypasta", "horror"]
-related: ["20250306-P6lqf-5-VTw", "20250412-77fjBc2f9b8", "20191206-z56T1wPZp24", "20191229-bwpQ94_LA9w", "20200509-PIjNe3OByjw", "20210114-3B5iPPoOR4w", "20210502-jqfLgoI81T4", "20230208-A-E1gjmpPY4", "20230312-FeSVtraY8Qk", "20240802-zXraRjCdkHc"]
+tags: ["reincarnazioni", "best", "yeah", "clown"]
+related: ["20160626-coz3YbDOLKo", "20201016-Ze34fpt50Y4", "20200927-g56C2UYHznY", "20250616-_W021LzCEI0", "20200621-Vcn5wbSj90Q", "20170604-g8hk2W5N0vM"]
 video_type: "short"
 description: "Da Viper"
 embeddable: "1"
@@ -22,13 +22,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250306-P6lqf-5-VTw|MISATO: Il personaggio più frainteso di EVANGELION]]
-- [[20250412-77fjBc2f9b8|Il personaggio che ha fatto più s3ss0 in FALLOUT]]
-- [[20191206-z56T1wPZp24|La MOOSEECA dei personaggi delle creepypasta]]
-- [[20191229-bwpQ94_LA9w|L'Estinzione delle Api - Creepypasta 131]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20210114-3B5iPPoOR4w|La Filosofia di Alice nel Paese delle Meraviglie]]
-- [[20210502-jqfLgoI81T4|Il Miracolo delle Tombe - Creepypasta 161]]
-- [[20230208-A-E1gjmpPY4|La Filosofia delle Tre Leggi della Robotica]]
-- [[20230312-FeSVtraY8Qk|Riassunto Accuratissimo delle prime 200 Creepypasta (Lore completa)]]
-- [[20240802-zXraRjCdkHc|IL CIRCO delle OLIMPIADI]]
+- [[20160626-coz3YbDOLKo|Hai paura dei Clown? - Creepypasta #44]]
+- [[20201016-Ze34fpt50Y4|Cosa definisce Shonen e Seinen?]]
+- [[20200927-g56C2UYHznY|Pareidolia - Creepypasta 146]]
+- [[20250616-_W021LzCEI0|Samsara - Creepypasta 254]]
+- [[20200621-Vcn5wbSj90Q|L'Area 51 ti sta Ascoltando (SCP) - Creepypasta 139]]
+- [[20170604-g8hk2W5N0vM|La Gang più crudele mai esistita - Creepypasta #67]]

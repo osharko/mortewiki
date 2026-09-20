@@ -10,8 +10,8 @@ view_count: "18472"
 like_count: "1415"
 comment_count: "103"
 playlist_index: "0"
-tags: ["trump", "esagerando"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY"]
+tags: ["biden", "maga", "piglia", "esagerando", "platea", "meschino"]
+related: ["20241113-RvJ3nmgVDew", "20260718-lb-p2fknQ9g", "20241101-Mz4vhvNZIew", "20241106-OPbxvJJtkhc", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY", "20250720-V5Pgf1-qvXc", "20250912-kO3kNZubRMw", "20260111-dmewcR7yWnA", "20260114-dPMTPFNn-u8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
+- [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
+- [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
+- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
 - [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
+- [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
+- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
+- [[20250720-V5Pgf1-qvXc|AOC ha sbagliato]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
+- [[20260111-dmewcR7yWnA|I MAGA ora vogliono la monarchia]]
+- [[20260114-dPMTPFNn-u8|Età del consenso, adulta e diritto di voto]]

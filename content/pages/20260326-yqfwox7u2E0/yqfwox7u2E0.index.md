@@ -10,8 +10,8 @@ view_count: "9298"
 like_count: "883"
 comment_count: "94"
 playlist_index: "0"
-tags: ["critica", "astensionismo"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["quorum", "referendum", "tenda", "votato", "astensionismo", "sconfitte"]
+related: ["20250609--N6zDHQjxcQ", "20250408-lT-sJvOpjdM", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE", "20250707-qu16PceoXJg", "20260325-glBFTY-C52E"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]

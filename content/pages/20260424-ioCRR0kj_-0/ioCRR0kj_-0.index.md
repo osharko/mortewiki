@@ -10,8 +10,8 @@ view_count: "6585"
 like_count: "544"
 comment_count: "34"
 playlist_index: "0"
-tags: ["trump", "avrebbe", "vinto", "vietnam"]
-related: ["20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160", "20250521-u3vaawQmurw", "20250819-xdze3pAL6gY"]
+tags: ["vietnam", "venezuela", "john", "vietnamiti", "catturare", "mccain"]
+related: ["20240721-3NL1zCyzUHA", "20190324-Y4k7PC0yt5U", "20191013-2QTVq5nn1Ew", "20241105-gU-1G3V80_8", "20260124-Nk8AeAH-nzY", "20260117-tspT5RQPpm4", "20260623-xqB-Cf9hcv4", "20250311-h2ylzdzt9Ug", "20250909-HBh5GyfS154", "20220814-r0IumHqXjow"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20250521-u3vaawQmurw|Il destino dell'autoritarismo di Trump]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
+- [[20240721-3NL1zCyzUHA|La Filosofia di TO THE MOON]]
+- [[20190324-Y4k7PC0yt5U|Patto con il Diavolo - Creepypasta 114]]
+- [[20191013-2QTVq5nn1Ew|Le 10 Operazioni CIA più Assurde - Creepypasta 127]]
+- [[20241105-gU-1G3V80_8|LA FALSITÀ  della Victims of Communism memorial foundation]]
+- [[20260124-Nk8AeAH-nzY|Storia del VENEZUELA]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260623-xqB-Cf9hcv4|Trump ha perso in Iran]]
+- [[20250311-h2ylzdzt9Ug|USA vs EU 2: la vendemmia]]
+- [[20250909-HBh5GyfS154|Lost 2, Jurassic Park 3, to the Moon 4, Haruhi 5, Bioshock 6, Psycho Pass 7, SAO 8, Fallout 9, Saw X]]
+- [[20220814-r0IumHqXjow|Le 10 Operazioni CIA più CRUDELI - Creepypasta 187]]

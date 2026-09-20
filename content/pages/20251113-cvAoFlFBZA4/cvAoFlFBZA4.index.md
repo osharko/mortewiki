@@ -10,8 +10,8 @@ view_count: "6495"
 like_count: "524"
 comment_count: "21"
 playlist_index: "0"
-tags: ["leone", "apocatastatico"]
-related: ["20220213-_7pH7axb2H8", "20250106-6uwt7ZDoPiU", "20250509-_b6UTmUr-IU", "20250728---XEhfSbPeU", "20260501-MfIGVsJKM5w"]
+tags: ["francesco", "leone", "apocatastasi", "dottrina", "papi", "ribadito"]
+related: ["20250728---XEhfSbPeU", "20250509-_b6UTmUr-IU", "20250512-0SKFJ4OIT0Q", "20250509-sAJrhWaZLsA", "20260501-MfIGVsJKM5w", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20241026-3EAwhA0DQ4E"]
 video_type: "video"
 description: "Fonte: https://www.reddit.com/r/ChristianUniversalism/comments/1omginw/pope_leo_xiv_is_a_hopeful_universalist_amen/"
 embeddable: "1"
@@ -20,8 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220213-_7pH7axb2H8|La Filosofia del Re Leone]]
-- [[20250106-6uwt7ZDoPiU|Amleto: tra Re Leone, Fable, Metaphor..... e l'Esodo]]
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
 - [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
 - [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20210606-KUEe3zpJYdc|La Filosofia dei due Papi]]
+- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
+- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
+- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]

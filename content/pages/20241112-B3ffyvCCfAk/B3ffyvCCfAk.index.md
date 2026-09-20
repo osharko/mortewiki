@@ -10,8 +10,8 @@ view_count: "9672"
 like_count: "852"
 comment_count: "60"
 playlist_index: "0"
-tags: ["cucina", "secondo"]
-related: ["20250525-p7tnucyztl8", "20180821-OWLABA4ZIGA", "20190605-beRwrPe1eoQ", "20190721-qorlZhAR2i4", "20210422-Z4hh-FCmf2A", "20240910-b33l186pH04"]
+tags: ["cucina", "pizza", "kebab", "ananas", "nonna", "ristorante"]
+related: ["20250525-p7tnucyztl8", "20200602-C0GAcBY_lFY", "20200708-E1HGWimlq14", "20260703-3WOUF72vVlI", "20260918-S-lfUOjZO2Q", "20201025-h0MMLZQ3qRk", "20250805-qroh4Lv5tJc", "20241127-YvU6C9hfkAg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -20,8 +20,10 @@ embeddable: "1"
 
 ## Correlati
 - [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
-- [[20180821-OWLABA4ZIGA|Il Secondo Adpocalypse ha colpito un mio amico - #Duplication]]
-- [[20190605-beRwrPe1eoQ|TOP: I Migliori Youtuber italiani (Secondo me)]]
-- [[20190721-qorlZhAR2i4|TOP migliori Youtubers del mondo (secondo me)]]
-- [[20210422-Z4hh-FCmf2A|Sta uscendo il mio Secondo Libro!]]
-- [[20240910-b33l186pH04|LA STORIA (Secondo MARX)]]
+- [[20200602-C0GAcBY_lFY|Cos'è l'Arte?]]
+- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
+- [[20260703-3WOUF72vVlI|Emma: l'AI Italiana]]
+- [[20260918-S-lfUOjZO2Q|Stavolta niente aghi]]
+- [[20201025-h0MMLZQ3qRk|Il Divoratore di Mondi - Creepypasta 148]]
+- [[20250805-qroh4Lv5tJc|La Filosofia di Turning Red]]
+- [[20241127-YvU6C9hfkAg|La TERRIFICANTE lore di CARS]]

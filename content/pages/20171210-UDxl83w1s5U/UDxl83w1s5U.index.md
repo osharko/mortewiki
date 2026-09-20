@@ -12,8 +12,8 @@ comment_count: "428"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "29"
-tags: ["filosofia", "vendetta"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["prigione", "anarchia", "maschere", "fawkes", "domino", "sachtler"]
+related: ["20171113-dixNExIirds", "20250822-W7KRutbRNSA", "20211226-bAMJYrp9nkA", "20200116-LW-42WwoUTM", "20200606-9F63v4lU3hY", "20220105-HQLfbddkFzQ", "44ySLh11jn8"]
 video_type: "video"
 description: "Come nasce una dittatura? E come bisogna distruggerla? Cos'è un eroe politico?\nV per Vendetta su Amazon\nMaschera:\nhttp://amzn.to/2ycMUEU\nFumetto: http://amzn.to/2yd1Oe7\nFilm: http://amzn.to/2ycsyvq\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSEECA:\nhttps://www.youtube.com/watch?v=JTCA-rgmrz0\nhttps://www.youtube.com/watch?v=9bejzyqIl9g\nhttps://www.youtube.com/watch?v=ATt9v9ICn08\nhttps://www.youtube.com/watch?v=HMJ6Tmq--08"
 embeddable: "1"
@@ -22,13 +22,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]
+- [[20250822-W7KRutbRNSA|Differenze tra Anarchia, Anarco-Comunismo e Marxismo]]
+- [[20211226-bAMJYrp9nkA|Il Sistema Operativo del DEEP WEB - Creepypasta 175]]
+- [[20200116-LW-42WwoUTM|Io e Amico Diverte scappiamo di prigione]]
+- [[20200606-9F63v4lU3hY|La Filosofia del Buco]]
+- [[20220105-HQLfbddkFzQ|L'Elogio della Follia]]
+- [[44ySLh11jn8|Live sull'ANARCHIA (ft Barbasophia)]]

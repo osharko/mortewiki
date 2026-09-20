@@ -10,8 +10,8 @@ view_count: "13128"
 like_count: "916"
 comment_count: "50"
 playlist_index: "0"
-tags: ["giovani", "sono", "conservatori"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["sondaggi", "nietzsche", "ammettere", "statistica", "sondaggio", "progressisti"]
+related: ["20190928-kpVAgG6QP0w", "20260316-rv6l-XQizsE", "20260703-SDMIlwAMmH0", "20241215-Sjr1XkQows4", "20260601-MiG7c6YOOgE", "20250512-0SKFJ4OIT0Q", "20241113-RvJ3nmgVDew", "20260214-RGD-I9c6Rv8", "20250401-7Vm3DBfOhnI", "20260531-FhFS6ryUvwo"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20190928-kpVAgG6QP0w|NIETZSCHE (Lezione completa) - #Filosofia 23]]
+- [[20260316-rv6l-XQizsE|No, gli Zoomer non sono di destra]]
+- [[20260703-SDMIlwAMmH0|Rick DuFer non conosce l'ISLAM]]
+- [[20241215-Sjr1XkQows4|Il sottile anticattolicesimo della Destra]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
+- [[20260214-RGD-I9c6Rv8|Mortebianca e Rick DuFer: distanze filosofiche]]
+- [[20250401-7Vm3DBfOhnI|Se ti piace vuol dire che lo voti!]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]

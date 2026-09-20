@@ -10,8 +10,8 @@ view_count: "4298"
 like_count: "332"
 comment_count: "19"
 playlist_index: "0"
-tags: ["giochi", "episodi"]
-related: ["20200730-j8wQGaXVpEs", "20240426-e1UDWKfYYM8", "20240703-ROvAs4NRkm8", "20250206-jlG-fLpk8G8", "20250326-XnkbgT-yDys", "20260729-I3Hmj6d5Sco", "20241115-OyzwU3MdHK0"]
+tags: ["rout", "ending", "coffin", "misde", "aprile", "alabama"]
+related: ["20241024-bIkDBjz5MZ8", "20240710-KPmyLsfdVU8", "20210730-DcZQjaGmwro", "20260426-den5aYCED5Q", "20250427-k1ZP-FkNsa8", "20230401-75NbvICQxW8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,10 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200730-j8wQGaXVpEs|I Giochi di Harry Potter]]
-- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
-- [[20240703-ROvAs4NRkm8|Perché odio i GDR (e i giochi da tavolo)]]
-- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
-- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
-- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]
-- [[20241115-OyzwU3MdHK0|LOST MEDIA ed episodi perduti: tra FILOSOFIA e MUSICA]]
+- [[20241024-bIkDBjz5MZ8|Looking Up I See Only A Ceiling (Arriva lo sviluppatore a sorpresa!)]]
+- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
+- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
+- [[20260426-den5aYCED5Q|Chi si arrabbia il 25 Aprile è quasi sempre in malafede]]
+- [[20250427-k1ZP-FkNsa8|Elogio del 25 Aprile]]
+- [[20230401-75NbvICQxW8|Quando è il 1 Aprile e sei iscritto a Mortebianca #shorts]]

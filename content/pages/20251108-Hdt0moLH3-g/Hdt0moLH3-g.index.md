@@ -10,8 +10,8 @@ view_count: "10127"
 like_count: "787"
 comment_count: "83"
 playlist_index: "0"
-tags: ["finalmente", "critica", "davvero", "costruttiva"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["sport", "scacchi", "statistico", "giocatori", "mosse", "margine"]
+related: ["20250523-CboU-fv_Gtc", "20250521-MOhAGn85ZPA", "20250525-p7tnucyztl8", "20240511-2xCCcYlTV0s", "20250211-GP33JOLQjfM", "20240426-e1UDWKfYYM8", "20250301-tWIoJshZsn4", "20160326-Nf_8ZtbE8Fg", "20180114-cjK2vbrMEKE", "20151206-XMBqO5XgnZc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20250523-CboU-fv_Gtc|Gli Scacchi dovrebbero essere Sport?]]
+- [[20250521-MOhAGn85ZPA|Lo Sport è Arte? I Videogiochi sono Sport?]]
+- [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
+- [[20240511-2xCCcYlTV0s|Cos'è una DONNA? Sport, Bagni e... Religione]]
+- [[20250211-GP33JOLQjfM|GENDER WAGE GAP: tra Economia e Cervello]]
+- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
+- [[20250301-tWIoJshZsn4|Se critichi il Wrestling non capisci le arti marziali]]
+- [[20160326-Nf_8ZtbE8Fg|Ex Machina - Analisi e Recensione]]
+- [[20180114-cjK2vbrMEKE|Il 10% del cervello - Creepypasta #83]]
+- [[20151206-XMBqO5XgnZc|Intelligenza Artificiale Debole - Creepypasta #30]]

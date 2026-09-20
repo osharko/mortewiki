@@ -10,8 +10,8 @@ view_count: "4489"
 like_count: "431"
 comment_count: "33"
 playlist_index: "0"
-tags: ["alla", "ricerca", "lost", "media", "italiano"]
-related: ["20180426-e1KEL85Emnc", "20200722-S84GtWfk0E4", "20211015-Zx4cKZhyPbQ", "20220723-JjTOgCfG074", "20240329-Vixn-NVK_sU", "20240609-IWrLGWfrSc0", "20240818-0r-A8hmwIEY", "20241222-g5JkuphshQQ", "20250211-1D0clNOe0Dc", "20250222-QuNpgW83n0w"]
+tags: ["andreas", "leatherface", "archeologia", "visibilità", "dreamscape", "norimberga"]
+related: ["20241117-CgUhuFS6Clc", "20260824-cNYu_H4axOI", "20260729-I3Hmj6d5Sco", "20250503-l7dtFsZyOl4", "20260327-T8Q4cqHudcs", "20260726-sDUpiGAqrCo", "20250205-03AsV9qhnj8", "20241129-HFOQHOQoGJg", "20250908-H0ydPrtrN4c"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180426-e1KEL85Emnc|Novità del Tipeee! + Ringraziamento alla D34th Squad]]
-- [[20200722-S84GtWfk0E4|Risposta alla Risposta della Risposta di Dario Moccia - Cos'è un Anime? (+ Sfogone 2 la Vendemmia)]]
-- [[20211015-Zx4cKZhyPbQ|La Soluzione alla brevità della VITA]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
-- [[20240609-IWrLGWfrSc0|ELON MUSK ALLA RISCOSSA]]
-- [[20240818-0r-A8hmwIEY|Come sopravvivere alla PIENA AUTOMAZIONE?]]
-- [[20241222-g5JkuphshQQ|Critica alla Necrofilia]]
-- [[20250211-1D0clNOe0Dc|Critica alla Pornificazione mediatica imperante]]
-- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]
+- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
+- [[20260327-T8Q4cqHudcs|Io e GTA San Andreas]]
+- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
+- [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
+- [[20241129-HFOQHOQoGJg|Haterismo come proiezione freudiana]]
+- [[20250908-H0ydPrtrN4c|Definizione di Spam ai fini del regolamento]]

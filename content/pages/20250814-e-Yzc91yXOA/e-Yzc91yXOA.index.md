@@ -10,8 +10,8 @@ view_count: "4793"
 like_count: "391"
 comment_count: "67"
 playlist_index: "0"
-tags: ["detective", "pikachu", "ovvero", "bulbasaur", "canonicamente"]
-related: ["20250315-PhnD0RMTryU", "20250428-0Ah3uih9ERU", "20251210-k7MOW5pZKV8", "20251220-Kf_lc_hw9n0", "20260415-bf2MjiywJzc", "20260428-s7kvI9qgIbU", "20260710-OKKwf6sotu4", "20260724-ecolHGW-VBo", "20260122-5k0Inu6Labo"]
+tags: ["pokémon", "bulbasaur", "starter", "digimon", "pikachu", "design"]
+related: ["20200405-4FIOk8SHwjc", "20200313-vVUJlCn37NE", "20200215-r4gqCDLGFl4", "20231117-Vb4_0DGuOvA", "20251220-Kf_lc_hw9n0", "20260228-yd_ytjxiFEM", "20250915-oVS6mI7DA0E", "20191011-JYRfEqEBygs", "20250326-XnkbgT-yDys", "20251207-xo095v8Sfac"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
-- [[20251210-k7MOW5pZKV8|Jun Hayami, ovvero la fantasia degli autori non è ammissione di colpa]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
 - [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260710-OKKwf6sotu4|Bryan Johnson: ovvero il fallimento dell'Immortalismo]]
-- [[20260724-ecolHGW-VBo|Asmongold: ovvero il fallimento della Redpill]]
-- [[20260122-5k0Inu6Labo|La Biologia di BULBASAUR]]
+- [[20260228-yd_ytjxiFEM|Pokémon Vento e Pokémon Onda: hanno smesso di provarci]]
+- [[20250915-oVS6mI7DA0E|Digimon genderfluid?!?!?!123stella?]]
+- [[20191011-JYRfEqEBygs|Pokémon Horror]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20251207-xo095v8Sfac|La differenza fondamentale tra pokémon e Digimon]]

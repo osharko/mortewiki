@@ -10,8 +10,8 @@ view_count: "8192"
 like_count: "664"
 comment_count: "36"
 playlist_index: "0"
-tags: ["durov", "contro", "chat", "control"]
-related: ["20250626-BJeonLXZCoM", "20161120-KfB_jm1xinM", "20240107-XGom_Cer7mw", "20241214-2djTRant0AU", "20250522-E50ONjn0O_U", "20250524-gxJMX57iVzs", "20250807-Vo5xD0NuPew", "20250816-AeJx5sVmioA", "20251020-kAoNRE2vFz0", "20251021-M1ptUXepTgY"]
+tags: ["porno", "documenti", "pampini", "navigazione", "durov", "viola"]
+related: ["20250823-lvuDoi8FX5o", "20260802-TeNDxHNNZbU", "20220123-EfCUfd5HKyI", "20260219-ht0Zq6uNQnY", "20250211-1D0clNOe0Dc", "20251216-1Bo2xDFYWss", "20250518-VcEkkhlpvS0", "20241007-QdukbdKq0wk", "20241027-vm8qmd_nnVc", "20250626-BJeonLXZCoM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250823-lvuDoi8FX5o|L'artista che ha RESISTITO alla tentazione]]
+- [[20260802-TeNDxHNNZbU|Il Nofap non ha senso - Critica al No Nut November]]
+- [[20220123-EfCUfd5HKyI|La Psicologia di OnlyFans]]
+- [[20260219-ht0Zq6uNQnY|Un Duro(v) colpo a Sanchez?]]
+- [[20250211-1D0clNOe0Dc|Critica alla Pornificazione mediatica imperante]]
+- [[20251216-1Bo2xDFYWss|Perché i maschi conservatori hanno difficoltà con le donne?]]
+- [[20250518-VcEkkhlpvS0|Le AI Girlfriends e le Ginoidi non causeranno un collasso demografico]]
+- [[20241007-QdukbdKq0wk|Fascismo come perversione sessuale: tra Incel e cucchismo]]
+- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
 - [[20250626-BJeonLXZCoM|Ce l'hai Durov? Tra banca del seme, GPA e adozione]]
-- [[20161120-KfB_jm1xinM|Naruto contro Pain]]
-- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
-- [[20241214-2djTRant0AU|Il PROBLEMA dei conservatori contro le DONNE]]
-- [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]
-- [[20250524-gxJMX57iVzs|La Crociata contro gli Inglesismi]]
-- [[20250807-Vo5xD0NuPew|Il piano segreto di HITLER contro gli SLAVI]]
-- [[20250816-AeJx5sVmioA|La guerra dei conservatori contro le AI]]
-- [[20251020-kAoNRE2vFz0|Contro la stramaledetta scissione dell'atomo]]
-- [[20251021-M1ptUXepTgY|Rick DuFer contro Marwan Barghuthi (ci risiamo...)]]

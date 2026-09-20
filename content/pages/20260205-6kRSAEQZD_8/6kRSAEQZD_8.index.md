@@ -10,8 +10,8 @@ view_count: "6084"
 like_count: "480"
 comment_count: "33"
 playlist_index: "0"
-tags: ["critica", "film", "theorist", "hazbin", "hotel"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["purgatorio", "limbo", "dante", "demoni", "finisci", "angeli"]
+related: ["20240218-nCh9NAjg-MA", "20220424-BMiz0RBPros", "20240419-_YTmJeg43MY", "20251021-a9GMGUzHVac", "20260410-7kqYnIHd-4s", "20180921-uzmkwQSzip8", "20170716-kgarwsIMhJ8", "20210216-4JHKOKU8mD0", "20190825-_goj9ecJkwE", "20251002-ibfyhR6UGz0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
+- [[20220424-BMiz0RBPros|La Filosofia di Promised Neverland]]
+- [[20240419-_YTmJeg43MY|Tutti gli Angeli Biblicamente Accurati]]
+- [[20251021-a9GMGUzHVac|La Filosofia di FRIEREN]]
+- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
+- [[20180921-uzmkwQSzip8|La Filosofia di Limbo e Inside]]
+- [[20170716-kgarwsIMhJ8|Il Monaco - Creepypasta #70]]
+- [[20210216-4JHKOKU8mD0|La Filosofia di INCEPTION - Spiegazione del finale]]
+- [[20190825-_goj9ecJkwE|La Storia di EVANGELION]]
+- [[20251002-ibfyhR6UGz0|Capitalismo e Solitudine Liminale]]

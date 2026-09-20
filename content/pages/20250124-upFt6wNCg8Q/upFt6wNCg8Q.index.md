@@ -10,8 +10,8 @@ view_count: "16729"
 like_count: "1325"
 comment_count: "50"
 playlist_index: "0"
-tags: ["rivoluzione", "america"]
-related: ["20210801-UKRtqnOJeeg", "20250310-rH-GC7Km4MA", "20230807-iKUM7SfFgqI", "20250305-5Mh3VfogFfM", "20250721-kD4HD5-BWcw", "20260723-zrza0q95Q7k"]
+tags: ["riforme", "giubbe", "gialle", "avanguardia", "lienin", "donald"]
+related: ["20250821-8_DHVNR7qRo", "20250520-6zskj2lzZH8", "20241101-Mz4vhvNZIew", "20241118-G5_Xl9Lv4jU", "20260129-1o9qL96k5OY", "20240910-b33l186pH04", "20250512-_Grsa_mjlUU", "20260618-FfzvwpVxYwo", "20250903-FfolkwKdC9U", "20260906-UonTUjrzUT0"]
 video_type: "video"
 description: "https://www.instagram.com/mrjoshuagray/p/DETj_mpScRD/?locale=ko&hl=am-et"
 embeddable: "1"
@@ -20,9 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210801-UKRtqnOJeeg|Attack on Titan e la Rivoluzione francese]]
-- [[20250310-rH-GC7Km4MA|IDROELETTRICO: la VERA rivoluzione energetica]]
-- [[20230807-iKUM7SfFgqI|Il Mistero della STONEHENGE in AMERICA....]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250721-kD4HD5-BWcw|Socialismo e Sud America]]
-- [[20260723-zrza0q95Q7k|Ulisse è andato in America?]]
+- [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
+- [[20250520-6zskj2lzZH8|Rispondo a Calenda su Lenin]]
+- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
+- [[20240910-b33l186pH04|LA STORIA (Secondo MARX)]]
+- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
+- [[20260618-FfzvwpVxYwo|Stanno privatizzando Cuba ORA!]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]

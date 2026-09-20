@@ -10,8 +10,8 @@ view_count: "16500"
 like_count: "1120"
 comment_count: "75"
 playlist_index: "0"
-tags: ["perché", "sinistra", "perde", "ovunque"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["veneto", "moderati", "frontis", "centrodestra", "votano", "votato"]
+related: ["20251125-oRcyF209PT8", "20241121-smIutDtqomo", "20250511-wkyU76rAHC0", "20250514-98VILQuSOtU", "20251005-vaZ84a-kTyM", "20260619-y8-CUN5JYss", "20251224-9bsGm21CExY", "20260530-lllfQzG5_Hw", "20250408-lT-sJvOpjdM", "20250309-ahP-3cQlFds"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20251125-oRcyF209PT8|Commentario alle regionali 2025 (Puglia, Campania e Veneto)]]
+- [[20241121-smIutDtqomo|Lega Nord tra Venetismo e Nazionalismo]]
+- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
+- [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
+- [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
+- [[20260530-lllfQzG5_Hw|Amministrative: trionfo delle sinistre (circa), fallimento di ORA! e demagogia della destra]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20250309-ahP-3cQlFds|La Transizione ecologica conviene]]

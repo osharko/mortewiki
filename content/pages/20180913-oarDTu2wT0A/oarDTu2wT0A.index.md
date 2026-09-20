@@ -12,8 +12,8 @@ comment_count: "235"
 playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "26"
-tags: ["come", "continuano", "creepypasta"]
-related: ["20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic", "20181025-vMp6JS1zuWA", "20190905-WDdTpZU8AIk", "20200226-u6p192nXhl8", "20200530-qhxjjApb7Hw", "20200820-tcw8gjc9Uqg", "20201222-J_tMSfTidcg"]
+tags: ["collegate", "recensioni", "racconti", "krypi", "tweet", "riprenderemo"]
+related: ["20190711-kl1p3lnL9sY", "20181213-P8FF4al9MEY", "20151031-lE2MI1SQAf4", "20250801-6HAPjIQP-ME", "20180621-dQMhsnOg_cI", "20250811-2D5Nt-PXNeQ", "20220510-YnPNRvTvmbE", "20160312-zN1kr3wikMo", "20150926-sX1qD2dlT78", "20190117-j8JPi-TqpOI"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice logo: https://lovelyhanakochan.deviantart.com/\nMOOSEECA:\nhttps://soundcloud.com/sledge23-2/sledge-one-way-out?in=sledge23-2/sets/vos\nhttps://soundcloud.com/sledge23-3/04-sledge-timeless-space\nhttps://soundcloud.com/sledge23-3/06-sledge-ruins-of-a-domed-city\nhttps://soundcloud.com/sledge23-2/sledge-dark-season?in=sledge23-2/sets/wave-4\nhttps://soundcloud.com/sledge23-2/sledge-decisions?in=sledge23-2/sets/wave-4\nhttps://soundcloud.com/sledge23-2/sledge-steel-fortress?in=sledge23-2/sets/wave-4"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
-- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
-- [[20200820-tcw8gjc9Uqg|Gli Errori Grammaticali (e come evitarli)]]
-- [[20201222-J_tMSfTidcg|Come salvare l'ambiente?]]
+- [[20190711-kl1p3lnL9sY|La Filosofia di Yotobi]]
+- [[20181213-P8FF4al9MEY|Fallout 76: Non è la fine del mondo]]
+- [[20151031-lE2MI1SQAf4|SPECIALE 5000 - INTERVISTA A MORTEBIANCA]]
+- [[20250801-6HAPjIQP-ME|La critica più INUTILE che io abbia mai ricevuto]]
+- [[20180621-dQMhsnOg_cI|La Filosofia in Lovecraft - Da dove leggerlo?]]
+- [[20250811-2D5Nt-PXNeQ|L'App ANTIFEMMINISTA del Tè]]
+- [[20220510-YnPNRvTvmbE|NECROPOLIS DIVENTA LIBRO!]]
+- [[20160312-zN1kr3wikMo|SPECIALE 10.000 - Il Nostro Trionfo (+ Nome sigla/intro)]]
+- [[20150926-sX1qD2dlT78|Recensione Naruto - Introduzione]]
+- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]

@@ -12,8 +12,8 @@ comment_count: "131"
 playlist: "Anime e Manga"
 playlist_id: "PLU8-xwslFxH8yssm8Owl7QkPl0RhxBUUh"
 playlist_index: "46"
-tags: ["tutti", "film", "naruto", "lore", "recensione"]
-related: ["20150627-HYE41DCwFBw", "20160605-_UxHCn4vPDo", "20170601-77zadUotAKI", "20180219-SXD4pfBPUgw", "20180318-rwKsWcNXbEU", "20180708-FU-Eezlk1CA", "20190613-keNwHt7CDp0", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I", "20200108-aTzCDtRRekE"]
+tags: ["naruto", "ninja", "rasengan", "natale", "kakashi", "neve"]
+related: ["20171127-91FEJdozPQ8", "20170611-1ImKL0OR1Qc", "20151024-yqn-3_WOffI", "20180415-XDWa6mVwiB4", "20161218-NJfH-g5e_T0", "20170123-tpNXoYWBnoo", "20151217-PdQzLclSKY0", "20160307-mqdv45XdjtM", "20180121-bXOXQ5zGpvM", "20170416-yRxTja2Z7lo"]
 video_type: "video"
 description: "Lore, riassunto e analisi di tutti i film mai usciti di Naruto, a parte The Last e Boruto, che faremo presto. Buon natale a tutti :D\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSEECA:\nWe Wish you a Merry Christmas Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nClear Waters Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=VDPMAuv-3nk\nhttps://www.youtube.com/watch?v=BbOiqJJ5RxU\nhttps://www.youtube.com/watch?v=piFJVwr1YYA\nhttps://www.youtube.com/watch?v=xrYJ0mLlaLY\nLa musica finale è la stessa dell'inizio."
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
-- [[20200108-aTzCDtRRekE|Tutti i Primarchi (Parte 3)]]
+- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
+- [[20170611-1ImKL0OR1Qc|La STORIA di OBITO]]
+- [[20151024-yqn-3_WOffI|Naruto: l'Inizio]]
+- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
+- [[20161218-NJfH-g5e_T0|La fine di PAIN]]
+- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
+- [[20151217-PdQzLclSKY0|Rock Lee, Neji e Hinata: Impegno vs Talento]]
+- [[20160307-mqdv45XdjtM|Tsunade e il significato del Sacrificio]]
+- [[20180121-bXOXQ5zGpvM|Naruto the Last - l'Amore ai tempi del chakra]]
+- [[20170416-yRxTja2Z7lo|La Guerra Mondiale dei Ninja - Riassunto (Part 2)]]

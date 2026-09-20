@@ -10,8 +10,8 @@ view_count: "8692"
 like_count: "677"
 comment_count: "59"
 playlist_index: "0"
-tags: ["apologia", "romani", "asterix", "obelix"]
-related: ["20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250417-GHoS0YNX864", "20250425-Ig0wv5jE2MY", "20250920-JgFUDInERkU", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc", "20260302-H8lC4pnGIl0", "20260322-uUpJEd5vCpw"]
+tags: ["romani", "galli", "copium", "cartone", "kellog", "jerry"]
+related: ["20241012-LdQcX3Dm4RM", "20250606-3c2BjZ2aLy4", "20260507-xyKa9tpD8GA", "20260320-s8-zmip52LE", "20250302-_Zx7FzBT12s", "20250207-8ududSJJavc", "20241103-1odWEk69h8E", "20241119-8FxNB7i69UI", "20260429-QbdsvLTq1C4", "20220507-meoWVAFpGc8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
-- [[20260302-H8lC4pnGIl0|Apologia di Cydonia]]
-- [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
+- [[20241012-LdQcX3Dm4RM|L'Impero romano era davvero cattivo?]]
+- [[20250606-3c2BjZ2aLy4|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 2]]
+- [[20260507-xyKa9tpD8GA|Il mio audio più FOLLE in assoluto]]
+- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]
+- [[20250207-8ududSJJavc|Il GLADIATORE DUE è PEGGIO DEL PREVISTO....]]
+- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20260429-QbdsvLTq1C4|Cos'è il Colonialismo? Perché è diverso dalla conquista?]]
+- [[20220507-meoWVAFpGc8|La Filosofia del Gobbo di Notre Dame]]

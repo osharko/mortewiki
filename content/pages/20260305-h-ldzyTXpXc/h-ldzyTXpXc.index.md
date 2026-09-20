@@ -10,8 +10,8 @@ view_count: "2164"
 like_count: "201"
 comment_count: "15"
 playlist_index: "0"
-tags: ["tutti", "cartoni", "animati", "produzione", "parte"]
-related: ["20150627-HYE41DCwFBw", "20160605-_UxHCn4vPDo", "20170601-77zadUotAKI", "20171224-X-bFGwnB4is", "20180219-SXD4pfBPUgw", "20180318-rwKsWcNXbEU", "20180708-FU-Eezlk1CA", "20190613-keNwHt7CDp0", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I"]
+tags: ["zelda", "evangelion", "avatar", "prequel", "gulag", "premio"]
+related: ["20250629-1wpwu_FsHSQ", "20250823-lvuDoi8FX5o", "20220331-euK2sb8_bNQ", "20251220-Kf_lc_hw9n0", "20260124-G9K9ZiKx6-o", "20200323-QKF39miYkbE", "20240625-xIu1wF6ovWI", "20230311-su1ALcwTkyc", "20231106-Py7BT1UUBlI", "20260301-nV9nbjL0HcU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
+- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
+- [[20250823-lvuDoi8FX5o|L'artista che ha RESISTITO alla tentazione]]
+- [[20220331-euK2sb8_bNQ|La FINE di EVANGELION]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20260124-G9K9ZiKx6-o|Sul Cucchismo delle destre]]
+- [[20200323-QKF39miYkbE|REBUILD of EVANGELION (NON) è un SEQUEL]]
+- [[20240625-xIu1wF6ovWI|EVANGELION prima di EVANGELION]]
+- [[20230311-su1ALcwTkyc|La Filosofia di Oceania]]
+- [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
+- [[20260301-nV9nbjL0HcU|ASUKA e il FINALE di EVANGELION]]

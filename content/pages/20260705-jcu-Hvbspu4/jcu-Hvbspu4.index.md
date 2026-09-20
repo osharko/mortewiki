@@ -10,8 +10,8 @@ view_count: "11121"
 like_count: "741"
 comment_count: "136"
 playlist_index: "0"
-tags: ["sony", "distrutto", "suoi", "ancora", "difendono"]
-related: ["20260815-LoFSH3Rwa6o", "20260907-FHFHHiC4SGU", "20260208-gCFNjzl5CF8", "20230919-8fv7uYUo-4g", "20240516-NCzCtUHd6LM", "20241008-uAzJsENWF6Y", "20250107-3nEN4xYAjOM", "20260217-jcwExk3RhOg", "20201113-1QJsN6Seq38", "20231015-2n3YvIxIAGE"]
+tags: ["sony", "playstation", "disco", "console", "nintendo", "dischi"]
+related: ["20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20260907-FHFHHiC4SGU", "20200509-PIjNe3OByjw", "20190912-sX777AyfxsI", "20260823-hCx7p_UC4cY", "20260901--REGlLWC-xw", "20251114-uznIlHcFInI", "20241116-zW2mk3zC1b4", "20250715-tirsbfqboQ4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
 - [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
 - [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
-- [[20260208-gCFNjzl5CF8|Noi per molto meno abbiamo distrutto governi]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240516-NCzCtUHd6LM|Perché ISRAELE SPIA i suoi cittadini?]]
-- [[20241008-uAzJsENWF6Y|Quando il protagonista perde i suoi poteri]]
-- [[20250107-3nEN4xYAjOM|La storia del NOBEL (e i suoi problemi)]]
-- [[20260217-jcwExk3RhOg|Sulla complessità dell'Enclave ed i suoi fallimenti morali]]
-- [[20201113-1QJsN6Seq38|Il Mortecuore Colpisce Ancora (ft Amico Diverte) - Episodio 5]]
-- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20260823-hCx7p_UC4cY|Asobi: le esclusive PS5 arrivano su PC?]]
+- [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
+- [[20250715-tirsbfqboQ4|Stop killing games]]

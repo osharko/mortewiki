@@ -10,8 +10,8 @@ view_count: "8862"
 like_count: "750"
 comment_count: "80"
 playlist_index: "0"
-tags: ["magyar", "sconfitto", "orban", "ovvero", "morte"]
-related: ["20180423-28U0JBR6tuw", "20260310-UP2KuFgg7Pc", "20260503-OCSEyCqD0Ww", "20250315-PhnD0RMTryU", "20250428-0Ah3uih9ERU", "20250814-e-Yzc91yXOA", "20251210-k7MOW5pZKV8", "20251220-Kf_lc_hw9n0", "20260428-s7kvI9qgIbU", "20260710-OKKwf6sotu4"]
+tags: ["orban", "veto", "ungheria", "maghiar", "ungherese", "putin"]
+related: ["20220228-JAaPG9MHvF8", "20241107-Zsyc4OecXhA", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251122-bT5uXCtc85g", "20260120-l464ALtjP9I", "20260405-ISOYtywMOAQ", "20220224-AfzPCkTR0P0", "20250506-Pcrfnsjr160", "20260506-BWcNXtjYK9Q"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/P%C3%A9ter_Magyar#/media/File:Peter_Magyar.Viktor_Orban.jpg"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
-- [[20260503-OCSEyCqD0Ww|Perché CAPCOM ha SCONFITTO la KONAMI]]
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
-- [[20250814-e-Yzc91yXOA|Detective Pikachu: ovvero Bulbasaur è canonicamente il miglior starter]]
-- [[20251210-k7MOW5pZKV8|Jun Hayami, ovvero la fantasia degli autori non è ammissione di colpa]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260710-OKKwf6sotu4|Bryan Johnson: ovvero il fallimento dell'Immortalismo]]
+- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
+- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]

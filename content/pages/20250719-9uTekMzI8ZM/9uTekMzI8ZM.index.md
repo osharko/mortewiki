@@ -10,8 +10,8 @@ view_count: "6803"
 like_count: "419"
 comment_count: "55"
 playlist_index: "0"
-tags: ["quali", "saranno", "prossimi", "fallout"]
-related: ["20200625-UR92jaOqloU", "20250502-dW-nA5qTj_4", "20150226-9N94_hyYamU", "20170113-VSskW7z2BSM", "20170309-y0PiBdL7cAE", "20170406-zWfp_HJkwBU", "20170504-oFJRlMfXfPA", "20170601-77zadUotAKI", "20170629--ZdbW3H70TA", "20170727-Qa2AKnU2QC0"]
+tags: ["remake", "vegas", "betesda", "windows", "spin", "scrolls"]
+related: ["20260719-7bvr2E_6tuU", "20260717-pAm4pcfJfqM", "20250722-qMzLysXMGeY", "20171019-Y2fk-hvhbwg", "20250316-xx1Pw1EjFKk", "20250712-B5HdTcWnNjo", "20171116-2_DKdiKxVZE", "20231001-DJ00uo8ipB0", "20240505-3tQOZo_CPuA", "20171214-vtYGdzdlG6A"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200625-UR92jaOqloU|Quali diritti per i Personaggi dei Videogiochi?]]
-- [[20250502-dW-nA5qTj_4|Ricchi comunisti oggi: quali sono?]]
-- [[20150226-9N94_hyYamU|Fallout e Skyrim: Il glitch del terrore - Riscrittura Horror #7]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170309-y0PiBdL7cAE|Fallout 1 - l'Eroe del Vault 13]]
-- [[20170406-zWfp_HJkwBU|Fallout 2 - Il Prescelto]]
-- [[20170504-oFJRlMfXfPA|Fallout Tactics e Brotherhood of Steel (ITA)]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20170629--ZdbW3H70TA|Van Buren - Il Fallout 3 cancellato (LORE completa, parte 1)]]
-- [[20170727-Qa2AKnU2QC0|Van Buren - Il Fallout 3 Cancellato (LORE completa, parte 2)]]
+- [[20260719-7bvr2E_6tuU|Commentiamo TUTTI i Fallout annunciati]]
+- [[20260717-pAm4pcfJfqM|Il prossimo Fallout è di Obsidian!]]
+- [[20250722-qMzLysXMGeY|Fallout: Remastered, Remake, Reboot]]
+- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
+- [[20250316-xx1Pw1EjFKk|Silent Hill f - Reaction al trailer e discussione del futuro della saga]]
+- [[20250712-B5HdTcWnNjo|Rumor: più Fallout sono in produzione]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20231001-DJ00uo8ipB0|Obsolescenza Programmata e Preservazione Videoludica]]
+- [[20240505-3tQOZo_CPuA|La FILOSOFIA di FALLOUT (Serie Amazon)]]
+- [[20171214-vtYGdzdlG6A|Il finale di NEW VEGAS]]

@@ -10,8 +10,8 @@ view_count: "12427"
 like_count: "898"
 comment_count: "76"
 playlist_index: "0"
-tags: ["papa", "francesco", "dichiara", "tutte", "religioni"]
-related: ["20231223-_O4mNtUyzzQ", "20250222-QuNpgW83n0w", "20250422-IjEejHvQxTI", "20250516-Vv-52kpAJKc", "20260328-hLdaH20jhYU", "20260422-TFvtLT44JqQ", "20250728---XEhfSbPeU", "20190414-DgA-fjx29ek", "20201210-UWetGn2RdEc", "20240104-cogZ3GYtn4Y"]
+tags: ["lutero", "salvezza", "paolo", "francesco", "fide", "testamento"]
+related: ["20250510-xnnBHDexKLE", "20250728---XEhfSbPeU", "20260617-62SpWKbYSuo", "20230710-rkwWGE0175A", "20250509-sAJrhWaZLsA", "20220509--qwkD8BXOJI", "20251029-RxHJ76EZtYE", "20250509-_b6UTmUr-IU", "20250512-0SKFJ4OIT0Q", "20230611-RJTYsarj7N0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
-- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
-- [[20250516-Vv-52kpAJKc|Un Papa che parla inglese]]
-- [[20260328-hLdaH20jhYU|Il Papa ha citato Umineko?!?!]]
-- [[20260422-TFvtLT44JqQ|Se difendi il Papa dalle minacce di Trump sei antidemocratico]]
+- [[20250510-xnnBHDexKLE|Le radici di LUTERO]]
 - [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
-- [[20190414-DgA-fjx29ek|Tutte le Dere (Tsundere, Yandere, Kuudere)]]
-- [[20201210-UWetGn2RdEc|Tutte le prove del CAMBIAMENTO CLIMATICO]]
-- [[20240104-cogZ3GYtn4Y|TUTTE LE BUGIE DI MILEI]]
+- [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
+- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
+- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
+- [[20220509--qwkD8BXOJI|La Proprietà Privata è davvero Sacra?]]
+- [[20251029-RxHJ76EZtYE|L'Ossessione verso l'Inferno (e perché è anti-biblica)]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]

@@ -10,8 +10,8 @@ view_count: "2464"
 like_count: "267"
 comment_count: "38"
 playlist_index: "0"
-tags: ["assaggio", "gelato", "della", "plasmon", "asmr"]
-related: ["20250223-Kk3tT4794bA", "20141001-_b7LDZmMpCk", "20141115-XBZZ-hbVjFE", "20160102-k2CGAYaqYjY", "20170113-VSskW7z2BSM", "20170209-vvwYhiXRDs8", "20180108-SRaemBYELqc", "20180401-SJrN5ouA4Js", "20190505-FijdBtOHHgI", "20200604-I9OBDCBOXx4"]
+tags: ["gelato", "parmalat", "plasmon", "biscotto", "latte", "bere"]
+related: ["20250829-Y67M7q-X0kM", "20260330-CzNHP_DG3Hs", "20260910-TpbEMej22-I", "20250806-v7lcRTqfAxI", "20241209-Gh142vq95TI", "20250426-JGFj_BA_hlc", "20240901-49p5_K5fi58"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250223-Kk3tT4794bA|Esperimento EPICO assaggio gli snack con farina di grillo]]
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
-- [[20141115-XBZZ-hbVjFE|L'origine della vita - Riscrittura Horror #11]]
-- [[20160102-k2CGAYaqYjY|La Santa Muerte - il culto della MORTE]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170209-vvwYhiXRDs8|Le origini della Confraternita d'Acciaio - Wasteland]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
-- [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
-- [[20190505-FijdBtOHHgI|Storia della MASSONERIA]]
-- [[20200604-I9OBDCBOXx4|Le Origini dell'Animazione e della Grafica (e il loro Futuro)]]
+- [[20250829-Y67M7q-X0kM|La Filosofia dei biscotti Plasmon (lore completa)]]
+- [[20260330-CzNHP_DG3Hs|Critica costruttiva a MrWhoseTheBoss]]
+- [[20260910-TpbEMej22-I|Le colpe di una madre]]
+- [[20250806-v7lcRTqfAxI|Mamma, pare che sono sionista!]]
+- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
+- [[20250426-JGFj_BA_hlc|Zootropolis 2 introduce i rettili]]
+- [[20240901-49p5_K5fi58|La Filosofia della SCHIZOFRENIA]]

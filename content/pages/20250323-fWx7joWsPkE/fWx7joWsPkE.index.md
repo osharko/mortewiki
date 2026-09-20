@@ -12,8 +12,8 @@ comment_count: "189"
 playlist: "Racconti Horror"
 playlist_id: "PLU8-xwslFxH8CGl3iKTE0PQiZQ3OImdwM"
 playlist_index: "57"
-tags: ["regno", "funghi", "creepypasta"]
-related: ["20241231-3Zox4F7d-v0", "20250903-FfolkwKdC9U", "20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ", "20141018-k3txtRN-N48", "20150303-KIi6WBdtntI", "20150330-bkJWXlQzEMo", "20150408-pemrddn3Uew", "20150513-V3XISiA7shU", "20150619-Dy4LYExH5Rg"]
+tags: ["funghi", "muffa", "odore", "fungo", "sembravano", "saracinesca"]
+related: ["20251128-y18n7iR6tW0", "20221004-O9-f0Z_Bdh8", "20210321--401lEv0u8U", "20200812-QpdEM6RSBZI", "20251026-pE8piBpjbiU", "20251228-uB6-4Q0ZToU", "20240611-bPcj2QQI1VQ", "20260412-9TV9V9wtqCw", "20200214-tTn5HGIeQww", "20220613-lD1EV1YECC4"]
 video_type: "video"
 description: "TIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#creepypasta #funghi\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA: https://www.youtube.com/watch?v=m8L4mfRUU1E&ab_channel=Myuu"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241231-3Zox4F7d-v0|Regno del Sud Il Film (Speciale 250.000 Iscritti)]]
-- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
-- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
-- [[20150330-bkJWXlQzEMo|Immortalità Quantistica - Creepypasta #11]]
-- [[20150408-pemrddn3Uew|Post Mortem - Creepypasta #12]]
-- [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]
-- [[20150619-Dy4LYExH5Rg|Gemelli - Creepypasta #16]]
+- [[20251128-y18n7iR6tW0|La Filosofia di No, I'm not a Human]]
+- [[20221004-O9-f0Z_Bdh8|Chi si è evoluto prima, Piante o Animali?]]
+- [[20210321--401lEv0u8U|L'Origine dei Sessi]]
+- [[20200812-QpdEM6RSBZI|Super Mario 64 - Creepypasta #38]]
+- [[20251026-pE8piBpjbiU|L'Intelligenza delle PIANTE]]
+- [[20251228-uB6-4Q0ZToU|La NEBBIA sta arrivando - Creepypasta 267]]
+- [[20240611-bPcj2QQI1VQ|Perché odio il pesce (e JUNJI ITO concorda)]]
+- [[20260412-9TV9V9wtqCw|LICANTROPIA - Creepypasta 270]]
+- [[20200214-tTn5HGIeQww|La Filosofia di Parasite]]
+- [[20220613-lD1EV1YECC4|L'UOMO CHE HA VISITATO L'INFERNO - Creepypasta 184]]

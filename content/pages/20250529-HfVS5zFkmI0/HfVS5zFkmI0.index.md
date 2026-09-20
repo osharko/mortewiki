@@ -10,8 +10,8 @@ view_count: "11470"
 like_count: "695"
 comment_count: "47"
 playlist_index: "0"
-tags: ["dibattito", "nietzsche", "questione", "shaming"]
-related: ["20190928-kpVAgG6QP0w", "20250507-_0Qnnxy5ulc", "20250511-wkyU76rAHC0", "20250528-RsQU-zKVSqQ", "20251212-fnmYbiWa1E0"]
+tags: ["grasso", "zucchero", "grassi", "obesità", "insultare", "dieta"]
+related: ["20231129-mshaWKP__Ko", "20250714-NEpXgjWLAjs", "20241219-i54WXMtB0jw", "20260806-Nfu08iZduG4", "20250831-lK4zybJtK2w"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190928-kpVAgG6QP0w|NIETZSCHE (Lezione completa) - #Filosofia 23]]
-- [[20250507-_0Qnnxy5ulc|La questione di San Marino]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
-- [[20251212-fnmYbiWa1E0|Cosplay tra Blackface e Fat shaming]]
+- [[20231129-mshaWKP__Ko|La Biologia del DIMAGRIMENTO (Tra Fat Acceptance e Fatphobia)]]
+- [[20250714-NEpXgjWLAjs|Capelli grigi e calvizie]]
+- [[20241219-i54WXMtB0jw|Bias e Bambini - Come nasce l'istinto del gregge]]
+- [[20260806-Nfu08iZduG4|Sono obeso (stando agli haters)]]
+- [[20250831-lK4zybJtK2w|Critica alla Robofobia e agli slurs tipo Clankers]]

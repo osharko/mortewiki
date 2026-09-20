@@ -6,7 +6,7 @@ playlist: "Biologia"
 playlist_id: "PLU8-xwslFxH-YXov8y9ejhJEGljHIiUfs"
 playlist_index: "31"
 source: "https://youtu.be/KuTQQvFd8n4"
-tags: ["cannabis", "should", "legalize"]
+tags: ["legalize", "should", "cannabis"]
 embeddable: "0"
 stub: "1"
 ---

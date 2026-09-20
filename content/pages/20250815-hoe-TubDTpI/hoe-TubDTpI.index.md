@@ -10,8 +10,8 @@ view_count: "13964"
 like_count: "1139"
 comment_count: "53"
 playlist_index: "0"
-tags: ["capito", "vado"]
-related: ["20240204-TRoHvbOsJmI", "20250119-Ek13yTq2NwE", "20250604-teuBeH5Gq1I"]
+tags: ["checco", "cuovado", "sottotesto", "tagli", "zalone", "trapiantato"]
+related: ["20220715-qXNF6b6tapc", "20250816-AeJx5sVmioA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,6 +19,5 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240204-TRoHvbOsJmI|Non hai capito Godzilla]]
-- [[20250119-Ek13yTq2NwE|Non hai capito i GDR]]
-- [[20250604-teuBeH5Gq1I|Non hai capito Hegel]]
+- [[20220715-qXNF6b6tapc|La Filosofia di Mulan (ft Violetta Rocks)]]
+- [[20250816-AeJx5sVmioA|La guerra dei conservatori contro le AI]]

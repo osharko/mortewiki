@@ -10,8 +10,8 @@ view_count: "2897"
 like_count: "316"
 comment_count: "15"
 playlist_index: "0"
-tags: ["quel", "periodo", "pazzurdo", "videogiochi", "negli"]
-related: ["20190208-0Z7WZWmPUy4", "20200625-UR92jaOqloU", "20200708-E1HGWimlq14", "20200902-qGiwPDfhiDo", "20201216-SeA459I2b60", "20210514-L1S5WgMn9G0", "20250519-g4r0xZF8-9o", "20250521-MOhAGn85ZPA", "20250807-2b0cARS6xn4", "20260911-xpaEtnJJF8k"]
+tags: ["nintendo", "siga", "pokémon", "uscivano", "friendly", "family"]
+related: ["20251114-uznIlHcFInI", "20200313-vVUJlCn37NE", "20251220-Kf_lc_hw9n0", "20250828-gUXRvczylOM", "20190912-sX777AyfxsI", "20251218-NOr_HttEIfg", "20250922-8onAikE00Dc", "20200405-4FIOk8SHwjc", "20240614-tlrMiE7BzRY", "20250524-zSGQoSrx00A"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190208-0Z7WZWmPUy4|I Videogiochi NON causano Dipendenza o Violenza - La Psicologia dei Videogiochi]]
-- [[20200625-UR92jaOqloU|Quali diritti per i Personaggi dei Videogiochi?]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20210514-L1S5WgMn9G0|Anime e Videogiochi: come far tornare la voglia?]]
-- [[20250519-g4r0xZF8-9o|Quando TUTTI i brand facevano videogiochi]]
-- [[20250521-MOhAGn85ZPA|Lo Sport è Arte? I Videogiochi sono Sport?]]
-- [[20250807-2b0cARS6xn4|No, i videogiochi non sono per ragazzini]]
-- [[20260911-xpaEtnJJF8k|Difficoltà nei videogiochi: tra Gatekeeping e Capitalismo]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]

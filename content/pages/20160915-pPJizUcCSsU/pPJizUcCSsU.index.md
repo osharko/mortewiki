@@ -12,8 +12,8 @@ comment_count: "139"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "34"
-tags: ["perché", "capolavoro"]
-related: ["20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc", "20210604-PPgciXLt-v0"]
+tags: ["museo", "mary", "gary", "astratto", "artistico", "artista"]
+related: ["20250522-a2HPoD2b61E", "20260825-e9Bts9SU3CM", "20180401-SJrN5ouA4Js", "20260223-6sXWZZfebWg", "20150912-SCa0IsQezdw", "20240410-SjpVk87JhtA", "20210312-0POryNho0X4", "20260503-SZBocEbdQao", "20241001-znzWEeJ4g58", "20250330-z4zfmUBdydA"]
 video_type: "video"
 description: "Pagina Facebook: https://www.facebook.com/Mortebianca-110340322484186/\nFanfiction su Weiss Guertena: https://www.fanfiction.net/s/12149504/1/La-biografia-non-autorizzata-di-Weiss-Guertena\nIB Download: http://www.vgperson.com/games/ib.htm\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\nIb Title Theme\nCorelli La Folia (Gallery's theme)\nIb Dungeon 2\nPuppet (Mary's theme)"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
-- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
+- [[20250522-a2HPoD2b61E|Il rapporto tra Arte e Denaro: Izumi Kato]]
+- [[20260825-e9Bts9SU3CM|La Filosofia di Mary e il Fiore della Strega]]
+- [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
+- [[20260223-6sXWZZfebWg|L'odio per l'Arte Moderna non ha il minimo senso]]
+- [[20150912-SCa0IsQezdw|La VERA storia di Bloody Mary - Creepypasta #23]]
+- [[20240410-SjpVk87JhtA|PUÒ UNA AI CREARE ARTE? È PLAGIO?]]
+- [[20210312-0POryNho0X4|La Psicologia di SILENT HILL]]
+- [[20260503-SZBocEbdQao|L'Arte di Adolf Hitler]]
+- [[20241001-znzWEeJ4g58|AI Art e Copyright: due ipocrisie si incontrano]]
+- [[20250330-z4zfmUBdydA|Miyazaki vs AI Art]]

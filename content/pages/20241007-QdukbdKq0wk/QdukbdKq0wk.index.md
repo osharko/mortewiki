@@ -10,8 +10,8 @@ view_count: "11194"
 like_count: "1092"
 comment_count: "67"
 playlist_index: "0"
-tags: ["fascismo", "come", "perversione", "sessuale", "incel"]
-related: ["20181206-U_I9h5SfwIg", "20210622-tmnpsoL5rNE", "20210928-6b8MBpZBs0c", "20240929-2H_XJKQX3PE", "20250409-FCVF1jwbvzI", "20250515-kvjs_N2Wv54", "20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic"]
+tags: ["minorenni", "porno", "rubano", "elon", "parto", "giocatore"]
+related: ["20250823-lvuDoi8FX5o", "20260802-TeNDxHNNZbU", "20220123-EfCUfd5HKyI", "20250211-1D0clNOe0Dc", "20190111-3HIe9O2A_rc", "20251120-29RH-cMlBZE", "20251014-3wmjKpIoB_s", "20251216-1Bo2xDFYWss", "20160527-0bTtbHb0byI", "20241013-zaBaaiDXgCc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20210928-6b8MBpZBs0c|IL FASCISMO in Attack on Titan]]
-- [[20240929-2H_XJKQX3PE|TUTTE le cose buone fatte dal FASCISMO]]
-- [[20250409-FCVF1jwbvzI|Fascismo e pedofilia: un legame storico]]
-- [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
+- [[20250823-lvuDoi8FX5o|L'artista che ha RESISTITO alla tentazione]]
+- [[20260802-TeNDxHNNZbU|Il Nofap non ha senso - Critica al No Nut November]]
+- [[20220123-EfCUfd5HKyI|La Psicologia di OnlyFans]]
+- [[20250211-1D0clNOe0Dc|Critica alla Pornificazione mediatica imperante]]
+- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
+- [[20251120-29RH-cMlBZE|La Filosofia di MISIDE]]
+- [[20251014-3wmjKpIoB_s|Durov contro il Chat Control]]
+- [[20251216-1Bo2xDFYWss|Perché i maschi conservatori hanno difficoltà con le donne?]]
+- [[20160527-0bTtbHb0byI|Game Story - Creepypasta #42]]
+- [[20241013-zaBaaiDXgCc|Cosa sono gli SPAZI LIMINALI?]]

@@ -10,8 +10,8 @@ view_count: "7030"
 like_count: "448"
 comment_count: "44"
 playlist_index: "0"
-tags: ["come", "gnosticismo", "infiltrato", "cristianesimo"]
-related: ["20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic", "20180913-oarDTu2wT0A", "20181025-vMp6JS1zuWA", "20190905-WDdTpZU8AIk", "20200226-u6p192nXhl8", "20200530-qhxjjApb7Hw", "20200820-tcw8gjc9Uqg"]
+tags: ["testamento", "gnosticismo", "gnostici", "demiurgo", "lutero", "ebraico"]
+related: ["20250510-xnnBHDexKLE", "20241026-3EAwhA0DQ4E", "20230611-RJTYsarj7N0", "20230710-rkwWGE0175A", "20220509--qwkD8BXOJI", "20251219-EBQwDwYympo", "20231224-7N9DSp82VRA", "20260816-uX2cckIcOn8", "20221027-Nrb13Cfy8jw", "20241222-g5JkuphshQQ"]
 video_type: "video"
 description: "Fonte meme: https://www.reddit.com/r/PhilosophyMemes/comments/1c375fa/the_demiurge_strikes_once_again/"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20180913-oarDTu2wT0A|Come continuano le creepypasta?]]
-- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
-- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
-- [[20200820-tcw8gjc9Uqg|Gli Errori Grammaticali (e come evitarli)]]
+- [[20250510-xnnBHDexKLE|Le radici di LUTERO]]
+- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
+- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
+- [[20220509--qwkD8BXOJI|La Proprietà Privata è davvero Sacra?]]
+- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
+- [[20231224-7N9DSp82VRA|La Filosofia del SATANISMO]]
+- [[20260816-uX2cckIcOn8|Le Correnti dell'Ebraismo, Rasta e Samaritanesimo (Confronto)]]
+- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
+- [[20241222-g5JkuphshQQ|Critica alla Necrofilia]]

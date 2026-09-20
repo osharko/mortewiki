@@ -12,8 +12,8 @@ comment_count: "326"
 playlist: "FILOSOFIA"
 playlist_id: "PLU8-xwslFxH9NwboeEdiYOwWyZX6uCks9"
 playlist_index: "60"
-tags: ["sanità", "come", "migliorarla"]
-related: ["20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic", "20180913-oarDTu2wT0A", "20181025-vMp6JS1zuWA", "20190905-WDdTpZU8AIk", "20200226-u6p192nXhl8", "20200530-qhxjjApb7Hw", "20200820-tcw8gjc9Uqg"]
+tags: ["privati", "occhiali", "vaccini", "luxottica", "sanitario", "prezzi"]
+related: ["20211203-UpUfJ2pZ57U", "20190609-9VIV0m7fHDU", "20260618-ZtU7yYIfhfM", "20260517-g3_Sm0wxDlM", "20251030--lx5H7MfRo4", "20250315-PhnD0RMTryU", "20250413-Y0jMmKLzDWk", "20210303-91GGn_7KwQE", "20220222-PEKSfG1MV8Q", "20251222-6F5Yin5_lSc"]
 video_type: "video"
 description: "La salute è un diritto, punto.\nIl mio prossimo LIBRO: http://t.ly/71EY\nIl mio primo LIBRO: https://bitly.com/creepypasta1\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://bit.ly/morte_bianca\nTipeee: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Sanità #Healthcare\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://theneondreamer.bandcamp.com/album/dissimulation\nhttps://theneondreamer.bandcamp.com/album/neon-dreams\nFONTI:\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378609/\nhttps://www.sanita24.ilsole24ore.com/art/lavoro-e-professione/2022-09-08/cimo-fesmed-10-anni-chiusi-111-ospedali-tagliati-37-mila-posti-letto-e-25-milioni-ricoveri-aumentano-costi-decessi-e-malattie-115311.php?uuid=AEsjPhyB\nhttps://www.gimbe.org/osservatorio/Report_Osservatorio_GIMBE_2019.07_Definanziamento_SSN.pdf E\nhttps://www.quotidianosanita.it/studi-e-analisi/articolo.php?articolo_id=82776\nhttps://thevision.com/attualita/sanita-pubblica-italiana/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20180913-oarDTu2wT0A|Come continuano le creepypasta?]]
-- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
-- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
-- [[20200820-tcw8gjc9Uqg|Gli Errori Grammaticali (e come evitarli)]]
+- [[20211203-UpUfJ2pZ57U|La Scienza dei VACCINI]]
+- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
+- [[20260618-ZtU7yYIfhfM|Scalping: una semplice soluzione]]
+- [[20260517-g3_Sm0wxDlM|Occhiali 5D - Creepypasta 273]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
+- [[20210303-91GGn_7KwQE|Coronavirus e Africa]]
+- [[20220222-PEKSfG1MV8Q|Tutti i SEGRETI dell'ADRENOCROMO]]
+- [[20251222-6F5Yin5_lSc|Trump vs Paracetamolo]]

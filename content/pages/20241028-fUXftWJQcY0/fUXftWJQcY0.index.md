@@ -10,8 +10,8 @@ view_count: "7224"
 like_count: "680"
 comment_count: "51"
 playlist_index: "0"
-tags: ["nintendo", "stata", "beccata", "usare", "emulatori"]
-related: ["20190912-sX777AyfxsI", "20240402-wiAHlWl8Ffo", "20241116-zW2mk3zC1b4", "20250413-Y0jMmKLzDWk", "20250524-zSGQoSrx00A", "20250922-8onAikE00Dc", "20250423-KPvqg1GRrFs", "20260520-ylfnMlWU850"]
+tags: ["nintendo", "emulatori", "adam", "smith", "store", "sony"]
+related: ["20190912-sX777AyfxsI", "20251114-uznIlHcFInI", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20260705-jcu-Hvbspu4", "20250524-zSGQoSrx00A", "20241116-zW2mk3zC1b4", "20250413-Y0jMmKLzDWk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -20,10 +20,12 @@ embeddable: "1"
 
 ## Correlati
 - [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20240402-wiAHlWl8Ffo|IL MIGLIOR FANGAME POKÉMON (Nintendo lo ha fatto CHIUDERE)]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
 - [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
 - [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20250423-KPvqg1GRrFs|La Russia è stata esclusa dalla cerimonia di liberazione di Auschwitz]]
-- [[20260520-ylfnMlWU850|Fukushima è stata un disastro]]

@@ -10,8 +10,8 @@ view_count: "12899"
 like_count: "1177"
 comment_count: "72"
 playlist_index: "0"
-tags: ["come", "salvare", "complottisti"]
-related: ["20150919-9MJLLFFKwVs", "20170205-tkLolnjt_L4", "20180607-bKc6ByxMrzo", "20180719-709ybMCFiic", "20180913-oarDTu2wT0A", "20181025-vMp6JS1zuWA", "20190905-WDdTpZU8AIk", "20200226-u6p192nXhl8", "20200530-qhxjjApb7Hw", "20200820-tcw8gjc9Uqg"]
+tags: ["ovvietà", "infallibile", "consensus", "costruisci", "esisto", "solipsismo"]
+related: ["20241126-5zP5EKfpLhA", "20231018-HqZGt3YpSV0", "20250909-I_VQjW_rceQ", "20250129-5JUX_EoZ5vc", "20250315-LnATpvdeum8", "20250322-gb7Hp_-HMlg", "20250731-XIlLT3W6iGo", "20180506-mpDMlzOXrHA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,11 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
-- [[20180913-oarDTu2wT0A|Come continuano le creepypasta?]]
-- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20200226-u6p192nXhl8|Come funziona la Magia in Harry Potter? (Ft TRONO DEL MUORI)]]
-- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
-- [[20200820-tcw8gjc9Uqg|Gli Errori Grammaticali (e come evitarli)]]
+- [[20241126-5zP5EKfpLhA|Critica al SOLIPSISMO]]
+- [[20231018-HqZGt3YpSV0|L'InfalliBBile Padre Kain mi distrugge]]
+- [[20250909-I_VQjW_rceQ|Sono stato sfidato da una DIVINITA']]
+- [[20250129-5JUX_EoZ5vc|Dici solo Ovvietà]]
+- [[20250315-LnATpvdeum8|No, gli USA non hanno salvato l'URSS]]
+- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
+- [[20250731-XIlLT3W6iGo|Fallacia Tu Quoque]]
+- [[20180506-mpDMlzOXrHA|Solipsismo Quantistico - Creepypasta #91 (ft Horror Maniaci)]]

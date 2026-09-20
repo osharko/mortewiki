@@ -10,8 +10,8 @@ view_count: "40368"
 like_count: "2267"
 comment_count: "235"
 playlist_index: "0"
-tags: ["sulla", "morte", "charlie", "kirk"]
-related: ["20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0", "20250523-9KRef9VPR1w"]
+tags: ["kirk", "charlie", "assassinio", "maga", "auguro", "spiace"]
+related: ["20250919-k4OWzYlYgfA", "20251002-YMiew8pi3rY", "20250913-tw2W3ZPrbJE", "20240418-8Wk2915vtbQ", "20240321-WCsJqKLfJkE", "20240218-nCh9NAjg-MA", "20251211-YObFVnHg2RU", "20240329-Vixn-NVK_sU", "20240403-NtZdQrwR_4A", "20260202-3Z9ZLo3sBSk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250523-9KRef9VPR1w|Sulla fine di Shinzo Abe]]
+- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
+- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]
+- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
+- [[20240321-WCsJqKLfJkE|Lo Strillo liberistico di Khan (Star Trek 2 commentato con Libri in Pillole)]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
+- [[20251211-YObFVnHg2RU|La Politica di HAZBIN HOTEL 2]]
+- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
+- [[20240403-NtZdQrwR_4A|Rotta verso la Terra (Watchparty con Libri in Pillole)]]
+- [[20260202-3Z9ZLo3sBSk|Chi sarà l'erede di Trump?]]

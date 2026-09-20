@@ -10,8 +10,8 @@ view_count: "16718"
 like_count: "1005"
 comment_count: "31"
 playlist_index: "0"
-tags: ["peggiore", "critica", "marx", "sempre"]
-related: ["20210730-DcZQjaGmwro", "20250208-VKO43N0hpPQ", "20250404-cM894rePYhA", "20250916-5q4UcU_99vQ", "20250930-0_fHcp5qFs0", "20251224-9bsGm21CExY", "20260118-3c8Oqbiihk0", "20260215-qGBbCXcZdcc", "20260420-4iShMYTBm0I", "20260701-zsBed0cG5bc"]
+tags: ["conflitti", "omogeneo", "cattolico", "cattolici", "divisione", "tedeschi"]
+related: ["20250904-UxyeeuS9rGc", "20231223-_O4mNtUyzzQ", "20250131-RnZ3rZr9tuk", "20260502-1K07UwWMWZg", "20250227--SvTavqJK4M", "20260414-BiRiNnQGc3s", "20221027-Nrb13Cfy8jw", "20221130-DsS0lxEubZY", "20260505-KEpwvnkblbc", "20241224-3Vc0wWzKtsY"]
 video_type: "video"
 description: "https://it.wikipedia.org/wiki/Karl_Marx#/media/File:Karl_Marx_memorial.jpg"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20250208-VKO43N0hpPQ|Il mio audio PEGGIORE in assoluto]]
-- [[20250404-cM894rePYhA|Il mio audio PEGGIORE in assoluto 2]]
-- [[20250916-5q4UcU_99vQ|Il mio audio PEGGIORE in assoluto 3]]
-- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
-- [[20260118-3c8Oqbiihk0|Il testo PEGGIORE che io abbia mai letto]]
-- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]
-- [[20260420-4iShMYTBm0I|La PEGGIORE difesa del Copyright che io abbia mai letto]]
-- [[20260701-zsBed0cG5bc|La PEGGIORE critica all'Arte Moderna che io abbia mai letto]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
+- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
+- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
+- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
+- [[20260505-KEpwvnkblbc|L'Ecumenismo tra Cristianesimo e Islam]]
+- [[20241224-3Vc0wWzKtsY|Critica costruttiva a Kurzgesagt]]

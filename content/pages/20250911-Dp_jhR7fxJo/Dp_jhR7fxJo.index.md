@@ -10,8 +10,8 @@ view_count: "7047"
 like_count: "613"
 comment_count: "46"
 playlist_index: "0"
-tags: ["psicologia", "pubblica", "radicale"]
-related: ["20161013-WuG9Nrq76Wk", "20180304--9Y-nkCO6QE", "20190208-0Z7WZWmPUy4", "20191020-aqlJEC3q7AI", "20200429-5ksJ_atnAYU", "20201017-TrOBeFRHPBA", "20201018-ZohFBdKag7Q", "20210312-0POryNho0X4", "20220123-EfCUfd5HKyI", "20220515-ibkJH4Sqglg"]
+tags: ["psicologo", "click", "povertà", "sintomo", "patologie", "psicologica"]
+related: ["20241203-dcehxRCWIO8", "20201113-1QJsN6Seq38", "20191222-gG8qk4nHD7Y", "20260310-UP2KuFgg7Pc", "20190808-_8MBItaSRs0", "20260728-QM_2gxdzDi0", "20250627-IFRtlM06ZpA", "20170813-5HCMfUFszmo", "20170507-kuhCpnSnB6o", "20180607-bKc6ByxMrzo"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20161013-WuG9Nrq76Wk|La Psicologia di YUME NIKKI]]
-- [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
-- [[20190208-0Z7WZWmPUy4|I Videogiochi NON causano Dipendenza o Violenza - La Psicologia dei Videogiochi]]
-- [[20191020-aqlJEC3q7AI|La Psicologia di EVANGELION]]
-- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
-- [[20201017-TrOBeFRHPBA|La PSICOLOGIA è una SCIENZA - Differenza tra Psicologia e Psichiatria]]
-- [[20201018-ZohFBdKag7Q|La Psicologia di Harry Potter]]
-- [[20210312-0POryNho0X4|La Psicologia di SILENT HILL]]
-- [[20220123-EfCUfd5HKyI|La Psicologia di OnlyFans]]
-- [[20220515-ibkJH4Sqglg|La Psicologia di Adolf Hitler]]
+- [[20241203-dcehxRCWIO8|Non sono il tuo psicologo]]
+- [[20201113-1QJsN6Seq38|Il Mortecuore Colpisce Ancora (ft Amico Diverte) - Episodio 5]]
+- [[20191222-gG8qk4nHD7Y|La Filosofia del Sesto Senso]]
+- [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
+- [[20190808-_8MBItaSRs0|La Storia di Youtube]]
+- [[20260728-QM_2gxdzDi0|Mamdani contro gli abbonamenti furbetti]]
+- [[20250627-IFRtlM06ZpA|AFRICA: La prossima superpotenza?]]
+- [[20170813-5HCMfUFszmo|La Tortura psicologica più crudele - Creepypasta #72]]
+- [[20170507-kuhCpnSnB6o|Quanto ti resta da vivere? (ft Ivo de Palma) - Creepypasta #66]]
+- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]

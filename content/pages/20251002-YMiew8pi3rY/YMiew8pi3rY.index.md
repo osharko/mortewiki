@@ -10,8 +10,8 @@ view_count: "9714"
 like_count: "742"
 comment_count: "32"
 playlist_index: "0"
-tags: ["charlie", "kirk", "stato", "ucciso", "mossad"]
-related: ["20250912-kO3kNZubRMw", "20250919-k4OWzYlYgfA", "20231015-veWLMoua7t0", "20241102-4wC_IKaJAiM", "20250131-Wb-LDQDxaN0", "20250727-MSSoo-_gaos", "20250827-A-SRRM-1aus", "20250909-I_VQjW_rceQ", "20251030--lx5H7MfRo4", "20260127-Okbt1If7Lkw"]
+tags: ["kirk", "charlie", "kennedy", "antisemitismo", "ammazza", "cortes"]
+related: ["20250919-k4OWzYlYgfA", "20250912-kO3kNZubRMw", "20200629-u9aTBFfYrw8", "20240813-0DGlNyn5gS8", "20250913-tw2W3ZPrbJE", "20240418-8Wk2915vtbQ", "20240321-WCsJqKLfJkE", "20240218-nCh9NAjg-MA", "20251211-YObFVnHg2RU", "20240329-Vixn-NVK_sU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
 - [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
-- [[20231015-veWLMoua7t0|Sono stato S B U G I A R D A T O]]
-- [[20241102-4wC_IKaJAiM|Se potessi rinascere, quale stato sceglierei come patria?]]
-- [[20250131-Wb-LDQDxaN0|TWITTER si è arreso: il BAN è stato rimosso]]
-- [[20250727-MSSoo-_gaos|Sono stato maledetto - Crepypasta 117]]
-- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
-- [[20250909-I_VQjW_rceQ|Sono stato sfidato da una DIVINITA']]
-- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
-- [[20260127-Okbt1If7Lkw|Madoka 4 è stato rimandato]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
+- [[20200629-u9aTBFfYrw8|La Maledizione dei Kennedy - Creepypasta #2]]
+- [[20240813-0DGlNyn5gS8|STORIA AMERICANA 4: KENNEDY VS REAGAN]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]
+- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
+- [[20240321-WCsJqKLfJkE|Lo Strillo liberistico di Khan (Star Trek 2 commentato con Libri in Pillole)]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
+- [[20251211-YObFVnHg2RU|La Politica di HAZBIN HOTEL 2]]
+- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]

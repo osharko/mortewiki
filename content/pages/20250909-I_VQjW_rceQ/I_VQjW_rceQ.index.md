@@ -10,8 +10,8 @@ view_count: "11788"
 like_count: "822"
 comment_count: "125"
 playlist_index: "0"
-tags: ["sono", "stato", "sfidato", "divinita"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["solipsismo", "simulazione", "troll", "considerazione", "grammatica", "cosciente"]
+related: ["20241126-5zP5EKfpLhA", "20210718-Nh1tTgWPxis", "20251207-Bg9q6hOYsQY", "20160426-4ufMxjKbprk", "20250519-IJx0M98frKM", "20190203-3OflVc82qb8", "20241013-Do1d9XuxBHQ", "20180211-JM_axxwheaI", "20180304--9Y-nkCO6QE", "20230930-UjzUn5-as24"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20241126-5zP5EKfpLhA|Critica al SOLIPSISMO]]
+- [[20210718-Nh1tTgWPxis|La Filosofia del Trolling (Non c'è)]]
+- [[20251207-Bg9q6hOYsQY|Critica allo Zombie Problem]]
+- [[20160426-4ufMxjKbprk|Che cos'è Matrix?]]
+- [[20250519-IJx0M98frKM|Upscaling - Creepypasta 252]]
+- [[20190203-3OflVc82qb8|La Filosofia di Bandersnatch - Black Mirror]]
+- [[20241013-Do1d9XuxBHQ|Come salvare i complottisti?]]
+- [[20180211-JM_axxwheaI|Intelligenza Artificiale Forte - Creepypasta #85]]
+- [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
+- [[20230930-UjzUn5-as24|BLACK MIRROR è MORTO]]

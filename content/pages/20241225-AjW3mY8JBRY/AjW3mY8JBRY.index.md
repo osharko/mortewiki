@@ -10,8 +10,8 @@ view_count: "5351"
 like_count: "514"
 comment_count: "27"
 playlist_index: "0"
-tags: ["minecraft", "roblox", "lego", "tetris", "uniti"]
-related: ["20140921-dQTMSp83rTE", "20161110-dTLp-YQ0U9Y", "20191031-Sns5GfkvAPw", "20250925-gCkPrY6cec4"]
+tags: ["lego", "tetris", "microsoft", "roblox", "appartiene", "minecraft"]
+related: ["20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20161110-dTLp-YQ0U9Y", "20250406-WCH4kW9DT7k", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20250302-J3DkzHuOhCg", "20250102-XOArfyW2q58", "20260907-FHFHHiC4SGU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20140921-dQTMSp83rTE|Minecraft - Partita perfetta!]]
+- [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
+- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
 - [[20161110-dTLp-YQ0U9Y|Un filosofo su Minecraft]]
-- [[20191031-Sns5GfkvAPw|PewDiePie e Minecraft]]
-- [[20250925-gCkPrY6cec4|Come Cuba ha UMILIATO gli Stati Uniti]]
+- [[20250406-WCH4kW9DT7k|Critica alla TOP videoludica del BAFTA]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20250302-J3DkzHuOhCg|Funko Pop: cosa ne penso]]
+- [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]
+- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]

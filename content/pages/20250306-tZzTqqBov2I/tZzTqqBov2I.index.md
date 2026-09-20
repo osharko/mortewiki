@@ -10,8 +10,8 @@ view_count: "7872"
 like_count: "786"
 comment_count: "82"
 playlist_index: "0"
-tags: ["youtube", "decide", "dove", "mettere", "posto"]
-related: ["20180719-709ybMCFiic", "20190808-_8MBItaSRs0", "20251213-b-2w8GMJ9RA", "20170827-Cx825OF4sE0", "20170907-nQmNVZnP_4I", "20180621-dQMhsnOg_cI", "20200318-sJL0k2ASBcc", "20201129-qJqdiBbaRq0", "20230424-MAPz6iU24l8", "20250326-XnkbgT-yDys"]
+tags: ["annunci", "algoritmo", "roll", "midroll", "guadagni", "invasivo"]
+related: ["20151206-XMBqO5XgnZc", "20180824-pElI_oq_ekE", "20240817-rrdqSUyfD1o", "20190808-_8MBItaSRs0", "20190403-BkaazMza7oo", "20240713-93hBvl3hhm4", "20250204-7yB3loP15w4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
+- [[20151206-XMBqO5XgnZc|Intelligenza Artificiale Debole - Creepypasta #30]]
+- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
+- [[20240817-rrdqSUyfD1o|L’AUTOMAZIONE STA ARRIVANDO…]]
 - [[20190808-_8MBItaSRs0|La Storia di Youtube]]
-- [[20251213-b-2w8GMJ9RA|La storia più EPICA di YOUTUBE]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20170907-nQmNVZnP_4I|Da dove leggere la Filosofia? - Introduzione al corso online]]
-- [[20180621-dQMhsnOg_cI|La Filosofia in Lovecraft - Da dove leggerlo?]]
-- [[20200318-sJL0k2ASBcc|Fidanzate fantastiche (e dove trovarle) - Mortecuore 3]]
-- [[20201129-qJqdiBbaRq0|Da dove Informarsi? - Le mie Ispirazioni]]
-- [[20230424-MAPz6iU24l8|Dove sono gli ALIENI? - Il Paradosso di Fermi]]
-- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20190403-BkaazMza7oo|Quella volta che ho fregato i Bot DALL'UCRAINA]]
+- [[20240713-93hBvl3hhm4|Il POTERE di un iscritto - Speciale 1000 video]]
+- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]

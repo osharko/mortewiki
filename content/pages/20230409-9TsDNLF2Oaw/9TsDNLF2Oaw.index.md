@@ -12,8 +12,8 @@ comment_count: "156"
 playlist: "Terzo Ciclo"
 playlist_id: "PLU8-xwslFxH_HvZyo23L4WA3u5R21rRVC"
 playlist_index: "2"
-tags: ["viaggio", "astrale", "creepypasta"]
-related: ["20210919-AsrzSYG9Tt0", "20260228-8M2_QahpiwQ", "20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ", "20141018-k3txtRN-N48", "20150303-KIi6WBdtntI", "20150330-bkJWXlQzEMo", "20150408-pemrddn3Uew", "20150513-V3XISiA7shU", "20150619-Dy4LYExH5Rg"]
+tags: ["pazienti", "cerebrale", "descritto", "farmaco", "ricordavano", "aldilà"]
+related: ["20260226-0m1ykVFZrNE", "20201127-b6-XhaJav78", "20211002-vpw7ldIxYDg", "20250201--nqfZ2SA8iU", "20221005--fxNt6G09OE", "20251222-6F5Yin5_lSc", "20180114-cjK2vbrMEKE", "20251028-PLZeB5tZwfE"]
 video_type: "video"
 description: "Il mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#viaggiastrali #nde\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@Drecon come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@Drecon come editor\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMUSIC:\nhttps://www.youtube.com/watch?v=d6F3UreE9yM\nhttps://deathoncassette.bandcamp.com/"
 embeddable: "1"
@@ -22,13 +22,11 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210919-AsrzSYG9Tt0|Viaggio tra i PEDOFILI del DEEP WEB]]
-- [[20260228-8M2_QahpiwQ|La Filosofia del Viaggio con Pippo]]
-- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
-- [[20150330-bkJWXlQzEMo|Immortalità Quantistica - Creepypasta #11]]
-- [[20150408-pemrddn3Uew|Post Mortem - Creepypasta #12]]
-- [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]
-- [[20150619-Dy4LYExH5Rg|Gemelli - Creepypasta #16]]
+- [[20260226-0m1ykVFZrNE|L'OSPEDALE - Creepypasta 268]]
+- [[20201127-b6-XhaJav78|La Filosofia dell'Alzheimer]]
+- [[20211002-vpw7ldIxYDg|Elogio dell'Infermiere]]
+- [[20250201--nqfZ2SA8iU|La VITA dopo la MORTE cosa TI CAMBIA?]]
+- [[20221005--fxNt6G09OE|La Filosofia di Angel Beats]]
+- [[20251222-6F5Yin5_lSc|Trump vs Paracetamolo]]
+- [[20180114-cjK2vbrMEKE|Il 10% del cervello - Creepypasta #83]]
+- [[20251028-PLZeB5tZwfE|Miside e l'Inferno biblicamente accurato]]

@@ -10,8 +10,8 @@ view_count: "6429"
 like_count: "450"
 comment_count: "46"
 playlist_index: "0"
-tags: ["futuro", "steam", "preoccupa"]
-related: ["20181206-U_I9h5SfwIg", "20190829--bOhzN9h6PQ", "20200405-4FIOk8SHwjc", "20200509-PIjNe3OByjw", "20201216-SeA459I2b60", "20211230-tR_0Sb0NVlU", "20230917-tkT3xxcvcko", "20231228-Bt6gSX4mZwY", "20241001-hSR2jzfj434", "20241107-Zsyc4OecXhA"]
+tags: ["windows", "linux", "microsoft", "gabe", "console", "android"]
+related: ["20250601-vCSmCMSsvm4", "20260425-IGXcMbxPc3w", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260526-5pi77L9A0gw", "20200509-PIjNe3OByjw", "20260815-LoFSH3Rwa6o", "20260607-_q1-AIH51sk", "20260907-FHFHHiC4SGU", "20250526-yQg5jFVG958"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
+- [[20260425-IGXcMbxPc3w|Linux non è meglio di Windows perché ci sono tante distro diverse]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20260204-QxK66ZAFkDE|La fine di Microsoft?]]
+- [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
 - [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20211230-tR_0Sb0NVlU|Il futuro di Internet mi preoccupa...]]
-- [[20230917-tkT3xxcvcko|ALL TOMORROWS - Politica e Biologia del FUTURO]]
-- [[20231228-Bt6gSX4mZwY|Pokémon VIOLETTO: Lore tra passato e futuro della serie]]
-- [[20241001-hSR2jzfj434|IL FUTURO di WARHAMMER 40K]]
-- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20260607-_q1-AIH51sk|Linux è americano (circa), dovremmo usarlo?]]
+- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]

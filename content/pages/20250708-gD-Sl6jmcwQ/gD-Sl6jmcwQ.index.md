@@ -10,8 +10,8 @@ view_count: "5855"
 like_count: "519"
 comment_count: "23"
 playlist_index: "0"
-tags: ["gente", "pirata", "solo", "egoismo", "stella"]
-related: ["20251123-wsEigdjVEGg", "20210822-G1rdaJRo9Vg", "20250129-5JUX_EoZ5vc", "20250204-7yB3loP15w4", "20250915-oVS6mI7DA0E"]
+tags: ["pirateria", "demo", "continuerà", "vevo", "spotify", "pirata"]
+related: ["20250613-KeCRCoD6ofU", "20250621-eDOLgg_DanI", "20250616-_XAkL3efnyo", "20250711-ck1X8AgRBXo", "20251123-wsEigdjVEGg", "20180819-PTwOHD4czkU", "20260603-s-YEIE97Dtc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250613-KeCRCoD6ofU|Se comprare non è possedere...]]
+- [[20250621-eDOLgg_DanI|Piratare significa davvero sfruttare?]]
+- [[20250616-_XAkL3efnyo|Ma la pirateria è illegale]]
+- [[20250711-ck1X8AgRBXo|Piratare è davvero come rubare un'auto?]]
 - [[20251123-wsEigdjVEGg|Cowboy, Pirata o Samurai?]]
-- [[20210822-G1rdaJRo9Vg|IL FORUM CON UN SOLO UTENTE - Creepypasta 168]]
-- [[20250129-5JUX_EoZ5vc|Dici solo Ovvietà]]
-- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]
-- [[20250915-oVS6mI7DA0E|Digimon genderfluid?!?!?!123stella?]]
+- [[20180819-PTwOHD4czkU|La Filosofia in Stranger Things (e nel Vaporwave)]]
+- [[20260603-s-YEIE97Dtc|La Filosofia delle BACKROOMS]]

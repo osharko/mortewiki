@@ -10,8 +10,8 @@ view_count: "2827"
 like_count: "273"
 comment_count: "9"
 playlist_index: "0"
-tags: ["della", "qualità", "audio", "video"]
-related: ["20141001-_b7LDZmMpCk", "20141115-XBZZ-hbVjFE", "20160102-k2CGAYaqYjY", "20170113-VSskW7z2BSM", "20170209-vvwYhiXRDs8", "20180108-SRaemBYELqc", "20180401-SJrN5ouA4Js", "20190505-FijdBtOHHgI", "20200604-I9OBDCBOXx4", "20200722-S84GtWfk0E4"]
+tags: ["impari", "microfono", "disturbo", "consigli", "unboxing", "acustico"]
+related: ["20240530-1nEKT-zTeEs", "20210326-h6-hoBBsFLo", "20170914-4FVtUG-lkRo", "20241122-vvAgLSqMpyc", "20200318-sJL0k2ASBcc", "20220706-fpRr0io6Vcc", "20160401-1Po2XzqMhZ0", "20200206-pxQBbKS0n5w", "20250914-UL77GacRSn4", "20181025-vMp6JS1zuWA"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
-- [[20141115-XBZZ-hbVjFE|L'origine della vita - Riscrittura Horror #11]]
-- [[20160102-k2CGAYaqYjY|La Santa Muerte - il culto della MORTE]]
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170209-vvwYhiXRDs8|Le origini della Confraternita d'Acciaio - Wasteland]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
-- [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
-- [[20190505-FijdBtOHHgI|Storia della MASSONERIA]]
-- [[20200604-I9OBDCBOXx4|Le Origini dell'Animazione e della Grafica (e il loro Futuro)]]
-- [[20200722-S84GtWfk0E4|Risposta alla Risposta della Risposta di Dario Moccia - Cos'è un Anime? (+ Sfogone 2 la Vendemmia)]]
+- [[20240530-1nEKT-zTeEs|La Filosofia dell'AUTISMO]]
+- [[20210326-h6-hoBBsFLo|Mortecuore 6 - La Clonazione (Ft Marco Crepaldi)]]
+- [[20170914-4FVtUG-lkRo|Che microfono uso?]]
+- [[20241122-vvAgLSqMpyc|La Filosofia dell'ANSIA]]
+- [[20200318-sJL0k2ASBcc|Fidanzate fantastiche (e dove trovarle) - Mortecuore 3]]
+- [[20220706-fpRr0io6Vcc|Mortecuore 9 Director's Cut (ft Jematria)]]
+- [[20160401-1Po2XzqMhZ0|Il Samurai - Creepypasta #8]]
+- [[20200206-pxQBbKS0n5w|Mortecuore 2 - La Vendetta del Simp]]
+- [[20250914-UL77GacRSn4|Rispondiamo alle critiche costruttive di Reddit]]
+- [[20181025-vMp6JS1zuWA|Come fermare il Bullismo]]

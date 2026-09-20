@@ -10,8 +10,8 @@ view_count: "7694"
 like_count: "627"
 comment_count: "26"
 playlist_index: "0"
-tags: ["tommaso", "world", "warudo"]
-related: ["20180615-4OCXxIEudiI", "20190111-3HIe9O2A_rc", "20201227-R8JBqKVwsdI", "20250415-88ahxSeQh9E", "20260315-JZcjb9pvNc0"]
+tags: ["tomisti", "tommaso", "tomista", "galileo", "telescopio", "dedurre"]
+related: ["20180615-4OCXxIEudiI", "20180810-x1o77SHOTGg", "20250821-wN1Fx2z3Txc", "20260417-ReitMvcjouo", "20240806-DCvmwSV7ojQ", "20251123-em_GUsDvDT8", "20220401-pKH6-ct4KKA", "20230903-HH9ehgsGbh4", "20201008-4x00LcUl4Zs", "20260307-YumZXTRtrU0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -20,7 +20,12 @@ embeddable: "1"
 
 ## Correlati
 - [[20180615-4OCXxIEudiI|San Tommaso e la Scolastica - #Filosofia 10]]
-- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
-- [[20201227-R8JBqKVwsdI|La Filosofia di Accel World]]
-- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
-- [[20260315-JZcjb9pvNc0|La Filosofia del Brave New World]]
+- [[20180810-x1o77SHOTGg|Giordano Bruno e Galileo Galilei - #Filosofia 12]]
+- [[20250821-wN1Fx2z3Txc|Dottrina sessuale cattolica: come sta cambiando]]
+- [[20260417-ReitMvcjouo|Perché la Chiesa si riforma più veloce su altro (Omosessualità, Divorzio) rispetto all'Aborto?]]
+- [[20240806-DCvmwSV7ojQ|CRITICA AD ADAMO (Hazbin Hotel)]]
+- [[20251123-em_GUsDvDT8|Critica al GEOCENTRISMO]]
+- [[20220401-pKH6-ct4KKA|ADESSO BASTA! MOSTRO IL MIO VOLTO.....]]
+- [[20230903-HH9ehgsGbh4|Gli ANIMALI vanno in PARADISO nella BIBBIA?]]
+- [[20201008-4x00LcUl4Zs|Kuhn e Feyerabend - #Filosofia 32]]
+- [[20260307-YumZXTRtrU0|No, la scienza non è capitalista]]

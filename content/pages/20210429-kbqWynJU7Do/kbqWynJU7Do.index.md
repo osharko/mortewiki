@@ -12,8 +12,8 @@ comment_count: "152"
 playlist: "FILOSOFIA"
 playlist_id: "PLU8-xwslFxH9NwboeEdiYOwWyZX6uCks9"
 playlist_index: "40"
-tags: ["ezra", "pound", "cioran", "filosofia"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["pound", "mussolini", "scrisse", "young", "jefferson", "manicomio"]
+related: ["20250131-RnZ3rZr9tuk", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20231010-h4l1OY2BR60", "20210622-tmnpsoL5rNE", "20250220-Sb5g2mS2-J0"]
 video_type: "video"
 description: "Libro di Cioran: https://amzn.to/3u5a7qc\nIl mio prossimo LIBRO: http://t.ly/71EY\nIl mio primo LIBRO: https://bitly.com/creepypasta1\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://bit.ly/morte_bianca\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#Pound #Cioran #Junger\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nHall of the Mountain King Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=hY9Cs9EsPyw\nhttps://www.youtube.com/watch?v=hoF3M6ymyHI\nhttps://soundcloud.com/sledge23-2/sledge-daydreaming\nhttps://soundcloud.com/sledge23/sledge-powerless"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
+- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20250430-gUx4wOdsu-w|Bufale: come contrastarle]]
+- [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
+- [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20231010-h4l1OY2BR60|STORIA AMERICANA 1: LE ORIGINI]]
+- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20250220-Sb5g2mS2-J0|Cos'è il Criptofascismo?]]

@@ -10,8 +10,8 @@ view_count: "5356"
 like_count: "493"
 comment_count: "87"
 playlist_index: "0"
-tags: ["fenomenologia", "tipo", "anzi", "topo", "italiano"]
-related: ["20250324-PzzyWA0R7R8", "20260410-7kqYnIHd-4s", "20250810-Cldu7V6BsE0", "20260113-QZWmhiDyPXo", "20260605-BdxjbOWNBkw"]
+tags: ["geronimo", "topi", "stilton", "strofina", "topo", "cartoni"]
+related: ["20200707-OsMMQmwap3E", "20180730--VO4mWuAmO8", "20190919-jfSd3GAeO9A", "20251210-k7MOW5pZKV8", "20190711-kl1p3lnL9sY", "20200712-EcEuwsBv_uo", "20200726-cZUxl_7sAwU", "20251009-Cmix01S9LKo", "20260803-yT-GO5_4OJ4", "20200701-ywLy3z1YohM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
-- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
-- [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
-- [[20260113-QZWmhiDyPXo|Primavera Nucleare: un post-Apocalittico Italiano]]
-- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20200707-OsMMQmwap3E|L’ESPERIMENTO DEI TOPI DALLA MENTE UMANA (Ft Omega Click) - Creepypasta #9]]
+- [[20180730--VO4mWuAmO8|Live su Fallout 1 (Shady Sands)]]
+- [[20190919-jfSd3GAeO9A|Terrore e Sovrappopolazione]]
+- [[20251210-k7MOW5pZKV8|Jun Hayami, ovvero la fantasia degli autori non è ammissione di colpa]]
+- [[20190711-kl1p3lnL9sY|La Filosofia di Yotobi]]
+- [[20200712-EcEuwsBv_uo|Cos'è un Anime? - Risposta a Croix89]]
+- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
+- [[20251009-Cmix01S9LKo|La SETTA del MASTER di Fallout 1]]
+- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
+- [[20200701-ywLy3z1YohM|Le Origini di Disney]]

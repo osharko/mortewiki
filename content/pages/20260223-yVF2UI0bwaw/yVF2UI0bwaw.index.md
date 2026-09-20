@@ -10,8 +10,8 @@ view_count: "10511"
 like_count: "753"
 comment_count: "87"
 playlist_index: "0"
-tags: ["critica", "allo", "sfruttamento", "minorile"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["cioccolato", "minorile", "sfruttamento", "beast", "mister", "anarco"]
+related: ["20251214--BfnnWaimoQ", "20260324-sary-ahdKLc", "20260416-dLQ9EZb-_qw", "20251218-NOr_HttEIfg", "20241003-OB8XV7OF1VU", "20250621-eDOLgg_DanI", "20171019-Y2fk-hvhbwg", "20181111-FewFpkBZ6oc", "20250710-av0mX6et-XY", "20220904-G97R3hM9Zbs"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20251214--BfnnWaimoQ|Mr House è vivo nella seconda stagione di Fallout?]]
+- [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
+- [[20241003-OB8XV7OF1VU|La Filosofia degli INCREDIBILI]]
+- [[20250621-eDOLgg_DanI|Piratare significa davvero sfruttare?]]
+- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
+- [[20181111-FewFpkBZ6oc|La Filosofia di Mr Robot]]
+- [[20250710-av0mX6et-XY|Se facciamo *COSA BUONA* alcune aziende falliranno!]]
+- [[20220904-G97R3hM9Zbs|La Filosofia di BOJACK HORSEMAN]]

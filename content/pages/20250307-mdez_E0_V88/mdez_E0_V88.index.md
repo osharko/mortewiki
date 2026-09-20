@@ -10,8 +10,8 @@ view_count: "25242"
 like_count: "1782"
 comment_count: "107"
 playlist_index: "0"
-tags: ["perché", "europa", "batte"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["integrati", "scommessa", "orban", "mele", "collassa", "spesa"]
+related: ["20260415-bf2MjiywJzc", "20200505-ltrs70UyKh8", "20260416-8mvgZUFK5io", "20260117-tspT5RQPpm4", "20260405-ISOYtywMOAQ", "20250203-UAQDHMtvngk", "20211226-bAMJYrp9nkA", "20260414-BiRiNnQGc3s", "20260120-l464ALtjP9I"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
+- [[20200505-ltrs70UyKh8|Dopo il Coronavirus? (E la Maturità)]]
+- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
+- [[20250203-UAQDHMtvngk|GTA 6 potrebbe costare 100 dollari]]
+- [[20211226-bAMJYrp9nkA|Il Sistema Operativo del DEEP WEB - Creepypasta 175]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]

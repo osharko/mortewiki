@@ -10,8 +10,8 @@ view_count: "11276"
 like_count: "922"
 comment_count: "174"
 playlist_index: "0"
-tags: ["apologia", "cydonia"]
-related: ["20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250417-GHoS0YNX864", "20250425-Ig0wv5jE2MY", "20250515-Azp54fQKR1w", "20250920-JgFUDInERkU", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc", "20260322-uUpJEd5vCpw"]
+tags: ["pokémon", "kickstarter", "monster", "saidonia", "ricompense", "create"]
+related: ["20200405-4FIOk8SHwjc", "20231117-Vb4_0DGuOvA", "20200313-vVUJlCn37NE", "20191011-JYRfEqEBygs", "20251220-Kf_lc_hw9n0", "20241018-3e0D4lFgBfs", "20251218-NOr_HttEIfg", "20200215-r4gqCDLGFl4", "20251025-pRSIEbpX97Q", "20240614-tlrMiE7BzRY"]
 video_type: "video"
 description: "Sostenete il suo gioco: https://www.kickstarter.com/projects/narastudio/wonderful-neoran-valley"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
-- [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
+- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
+- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20191011-JYRfEqEBygs|Pokémon Horror]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
+- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]

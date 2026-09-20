@@ -10,8 +10,8 @@ view_count: "6195"
 like_count: "482"
 comment_count: "50"
 playlist_index: "0"
-tags: ["anime", "cambiare", "finale", "manga"]
-related: ["20141018-k3txtRN-N48", "20150605-JMgwvRxY6NE", "20170815-sGSfQKqCtpM", "20181206-U_I9h5SfwIg", "20190217-e3BlxXShac0", "20190523-b3afCB19hr0", "20200712-EcEuwsBv_uo", "20201010-oA8JQomLSLA", "20210514-L1S5WgMn9G0", "20220717-XO4grJsda3s"]
+tags: ["finali", "villain", "filler", "alternativo", "goku", "stagioni"]
+related: ["20160605-_UxHCn4vPDo", "20250318--lB5J8F3meQ", "20260507-xyKa9tpD8GA", "20190203-3OflVc82qb8", "20250305-7Y0v9Q0xAjE", "20241008-uAzJsENWF6Y", "20250127-BCQA2ASjAmo", "20260418-_rR04_MI8B4", "20181019-ip--sYVKtsU", "20260808--EX0iEn-uEI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150605-JMgwvRxY6NE|MANGA VS ANIME - Il manga è sempre meglio dell'Anime?]]
-- [[20170815-sGSfQKqCtpM|Intro Anime (by FramaDNZ)]]
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20190217-e3BlxXShac0|TOP ANIME più FILOSOFICI mai creati]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20200712-EcEuwsBv_uo|Cos'è un Anime? - Risposta a Croix89]]
-- [[20201010-oA8JQomLSLA|TOP migliori ANIME SHONEN di SEMPRE]]
-- [[20210514-L1S5WgMn9G0|Anime e Videogiochi: come far tornare la voglia?]]
-- [[20220717-XO4grJsda3s|La mia Storia con gli Anime]]
+- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
+- [[20250318--lB5J8F3meQ|Legge di Mortebianca: gli apologi dei villain]]
+- [[20260507-xyKa9tpD8GA|Il mio audio più FOLLE in assoluto]]
+- [[20190203-3OflVc82qb8|La Filosofia di Bandersnatch - Black Mirror]]
+- [[20250305-7Y0v9Q0xAjE|I TRE PEGGIORI ANIME (FLOP 3)]]
+- [[20241008-uAzJsENWF6Y|Quando il protagonista perde i suoi poteri]]
+- [[20250127-BCQA2ASjAmo|OSHI NO KO - Spiegazione del finale]]
+- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
+- [[20181019-ip--sYVKtsU|La Filosofia di the Binding of Isaac]]
+- [[20260808--EX0iEn-uEI|Bear non è il villan di Obsession!!!]]

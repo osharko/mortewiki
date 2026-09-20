@@ -10,8 +10,8 @@ view_count: "9276"
 like_count: "652"
 comment_count: "49"
 playlist_index: "0"
-tags: ["fatto", "arrabbiare", "difensori", "pechino"]
-related: ["20230716-fLLowu2fUgo", "20240402-wiAHlWl8Ffo", "20240903-g5RsSXxyLsM", "20250412-77fjBc2f9b8", "20250508-IXheeD0sLOg", "20230919-8fv7uYUo-4g"]
+tags: ["cinesi", "system", "credit", "ping", "winnie", "pechino"]
+related: ["20260211-lJgfrviR5UI", "20260514-PpFGHECYXf4", "20181206-U_I9h5SfwIg", "20200225-sAIHTx4gvpk", "20260813-76zUAirFrTo", "20260130-9emWU6wdImk", "20250909-HBh5GyfS154", "20250128-dO092738ZNk", "20250928--aKzIU-_lPE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230716-fLLowu2fUgo|L'esperimento TERRIFICANTE che ha fatto toccare IL FONDO alle cavie....]]
-- [[20240402-wiAHlWl8Ffo|IL MIGLIOR FANGAME POKÉMON (Nintendo lo ha fatto CHIUDERE)]]
-- [[20240903-g5RsSXxyLsM|Come era fatto GESÙ? Come si chiamava?]]
-- [[20250412-77fjBc2f9b8|Il personaggio che ha fatto più s3ss0 in FALLOUT]]
-- [[20250508-IXheeD0sLOg|Mushoku Tensei ma fatto meglio?]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
+- [[20260211-lJgfrviR5UI|La Cina non è democratica]]
+- [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
+- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
+- [[20200225-sAIHTx4gvpk|Coronavirus e Politica]]
+- [[20260813-76zUAirFrTo|La strana storia dei Gesù Cinesi]]
+- [[20260130-9emWU6wdImk|Tentato golpe in Cina?]]
+- [[20250909-HBh5GyfS154|Lost 2, Jurassic Park 3, to the Moon 4, Haruhi 5, Bioshock 6, Psycho Pass 7, SAO 8, Fallout 9, Saw X]]
+- [[20250128-dO092738ZNk|Cina: vuota opulenza, futuro apofantico]]
+- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]

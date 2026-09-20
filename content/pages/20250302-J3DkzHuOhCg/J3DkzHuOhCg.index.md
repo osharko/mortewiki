@@ -10,8 +10,8 @@ view_count: "6000"
 like_count: "496"
 comment_count: "25"
 playlist_index: "0"
-tags: ["funko", "cosa", "penso"]
-related: ["20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20181109-h4s0JcDf0ZE", "20190117-j8JPi-TqpOI", "20190407-EZxUbdnDB1M", "20190630-Yl2XltereaA", "20191003-WkJQmfbYqrU", "20200216-G1lI0Rt4O10", "20200301-Nd1RAJwH62E"]
+tags: ["lego", "funko", "potevi", "soldatini", "piombo", "culpa"]
+related: ["20241225-AjW3mY8JBRY", "20250206-jlG-fLpk8G8", "20241117-CgUhuFS6Clc", "20260824-cNYu_H4axOI", "20200902-qGiwPDfhiDo", "20250415-88ahxSeQh9E", "20250301-aBVmRjg_o1U", "20260313-7neGt3aSE3w", "20250219-tcZo6upgb60", "20241119-8FxNB7i69UI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20190630-Yl2XltereaA|La Cosa Invisibile - Creepypasta 120]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
-- [[20200216-G1lI0Rt4O10|Cosa c'è oltre l'Orizzonte? - Creepypasta 133]]
-- [[20200301-Nd1RAJwH62E|COSA SI PROVA A MORIRE? - Creepypasta 134]]
+- [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
+- [[20250301-aBVmRjg_o1U|Leggende Pokemon Z-A, analisi gameplay trailer]]
+- [[20260313-7neGt3aSE3w|La Filosofia di MorteBIANCA (Parte 2)]]
+- [[20250219-tcZo6upgb60|Altre domande, altre risposte]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]

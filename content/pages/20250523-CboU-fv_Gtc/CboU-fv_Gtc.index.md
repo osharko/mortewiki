@@ -12,8 +12,8 @@ comment_count: "103"
 playlist: "FILOSOFIA"
 playlist_id: "PLU8-xwslFxH9NwboeEdiYOwWyZX6uCks9"
 playlist_index: "128"
-tags: ["scacchi", "dovrebbero", "essere", "sport"]
-related: ["20250525-p7tnucyztl8", "20210211-I-wXo7Jk8fo", "20220508-h94SfUdF4KY", "20231223-_O4mNtUyzzQ", "20241027-vm8qmd_nnVc", "20250629-1wpwu_FsHSQ", "20250729-HMW12KVwUjM", "20250919-k4OWzYlYgfA", "20251219-EBQwDwYympo", "20260221-N7zhvUWA-rY"]
+tags: ["sport", "scacchi", "olimpiadi", "poker", "carte", "wikipedia"]
+related: ["20250521-MOhAGn85ZPA", "20251108-Hdt0moLH3-g", "20250525-p7tnucyztl8", "20240511-2xCCcYlTV0s", "20250301-tWIoJshZsn4", "20250211-GP33JOLQjfM", "20240426-e1UDWKfYYM8", "20160326-Nf_8ZtbE8Fg", "20180114-cjK2vbrMEKE", "20240107-XGom_Cer7mw"]
 video_type: "video"
 description: "TIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#sport #scacchi\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://theneondreamer.bandcamp.com/album/dissimulation\nhttps://theneondreamer.bandcamp.com/album/neon-dreams"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250521-MOhAGn85ZPA|Lo Sport è Arte? I Videogiochi sono Sport?]]
+- [[20251108-Hdt0moLH3-g|Finalmente una critica davvero costruttiva]]
 - [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
-- [[20210211-I-wXo7Jk8fo|Come essere Sicuri e Anonimi sul Web]]
-- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20250729-HMW12KVwUjM|La Scuola deve essere dura sennò gli studenti escono deboli]]
-- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
-- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
-- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20240511-2xCCcYlTV0s|Cos'è una DONNA? Sport, Bagni e... Religione]]
+- [[20250301-tWIoJshZsn4|Se critichi il Wrestling non capisci le arti marziali]]
+- [[20250211-GP33JOLQjfM|GENDER WAGE GAP: tra Economia e Cervello]]
+- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
+- [[20160326-Nf_8ZtbE8Fg|Ex Machina - Analisi e Recensione]]
+- [[20180114-cjK2vbrMEKE|Il 10% del cervello - Creepypasta #83]]
+- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]

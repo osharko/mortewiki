@@ -12,8 +12,8 @@ comment_count: "130"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "33"
-tags: ["pewdiepie", "minecraft"]
-related: ["20250414-BnBLcjB-n7s", "20250417-GHoS0YNX864", "20140921-dQTMSp83rTE", "20161110-dTLp-YQ0U9Y", "20241225-AjW3mY8JBRY"]
+tags: ["water", "ship", "minecraft", "sven", "concilio", "cavallo"]
+related: ["20161110-dTLp-YQ0U9Y", "20160319-8nH5kBclonk", "20180818-l70zWB-SYgs", "20201216-SeA459I2b60", "20241225-AjW3mY8JBRY", "20250406-WCH4kW9DT7k", "20190821-oG_-JYmTuEc", "20171229-vSmXwubdRFk", "20220922-jEllcWIJWuk", "20260311-ezelAjmiHsA"]
 video_type: "video"
 description: "MINECRAFT SU AMAZON\nhttps://amzn.to/2WvUWqb\nDonazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://www.youtube.com/watch?v=g5X6KZBk_6s\nhttps://www.youtube.com/watch?v=m8L4mfRUU1E\nhttps://www.youtube.com/watch?v=tukn5NK_XRo\nhttps://www.youtube.com/watch?v=yStBbkG5bEQ\nhttps://www.youtube.com/watch?v=EC8hO-mErlw\nhttps://www.youtube.com/watch?v=9PuO7f3NLKo\nQuasi tutte le fanart sono sue: https://www.deviantart.com/neytirix/gallery/70247269/pewdiepie-minecraft-fanart"
 embeddable: "1"
@@ -22,8 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250414-BnBLcjB-n7s|Elogio a Pewdiepie]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20140921-dQTMSp83rTE|Minecraft - Partita perfetta!]]
 - [[20161110-dTLp-YQ0U9Y|Un filosofo su Minecraft]]
+- [[20160319-8nH5kBclonk|Herobrine (Analisi) - Riscrittura Horror #4]]
+- [[20180818-l70zWB-SYgs|LIVE su FALLOUT 1 (Necropolis, One Shot Man)]]
+- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
 - [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20250406-WCH4kW9DT7k|Critica alla TOP videoludica del BAFTA]]
+- [[20190821-oG_-JYmTuEc|Mi cerco su Akinator]]
+- [[20171229-vSmXwubdRFk|PLATONE (Lezione completa) - #Filosofia 4]]
+- [[20220922-jEllcWIJWuk|BOJACK HORSEMAN - SPIEGAZIONE del FINALE]]
+- [[20260311-ezelAjmiHsA|Come Nick Fuentes smentisce il Ferro di Cavallo]]

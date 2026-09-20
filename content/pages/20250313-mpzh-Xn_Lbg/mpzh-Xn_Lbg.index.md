@@ -10,8 +10,8 @@ view_count: "21805"
 like_count: "1238"
 comment_count: "68"
 playlist_index: "0"
-tags: ["ritorno"]
-related: ["20200917-JTh5ejiEMsY", "20211017-yAIcSkzVsPA", "20230423-m3T8VTTunZ4", "20230806-vlPr1oI_Vis", "20260820-jWUNA_6lDlc"]
+tags: ["migrazione", "natalità", "bonus", "asia", "migranti", "dollaro"]
+related: ["20260607-Spbd8Fm4faM", "20260605-Ngx2mUyxnNY", "20260106-lK8Q77CHNeQ", "20260503-OCSEyCqD0Ww", "20220913-GKGJcoyfVpQ", "20250311-h2ylzdzt9Ug"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200917-JTh5ejiEMsY|Mortecuore 4: il Ritorno (ft Mr Marra)]]
-- [[20211017-yAIcSkzVsPA|Il Ritorno dei Mostri - Creepypasta 171]]
-- [[20230423-m3T8VTTunZ4|Eterno Ritorno - Creepypasta 203]]
-- [[20230806-vlPr1oI_Vis|IL RITORNO DI ELON MUSK]]
-- [[20260820-jWUNA_6lDlc|Obsession: Il Ritorno]]
+- [[20260607-Spbd8Fm4faM|MIGRAZIONE: SMENTIAMO I FALSI MITI]]
+- [[20260605-Ngx2mUyxnNY|Come aumentare le nascite]]
+- [[20260106-lK8Q77CHNeQ|DNA e Israele]]
+- [[20260503-OCSEyCqD0Ww|Perché CAPCOM ha SCONFITTO la KONAMI]]
+- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
+- [[20250311-h2ylzdzt9Ug|USA vs EU 2: la vendemmia]]

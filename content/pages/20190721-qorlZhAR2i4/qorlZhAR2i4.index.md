@@ -12,8 +12,8 @@ comment_count: "170"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "50"
-tags: ["migliori", "youtubers", "mondo", "secondo"]
-related: ["20190605-beRwrPe1eoQ", "20201010-oA8JQomLSLA", "20181213-P8FF4al9MEY", "20200816-4bQINVPCz9o", "20220306-DYcE8S01Big", "20230623-l7qFSQgna6M", "20240711-gQYxjShlt3o", "20241025-tY_akSPuKOE", "20180821-OWLABA4ZIGA", "20210422-Z4hh-FCmf2A"]
+tags: ["seguo", "wars", "frank", "occupano", "gameplay", "adoro"]
+related: ["20200514-Ril13WrvENo", "20260418-_rR04_MI8B4", "20260830-6vZulACux14", "20241018-3e0D4lFgBfs", "20250327-nQOcs5YoGTs", "20201129-qJqdiBbaRq0", "20200112-YsAW-FWmH60", "20250722-qMzLysXMGeY", "20210818-YVU4iMRqk60", "20250524-zSGQoSrx00A"]
 video_type: "video"
 description: "Donazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: mortebianca0000\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: Vinicius\nMOOSEECA:\nhttps://www.youtube.com/watch?v=_JYHk_D5A44\nhttps://theneondreamer.bandcamp.com/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190605-beRwrPe1eoQ|TOP: I Migliori Youtuber italiani (Secondo me)]]
-- [[20201010-oA8JQomLSLA|TOP migliori ANIME SHONEN di SEMPRE]]
-- [[20181213-P8FF4al9MEY|Fallout 76: Non è la fine del mondo]]
-- [[20200816-4bQINVPCz9o|Dal Vecchio Mondo - Creepypasta 143 (Speciale 500 video)]]
-- [[20220306-DYcE8S01Big|Cosa faresti se DOMANI finisse il MONDO?]]
-- [[20230623-l7qFSQgna6M|QUESTO MONDO NON MI RENDERÀ CATTIVO è un Capolavoro]]
-- [[20240711-gQYxjShlt3o|LA STATUA PIÙ TRISTE DEL MONDO - Can't Help Myself]]
-- [[20241025-tY_akSPuKOE|La Creazione del Mondo - Analisi della GENESI]]
-- [[20180821-OWLABA4ZIGA|Il Secondo Adpocalypse ha colpito un mio amico - #Duplication]]
-- [[20210422-Z4hh-FCmf2A|Sta uscendo il mio Secondo Libro!]]
+- [[20200514-Ril13WrvENo|La Filosofia di Filthy Frank]]
+- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
+- [[20260830-6vZulACux14|Aspetto Fable 4 più di GTA 6]]
+- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
+- [[20250327-nQOcs5YoGTs|Avversari: finché civili, utili]]
+- [[20201129-qJqdiBbaRq0|Da dove Informarsi? - Le mie Ispirazioni]]
+- [[20200112-YsAW-FWmH60|La Filosofia di Star Wars IX (Non c'è)]]
+- [[20250722-qMzLysXMGeY|Fallout: Remastered, Remake, Reboot]]
+- [[20210818-YVU4iMRqk60|IL VIDEOGIOCO IDEALE]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]

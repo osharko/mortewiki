@@ -10,8 +10,8 @@ view_count: "7809"
 like_count: "537"
 comment_count: "30"
 playlist_index: "0"
-tags: ["europa", "invertita", "occidente", "destra", "oriente"]
-related: ["20230219-zOxtKKhedQI", "20250307-mdez_E0_V88", "20250429-hm9Ek-RNl7w", "20250709-oX0cRj4qvNI", "20250928--aKzIU-_lPE", "20251128-IR7vbCMEPO0", "20260428-s7kvI9qgIbU", "20260430-QUXUrmgMeMc", "20260812-QHb4P7HwdTQ", "20260902-Ylm8WnAN5XA"]
+tags: ["sondaggi", "farange", "meloni", "spagna", "melencon", "sanchez"]
+related: ["20260531-FhFS6ryUvwo", "20260619-y8-CUN5JYss", "20260605-BdxjbOWNBkw", "20260402-VGpKEL1s_6M", "20260621-Y9Nz3xlXK4o", "20260322-uUpJEd5vCpw", "20260324-sary-ahdKLc", "20241113-RvJ3nmgVDew", "20230105-2YG-QNBSTBM", "20250304-vOGnydyQbA8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230219-zOxtKKhedQI|E se gli OTTOMANI avessero conquistato l'Europa?]]
-- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
-- [[20250429-hm9Ek-RNl7w|Perché la Svizzera dovrebbe diventare Europa]]
-- [[20250709-oX0cRj4qvNI|Slavi ed Est Europa: imparare dalla storia per ridisegnare i confini]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
-- [[20260902-Ylm8WnAN5XA|Sul Referendum Islanda-Europa]]
+- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
+- [[20260621-Y9Nz3xlXK4o|Bardella - Elezioni Francesi]]
+- [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
+- [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
+- [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
+- [[20230105-2YG-QNBSTBM|E se CARLO V non avesse diviso l'Impero?]]
+- [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]

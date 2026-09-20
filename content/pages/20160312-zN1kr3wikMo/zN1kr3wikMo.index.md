@@ -12,8 +12,8 @@ comment_count: "148"
 playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "3"
-tags: ["speciale", "nostro", "trionfo", "nome", "sigla"]
-related: ["20150914-IDPGAVQ_8aY", "20151031-lE2MI1SQAf4", "20171105-x2qL2xPa2aw", "20180706-_vqQ50mvEvc", "20181104-Sj_7l4Gfe9g", "20181223-R61mD_JsANY", "20190627-e9-_Hfmbizs", "20191027--l0i1ljBfvI", "20200816-4bQINVPCz9o", "20230401-HApXLQAKqG0"]
+tags: ["creepy", "naruto", "ringraziare", "decifrare", "recensioni", "riflettere"]
+related: ["20171127-91FEJdozPQ8", "20180121-bXOXQ5zGpvM", "20171224-X-bFGwnB4is", "20161218-NJfH-g5e_T0", "20170123-tpNXoYWBnoo", "20180415-XDWa6mVwiB4", "20151024-yqn-3_WOffI", "20160109-OVyZV97HEUs", "20160508-NmsVSV7jhAE", "20160307-mqdv45XdjtM"]
 video_type: "video"
 description: "LEVEL 1: Watch\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\nSIGLA\nhttps://www.youtube.com/watch?v=ma3BFoEwjPI\nHERO DOWN\nMusic by Kevin MacLeod. Available under the Creative Commons Attribution 3.0 Unported license."
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150914-IDPGAVQ_8aY|Speciale 2500 iscritti - V per Vlog di presentazione]]
-- [[20151031-lE2MI1SQAf4|SPECIALE 5000 - INTERVISTA A MORTEBIANCA]]
-- [[20171105-x2qL2xPa2aw|Mente Alveare - Creepypasta #78 (Speciale Halloween)]]
-- [[20180706-_vqQ50mvEvc|SPECIALE 50.000 Iscritti - CONTEST!]]
-- [[20181104-Sj_7l4Gfe9g|Essi Muoiono - Creepypasta 104 (Speciale Halloween)]]
-- [[20181223-R61mD_JsANY|La Filosofia di Erased - Speciale di Natale]]
-- [[20190627-e9-_Hfmbizs|La Caduta di Mortebianca - Speciale 100.000 Iscritti]]
-- [[20191027--l0i1ljBfvI|Radiofobia - Creepypasta #13 (Speciale Halloween)]]
-- [[20200816-4bQINVPCz9o|Dal Vecchio Mondo - Creepypasta 143 (Speciale 500 video)]]
-- [[20230401-HApXLQAKqG0|MOSTRO IL VOLTO - Speciale 69.000 Iscritti]]
+- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
+- [[20180121-bXOXQ5zGpvM|Naruto the Last - l'Amore ai tempi del chakra]]
+- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
+- [[20161218-NJfH-g5e_T0|La fine di PAIN]]
+- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
+- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
+- [[20151024-yqn-3_WOffI|Naruto: l'Inizio]]
+- [[20160109-OVyZV97HEUs|Naruto vs Neji: Libertà e Destino]]
+- [[20160508-NmsVSV7jhAE|Naruto e Sasuke: la Valle dell'Epilogo]]
+- [[20160307-mqdv45XdjtM|Tsunade e il significato del Sacrificio]]

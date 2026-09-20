@@ -10,8 +10,8 @@ view_count: "6947"
 like_count: "562"
 comment_count: "33"
 playlist_index: "0"
-tags: ["israele"]
-related: ["20231029-MhcdzqAUKcI", "20231031-jM5c66bJntQ", "20231206-v1owjBd7mbY", "20240222-JT3sG5KTILA", "20240516-NCzCtUHd6LM", "20241011-Vv4V510t0u8", "20241211-faHi7yIvwDw", "20250812-iOnylhrbPag", "20250827-A-SRRM-1aus", "20250830-nv4MaICTL6Y"]
+tags: ["palestinesi", "migranti", "ipocrisia", "sionisti", "intersezione", "eugenetica"]
+related: ["20231210-qDve480qKsY", "20231031-jM5c66bJntQ", "20251007-EMI9sz3wvPQ", "20231029-MhcdzqAUKcI", "20240222-JT3sG5KTILA", "20260607-Spbd8Fm4faM", "20250902-aD6n83WTgds", "20251013-4bB0mpteH7c", "20240323-51sBpAGNpOE", "20240516-NCzCtUHd6LM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
 - [[20231031-jM5c66bJntQ|ISRAELE è colpevole di APARTHEID e GENOCIDIO]]
-- [[20231206-v1owjBd7mbY|Sono finito su il Giornale per il mio video su ISRAELE]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
 - [[20240222-JT3sG5KTILA|Come funziona la PROPAGANDA di ISRAELE]]
+- [[20260607-Spbd8Fm4faM|MIGRAZIONE: SMENTIAMO I FALSI MITI]]
+- [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
+- [[20251013-4bB0mpteH7c|Cosa ne pensa MORTEBIANCA del piano di Pace di Trump?]]
+- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
 - [[20240516-NCzCtUHd6LM|Perché ISRAELE SPIA i suoi cittadini?]]
-- [[20241011-Vv4V510t0u8|Israele UMILIA l'Italia (e noi zitti, a quanto pare)]]
-- [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
-- [[20250812-iOnylhrbPag|La Cartoonesca cattiveria di ISRAELE]]
-- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
-- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]

@@ -10,8 +10,8 @@ view_count: "14540"
 like_count: "1094"
 comment_count: "155"
 playlist_index: "0"
-tags: ["minacciano", "chiesa", "cattolica"]
-related: ["20200315-7qr5u7AtaiA", "20200607-1ZocwmOCxqE", "20231219-6lxKk1bu4-8", "20250509-sAJrhWaZLsA", "20260417-ReitMvcjouo", "20250821-wN1Fx2z3Txc"]
+tags: ["scomunica", "cattolici", "cattolico", "collassa", "aspe", "minacciato"]
+related: ["20250904-UxyeeuS9rGc", "20231223-_O4mNtUyzzQ", "20250131-RnZ3rZr9tuk", "20260502-1K07UwWMWZg", "20250504--cPDe9izQSs", "20250227--SvTavqJK4M", "20221027-Nrb13Cfy8jw", "20260505-KEpwvnkblbc", "20171113-dixNExIirds", "20210715-fhuC7NwT3Rc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,9 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200315-7qr5u7AtaiA|La Chiesa del DEEP WEB - Creepypasta 135]]
-- [[20200607-1ZocwmOCxqE|La Chiesa di Chernobyl - Creepypasta 138 (Ft Giopizzi)]]
-- [[20231219-6lxKk1bu4-8|La CHIESA benedice le COPPIE GAY: e ora?]]
-- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
-- [[20260417-ReitMvcjouo|Perché la Chiesa si riforma più veloce su altro (Omosessualità, Divorzio) rispetto all'Aborto?]]
-- [[20250821-wN1Fx2z3Txc|Dottrina sessuale cattolica: come sta cambiando]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
+- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
+- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
+- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
+- [[20260505-KEpwvnkblbc|L'Ecumenismo tra Cristianesimo e Islam]]
+- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]
+- [[20210715-fhuC7NwT3Rc|Le RELIGIONI stanno SPARENDO?]]

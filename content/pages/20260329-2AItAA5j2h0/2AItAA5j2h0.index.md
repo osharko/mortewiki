@@ -10,8 +10,8 @@ view_count: "5639"
 like_count: "503"
 comment_count: "45"
 playlist_index: "0"
-tags: ["superare", "tuoi", "personaggi", "infanzia"]
-related: ["20131013-0jkT_-Sv21c", "20180805-k5ys4u7jEyg", "20191206-z56T1wPZp24", "20200625-UR92jaOqloU", "Wx7iDJkqjWM"]
+tags: ["rolf", "deaddy", "cartoni", "eddy", "dinkleberg", "stereotipi"]
+related: ["20200712-EcEuwsBv_uo", "20200726-cZUxl_7sAwU", "20260803-yT-GO5_4OJ4", "20200701-ywLy3z1YohM", "20260407-gDviSL05JPw", "20190531-do45hVcQ6Og"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20131013-0jkT_-Sv21c|IL MIO PRIMO VIDEO (Classifica dei personaggi più potenti)]]
-- [[20180805-k5ys4u7jEyg|TOP PERSONAGGI PIU' POTENTI MAI ESISTITI]]
-- [[20191206-z56T1wPZp24|La MOOSEECA dei personaggi delle creepypasta]]
-- [[20200625-UR92jaOqloU|Quali diritti per i Personaggi dei Videogiochi?]]
-- [[Wx7iDJkqjWM|Abbiamo trovato il Lost Media della mia infanzia - Neo Sonic Universe 2003]]
+- [[20200712-EcEuwsBv_uo|Cos'è un Anime? - Risposta a Croix89]]
+- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
+- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
+- [[20200701-ywLy3z1YohM|Le Origini di Disney]]
+- [[20260407-gDviSL05JPw|Fenomenologia di un tipo (anzi, un topo) italiano]]
+- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]

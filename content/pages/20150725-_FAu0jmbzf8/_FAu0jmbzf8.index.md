@@ -12,8 +12,8 @@ comment_count: "113"
 playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "20"
-tags: ["rumore", "concorso", "thecnocaos", "creepypasta"]
-related: ["20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ", "20141018-k3txtRN-N48", "20150303-KIi6WBdtntI", "20150330-bkJWXlQzEMo", "20150408-pemrddn3Uew", "20150513-V3XISiA7shU", "20150619-Dy4LYExH5Rg", "20150621--fAWBj5vv1M", "20150627-HYE41DCwFBw"]
+tags: ["vibrazione", "nebbia", "elefanti", "vedevano", "cimiteri", "sentivano"]
+related: ["20170827-Cx825OF4sE0", "20171231-PRp2yK5yR4k", "20251228-uB6-4Q0ZToU", "20250420--19Z5epH2fg", "20180618-oO4PRo9BHUI", "20231112-V4bryxi-TxA", "20251213-b-2w8GMJ9RA", "20260614-pFPVgIXtvRU", "20141010-ZLFaaWEexGQ", "20210103-I8lXlBVnlNg"]
 video_type: "video"
 description: "Creepypasta di fine stagione, in collaborazione con Lara Pokeka (Disegni), Salvo Danilo Lombardo (Musica https://www.youtube.com/user/teragigaemule ), Frank Sinatra Videos (Intro https://www.youtube.com/user/MRCULONIS1) e Giulyagatta97 (Aiuto con il montaggio) vincitrice del concorso indetto da D. Thecnocaos).\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
+- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
+- [[20171231-PRp2yK5yR4k|L'Alba di un nuovo giorno - Creepypasta #82]]
+- [[20251228-uB6-4Q0ZToU|La NEBBIA sta arrivando - Creepypasta 267]]
+- [[20250420--19Z5epH2fg|IL NOZIG - Creepypasta 250]]
+- [[20180618-oO4PRo9BHUI|Prima dell'Apocalisse - Creepypasta #94]]
+- [[20231112-V4bryxi-TxA|La Filosofia di THE LIGHTHOUSE]]
+- [[20251213-b-2w8GMJ9RA|La storia più EPICA di YOUTUBE]]
+- [[20260614-pFPVgIXtvRU|10 Libri al Giorno - Creepypasta 274]]
 - [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20141018-k3txtRN-N48|Due Anime - Creepypasta #5]]
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
-- [[20150330-bkJWXlQzEMo|Immortalità Quantistica - Creepypasta #11]]
-- [[20150408-pemrddn3Uew|Post Mortem - Creepypasta #12]]
-- [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]
-- [[20150619-Dy4LYExH5Rg|Gemelli - Creepypasta #16]]
-- [[20150621--fAWBj5vv1M|SOTTO IL DEEP WEB - Creepypasta #17]]
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
+- [[20210103-I8lXlBVnlNg|La Polvere - Creepypasta 153]]

@@ -10,8 +10,8 @@ view_count: "4878"
 like_count: "437"
 comment_count: "51"
 playlist_index: "0"
-tags: ["voglio", "scalare", "montagna"]
-related: ["20250127-jf5rrH7aQdA", "20250322-gb7Hp_-HMlg", "20251125-HePcovHQ4cE", "20260119-Ei20aYi6FEk"]
+tags: ["pinguino", "montagna", "caverna", "dinosauri", "scalare", "everest"]
+related: ["20260123-UJb3fjQZMHk", "20241130-yy-qAOZlfSE", "20260803-yT-GO5_4OJ4", "20241202-QZe-hN5OQV4", "20220923-H8h0Gn2CiHI", "20221103-Js5YHMGfOog", "20231105-NcGmSi30paM", "20250911-R1ZQhrlFE5w", "20240804-Uj8xStcv398", "20250722-9Ohkp4sowbY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250127-jf5rrH7aQdA|Quella volta che dissi vi voglio bene (FINITO MALISSIMO)]]
-- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
-- [[20251125-HePcovHQ4cE|Voglio riflettere sul tuo Pancreas]]
-- [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
+- [[20260123-UJb3fjQZMHk|La Filosofia del Pinguino dei meme]]
+- [[20241130-yy-qAOZlfSE|La Filosofia di JURASSIC PARK]]
+- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
+- [[20241202-QZe-hN5OQV4|Jurassic Park (LORE COMPLETA)]]
+- [[20220923-H8h0Gn2CiHI|Le Follie dell'Imperatore (ft Mr Marra)]]
+- [[20221103-Js5YHMGfOog|Come si sono evoluti i Mammiferi?]]
+- [[20231105-NcGmSi30paM|UCCELLI – Creepypasta 215]]
+- [[20250911-R1ZQhrlFE5w|Ti ricordi la VALLE INCANTATA?]]
+- [[20240804-Uj8xStcv398|L'Uomo dopo l'Uomo - La Biologia Speculativa di Dixon]]
+- [[20250722-9Ohkp4sowbY|La Psicologia di INSIDE OUT]]

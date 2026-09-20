@@ -10,8 +10,8 @@ view_count: "19531"
 like_count: "1157"
 comment_count: "114"
 playlist_index: "0"
-tags: ["devi", "essere", "triste", "charkie", "kirk"]
-related: ["20210211-I-wXo7Jk8fo", "20220508-h94SfUdF4KY", "20231223-_O4mNtUyzzQ", "20241027-vm8qmd_nnVc", "20250523-CboU-fv_Gtc", "20250629-1wpwu_FsHSQ", "20250729-HMW12KVwUjM", "20251219-EBQwDwYympo", "20260221-N7zhvUWA-rY", "20260501-MfIGVsJKM5w"]
+tags: ["kirk", "charlie", "sentimento", "laureato", "equivalente", "psicoreato"]
+related: ["20250912-kO3kNZubRMw", "20251002-YMiew8pi3rY", "20250913-tw2W3ZPrbJE", "20240418-8Wk2915vtbQ", "20240321-WCsJqKLfJkE", "20240218-nCh9NAjg-MA", "20251211-YObFVnHg2RU", "20240329-Vixn-NVK_sU", "20240403-NtZdQrwR_4A", "20260202-3Z9ZLo3sBSk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210211-I-wXo7Jk8fo|Come essere Sicuri e Anonimi sul Web]]
-- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241027-vm8qmd_nnVc|Essere pornostar significa perdere diritti?]]
-- [[20250523-CboU-fv_Gtc|Gli Scacchi dovrebbero essere Sport?]]
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20250729-HMW12KVwUjM|La Scuola deve essere dura sennò gli studenti escono deboli]]
-- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
-- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
+- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]
+- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
+- [[20240321-WCsJqKLfJkE|Lo Strillo liberistico di Khan (Star Trek 2 commentato con Libri in Pillole)]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
+- [[20251211-YObFVnHg2RU|La Politica di HAZBIN HOTEL 2]]
+- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
+- [[20240403-NtZdQrwR_4A|Rotta verso la Terra (Watchparty con Libri in Pillole)]]
+- [[20260202-3Z9ZLo3sBSk|Chi sarà l'erede di Trump?]]

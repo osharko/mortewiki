@@ -10,8 +10,8 @@ view_count: "4392"
 like_count: "401"
 comment_count: "20"
 playlist_index: "0"
-tags: ["esclusive", "stanno", "sgretolando"]
-related: ["20260823-hCx7p_UC4cY", "20170129--U1yhSkcOBQ", "20210715-fhuC7NwT3Rc", "20250321-AviBBQdQqYU", "20250628-hCuI_9od2es", "20260529-dnl1hu-ReoI", "20260618-FfzvwpVxYwo", "20250825-TqIXw3NGZDI"]
+tags: ["nintendo", "sony", "gabe", "esclusiva", "streaming", "brand"]
+related: ["20190912-sX777AyfxsI", "20251114-uznIlHcFInI", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM", "20260705-jcu-Hvbspu4", "20241116-zW2mk3zC1b4", "20250524-zSGQoSrx00A", "20241028-fUXftWJQcY0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,11 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260823-hCx7p_UC4cY|Asobi: le esclusive PS5 arrivano su PC?]]
-- [[20170129--U1yhSkcOBQ|Le piante ci stanno guardando (SCP) - Creepypasta #59]]
-- [[20210715-fhuC7NwT3Rc|Le RELIGIONI stanno SPARENDO?]]
-- [[20250321-AviBBQdQqYU|Gli USA si stanno incattivendo....]]
-- [[20250628-hCuI_9od2es|I centristi stanno strillando per New York]]
-- [[20260529-dnl1hu-ReoI|I Colori stanno SPARENDO]]
-- [[20260618-FfzvwpVxYwo|Stanno privatizzando Cuba ORA!]]
-- [[20250825-TqIXw3NGZDI|La Privacy si sta sgretolando...]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
+- [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
+- [[20241028-fUXftWJQcY0|NINTENDO è stata BECCATA a usare EMULATORI]]

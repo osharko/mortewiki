@@ -10,8 +10,8 @@ view_count: "13207"
 like_count: "1129"
 comment_count: "71"
 playlist_index: "0"
-tags: ["sono", "davvero", "faro", "civiltà"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["faro", "ambulanza", "uber", "banca", "prestigiosissima", "concepire"]
+related: ["20200306-qEAtVTqrnZs", "20231112-V4bryxi-TxA", "20260823-8bOvS8TTeA0", "20210725-bq84Nu--WQM", "20260125-rmn7wPtJB34", "20260614-pFPVgIXtvRU", "20241205-tgSrJakGRWc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20200306-qEAtVTqrnZs|ABOLIAMO LE AUTOMOBILI]]
+- [[20231112-V4bryxi-TxA|La Filosofia di THE LIGHTHOUSE]]
+- [[20260823-8bOvS8TTeA0|La Filosofia in Horizon Zero Dawn]]
+- [[20210725-bq84Nu--WQM|Point Nemo - Creepypasta 166]]
+- [[20260125-rmn7wPtJB34|La dissoluzione dell'Impero Americano]]
+- [[20260614-pFPVgIXtvRU|10 Libri al Giorno - Creepypasta 274]]
+- [[20241205-tgSrJakGRWc|Speciazione nella fiction (Vulcaniani, Saiyan, Kriptoniani, Vitruviani, Chiss ecc...)]]

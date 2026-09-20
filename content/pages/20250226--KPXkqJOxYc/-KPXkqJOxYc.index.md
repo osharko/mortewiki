@@ -10,8 +10,8 @@ view_count: "17941"
 like_count: "1142"
 comment_count: "55"
 playlist_index: "0"
-tags: ["critica", "moderata", "moderati"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["centrista", "centristi", "spede", "vibes", "mangione", "moderato"]
+related: ["20220913-GKGJcoyfVpQ", "20251109--BksbKgj4e0", "20260529-JlQu1zEslFQ", "20260828-lpk6Wr5gsrc", "20260805-sxLK-rvj04E", "20250207-4EnqyYgUwDc", "20251118-R9gzIIr_3Ek", "20250201-2ttk_41Im-A", "20260626-uLQhYdH41Ig", "20251126-KMecagjWLyk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
 - [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20260529-JlQu1zEslFQ|Dovresti criticare Vannacci, non Boldrin!]]
+- [[20260828-lpk6Wr5gsrc|Mamdani e il Woke 1.0]]
+- [[20260805-sxLK-rvj04E|Mamdani è il democratico più popolare]]
+- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
+- [[20251118-R9gzIIr_3Ek|Il tradimento dei Democratici Centristi]]
+- [[20250201-2ttk_41Im-A|Se ti piace Luigi Mangione sei rassista]]
+- [[20260626-uLQhYdH41Ig|NO a Italia Viva nel Fronte Progressista]]
+- [[20251126-KMecagjWLyk|Sull'incontro tra Trump e Mamdani]]

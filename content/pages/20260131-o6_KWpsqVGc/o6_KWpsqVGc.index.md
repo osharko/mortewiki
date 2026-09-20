@@ -10,8 +10,8 @@ view_count: "12337"
 like_count: "789"
 comment_count: "38"
 playlist_index: "0"
-tags: ["critichi", "liberali", "anti", "democratico"]
-related: ["20250222-DgDlJa3Heuo", "20250301-tWIoJshZsn4", "20250928-aX21-fN8FOw", "20251217-mkQkC1eNeVY", "20251116-DME61s_RMqE", "20241030-OJkaL32vlo8", "20250317-ju7fMck0qMo", "20250902-7FjEOk8nzA0", "20251029-RxHJ76EZtYE", "20260227-mPsWbmqbN8Y"]
+tags: ["liberalismo", "inaccettabili", "antidemocratico", "popper", "socialdemocrazia", "fasci"]
+related: ["20200910-7o8HnnSDkTk", "20241006-FZKB0kGHl0k", "20251116-DME61s_RMqE", "20250501-2IzWuf8zSQ0", "20201008-4x00LcUl4Zs", "20220203-DdMVTjoGWtU"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250222-DgDlJa3Heuo|Se critichi KANYE WEST sei RASSISTA]]
-- [[20250301-tWIoJshZsn4|Se critichi il Wrestling non capisci le arti marziali]]
-- [[20250928-aX21-fN8FOw|Critichi il capitalismo, eppure hai soldi]]
-- [[20251217-mkQkC1eNeVY|Se critichi i misogini sei darwinista sociale]]
+- [[20200910-7o8HnnSDkTk|POPPER (Lezione completa) - #Filosofia 31]]
+- [[20241006-FZKB0kGHl0k|Come funziona l'indottrinamento fascista (tra Grooming ed Incel)]]
 - [[20251116-DME61s_RMqE|Non possiamo definirci Liberali]]
-- [[20241030-OJkaL32vlo8|Perché gli anti-Woke ODIANO la psicologia?]]
-- [[20250317-ju7fMck0qMo|Calvinismo: anti-cristianesimo per eccellenza]]
-- [[20250902-7FjEOk8nzA0|Il copium anti-trumpiano]]
-- [[20251029-RxHJ76EZtYE|L'Ossessione verso l'Inferno (e perché è anti-biblica)]]
-- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
+- [[20201008-4x00LcUl4Zs|Kuhn e Feyerabend - #Filosofia 32]]
+- [[20220203-DdMVTjoGWtU|Socrate e il Diritto a Ribellarsi]]

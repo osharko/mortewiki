@@ -10,8 +10,8 @@ view_count: "12531"
 like_count: "1013"
 comment_count: "130"
 playlist_index: "0"
-tags: ["mamma", "pare", "sono", "sionista"]
-related: ["20160605-_UxHCn4vPDo", "20170827-Cx825OF4sE0", "20180423-28U0JBR6tuw", "20180527-gHU0YSTwkxo", "20190602-kTIqJK0uOFc", "20190704-z7o4jyg6wdI", "20200404-SLCmorkPbNE", "20200708-E1HGWimlq14", "20210622-tmnpsoL5rNE", "20220927-KITTwZrduhA"]
+tags: ["sede", "ferrero", "nutella", "femminismo", "gelato", "lobbing"]
+related: ["20250210-ErDESQ5nB4g", "20241209-Gh142vq95TI", "20230811-MBZyU0-Qde8", "20240212-fX6a8X1oUcY", "20260128-Px2StNHILS8", "20250113-O0ijRE06g6c", "20250905-1o2vdKYB9yA", "20260816-d7IlAeP3tGs", "20260517-0m1dlc-akzo", "20260910-TpbEMej22-I"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20180423-28U0JBR6tuw|Mortebianca SCONFITTO da due GATTINI (sono stati adottati! Grazie!)]]
-- [[20180527-gHU0YSTwkxo|Lui è tornato vs Sono tornato]]
-- [[20190602-kTIqJK0uOFc|I Disegni sono vivi!! - Creepypasta 119 (SCP)]]
-- [[20190704-z7o4jyg6wdI|Sono arrivate le nuove magliette ufficiali!]]
-- [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
-- [[20220927-KITTwZrduhA|Come si sono Evoluti gli EUCARIOTI?]]
+- [[20250210-ErDESQ5nB4g|La Filosofia del FEMMINISMO]]
+- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
+- [[20230811-MBZyU0-Qde8|La Filosofia in BARBIE (ft BarbieXanax)]]
+- [[20240212-fX6a8X1oUcY|La Filosofia di Povere Creature]]
+- [[20260128-Px2StNHILS8|Rick DuFer contro il Femminismo?]]
+- [[20250113-O0ijRE06g6c|Se le varie aziende comprassero UBISOFT]]
+- [[20250905-1o2vdKYB9yA|Assaggio il gelato della PLASMON (ASMR Mukbang)]]
+- [[20260816-d7IlAeP3tGs|Il PEGGIOR commento su Obsession che io abbia mai letto]]
+- [[20260517-0m1dlc-akzo|Rick DuFer non sa cos'è il Transfemminismo]]
+- [[20260910-TpbEMej22-I|Le colpe di una madre]]

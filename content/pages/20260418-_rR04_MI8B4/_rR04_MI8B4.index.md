@@ -10,8 +10,8 @@ view_count: "6137"
 like_count: "436"
 comment_count: "42"
 playlist_index: "0"
-tags: ["quanto", "bisogna", "completare", "gioco", "farsi"]
-related: ["20160213-sc1rFIY_bOg", "20170507-kuhCpnSnB6o", "20241011-Vv4V510t0u8", "20250704-RVXmHqPuC3U", "20260304-FTDRaTnL7D0", "20260308-lwwMqKKIDI0", "20240623-5HkbTJJH2Bk", "20180531-Z9d-P4keIEs", "20231117-Vb4_0DGuOvA"]
+tags: ["gameplay", "giocato", "tetris", "categoria", "finali", "cesare"]
+related: ["20250302-_Zx7FzBT12s", "20260320-s8-zmip52LE", "20260830-6vZulACux14", "20241018-3e0D4lFgBfs", "20171116-2_DKdiKxVZE", "20250722-qMzLysXMGeY", "20210818-YVU4iMRqk60", "20250524-zSGQoSrx00A", "20241225-AjW3mY8JBRY", "20250326-XnkbgT-yDys"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160213-sc1rFIY_bOg|Quanto vale la tua vita? - Creepypasta #35]]
-- [[20170507-kuhCpnSnB6o|Quanto ti resta da vivere? (ft Ivo de Palma) - Creepypasta #66]]
-- [[20241011-Vv4V510t0u8|Israele UMILIA l'Italia (e noi zitti, a quanto pare)]]
-- [[20250704-RVXmHqPuC3U|Quanto è probabile un'invasione totale dell'Iran da parte degli Unti Sultanati d'Amianto?]]
-- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
-- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]
-- [[20240623-5HkbTJJH2Bk|Si alza il Vento, bisogna tentare di vivere]]
-- [[20180531-Z9d-P4keIEs|Fallout 4 è un Bel Gioco]]
-- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]
+- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
+- [[20260830-6vZulACux14|Aspetto Fable 4 più di GTA 6]]
+- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20250722-qMzLysXMGeY|Fallout: Remastered, Remake, Reboot]]
+- [[20210818-YVU4iMRqk60|IL VIDEOGIOCO IDEALE]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
+- [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]

@@ -12,8 +12,8 @@ comment_count: "495"
 playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "52"
-tags: ["cosa", "definisce", "shonen", "seinen"]
-related: ["20150328-lStExoasZBY", "20180318-rwKsWcNXbEU", "20180908-4hbBWk5qUmU", "20181109-h4s0JcDf0ZE", "20190117-j8JPi-TqpOI", "20190407-EZxUbdnDB1M", "20190630-Yl2XltereaA", "20191003-WkJQmfbYqrU", "20200216-G1lI0Rt4O10", "20200301-Nd1RAJwH62E"]
+tags: ["bannato", "indiscutibile", "insulta", "clown", "rivista", "target"]
+related: ["20160626-coz3YbDOLKo", "20260306-sFW5grXZSEw", "20251124-avrmErwu0Tk", "20250930-0_fHcp5qFs0", "20201224-QAcT36Qkdc8", "20250129-bKWEV16WRKo", "20200927-g56C2UYHznY", "20200429-5ksJ_atnAYU", "20260308-lwwMqKKIDI0", "20260317-y5pG11MM0to"]
 video_type: "video"
 description: "PROVE\nhttps://imgur.com/hdeLMSt"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180908-4hbBWk5qUmU|Cogito ergo Sum, cosa significa? - Cartesio e Pascal (#Filosofia 13)]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20190407-EZxUbdnDB1M|Hanno scavato nel Deep Web, ecco cosa hanno trovato - Creepypasta 115]]
-- [[20190630-Yl2XltereaA|La Cosa Invisibile - Creepypasta 120]]
-- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
-- [[20200216-G1lI0Rt4O10|Cosa c'è oltre l'Orizzonte? - Creepypasta 133]]
-- [[20200301-Nd1RAJwH62E|COSA SI PROVA A MORIRE? - Creepypasta 134]]
+- [[20160626-coz3YbDOLKo|Hai paura dei Clown? - Creepypasta #44]]
+- [[20260306-sFW5grXZSEw|No, non sei Bannato]]
+- [[20251124-avrmErwu0Tk|Idolatria portami via]]
+- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
+- [[20201224-QAcT36Qkdc8|Regolamento del Canale]]
+- [[20250129-bKWEV16WRKo|Se BANNI sei come ELON MUSK]]
+- [[20200927-g56C2UYHznY|Pareidolia - Creepypasta 146]]
+- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
+- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]
+- [[20260317-y5pG11MM0to|Iniziano le Purghe Mortebianchiste]]

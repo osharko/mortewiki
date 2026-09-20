@@ -10,8 +10,8 @@ view_count: "18770"
 like_count: "1283"
 comment_count: "73"
 playlist_index: "0"
-tags: ["coscienza", "classe", "negli", "critica", "federalismo"]
-related: ["20250615-xA6RzdQKTBo", "20250613-mOo9JbLE5zE", "20250925-E8sntLiSt58", "20260105-ib860jlhe_E", "20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ"]
+tags: ["federalismo", "federale", "avvocato", "tedeschi", "referendum", "federazione"]
+related: ["20241229-t-WFMmEtUvE", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20260321-Z73vITwJzn4", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20221130-DsS0lxEubZY", "20260506-BWcNXtjYK9Q", "20251122-bT5uXCtc85g"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250615-xA6RzdQKTBo|La Guerra di Classe]]
-- [[20250613-mOo9JbLE5zE|Perché i mostri negli anni 80 facevano più PAURA?]]
-- [[20250925-E8sntLiSt58|Quel periodo pazzurdo dei videogiochi negli anni 90]]
-- [[20260105-ib860jlhe_E|Docente licenziato negli USA per aver osato chiedere la fonte]]
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
+- [[20241229-t-WFMmEtUvE|Duale - Creepypasta 244]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20260321-Z73vITwJzn4|La risibile santificazione di Umberto Bossi]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]

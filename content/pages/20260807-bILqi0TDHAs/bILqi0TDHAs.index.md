@@ -10,8 +10,8 @@ view_count: "4005"
 like_count: "324"
 comment_count: "95"
 playlist_index: "0"
-tags: ["canti", "sigle", "cartoni", "cinesi", "femminuccia"]
-related: ["20260304-LErYsC4F7u8", "20260305-h-ldzyTXpXc", "20260514-PpFGHECYXf4", "20260813-76zUAirFrTo"]
+tags: ["testosterone", "canzoni", "ditemi", "ispira", "testosteronico", "soia"]
+related: ["20240213-RqdlRdSbPZM", "20171203-Rxq0QJstA7A", "20180830-Nl5ffkUKj-U", "20200530-qhxjjApb7Hw", "20240802-zXraRjCdkHc", "20260802-TeNDxHNNZbU", "20250213-NXWNtYOl-ZA", "20241009-WnXrJBN998M", "20180719-709ybMCFiic"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260304-LErYsC4F7u8|Tutti i cartoni animati in produzione (parte 1)]]
-- [[20260305-h-ldzyTXpXc|Tutti i cartoni animati in produzione (parte 2)]]
-- [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
-- [[20260813-76zUAirFrTo|La strana storia dei Gesù Cinesi]]
+- [[20240213-RqdlRdSbPZM|La CASTRAZIONE CHIMICA: funziona?]]
+- [[20171203-Rxq0QJstA7A|LA MUSICA CHE UCCIDE - Creepypasta #80]]
+- [[20180830-Nl5ffkUKj-U|I miei gusti musicali]]
+- [[20200530-qhxjjApb7Hw|Come funziona la Calvizie?]]
+- [[20240802-zXraRjCdkHc|IL CIRCO delle OLIMPIADI]]
+- [[20260802-TeNDxHNNZbU|Il Nofap non ha senso - Critica al No Nut November]]
+- [[20250213-NXWNtYOl-ZA|Un consiglio per tutti i musicisti]]
+- [[20241009-WnXrJBN998M|Come risolvere la FOMO]]
+- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]

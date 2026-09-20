@@ -10,8 +10,8 @@ view_count: "12357"
 like_count: "880"
 comment_count: "106"
 playlist_index: "0"
-tags: ["peggior", "commento", "sulla", "guerra", "abbia"]
-related: ["20241111-6c1SRAdSMak", "20241228-lkBSn3Ik3zY", "20250415-gliJQTKD8O4", "20250418-YlPgqczhrj4", "20250513-Hua0V8mvi7g", "20250726-a3iKGKd1cTs", "20251005-N3XpTnZ9Dd8", "20260206-8Qx_rLZtL-k", "20260816-d7IlAeP3tGs", "20241109-NDM8gt8G_4M"]
+tags: ["psichiatra", "nietzsche", "mutilo", "vitalità", "guardati", "gioca"]
+related: ["20190928-kpVAgG6QP0w", "20260703-SDMIlwAMmH0", "20241215-Sjr1XkQows4", "20260214-RGD-I9c6Rv8", "20250401-7Vm3DBfOhnI", "20170528-iJkaWq7-Yqw", "20201017-TrOBeFRHPBA", "20250312-r5U3Cd7Ou3o", "20161110-dTLp-YQ0U9Y", "20210514-L1S5WgMn9G0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241111-6c1SRAdSMak|IL PEGGIOR PAZIENTE PSICHIATRICO - Creepypasta 240]]
-- [[20241228-lkBSn3Ik3zY|IL PEGGIOR video sull'INCESTO che io abbia mai visto]]
-- [[20250415-gliJQTKD8O4|Il peggior crimine ISRAELIANO]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20250513-Hua0V8mvi7g|Il PEGGIOR commento indipendentista sardo che io abbia mai visto]]
-- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
-- [[20251005-N3XpTnZ9Dd8|IL PEGGIOR TERREMOTO della storia - Creepypasta 261]]
-- [[20260206-8Qx_rLZtL-k|Il PEGGIOR video di DuFer (su Epstein)]]
-- [[20260816-d7IlAeP3tGs|Il PEGGIOR commento su Obsession che io abbia mai letto]]
-- [[20241109-NDM8gt8G_4M|Commento gli Oscar all'Animazione (post vittoria di Miyazaki)]]
+- [[20190928-kpVAgG6QP0w|NIETZSCHE (Lezione completa) - #Filosofia 23]]
+- [[20260703-SDMIlwAMmH0|Rick DuFer non conosce l'ISLAM]]
+- [[20241215-Sjr1XkQows4|Il sottile anticattolicesimo della Destra]]
+- [[20260214-RGD-I9c6Rv8|Mortebianca e Rick DuFer: distanze filosofiche]]
+- [[20250401-7Vm3DBfOhnI|Se ti piace vuol dire che lo voti!]]
+- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
+- [[20201017-TrOBeFRHPBA|La PSICOLOGIA è una SCIENZA - Differenza tra Psicologia e Psichiatria]]
+- [[20250312-r5U3Cd7Ou3o|No, i giovani non sono più conservatori]]
+- [[20161110-dTLp-YQ0U9Y|Un filosofo su Minecraft]]
+- [[20210514-L1S5WgMn9G0|Anime e Videogiochi: come far tornare la voglia?]]

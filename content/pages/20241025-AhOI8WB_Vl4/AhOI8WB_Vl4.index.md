@@ -10,8 +10,8 @@ view_count: "2924"
 like_count: "266"
 comment_count: "22"
 playlist_index: "0"
-tags: ["film", "disney", "kingdom", "hearts", "poxxibile"]
-related: ["20161204-638Dp6-PyPs", "20171224-X-bFGwnB4is", "20180708-FU-Eezlk1CA", "20200503-RJbO_W12gZE", "20230103-3O0uKhBVjzI", "20240418-8Wk2915vtbQ", "20240826-v9MtjXxzE2o", "20241231-3Zox4F7d-v0", "20250307-rKuupJd6-wQ", "20250411-a5vwJrTqH_8"]
+tags: ["kingdom", "hearts", "story", "tarzan", "boomer", "action"]
+related: ["20260513-n3Yq6AlXHL4", "20250817-WlKYmH6i1FQ", "20260304-LErYsC4F7u8", "20220715-qXNF6b6tapc", "20240116-Z1MWIJ491Ds", "20260716-2v6LGsyiPOQ", "20250715-tirsbfqboQ4", "20250411-a5vwJrTqH_8", "20260316-rv6l-XQizsE", "20250415-88ahxSeQh9E"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20161204-638Dp6-PyPs|Non c'è nessuna Matrix dentro Matrix Risposta a Film Theorist]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20200503-RJbO_W12gZE|L'Angelo Sterminatore - Il Film che anticipò IL BUCO]]
-- [[20230103-3O0uKhBVjzI|BACKROOMS: IL FILM]]
-- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
-- [[20240826-v9MtjXxzE2o|EARWIG - Il primo film in CGI dello Studio GHIBLI]]
-- [[20241231-3Zox4F7d-v0|Regno del Sud Il Film (Speciale 250.000 Iscritti)]]
-- [[20250307-rKuupJd6-wQ|Intro film e serie TV]]
+- [[20260513-n3Yq6AlXHL4|Il mio Hood videoludico (dove sono cresciuto)]]
+- [[20250817-WlKYmH6i1FQ|La situazione umana è folle]]
+- [[20260304-LErYsC4F7u8|Tutti i cartoni animati in produzione (parte 1)]]
+- [[20220715-qXNF6b6tapc|La Filosofia di Mulan (ft Violetta Rocks)]]
+- [[20240116-Z1MWIJ491Ds|La Filosofia in TOY STORY]]
+- [[20260716-2v6LGsyiPOQ|Frankelda ha UMILIATO la Pixar]]
+- [[20250715-tirsbfqboQ4|Stop killing games]]
 - [[20250411-a5vwJrTqH_8|Annunciato il film di Death Stranding]]
+- [[20260316-rv6l-XQizsE|No, gli Zoomer non sono di destra]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]

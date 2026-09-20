@@ -10,8 +10,8 @@ view_count: "11708"
 like_count: "964"
 comment_count: "107"
 playlist_index: "0"
-tags: ["abolire", "quorum", "penalizzare", "astensione", "grazie"]
-related: ["20210604-PPgciXLt-v0", "20250103-Mxq9UbruNBQ", "20190613-keNwHt7CDp0", "20241011-p5xWPIn2NYc", "20260525-NKYI2Uo7448"]
+tags: ["quorum", "referendum", "vota", "votato", "firme", "repubblicani"]
+related: ["20260326-yqfwox7u2E0", "20260227-mPsWbmqbN8Y", "20250408-lT-sJvOpjdM", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20251118-R9gzIIr_3Ek", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
-- [[20250103-Mxq9UbruNBQ|Abolire il Celibato dei preti]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20241011-p5xWPIn2NYc|Humanity first? No, grazie!]]
-- [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
+- [[20260326-yqfwox7u2E0|Critica all'astensionismo]]
+- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251118-R9gzIIr_3Ek|Il tradimento dei Democratici Centristi]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]

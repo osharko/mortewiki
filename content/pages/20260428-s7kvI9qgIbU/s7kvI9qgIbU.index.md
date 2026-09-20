@@ -10,8 +10,8 @@ view_count: "7660"
 like_count: "693"
 comment_count: "65"
 playlist_index: "0"
-tags: ["europa", "unita", "ovvero", "progressismo"]
-related: ["20230219-zOxtKKhedQI", "20250307-mdez_E0_V88", "20250429-hm9Ek-RNl7w", "20250709-oX0cRj4qvNI", "20250928--aKzIU-_lPE", "20251128-IR7vbCMEPO0", "20260430-QUXUrmgMeMc", "20260601-MiG7c6YOOgE", "20260812-QHb4P7HwdTQ", "20260902-Ylm8WnAN5XA"]
+tags: ["europeista", "palle", "record", "progressista", "staccabili", "gramci"]
+related: ["20250509-_b6UTmUr-IU", "20250428-0Ah3uih9ERU", "20251216-1Bo2xDFYWss", "20260417-ReitMvcjouo", "20260626-uLQhYdH41Ig", "20260703-3WOUF72vVlI", "20250110-Oqnp_xRRkZQ", "20250422-IjEejHvQxTI"]
 video_type: "video"
 description: "Fonte immagine: https://www.reddit.com/r/vexillology/comments/8ijnjz/flag_of_the_european_union_in_the_style_of_the/"
 embeddable: "1"
@@ -20,13 +20,11 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230219-zOxtKKhedQI|E se gli OTTOMANI avessero conquistato l'Europa?]]
-- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
-- [[20250429-hm9Ek-RNl7w|Perché la Svizzera dovrebbe diventare Europa]]
-- [[20250709-oX0cRj4qvNI|Slavi ed Est Europa: imparare dalla storia per ridisegnare i confini]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]
-- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
-- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
-- [[20260902-Ylm8WnAN5XA|Sul Referendum Islanda-Europa]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
+- [[20251216-1Bo2xDFYWss|Perché i maschi conservatori hanno difficoltà con le donne?]]
+- [[20260417-ReitMvcjouo|Perché la Chiesa si riforma più veloce su altro (Omosessualità, Divorzio) rispetto all'Aborto?]]
+- [[20260626-uLQhYdH41Ig|NO a Italia Viva nel Fronte Progressista]]
+- [[20260703-3WOUF72vVlI|Emma: l'AI Italiana]]
+- [[20250110-Oqnp_xRRkZQ|Non sono Napoleonico MA......]]
+- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]

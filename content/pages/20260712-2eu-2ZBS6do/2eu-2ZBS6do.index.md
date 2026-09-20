@@ -10,8 +10,8 @@ view_count: "3426"
 like_count: "288"
 comment_count: "63"
 playlist_index: "0"
-tags: ["fumblato", "volte"]
-related: ["20241119-8FxNB7i69UI", "20260810-4UK4GwqjTVk"]
+tags: ["jack", "kinger", "ribbit", "ragata", "pomni", "famblato"]
+related: ["20260111-fGc-jpcK4TQ", "20260915-KTl0cODi8Mc", "20260611-OXzKEH_S86M", "20260914-Oo115Yosmpc", "20250104-AiEGu0KT9dY", "20260913--8ezzWjZ1qE", "20260917-qGMQERfraGE", "20260916-Ijw-qfE4jU8", "20260918-bQBGWrMMaWk", "20190331-tD9o5iCsmfU"]
 video_type: "video"
 description: "Immagine originale: https://www.instagram.com/p/DSQsZSOkSO8/"
 embeddable: "1"
@@ -20,5 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
-- [[20260810-4UK4GwqjTVk|Ho provato a fare la Polenta (due volte)]]
+- [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
+- [[20260915-KTl0cODi8Mc|A Billion Lies: Nucleare divinizzato (Parte 4)]]
+- [[20260611-OXzKEH_S86M|Amazing Digital Circus - Spiegazione del Finale]]
+- [[20260914-Oo115Yosmpc|A Billion Lies: Fonti schierate e dove trovarle (Parte 3)]]
+- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]
+- [[20260913--8ezzWjZ1qE|A Billion Lies: Ideologia e proiezione (Parte 2)]]
+- [[20260917-qGMQERfraGE|A Billion Lies: Terre non così rare (Parte 6)]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20260918-bQBGWrMMaWk|A Billion Lies: Chery Chery Picchi (Parte 7)]]
+- [[20190331-tD9o5iCsmfU|La Filosofia di Shining]]

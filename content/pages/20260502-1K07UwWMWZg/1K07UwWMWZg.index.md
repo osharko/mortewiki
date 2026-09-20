@@ -10,8 +10,8 @@ view_count: "5850"
 like_count: "437"
 comment_count: "34"
 playlist_index: "0"
-tags: ["anglicanesimo", "futuro"]
-related: ["20181206-U_I9h5SfwIg", "20190829--bOhzN9h6PQ", "20200405-4FIOk8SHwjc", "20200509-PIjNe3OByjw", "20201216-SeA459I2b60", "20211230-tR_0Sb0NVlU", "20230917-tkT3xxcvcko", "20231228-Bt6gSX4mZwY", "20241001-hSR2jzfj434", "20241107-Zsyc4OecXhA"]
+tags: ["cattolici", "cattolicesimo", "anglicani", "anglicana", "anglicano", "anglicanesimo"]
+related: ["20251006-QDYownw-kEI", "20250904-UxyeeuS9rGc", "20250918-d5zEmFHBnjg", "20221027-Nrb13Cfy8jw", "20250131-RnZ3rZr9tuk", "20260505-KEpwvnkblbc", "20231223-_O4mNtUyzzQ", "20171113-dixNExIirds", "20210715-fhuC7NwT3Rc", "20250504--cPDe9izQSs"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20211230-tR_0Sb0NVlU|Il futuro di Internet mi preoccupa...]]
-- [[20230917-tkT3xxcvcko|ALL TOMORROWS - Politica e Biologia del FUTURO]]
-- [[20231228-Bt6gSX4mZwY|Pokémon VIOLETTO: Lore tra passato e futuro della serie]]
-- [[20241001-hSR2jzfj434|IL FUTURO di WARHAMMER 40K]]
-- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20251006-QDYownw-kEI|La nuova ArcivescovA di Canterbury]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20250918-d5zEmFHBnjg|Perché i cattolici americani sono così?]]
+- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
+- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260505-KEpwvnkblbc|L'Ecumenismo tra Cristianesimo e Islam]]
+- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
+- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]
+- [[20210715-fhuC7NwT3Rc|Le RELIGIONI stanno SPARENDO?]]
+- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]

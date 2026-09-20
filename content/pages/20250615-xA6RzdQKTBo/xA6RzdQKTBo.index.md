@@ -10,8 +10,8 @@ view_count: "12036"
 like_count: "894"
 comment_count: "32"
 playlist_index: "0"
-tags: ["guerra", "classe"]
-related: ["20170113-VSskW7z2BSM", "20170319-IfVz4Fl0i6Q", "20170416-yRxTja2Z7lo", "20180628-rwCbxX3Wl8c", "20220303-TiRY5wVHL1A", "20221012-CKUHAN5rLm0", "20221113-nRYYBlqBw0w", "20221130-DsS0lxEubZY", "20221219-XTXAPzjsiIw", "20230514-i7fzBJOAhs8"]
+tags: ["predatore", "classi", "convivere", "dominante", "borghesi", "lupo"]
+related: ["20260412-9TV9V9wtqCw", "20250928-aX21-fN8FOw", "20240910-b33l186pH04", "20260203-xXkaBG2D-lk", "20241110-A5lY1NrTVKg", "20240324-3P6DKtxgYCw", "20230528-58AOHxJvbb4", "20200425-XEaMOiPcWE0", "20260427-j8_yXgd6dnw", "20250921-oVnlEcb4lUA"]
 video_type: "video"
 description: "EDIT: Arabia Saudita peggio dell'Iran"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
-- [[20170319-IfVz4Fl0i6Q|La Guerra Mondiale dei Ninja - Riassunto (Part 1)]]
-- [[20170416-yRxTja2Z7lo|La Guerra Mondiale dei Ninja - Riassunto (Part 2)]]
-- [[20180628-rwCbxX3Wl8c|TEORIE SU FALLOUT 5 - Chi ha iniziato la GUERRA?]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
-- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
-- [[20221219-XTXAPzjsiIw|E se la GERMANIA avesse vinto la Prima Guerra Mondiale?]]
-- [[20230514-i7fzBJOAhs8|Chi vincerà la Guerra dello Streaming?]]
+- [[20260412-9TV9V9wtqCw|LICANTROPIA - Creepypasta 270]]
+- [[20250928-aX21-fN8FOw|Critichi il capitalismo, eppure hai soldi]]
+- [[20240910-b33l186pH04|LA STORIA (Secondo MARX)]]
+- [[20260203-xXkaBG2D-lk|Perché i ricchi si comportano come aristocratici?]]
+- [[20241110-A5lY1NrTVKg|La Filosofia di THE 8 SHOW]]
+- [[20240324-3P6DKtxgYCw|MOSTRO - Creepypasta 225]]
+- [[20230528-58AOHxJvbb4|Cosa succede dopo il Comunismo?]]
+- [[20200425-XEaMOiPcWE0|La Filosofia di Diego Fusaro]]
+- [[20260427-j8_yXgd6dnw|Apologia di Zohran Mamdani]]
+- [[20250921-oVnlEcb4lUA|Negare il contraddittorio è davvero Fassismo?]]

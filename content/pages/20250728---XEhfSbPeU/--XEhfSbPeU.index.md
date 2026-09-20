@@ -10,8 +10,8 @@ view_count: "6781"
 like_count: "519"
 comment_count: "23"
 playlist_index: "0"
-tags: ["confronti", "inutili", "francesco", "leone"]
-related: ["20160605-_UxHCn4vPDo", "20241026-3EAwhA0DQ4E", "20250422-IjEejHvQxTI", "20220213-_7pH7axb2H8", "20250106-6uwt7ZDoPiU", "20250509-_b6UTmUr-IU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w"]
+tags: ["francesco", "leone", "prevost", "gesuiti", "agostiniani", "sperano"]
+related: ["20250509-_b6UTmUr-IU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20241026-3EAwhA0DQ4E"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Pope_Leo_XIV#/media/File:Pope_Leo_XIV_on_the_loggia.jpg"
 embeddable: "1"
@@ -20,11 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
-- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
-- [[20220213-_7pH7axb2H8|La Filosofia del Re Leone]]
-- [[20250106-6uwt7ZDoPiU|Amleto: tra Re Leone, Fable, Metaphor..... e l'Esodo]]
 - [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
 - [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
 - [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
+- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20210606-KUEe3zpJYdc|La Filosofia dei due Papi]]
+- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
+- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
+- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]

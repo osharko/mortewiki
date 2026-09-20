@@ -10,8 +10,8 @@ view_count: "7929"
 like_count: "747"
 comment_count: "44"
 playlist_index: "0"
-tags: ["tregua", "palestina", "bene", "arriva", "sono"]
-related: ["20250303-55UesOxanQs", "20251026-n8-h8uyr9TY", "20231029-MhcdzqAUKcI", "20231030-dRNbAY6XFDw", "20241022-mdYpUdN0HW0", "20250902-aD6n83WTgds", "20210409-utpE4ywsWpA", "20250127-jf5rrH7aQdA", "20241024-bIkDBjz5MZ8", "20260907-FHFHHiC4SGU"]
+tags: ["netaniao", "amas", "docce", "liscio", "priori", "empirico"]
+related: ["20240323-51sBpAGNpOE", "20251007-EMI9sz3wvPQ", "20251004-vmZseap-b9g", "20251026-n8-h8uyr9TY", "20251011-Nxw8vwhX4Lw", "20190125-EYEZqMR1fm0", "20231029-MhcdzqAUKcI", "20251013-4bB0mpteH7c", "20250902-aD6n83WTgds", "20250827-A-SRRM-1aus"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250303-55UesOxanQs|Ocalan e la tregua con Erdogan]]
+- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20251004-vmZseap-b9g|Perché né Hamas né Israele apprezzano il piano di Trump?]]
 - [[20251026-n8-h8uyr9TY|I motivi per cui Hamas sta rispettando la tregua]]
+- [[20251011-Nxw8vwhX4Lw|Perché Netanyahu è TERRORIZZATO da Barghouti?]]
+- [[20190125-EYEZqMR1fm0|KANT (Lezione completa) - #Filosofia 17]]
 - [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
-- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]
-- [[20241022-mdYpUdN0HW0|Liliana Segre e la Palestina: un rispettoso dissenso]]
+- [[20251013-4bB0mpteH7c|Cosa ne pensa MORTEBIANCA del piano di Pace di Trump?]]
 - [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
-- [[20210409-utpE4ywsWpA|Come Dormire bene]]
-- [[20250127-jf5rrH7aQdA|Quella volta che dissi vi voglio bene (FINITO MALISSIMO)]]
-- [[20241024-bIkDBjz5MZ8|Looking Up I See Only A Ceiling (Arriva lo sviluppatore a sorpresa!)]]
-- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]

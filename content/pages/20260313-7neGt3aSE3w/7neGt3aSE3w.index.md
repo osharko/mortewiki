@@ -10,8 +10,8 @@ view_count: "4542"
 like_count: "330"
 comment_count: "30"
 playlist_index: "0"
-tags: ["filosofia", "mortebianca", "parte"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["sims", "life", "odyssey", "spore", "eredità", "potevi"]
+related: ["20250206-jlG-fLpk8G8", "20241117-CgUhuFS6Clc", "20240606-U-0ellPzc1Y", "20250302-J3DkzHuOhCg", "20260824-cNYu_H4axOI", "20260630-sqbJ7cUBEbA", "20250406-WCH4kW9DT7k", "20200902-qGiwPDfhiDo", "20250415-88ahxSeQh9E", "20260519-i0u6Xp24vjY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
+- [[20240606-U-0ellPzc1Y|La Filosofia di A BUG’S LIFE]]
+- [[20250302-J3DkzHuOhCg|Funko Pop: cosa ne penso]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20260630-sqbJ7cUBEbA|Le Tasse NON sono un furto]]
+- [[20250406-WCH4kW9DT7k|Critica alla TOP videoludica del BAFTA]]
+- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
+- [[20260519-i0u6Xp24vjY|La Filosofia di El Dorado (e Z)]]

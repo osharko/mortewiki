@@ -10,8 +10,8 @@ view_count: "3870"
 like_count: "267"
 comment_count: "39"
 playlist_index: "0"
-tags: ["game", "thrones", "potrebbe", "concludersi", "cinema"]
-related: ["20150303-KIi6WBdtntI", "20160527-0bTtbHb0byI", "20211101-p9_tffzsNo0", "20211107-HMBWh-pIw-8", "20241124-on7SEvcKd9I", "20250104-Zpgjz6_E8wE", "20250105-xXnfFPUWdQI", "20250111-CfDp5EsTnzw", "20250717-3XdJ_un90gk", "20250910-oUhqje4PXMI"]
+tags: ["martin", "egon", "fire", "tyrion", "blood", "john"]
+related: ["20250324-PzzyWA0R7R8", "20240721-3NL1zCyzUHA", "20260313-ynkTjz44iKc", "20190324-Y4k7PC0yt5U", "20241016-Qkg_xDHA5a8", "20250104-Zpgjz6_E8wE", "20250527-ZBCBdVv4q5Y", "20260308-KxiAmVhYs-k", "20260127-Okbt1If7Lkw", "20211114-EDUgp_W9Hhw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150303-KIi6WBdtntI|The Game of Life - Creepypasta #10]]
-- [[20160527-0bTtbHb0byI|Game Story - Creepypasta #42]]
-- [[20211101-p9_tffzsNo0|Io e Amico Diverte siamo in SQUID GAME]]
-- [[20211107-HMBWh-pIw-8|La Filosofia di SQUID GAME]]
-- [[20241124-on7SEvcKd9I|What if: tra MCU, Star Wars e Game of Stronz]]
+- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
+- [[20240721-3NL1zCyzUHA|La Filosofia di TO THE MOON]]
+- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]
+- [[20190324-Y4k7PC0yt5U|Patto con il Diavolo - Creepypasta 114]]
+- [[20241016-Qkg_xDHA5a8|La mortalità dell'Autore (e le opere orfane)]]
 - [[20250104-Zpgjz6_E8wE|DISTRUGGO il finale di Game of Thrones (Parte 1)]]
-- [[20250105-xXnfFPUWdQI|DISTRUGGO il finale di Game of Thrones (Parte 2)]]
-- [[20250111-CfDp5EsTnzw|La Politica di SQUID GAME 2]]
-- [[20250717-3XdJ_un90gk|La lore di SQUID GAME 3]]
-- [[20250910-oUhqje4PXMI|Critica filiale a Game Theorist]]
+- [[20250527-ZBCBdVv4q5Y|RT poop riporta Robin Williams]]
+- [[20260308-KxiAmVhYs-k|Critica a Catelyn Stark (née Tully)]]
+- [[20260127-Okbt1If7Lkw|Madoka 4 è stato rimandato]]
+- [[20211114-EDUgp_W9Hhw|La VERA storia di DRACULA - Creepypasta 172]]

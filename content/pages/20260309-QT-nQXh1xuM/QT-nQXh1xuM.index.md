@@ -10,8 +10,8 @@ view_count: "9185"
 like_count: "670"
 comment_count: "62"
 playlist_index: "0"
-tags: ["sulla", "monarchia", "giapponese", "futuro"]
-related: ["20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0", "20250523-9KRef9VPR1w"]
+tags: ["principessa", "nobili", "cleopatra", "successione", "sposato", "aiko"]
+related: ["20221211-w5O1bCLSBrw", "20220511-XCkD0zJzCLA", "20221023-JzZA6-PtADc", "20260203-xXkaBG2D-lk", "20210729-9wyT4qZXAH4", "20210630-htumkVflUy4", "20241015-prjokmel458", "20240805-uAy8FZezOwg", "20250103-Mxq9UbruNBQ", "20250630-n2c_nqJecPY"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250523-9KRef9VPR1w|Sulla fine di Shinzo Abe]]
+- [[20221211-w5O1bCLSBrw|La Filosofia di Rapunzel]]
+- [[20220511-XCkD0zJzCLA|La Filosofia di ASSASSIN'S CREED]]
+- [[20221023-JzZA6-PtADc|Ivan il TERRIBILE - Creepypasta 192]]
+- [[20260203-xXkaBG2D-lk|Perché i ricchi si comportano come aristocratici?]]
+- [[20210729-9wyT4qZXAH4|La Filosofia di Taron e la pentola magica]]
+- [[20210630-htumkVflUy4|Quello che non vi dicono sul Feudalesimo]]
+- [[20241015-prjokmel458|Alle radici della Decadenza italiana]]
+- [[20240805-uAy8FZezOwg|La Filosofia di KAGUYA]]
+- [[20250103-Mxq9UbruNBQ|Abolire il Celibato dei preti]]
+- [[20250630-n2c_nqJecPY|Bezos blocca Venezia per il suo matrimonio: Neo-feudalesimo distopico]]

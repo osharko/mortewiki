@@ -10,8 +10,8 @@ view_count: "9317"
 like_count: "778"
 comment_count: "52"
 playlist_index: "0"
-tags: ["potrebbe", "costare", "dollari"]
-related: ["20250629-1wpwu_FsHSQ", "20260506-BWcNXtjYK9Q", "20260606-PLb7SEpZKhs", "20260630-k4CJiVF8lPk", "20260706-jNDtv2e0bCE"]
+tags: ["inflazione", "apple", "industria", "prezzi", "mele", "rana"]
+related: ["20250413-Y0jMmKLzDWk", "20260618-ZtU7yYIfhfM", "20260421-10lA1pA-CRc", "20250102-XOArfyW2q58", "20260901-hPt3rTbN_OM", "20240906-SCq2YmIAcPY", "20250206-jlG-fLpk8G8", "20250922-8onAikE00Dc", "20240614-tlrMiE7BzRY", "20260115-Yp8dokjbYhg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
-- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]
-- [[20260630-k4CJiVF8lPk|Prehistoria potrebbe non essere in 2D]]
-- [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
+- [[20260618-ZtU7yYIfhfM|Scalping: una semplice soluzione]]
+- [[20260421-10lA1pA-CRc|La Francia adotta Linux: cosa significa per l'Europa (e Microsoft trema)]]
+- [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]
+- [[20260901-hPt3rTbN_OM|Perché ci serve il Salario Minimo]]
+- [[20240906-SCq2YmIAcPY|ELON MUSK SENZA FRENI!]]
+- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20260115-Yp8dokjbYhg|Come la crisi RAM sbugiarda il capitalismo]]

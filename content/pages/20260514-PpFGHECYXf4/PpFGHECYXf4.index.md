@@ -10,8 +10,8 @@ view_count: "7551"
 like_count: "549"
 comment_count: "63"
 playlist_index: "0"
-tags: ["fallimento", "liberista", "sulle", "macchine", "cinesi"]
-related: ["20260710-OKKwf6sotu4", "20260724-ecolHGW-VBo", "20251019-1qH9ywYa4Vg", "20251204-Js6IvBwuCHw", "20260531-FhFS6ryUvwo", "20170108-3UDQP_I6nSg", "20260807-bILqi0TDHAs", "20260813-76zUAirFrTo"]
+tags: ["cinesi", "sussidi", "sleale", "protezionismo", "culpa", "eravate"]
+related: ["20260212-80t_llStvlI", "20181206-U_I9h5SfwIg", "20200225-sAIHTx4gvpk", "20260813-76zUAirFrTo", "20260525-NKYI2Uo7448", "20250302-J3DkzHuOhCg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,11 +19,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260710-OKKwf6sotu4|Bryan Johnson: ovvero il fallimento dell'Immortalismo]]
-- [[20260724-ecolHGW-VBo|Asmongold: ovvero il fallimento della Redpill]]
-- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
-- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
-- [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
-- [[20170108-3UDQP_I6nSg|Animatrix - Le macchine possono rivoltarsi?]]
-- [[20260807-bILqi0TDHAs|Se canti sigle dei cartoni cinesi sei una femminuccia]]
+- [[20260212-80t_llStvlI|Ho fatto arrabbiare i difensori di Pechino]]
+- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
+- [[20200225-sAIHTx4gvpk|Coronavirus e Politica]]
 - [[20260813-76zUAirFrTo|La strana storia dei Gesù Cinesi]]
+- [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
+- [[20250302-J3DkzHuOhCg|Funko Pop: cosa ne penso]]

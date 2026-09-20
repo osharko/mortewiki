@@ -10,8 +10,8 @@ view_count: "8000"
 like_count: "678"
 comment_count: "18"
 playlist_index: "0"
-tags: ["ipocrisia", "liberale", "sulla", "proprietà", "sacra"]
-related: ["20251127-OqcTrWuDq9g", "20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0"]
+tags: ["spreco", "sacra", "nativi", "rend", "palestinesi", "uagliù"]
+related: ["20231210-qDve480qKsY", "20231031-jM5c66bJntQ", "20251007-EMI9sz3wvPQ", "20231029-MhcdzqAUKcI", "20240222-JT3sG5KTILA", "20250902-aD6n83WTgds", "20231010-h4l1OY2BR60", "20251013-4bB0mpteH7c", "20260519-i0u6Xp24vjY", "20250122-bGO8tBip2M4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251127-OqcTrWuDq9g|L'Ipocrisia dei MAGA (e degli Antiwoke)]]
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20231031-jM5c66bJntQ|ISRAELE è colpevole di APARTHEID e GENOCIDIO]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
+- [[20240222-JT3sG5KTILA|Come funziona la PROPAGANDA di ISRAELE]]
+- [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
+- [[20231010-h4l1OY2BR60|STORIA AMERICANA 1: LE ORIGINI]]
+- [[20251013-4bB0mpteH7c|Cosa ne pensa MORTEBIANCA del piano di Pace di Trump?]]
+- [[20260519-i0u6Xp24vjY|La Filosofia di El Dorado (e Z)]]
+- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]

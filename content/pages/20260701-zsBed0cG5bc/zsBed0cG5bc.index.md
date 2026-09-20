@@ -10,8 +10,8 @@ view_count: "6247"
 like_count: "485"
 comment_count: "48"
 playlist_index: "0"
-tags: ["peggiore", "critica", "arte", "moderna", "abbia"]
-related: ["20210730-DcZQjaGmwro", "20250208-VKO43N0hpPQ", "20250404-cM894rePYhA", "20250504--cPDe9izQSs", "20250916-5q4UcU_99vQ", "20250930-0_fHcp5qFs0", "20251224-9bsGm21CExY", "20260118-3c8Oqbiihk0", "20260215-qGBbCXcZdcc", "20260420-4iShMYTBm0I"]
+tags: ["criterio", "replicare", "candinski", "degenerata", "truffa", "dante"]
+related: ["20200722-S84GtWfk0E4", "20260205-6kRSAEQZD_8", "20190131-ePDpQwsnwpA", "20260420-4iShMYTBm0I", "20251001-qU8c23zqv4M"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,8 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20250208-VKO43N0hpPQ|Il mio audio PEGGIORE in assoluto]]
-- [[20250404-cM894rePYhA|Il mio audio PEGGIORE in assoluto 2]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20250916-5q4UcU_99vQ|Il mio audio PEGGIORE in assoluto 3]]
-- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
-- [[20260118-3c8Oqbiihk0|Il testo PEGGIORE che io abbia mai letto]]
-- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]
+- [[20200722-S84GtWfk0E4|Risposta alla Risposta della Risposta di Dario Moccia - Cos'è un Anime? (+ Sfogone 2 la Vendemmia)]]
+- [[20260205-6kRSAEQZD_8|Critica a Film Theorist su Hazbin Hotel]]
+- [[20190131-ePDpQwsnwpA|Leggo le Fanfiction su di me]]
 - [[20260420-4iShMYTBm0I|La PEGGIORE difesa del Copyright che io abbia mai letto]]
+- [[20251001-qU8c23zqv4M|They/Them]]

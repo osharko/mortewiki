@@ -12,8 +12,8 @@ comment_count: "75"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "12"
-tags: ["apologia", "zohran", "mamdani"]
-related: ["20170921-5oHUQrf-dwQ", "20210909-LDBR0wTktT4", "20250210-8Kvt27bCw2Y", "20250417-GHoS0YNX864", "20250425-Ig0wv5jE2MY", "20250515-Azp54fQKR1w", "20250920-JgFUDInERkU", "20251030-wLsf2O3c_2I", "20251211-RwEJwS-9JKc", "20260302-H8lC4pnGIl0"]
+tags: ["mandami", "mandani", "zoran", "borghesi", "albert", "einstein"]
+related: ["20251130-sh54xa67Nuo", "20260906-UonTUjrzUT0", "20251109--BksbKgj4e0", "20251030--lx5H7MfRo4", "20251204-Js6IvBwuCHw", "20251105-LafzJEe-BFA", "20251106-BNe8iY0e9fY", "20191026-erglEe8LlpM", "20260519-iBiw-Nfqn8A", "20251126-KMecagjWLyk"]
 video_type: "video"
 description: "Fonte meme: https://www.reddit.com/r/Nepal360/comments/1ooyyp6/nepals_gen_z_toppled_a_govt_demanding_the_same_at/"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
-- [[20260302-H8lC4pnGIl0|Apologia di Cydonia]]
+- [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20251204-Js6IvBwuCHw|Sulle elezioni governatoriali di New York]]
+- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20251106-BNe8iY0e9fY|Commentario sulla vittoria di Zohran Mamdani]]
+- [[20191026-erglEe8LlpM|FREUD, JUNG, GODEL ed EINSTEIN - #Filosofia 24]]
+- [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
+- [[20251126-KMecagjWLyk|Sull'incontro tra Trump e Mamdani]]

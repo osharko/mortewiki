@@ -10,8 +10,8 @@ view_count: "4221"
 like_count: "463"
 comment_count: "34"
 playlist_index: "0"
-tags: ["consiglio", "tutti", "musicisti"]
-related: ["20250227--SvTavqJK4M", "20150627-HYE41DCwFBw", "20160605-_UxHCn4vPDo", "20170601-77zadUotAKI", "20171224-X-bFGwnB4is", "20180219-SXD4pfBPUgw", "20180318-rwKsWcNXbEU", "20180708-FU-Eezlk1CA", "20190613-keNwHt7CDp0", "20190823-oikrIGHtiEw"]
+tags: ["canzone", "canzoni", "pubblicitario", "cantanti", "circuito", "bieber"]
+related: ["20171203-Rxq0QJstA7A", "20180830-Nl5ffkUKj-U", "20241115-OyzwU3MdHK0", "20180719-709ybMCFiic", "20240428-4ii0EE4zTR4", "20190718-jY7yVJ5m9ww", "20190811-3GrFuJOtU2E", "20241009-WnXrJBN998M", "20260807-bILqi0TDHAs", "20230507-uufnC5ulGxg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
+- [[20171203-Rxq0QJstA7A|LA MUSICA CHE UCCIDE - Creepypasta #80]]
+- [[20180830-Nl5ffkUKj-U|I miei gusti musicali]]
+- [[20241115-OyzwU3MdHK0|LOST MEDIA ed episodi perduti: tra FILOSOFIA e MUSICA]]
+- [[20180719-709ybMCFiic|Come trovare la Musica dei Video di Youtube]]
+- [[20240428-4ii0EE4zTR4|LA DISNEY SU WISH]]
+- [[20190718-jY7yVJ5m9ww|La maledizione del Club 27 - Creepypasta #37]]
+- [[20190811-3GrFuJOtU2E|Charles Manson - Creepypasta 122]]
+- [[20241009-WnXrJBN998M|Come risolvere la FOMO]]
+- [[20260807-bILqi0TDHAs|Se canti sigle dei cartoni cinesi sei una femminuccia]]
+- [[20230507-uufnC5ulGxg|Metempsicosi - Creepypasta 204]]

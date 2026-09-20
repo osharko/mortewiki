@@ -10,8 +10,8 @@ view_count: "9846"
 like_count: "793"
 comment_count: "31"
 playlist_index: "0"
-tags: ["questione", "marino"]
-related: ["20250511-wkyU76rAHC0", "20250528-RsQU-zKVSqQ", "20250529-HfVS5zFkmI0"]
+tags: ["marino", "garibaldi", "sanmarinese", "savoia", "referendum", "repubblicana"]
+related: ["20250528-RsQU-zKVSqQ", "20250408-lT-sJvOpjdM", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,6 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
 - [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
-- [[20250529-HfVS5zFkmI0|Il dibattito su Nietzsche + la questione Fat shaming]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]

@@ -12,8 +12,8 @@ comment_count: "125"
 playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "18"
-tags: ["inquietante", "tutti", "creepypasta"]
-related: ["20160605-_UxHCn4vPDo", "20170601-77zadUotAKI", "20171224-X-bFGwnB4is", "20180219-SXD4pfBPUgw", "20180318-rwKsWcNXbEU", "20180708-FU-Eezlk1CA", "20190613-keNwHt7CDp0", "20190823-oikrIGHtiEw", "20191109-sLmdiKMTU_I", "20200108-aTzCDtRRekE"]
+tags: ["pornografia", "fantasie", "serial", "droghe", "killer", "sessualità"]
+related: ["20170723-3HLQsq367a4", "20161225-qmbX3fwq7Pg", "20201220--J10Se9Ab5c", "20220125-ioM5Wh-q31k", "20170820-PGyYprqiJ0U", "20210326-h6-hoBBsFLo", "20200202-p9m01xnZ1ws", "20250522-E50ONjn0O_U", "20200802-_Mxyf3Kd2GE", "20170604-g8hk2W5N0vM"]
 video_type: "video"
 description: "Una riflessione un po' particolare su un SCP di cui sento parlare molto poco.\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nFONTE: La SCP Wiki"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
-- [[20190823-oikrIGHtiEw|Tutti i Primarchi (Parte 1)]]
-- [[20191109-sLmdiKMTU_I|Tutti i Primarchi (Parte 2)]]
-- [[20200108-aTzCDtRRekE|Tutti i Primarchi (Parte 3)]]
+- [[20170723-3HLQsq367a4|La filosofia in Dexter: Morale o Omicidio?]]
+- [[20161225-qmbX3fwq7Pg|Il Serial Killer più SADICO e CRUDELE - Creepypasta #57 (Speciale Natale)]]
+- [[20201220--J10Se9Ab5c|Ted Bundy - Creepypasta 152]]
+- [[20220125-ioM5Wh-q31k|L'ENIGMA DI ZODIAC - Creepypasta #52]]
+- [[20170820-PGyYprqiJ0U|Dexter - Spiegazione del finale]]
+- [[20210326-h6-hoBBsFLo|Mortecuore 6 - La Clonazione (Ft Marco Crepaldi)]]
+- [[20200202-p9m01xnZ1ws|Il Macellaio di Rostov - Creepypasta 132]]
+- [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]
+- [[20200802-_Mxyf3Kd2GE|Leonarda Cianciulli - Creepypasta 142]]
+- [[20170604-g8hk2W5N0vM|La Gang più crudele mai esistita - Creepypasta #67]]

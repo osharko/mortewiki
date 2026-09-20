@@ -10,8 +10,8 @@ view_count: "9514"
 like_count: "706"
 comment_count: "25"
 playlist_index: "0"
-tags: ["ipocrisia", "maga", "degli", "antiwoke"]
-related: ["20250612-U_GmJZzTSx8", "20260111-dmewcR7yWnA", "20161030-15InOj8iByM", "20190111-3HIe9O2A_rc", "20200429-5ksJ_atnAYU", "20210214-pGyMBP2xloU", "20210912-WwV05lbjZDE", "20211128-FL6TVURHJDQ", "20221103-1jlQb56y3dY", "20231030-dRNbAY6XFDw"]
+tags: ["trans", "ipocrisia", "feticismo", "ipocrita", "ipocriti", "maga"]
+related: ["20240511-2xCCcYlTV0s", "20240510-pIqZwtBb_OY", "20250126-icvN1cZWtwo", "20240501-1fO1xM-QqZk", "20250112-ezjArmIchpg", "20241220-hBpJYO0OJz0", "20250111-CfDp5EsTnzw", "20250926-sRwhOms1cgY", "20240802-zXraRjCdkHc", "20260106-lK8Q77CHNeQ"]
 video_type: "video"
 description: "Fonte immagine: https://it.wikipedia.org/wiki/Make_America_Great_Again#/media/File:Make_America_Great_Again_hat_(27149010964).jpg"
 embeddable: "1"
@@ -20,13 +20,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250612-U_GmJZzTSx8|L'Ipocrisia liberale sulla proprietà sacra]]
-- [[20260111-dmewcR7yWnA|I MAGA ora vogliono la monarchia]]
-- [[20161030-15InOj8iByM|La Villa degli Specchi - Creepypasta #53]]
-- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
-- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
-- [[20210214-pGyMBP2xloU|La Fobia degli Aghi – Creepypasta 156]]
-- [[20210912-WwV05lbjZDE|Trailer della Filosofia degli Hentai]]
-- [[20211128-FL6TVURHJDQ|LA FILOSOFIA DEGLI HENTAI]]
-- [[20221103-1jlQb56y3dY|La Filosofia della Fattoria degli Animali]]
-- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]
+- [[20240511-2xCCcYlTV0s|Cos'è una DONNA? Sport, Bagni e... Religione]]
+- [[20240510-pIqZwtBb_OY|La Filosofia TRANSGENDER]]
+- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
+- [[20240501-1fO1xM-QqZk|Come Funziona il CAMBIO DI SESSO?]]
+- [[20250112-ezjArmIchpg|Transizione - Creepypasta 245]]
+- [[20241220-hBpJYO0OJz0|L'Impronta digitale che lasciamo sul web dopo la morte]]
+- [[20250111-CfDp5EsTnzw|La Politica di SQUID GAME 2]]
+- [[20250926-sRwhOms1cgY|Perché Trump è TERRORIZZATO dalle milizie di autodifesa LGBT]]
+- [[20240802-zXraRjCdkHc|IL CIRCO delle OLIMPIADI]]
+- [[20260106-lK8Q77CHNeQ|DNA e Israele]]

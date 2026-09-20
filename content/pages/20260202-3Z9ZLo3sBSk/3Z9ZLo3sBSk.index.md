@@ -10,8 +10,8 @@ view_count: "12419"
 like_count: "810"
 comment_count: "51"
 playlist_index: "0"
-tags: ["sarà", "erede", "trump"]
-related: ["20221012-CKUHAN5rLm0", "20260821-gwt1sPliRQU", "20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc", "20250122-bGO8tBip2M4", "20250125-LBWoXAkM6nM", "20250126-icvN1cZWtwo", "20250216-0C_57_nG4C0", "20250305-5Mh3VfogFfM", "20250506-Pcrfnsjr160"]
+tags: ["bush", "cruz", "repubblicani", "kirk", "rubio", "marco"]
+related: ["20250206-HiRzQUZUhHY", "20260803-iZjACtOf9Eo", "20260227-mPsWbmqbN8Y", "20250919-k4OWzYlYgfA", "20240121-u65mjPJxj8E", "20260616-wFu6leufdOw", "20250912-kO3kNZubRMw", "20240418-8Wk2915vtbQ", "20260210-LuMaHUu-gQs", "20251109--BksbKgj4e0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20260821-gwt1sPliRQU|Sarà più difficile ottenere la monetizzazione]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
-- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
+- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
+- [[20260803-iZjACtOf9Eo|Il grande bluff di Trump]]
+- [[20260227-mPsWbmqbN8Y|Un Texas democratico?]]
+- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
+- [[20240121-u65mjPJxj8E|STORIA AMERICANA 3: L'IMPERO AMERICANO]]
+- [[20260616-wFu6leufdOw|Texas Democratico: presidenziale o statale?]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
+- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
+- [[20260210-LuMaHUu-gQs|Trump e l'Insurrection Act: facciamo chiarezza]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]

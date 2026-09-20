@@ -10,8 +10,8 @@ view_count: "5798"
 like_count: "537"
 comment_count: "19"
 playlist_index: "0"
-tags: ["elogio", "pewdiepie"]
-related: ["20211002-vpw7ldIxYDg", "20220105-HQLfbddkFzQ", "20220611-A02qGitUODE", "20241213-wTU0ZHZ1yPQ", "20250427-k1ZP-FkNsa8", "20260113-TIsMYWmys5c", "20191031-Sns5GfkvAPw", "20250417-GHoS0YNX864"]
+tags: ["pewdiepie", "scuse", "mishima", "pewie", "logan", "paul"]
+related: ["20240707-Dj34Xmf9JKE", "20240602-leDGM8azp2M", "20240317-2qFac1rmD1A", "20250417-GHoS0YNX864", "20210920-V3HpJ8peugI", "20250103-F7qA3AIQn5A", "20251004-8yWgzrDL4rg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,11 +19,10 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20211002-vpw7ldIxYDg|Elogio dell'Infermiere]]
-- [[20220105-HQLfbddkFzQ|L'Elogio della Follia]]
-- [[20220611-A02qGitUODE|Elogio ai miei Amici]]
-- [[20241213-wTU0ZHZ1yPQ|Elogio del blocco]]
-- [[20250427-k1ZP-FkNsa8|Elogio del 25 Aprile]]
-- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
-- [[20191031-Sns5GfkvAPw|PewDiePie e Minecraft]]
+- [[20240707-Dj34Xmf9JKE|LA FILOSOFIA DI DUNE]]
+- [[20240602-leDGM8azp2M|TUTTA LA LORE DI DUNE]]
+- [[20240317-2qFac1rmD1A|DUNE - SPIEGAZIONE DEL FINALE]]
 - [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
+- [[20210920-V3HpJ8peugI|DUNE - Cosa ne penso?]]
+- [[20250103-F7qA3AIQn5A|Dune 4 confirmed? Poxxibile? Parliamone]]
+- [[20251004-8yWgzrDL4rg|La Filosofia di Mushoku Tensei]]

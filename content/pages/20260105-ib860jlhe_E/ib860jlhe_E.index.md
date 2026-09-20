@@ -10,8 +10,8 @@ view_count: "11125"
 like_count: "891"
 comment_count: "85"
 playlist_index: "0"
-tags: ["docente", "licenziato", "negli", "aver", "osato"]
-related: ["20250117-lmMW74UfvYg", "20250613-mOo9JbLE5zE", "20250925-E8sntLiSt58", "20250128-amjNouBGcJk", "20260501-MfIGVsJKM5w"]
+tags: ["epstein", "cabala", "licenziato", "passaggi", "studente", "gulag"]
+related: ["20260211-e_4mA45o-XU", "20260209-Z8BCokhHkZU", "20260206-8Qx_rLZtL-k", "20250713-q0_iPAsoc_U", "20230710-rkwWGE0175A", "20200922-DPqIEzEmzS4", "20210604-PPgciXLt-v0", "20260210-LuMaHUu-gQs", "20230611-RJTYsarj7N0", "20251126-KMecagjWLyk"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,8 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250117-lmMW74UfvYg|La Coscienza di classe negli USA (+ critica al Federalismo)]]
-- [[20250613-mOo9JbLE5zE|Perché i mostri negli anni 80 facevano più PAURA?]]
-- [[20250925-E8sntLiSt58|Quel periodo pazzurdo dei videogiochi negli anni 90]]
-- [[20250128-amjNouBGcJk|Twitter mi ha BANNATO per aver criticato ELON MUSK]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20260211-e_4mA45o-XU|Rick DuFer mi insulta e prevede il futuro: smentiamolo con i dati]]
+- [[20260209-Z8BCokhHkZU|Fact checking sulla lista di Epstein]]
+- [[20260206-8Qx_rLZtL-k|Il PEGGIOR video di DuFer (su Epstein)]]
+- [[20250713-q0_iPAsoc_U|Sulla Maturità]]
+- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
+- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
+- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
+- [[20260210-LuMaHUu-gQs|Trump e l'Insurrection Act: facciamo chiarezza]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
+- [[20251126-KMecagjWLyk|Sull'incontro tra Trump e Mamdani]]

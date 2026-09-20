@@ -10,8 +10,8 @@ view_count: "3069"
 like_count: "281"
 comment_count: "20"
 playlist_index: "0"
-tags: ["nuova", "strategia", "valve", "steam", "controller"]
-related: ["20251006-QDYownw-kEI", "20181109-h4s0JcDf0ZE", "20221003-DRN72akAOfA", "20250210-8Kvt27bCw2Y", "20251129-s9F0qOjHoLE", "20260625-ytK33P50E8g", "20260726-sDUpiGAqrCo"]
+tags: ["valve", "controller", "index", "machine", "console", "visore"]
+related: ["20250210-8Kvt27bCw2Y", "20200509-PIjNe3OByjw", "20220730-tWfSji3EySc", "20260625-ytK33P50E8g", "20250526-yQg5jFVG958", "20251019-1qH9ywYa4Vg", "20260815-LoFSH3Rwa6o", "20190912-sX777AyfxsI", "20231001-DJ00uo8ipB0", "20250302-_Zx7FzBT12s"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,10 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251006-QDYownw-kEI|La nuova ArcivescovA di Canterbury]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20221003-DRN72akAOfA|Steam vs Epic]]
 - [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20220730-tWfSji3EySc|La Storia della Realtà Virtuale]]
 - [[20260625-ytK33P50E8g|Steam Machine: cosa ne penso del GabeCube]]
-- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20231001-DJ00uo8ipB0|Obsolescenza Programmata e Preservazione Videoludica]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]

@@ -10,8 +10,8 @@ view_count: "3774"
 like_count: "322"
 comment_count: "59"
 playlist_index: "0"
-tags: ["amazing", "digital", "circus", "fortnite"]
-related: ["20240613-pdWbSqIA2-c", "20241010-WTiVb0TfKIY", "20250104-AiEGu0KT9dY", "20260111-fGc-jpcK4TQ", "20260419-t1XibxHwYlM", "20260421-eEkT449Qi-k", "20260611-OXzKEH_S86M", "20260612-zwli8h_OjzU", "20260624-zDjNf1fEYWQ"]
+tags: ["fortnite", "glitch", "balletti", "patrimoniale", "thanos", "brand"]
+related: ["20250930-mtacieae1RY", "20251218-NOr_HttEIfg", "20260419-t1XibxHwYlM", "20260622-eZnZgZ2B0L4", "20250906-Yi35O7unPI4", "20260630-sqbJ7cUBEbA", "20250712-B5HdTcWnNjo", "20260527-KnusyaTfPCc", "20250824-JXwF0dwIMc0", "20241126-EDsndAR9hjM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,12 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240613-pdWbSqIA2-c|La Filosofia di AMAZING DIGITAL CIRCUS]]
-- [[20241010-WTiVb0TfKIY|The Amazing Digital Circus sbarca su Netflix]]
-- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]
-- [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
+- [[20250930-mtacieae1RY|La Filosofia di GUINEVERE]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
 - [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
-- [[20260421-eEkT449Qi-k|L'Assurdismo di Amazing Digital Circus]]
-- [[20260611-OXzKEH_S86M|Amazing Digital Circus - Spiegazione del Finale]]
-- [[20260612-zwli8h_OjzU|Amazing Digital Circus agli Oscar?]]
-- [[20260624-zDjNf1fEYWQ|NO ad un sequel di Amazing Digital Circus]]
+- [[20260622-eZnZgZ2B0L4|Rockstar, everybody wants you]]
+- [[20250906-Yi35O7unPI4|In your head, zombie]]
+- [[20260630-sqbJ7cUBEbA|Le Tasse NON sono un furto]]
+- [[20250712-B5HdTcWnNjo|Rumor: più Fallout sono in produzione]]
+- [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
+- [[20250824-JXwF0dwIMc0|Le esclusive si stanno sgretolando...]]
+- [[20241126-EDsndAR9hjM|Il mio youtuber preferito va in pensione]]

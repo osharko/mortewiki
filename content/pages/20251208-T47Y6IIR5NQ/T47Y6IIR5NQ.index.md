@@ -10,8 +10,8 @@ view_count: "4610"
 like_count: "390"
 comment_count: "17"
 playlist_index: "0"
-tags: ["critica", "allo", "szon", "patrol"]
-related: ["20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo", "20220913-GKGJcoyfVpQ", "20230319-LKVLgeow2k0", "20230621-l8aY7cO_-uw", "20230919-8fv7uYUo-4g", "20240323-51sBpAGNpOE"]
+tags: ["patrol", "polonia", "giudicare", "trave", "cattolicesimo", "riferisco"]
+related: ["20250316-HQ2tbwXsIJI", "20221231-ZxunrzPftxo", "20250916-cT85PYE614E", "20260502-1K07UwWMWZg", "20250207-4EnqyYgUwDc", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20181126-44GwytxeqQ4", "20250918-d5zEmFHBnjg"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,12 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20220913-GKGJcoyfVpQ|Critica al Centrismo]]
-- [[20230319-LKVLgeow2k0|Critica all'Estinzionismo]]
-- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]
-- [[20230919-8fv7uYUo-4g|Critica all'Anoressia (ed ai suoi difensori)]]
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
+- [[20250316-HQ2tbwXsIJI|Il patto MOLOTOV-RIBBENTROP e la spartizione della POLONIA]]
+- [[20221231-ZxunrzPftxo|E se NAPOLEONE avesse vinto?]]
+- [[20250916-cT85PYE614E|Le origini della RUSSIA]]
+- [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
+- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20181126-44GwytxeqQ4|La Filosofia di Death Parade]]
+- [[20250918-d5zEmFHBnjg|Perché i cattolici americani sono così?]]

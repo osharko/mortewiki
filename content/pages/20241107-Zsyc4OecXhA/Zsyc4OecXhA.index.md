@@ -10,8 +10,8 @@ view_count: "21328"
 like_count: "1418"
 comment_count: "50"
 playlist_index: "0"
-tags: ["prospettive", "futuro", "della", "russia"]
-related: ["20250207-4EnqyYgUwDc", "20250314-adXqXoSqYSg", "20181206-U_I9h5SfwIg", "20190829--bOhzN9h6PQ", "20200405-4FIOk8SHwjc", "20200509-PIjNe3OByjw", "20201216-SeA459I2b60", "20211230-tR_0Sb0NVlU", "20230917-tkT3xxcvcko", "20231228-Bt6gSX4mZwY"]
+tags: ["putin", "oligarchi", "russa", "candidato", "emerge", "successore"]
+related: ["20220228-JAaPG9MHvF8", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251122-bT5uXCtc85g", "20260109-Tn8JtrbiCBQ", "20220224-AfzPCkTR0P0", "20250506-Pcrfnsjr160", "20220303-TiRY5wVHL1A", "20260120-l464ALtjP9I", "20220503-JtCgW83lNZ8"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250314-adXqXoSqYSg|Prospettive su Shrek 5]]
-- [[20181206-U_I9h5SfwIg|Fascismo Giapponese: Passato e Futuro (e Anime)]]
-- [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20211230-tR_0Sb0NVlU|Il futuro di Internet mi preoccupa...]]
-- [[20230917-tkT3xxcvcko|ALL TOMORROWS - Politica e Biologia del FUTURO]]
-- [[20231228-Bt6gSX4mZwY|Pokémon VIOLETTO: Lore tra passato e futuro della serie]]
+- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260109-Tn8JtrbiCBQ|Iran e Russia: tutte le ultime news]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
+- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
+- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]

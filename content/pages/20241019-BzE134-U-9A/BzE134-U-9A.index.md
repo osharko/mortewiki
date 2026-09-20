@@ -10,8 +10,8 @@ view_count: "10920"
 like_count: "892"
 comment_count: "53"
 playlist_index: "0"
-tags: ["mortebianchismo", "finito", "sulla", "wiki", "political"]
-related: ["20170827-Cx825OF4sE0", "20231206-v1owjBd7mbY", "20250517-Dm8_KQSzWx8", "20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM"]
+tags: ["socialismo", "liberation", "theology", "socialism", "ismo", "socialista"]
+related: ["20250720-fe_9ImC11V4", "20190622-HHM-ZGc9jX8", "20260129-1o9qL96k5OY", "20251103-TkDJa3Lhm44", "20251107-9YK4zwffORQ", "20210622-tmnpsoL5rNE", "20221219-XTXAPzjsiIw", "20250721-kD4HD5-BWcw", "20221113-nRYYBlqBw0w", "20180621-dQMhsnOg_cI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170827-Cx825OF4sE0|Dove sono finito?! - Creepypasta #73]]
-- [[20231206-v1owjBd7mbY|Sono finito su il Giornale per il mio video su ISRAELE]]
-- [[20250517-Dm8_KQSzWx8|Dov'è finito il protagonista di FALLOUT 3?]]
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20250720-fe_9ImC11V4|La transizione da SOCIALISMO a COMUNISMO]]
+- [[20190622-HHM-ZGc9jX8|KARL MARX (Lezione Completa) - #Filosofia 21]]
+- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
+- [[20251103-TkDJa3Lhm44|Sul video in cui Rick DuFer mi attacca personalmente]]
+- [[20251107-9YK4zwffORQ|Rispondo ad una critica educatissima e costruttiva]]
+- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20221219-XTXAPzjsiIw|E se la GERMANIA avesse vinto la Prima Guerra Mondiale?]]
+- [[20250721-kD4HD5-BWcw|Socialismo e Sud America]]
+- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
+- [[20180621-dQMhsnOg_cI|La Filosofia in Lovecraft - Da dove leggerlo?]]

@@ -10,8 +10,8 @@ view_count: "4214"
 like_count: "292"
 comment_count: "49"
 playlist_index: "0"
-tags: ["commentiamo", "tutti", "fallout", "annunciati"]
-related: ["20240320-1LdmwqQKSt4", "20240329-Vixn-NVK_sU", "20150627-HYE41DCwFBw", "20160605-_UxHCn4vPDo", "20170601-77zadUotAKI", "20171224-X-bFGwnB4is", "20180219-SXD4pfBPUgw", "20180318-rwKsWcNXbEU", "20180708-FU-Eezlk1CA", "20190613-keNwHt7CDp0"]
+tags: ["obsidian", "vegas", "remake", "betesda", "remastered", "scrolls"]
+related: ["20260717-pAm4pcfJfqM", "20250722-qMzLysXMGeY", "20250719-9uTekMzI8ZM", "20250712-B5HdTcWnNjo", "20171019-Y2fk-hvhbwg", "20171116-2_DKdiKxVZE", "20250225-jmZ_5QzdFHM", "20240505-3tQOZo_CPuA", "20171214-vtYGdzdlG6A", "20260416-dLQ9EZb-_qw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240320-1LdmwqQKSt4|Star Trek the Motion Picture (Commentiamo con Libri in Pillole)]]
-- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
-- [[20150627-HYE41DCwFBw|L'SCP più inquietante di tutti - Creepypasta #18]]
-- [[20160605-_UxHCn4vPDo|I Filler sono tutti inutili?]]
-- [[20170601-77zadUotAKI|Tutti i Fallout Cancellati (LORE)]]
-- [[20171224-X-bFGwnB4is|TUTTI I FILM DI NARUTO - Lore e Recensione (Speciale di Natale)]]
-- [[20180219-SXD4pfBPUgw|Tutti i romanzi di Naruto (lore completa)]]
-- [[20180318-rwKsWcNXbEU|Cosa è il Chakra? - Tutti gli Sharingan]]
-- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
-- [[20190613-keNwHt7CDp0|Grazie a tutti!]]
+- [[20260717-pAm4pcfJfqM|Il prossimo Fallout è di Obsidian!]]
+- [[20250722-qMzLysXMGeY|Fallout: Remastered, Remake, Reboot]]
+- [[20250719-9uTekMzI8ZM|Quali saranno i prossimi Fallout?]]
+- [[20250712-B5HdTcWnNjo|Rumor: più Fallout sono in produzione]]
+- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
+- [[20240505-3tQOZo_CPuA|La FILOSOFIA di FALLOUT (Serie Amazon)]]
+- [[20171214-vtYGdzdlG6A|Il finale di NEW VEGAS]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]

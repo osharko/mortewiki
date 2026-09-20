@@ -10,8 +10,8 @@ view_count: "9086"
 like_count: "622"
 comment_count: "57"
 playlist_index: "0"
-tags: ["perché", "chiesa", "riforma", "veloce", "altro"]
-related: ["20160915-pPJizUcCSsU", "20171127-91FEJdozPQ8", "20190425-wb0FxA4dtLg", "20190512-cVTsRpx4ZQo", "20190523-b3afCB19hr0", "20190531-do45hVcQ6Og", "20190609-9VIV0m7fHDU", "20191114-QQhbrmcalWk", "20191225-DGyCgIQkHLA", "20200706-6z9cqeXD7nc"]
+tags: ["aborto", "tommaso", "chiedi", "francesco", "preservativo", "progressista"]
+related: ["20220815-sLp3d-L1nCI", "20250509-_b6UTmUr-IU", "20240308-BwP3YRCd7hA", "20220813-bSeLluAY_Mg", "20240417-td05FofUsZs", "20250728---XEhfSbPeU", "20180615-4OCXxIEudiI", "20250907-iVXW64XFlV4", "20250509-sAJrhWaZLsA", "20210510-d-HgEX9HjIQ"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20171127-91FEJdozPQ8|Sakura e Hinata - Perché il NaruHina è giusto]]
-- [[20190425-wb0FxA4dtLg|Perché Instagram ha sorpassato Facebook]]
-- [[20190512-cVTsRpx4ZQo|Perché ho scelto Medicina]]
-- [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
-- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]
-- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
-- [[20191114-QQhbrmcalWk|Perché odio il Mare (e l'Estate)]]
-- [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20200706-6z9cqeXD7nc|Perché le MASCHERINE servono]]
+- [[20220815-sLp3d-L1nCI|Religione e ABORTO]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
+- [[20240308-BwP3YRCd7hA|Hitler NON ha legalizzato l'Aborto - Storia dell'Aborto]]
+- [[20220813-bSeLluAY_Mg|La Filosofia dell'ABORTO]]
+- [[20240417-td05FofUsZs|Il governo MELONI e l’ABORTO (Ci risiamo...)]]
+- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
+- [[20180615-4OCXxIEudiI|San Tommaso e la Scolastica - #Filosofia 10]]
+- [[20250907-iVXW64XFlV4|No Utero? No Party!]]
+- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
+- [[20210510-d-HgEX9HjIQ|La Filosofia di The Young Pope]]

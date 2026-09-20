@@ -10,8 +10,8 @@ view_count: "17529"
 like_count: "950"
 comment_count: "167"
 playlist_index: "0"
-tags: ["asmongold", "ovvero", "fallimento", "della", "redpill"]
-related: ["20250315-PhnD0RMTryU", "20250428-0Ah3uih9ERU", "20250814-e-Yzc91yXOA", "20251210-k7MOW5pZKV8", "20251220-Kf_lc_hw9n0", "20260415-bf2MjiywJzc", "20260428-s7kvI9qgIbU", "20260710-OKKwf6sotu4", "20260514-PpFGHECYXf4", "20141001-_b7LDZmMpCk"]
+tags: ["asmogold", "signorina", "asmo", "gold", "doccia", "signora"]
+related: ["20240710-KPmyLsfdVU8", "20251209-mAdr_RsjVvA", "20260303-DejSXDQ373k"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,6 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
-- [[20250814-e-Yzc91yXOA|Detective Pikachu: ovvero Bulbasaur è canonicamente il miglior starter]]
-- [[20251210-k7MOW5pZKV8|Jun Hayami, ovvero la fantasia degli autori non è ammissione di colpa]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
-- [[20260428-s7kvI9qgIbU|Europa unita: ovvero il progressismo]]
-- [[20260710-OKKwf6sotu4|Bryan Johnson: ovvero il fallimento dell'Immortalismo]]
-- [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
+- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
+- [[20251209-mAdr_RsjVvA|Coffin of Freud (Live Mortebianca Reaction)]]
+- [[20260303-DejSXDQ373k|Una vendetta, una sentenza]]

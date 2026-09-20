@@ -10,8 +10,8 @@ view_count: "2936"
 like_count: "258"
 comment_count: "21"
 playlist_index: "0"
-tags: ["amazing", "digital", "circus", "agli", "oscar"]
-related: ["20240613-pdWbSqIA2-c", "20241010-WTiVb0TfKIY", "20250104-AiEGu0KT9dY", "20260111-fGc-jpcK4TQ", "20260419-t1XibxHwYlM", "20260421-eEkT449Qi-k", "20260611-OXzKEH_S86M", "20260615-MM__5UOlOR4", "20260624-zDjNf1fEYWQ", "20250619-MA2O1xd4yA8"]
+tags: ["oscar", "kubrick", "buonasera", "tadk", "small", "circus"]
+related: ["20241208-pKPFXw4uv_U", "20241109-NDM8gt8G_4M", "20191104-J0eakSd45-w", "20240613-pdWbSqIA2-c", "20190331-tD9o5iCsmfU", "20251030-wLsf2O3c_2I", "20260624-zDjNf1fEYWQ", "20260419-t1XibxHwYlM", "20180624-Zx9CSb7acEI", "20181014-O0kUiFne7F0"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20241208-pKPFXw4uv_U|Commentario ai Saturn Awards]]
+- [[20241109-NDM8gt8G_4M|Commento gli Oscar all'Animazione (post vittoria di Miyazaki)]]
+- [[20191104-J0eakSd45-w|La Filosofia di AI - Intelligenza Artificiale]]
 - [[20240613-pdWbSqIA2-c|La Filosofia di AMAZING DIGITAL CIRCUS]]
-- [[20241010-WTiVb0TfKIY|The Amazing Digital Circus sbarca su Netflix]]
-- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]
-- [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
-- [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
-- [[20260421-eEkT449Qi-k|L'Assurdismo di Amazing Digital Circus]]
-- [[20260611-OXzKEH_S86M|Amazing Digital Circus - Spiegazione del Finale]]
-- [[20260615-MM__5UOlOR4|Amazing Digital Circus su Fortnite]]
+- [[20190331-tD9o5iCsmfU|La Filosofia di Shining]]
+- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
 - [[20260624-zDjNf1fEYWQ|NO ad un sequel di Amazing Digital Circus]]
-- [[20250619-MA2O1xd4yA8|No agli Astronauti VIP]]
+- [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
+- [[20180624-Zx9CSb7acEI|La Filosofia di 2001: Odissea nello Spazio]]
+- [[20181014-O0kUiFne7F0|La Filosofia di Arancia Meccanica]]

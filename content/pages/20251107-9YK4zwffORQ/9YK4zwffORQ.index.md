@@ -10,8 +10,8 @@ view_count: "16975"
 like_count: "1067"
 comment_count: "78"
 playlist_index: "0"
-tags: ["rispondo", "critica", "educatissima", "costruttiva"]
-related: ["20181011-6QHVknk5d-o", "20241204-4HQQgmuKJYA", "20250520-6zskj2lzZH8", "20260508-LAuCrb2qyQw", "20260526-pvNPSuHJznQ", "20190214-89s7NZZOIwM", "20200922-DPqIEzEmzS4", "20210309--SZ7XGGYcAg", "20220723-JjTOgCfG074", "20220802-T0B1FafHsTo"]
+tags: ["avvocato", "socialismo", "private", "cherry", "picking", "marxismo"]
+related: ["20260129-1o9qL96k5OY", "20210622-tmnpsoL5rNE", "20190622-HHM-ZGc9jX8", "20260122-rPIw7HgVXfs", "20241229-t-WFMmEtUvE", "20240702-kNN5EkHocno", "20210604-PPgciXLt-v0", "20230528-58AOHxJvbb4", "20250720-fe_9ImC11V4", "20241019-BzE134-U-9A"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20181011-6QHVknk5d-o|Mortebianca compie 5 anni - Rispondo alle vostre domande #2]]
-- [[20241204-4HQQgmuKJYA|Le domande a cui non rispondo]]
-- [[20250520-6zskj2lzZH8|Rispondo a Calenda su Lenin]]
-- [[20260508-LAuCrb2qyQw|Rispondo a 4 critiche diverse]]
-- [[20260526-pvNPSuHJznQ|Rispondo alla frecciata di Michele Boldrin ORA!!!]]
-- [[20190214-89s7NZZOIwM|Cos'è una critica costruttiva?]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
+- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
+- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20190622-HHM-ZGc9jX8|KARL MARX (Lezione Completa) - #Filosofia 21]]
+- [[20260122-rPIw7HgVXfs|Sul Marxismo Libertario]]
+- [[20241229-t-WFMmEtUvE|Duale - Creepypasta 244]]
+- [[20240702-kNN5EkHocno|Comunismo + LGBT= Una storica alleanza]]
+- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
+- [[20230528-58AOHxJvbb4|Cosa succede dopo il Comunismo?]]
+- [[20250720-fe_9ImC11V4|La transizione da SOCIALISMO a COMUNISMO]]
+- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]

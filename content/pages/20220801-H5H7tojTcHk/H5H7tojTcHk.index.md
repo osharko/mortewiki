@@ -12,8 +12,8 @@ comment_count: "86"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "98"
-tags: ["filosofia", "della", "realtà", "virtuale"]
-related: ["20160123-SBaouYw1mDs", "20160221-fno_driw8sI", "20160618-lcNq9z5gfhs", "20160703-tz5Mu3AymqI", "20160717-pKSvXp0L1fQ", "20161023-ztVM4fE2x3k", "20161208-paTELLoCOkk", "20170123-tpNXoYWBnoo", "20170528-iJkaWq7-Yqw", "20170709-fma2jtVejFE"]
+tags: ["virtuale", "aumentata", "mela", "virtuali", "solar", "metrics"]
+related: ["20200524-IR0KORQlR_g", "20180304--9Y-nkCO6QE", "20220730-tWfSji3EySc", "20201216-SeA459I2b60", "20201212-Xn2y3dOgAV0", "20250415-88ahxSeQh9E", "20250725-pJN6S2T2E6E", "20250428-aa9nUSSlN6s", "20160710-rWe7s3T8DLE", "20211113-wa_UoV2xb54"]
 video_type: "video"
 description: "Superhot: https://amzn.to/3zpVYYG\nIl mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#vr #realtàvirtuale #superhot\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://www.youtube.com/watch?v=b73t9SLss8k&ab_channel=CO.AGMusic\nhttps://www.youtube.com/watch?v=b0q5PR1xpA0&ab_channel=LEMMiNOMusic\nhttps://www.youtube.com/watch?v=epmoV2HRs9U&ab_channel=LEMMiNOMusic"
 embeddable: "1"
@@ -22,13 +22,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20160123-SBaouYw1mDs|La Filosofia di Chappie - The Humandroid]]
-- [[20160221-fno_driw8sI|La Filosofia di Gravity Falls]]
-- [[20160618-lcNq9z5gfhs|La Filosofia di Matrix]]
-- [[20160703-tz5Mu3AymqI|La Filosofia di DEIDARA E SASORI]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20161023-ztVM4fE2x3k|PAIN - La Filosofia del dolore]]
-- [[20161208-paTELLoCOkk|This War of Mine - Filosofia Videoludica]]
-- [[20170123-tpNXoYWBnoo|La Filosofia di Danzo - Incontro dei Kage]]
-- [[20170528-iJkaWq7-Yqw|La Filosofia nel FIGHT CLUB]]
-- [[20170709-fma2jtVejFE|La Filosofia di Obito - Il Decacoda]]
+- [[20200524-IR0KORQlR_g|NECROPOLIS - Creepypasta #7]]
+- [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
+- [[20220730-tWfSji3EySc|La Storia della Realtà Virtuale]]
+- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
+- [[20201212-Xn2y3dOgAV0|La Filosofia di Sword Art Online]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
+- [[20250725-pJN6S2T2E6E|Esplorare caverne in VR💀]]
+- [[20250428-aa9nUSSlN6s|Black Mirror è RISORTO]]
+- [[20160710-rWe7s3T8DLE|Pokémon Go - Creepypasta #45]]
+- [[20211113-wa_UoV2xb54|La Filosofia di Facebook]]

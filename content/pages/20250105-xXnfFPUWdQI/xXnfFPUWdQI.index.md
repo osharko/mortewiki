@@ -10,8 +10,8 @@ view_count: "7391"
 like_count: "313"
 comment_count: "34"
 playlist_index: "0"
-tags: ["distruggo", "finale", "game", "thrones", "parte"]
-related: ["20250104-Zpgjz6_E8wE", "20251016-tAcBqKBfXYA", "20151225-L-HcXpoBTso", "20161106-BcEQEqtWDMw", "20170820-PGyYprqiJ0U", "20170921-5oHUQrf-dwQ", "20171116-2_DKdiKxVZE", "20171214-vtYGdzdlG6A", "20180307-gfmpkbFluiQ", "20180503-nEuthkxMErI"]
+tags: ["deneris", "cersi", "sansa", "snow", "sersi", "regina"]
+related: ["20250104-Zpgjz6_E8wE", "20260308-KxiAmVhYs-k", "20210808-tQCT11_aTJo", "20220828-bX9YlJiKpiE", "20210523-RPpHpgBp-FQ", "20231203-dsJe2oRHlGY", "20240428-4ii0EE4zTR4", "20150912-SCa0IsQezdw", "20230531-g_J9Kpza6BE", "20260726-zbAsM_UyLrM"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -20,12 +20,12 @@ embeddable: "1"
 
 ## Correlati
 - [[20250104-Zpgjz6_E8wE|DISTRUGGO il finale di Game of Thrones (Parte 1)]]
-- [[20251016-tAcBqKBfXYA|DISTRUGGO Ben Shapiro con Fatti e Logica]]
-- [[20151225-L-HcXpoBTso|Finale di Breaking Bad - Chi è veramente Gus?]]
-- [[20161106-BcEQEqtWDMw|MATRIX - Spiegazione del finale]]
-- [[20170820-PGyYprqiJ0U|Dexter - Spiegazione del finale]]
-- [[20170921-5oHUQrf-dwQ|Fallout 3 - Spiegazione del Finale e Apologia]]
-- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
-- [[20171214-vtYGdzdlG6A|Il finale di NEW VEGAS]]
-- [[20180307-gfmpkbFluiQ|La Filosofia di The Arrival - Spiegazione del Finale]]
-- [[20180503-nEuthkxMErI|Fallout 4 - Qual è il finale canonico?]]
+- [[20260308-KxiAmVhYs-k|Critica a Catelyn Stark (née Tully)]]
+- [[20210808-tQCT11_aTJo|LA CIA TI STA ASCOLTANDO - Creepypasta 167]]
+- [[20220828-bX9YlJiKpiE|Le FORMICHE - Creepypasta 188]]
+- [[20210523-RPpHpgBp-FQ|La Filosofia di HISTORIA REISS]]
+- [[20231203-dsJe2oRHlGY|La MASCHERA ROSSA - Creepypasta 217]]
+- [[20240428-4ii0EE4zTR4|LA DISNEY SU WISH]]
+- [[20150912-SCa0IsQezdw|La VERA storia di Bloody Mary - Creepypasta #23]]
+- [[20230531-g_J9Kpza6BE|TUTTI i Sequel DISNEY (Parte 2)]]
+- [[20260726-zbAsM_UyLrM|Febbre della Lumaca - Creepypasta 276]]

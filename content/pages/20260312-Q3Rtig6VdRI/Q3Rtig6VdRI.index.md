@@ -10,8 +10,8 @@ view_count: "11160"
 like_count: "883"
 comment_count: "128"
 playlist_index: "0"
-tags: ["sulla", "presunta", "omosessualità", "light", "yagami"]
-related: ["20180415-XDWa6mVwiB4", "20180824-pElI_oq_ekE", "20200402-SrM55h9vvvM", "20220529-T11ZfsuHpPo", "20241019-BzE134-U-9A", "20241106-OPbxvJJtkhc", "20250207-4EnqyYgUwDc", "20250408-lT-sJvOpjdM", "20250511-wkyU76rAHC0", "20250523-9KRef9VPR1w"]
+tags: ["light", "misa", "coltello", "attrazione", "intelletto", "omosessuale"]
+related: ["20180513-k-x4n5J1RvM", "20180708-FU-Eezlk1CA", "20250102-d6VytRWuVVU", "20180610-NuYhwrjvFD4", "20240710-KPmyLsfdVU8", "20230709-eEpjudjBR2s", "20200917-JTh5ejiEMsY", "20180615-4OCXxIEudiI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,11 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20180824-pElI_oq_ekE|Aggiornamento sulla Duplication - Risposta a Dellimellow]]
-- [[20200402-SrM55h9vvvM|Ultimo video sulla Duplication]]
-- [[20220529-T11ZfsuHpPo|IL LUOGO PIÚ PERICOLOSO SULLA TERRA - Creepypasta 183]]
-- [[20241019-BzE134-U-9A|Il Mortebianchismo è finito sulla wiki del political compass]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20250523-9KRef9VPR1w|Sulla fine di Shinzo Abe]]
+- [[20180513-k-x4n5J1RvM|La Filosofia in DEATH NOTE]]
+- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
+- [[20250102-d6VytRWuVVU|La sottile stupidità di LIGHT YAGAMI]]
+- [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]
+- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
+- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
+- [[20200917-JTh5ejiEMsY|Mortecuore 4: il Ritorno (ft Mr Marra)]]
+- [[20180615-4OCXxIEudiI|San Tommaso e la Scolastica - #Filosofia 10]]

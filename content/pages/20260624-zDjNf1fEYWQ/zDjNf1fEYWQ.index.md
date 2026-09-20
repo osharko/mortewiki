@@ -10,8 +10,8 @@ view_count: "4221"
 like_count: "370"
 comment_count: "103"
 playlist_index: "0"
-tags: ["sequel", "amazing", "digital", "circus"]
-related: ["20180415-XDWa6mVwiB4", "20200323-QKF39miYkbE", "20230530-l0x0wRikqb8", "20230531-g_J9Kpza6BE", "20231226-puhWwBb9ryU", "20240221-LLNdc8FUPQc", "20240613-pdWbSqIA2-c", "20241010-WTiVb0TfKIY", "20250104-AiEGu0KT9dY", "20260111-fGc-jpcK4TQ"]
+tags: ["cliente", "prequel", "tadk", "beatles", "hollywood", "theorist"]
+related: ["20241229-t-WFMmEtUvE", "20241229-dfUYlYyAIF4", "20161204-638Dp6-PyPs", "20250910-oUhqje4PXMI", "20250311-h2ylzdzt9Ug", "20190811-3GrFuJOtU2E", "20230530-l0x0wRikqb8", "20251030-wLsf2O3c_2I", "20260628-WyLCs2Wewbg", "20180830-Nl5ffkUKj-U"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20180415-XDWa6mVwiB4|Boruto, un degno sequel? - Predizione sulla trama]]
-- [[20200323-QKF39miYkbE|REBUILD of EVANGELION (NON) è un SEQUEL]]
+- [[20241229-t-WFMmEtUvE|Duale - Creepypasta 244]]
+- [[20241229-dfUYlYyAIF4|Canali ereditati: funzionano?]]
+- [[20161204-638Dp6-PyPs|Non c'è nessuna Matrix dentro Matrix Risposta a Film Theorist]]
+- [[20250910-oUhqje4PXMI|Critica filiale a Game Theorist]]
+- [[20250311-h2ylzdzt9Ug|USA vs EU 2: la vendemmia]]
+- [[20190811-3GrFuJOtU2E|Charles Manson - Creepypasta 122]]
 - [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
-- [[20230531-g_J9Kpza6BE|TUTTI i Sequel DISNEY (Parte 2)]]
-- [[20231226-puhWwBb9ryU|Sequel: NHK 2, Ib 3, Stranger Things 4, Silent Hill 5, Wasteland 6, Madoka 7, Fallout 8, Dexter 9]]
-- [[20240221-LLNdc8FUPQc|L’UNICO SEQUEL mai prodotto dallo Studio GHIBILI]]
-- [[20240613-pdWbSqIA2-c|La Filosofia di AMAZING DIGITAL CIRCUS]]
-- [[20241010-WTiVb0TfKIY|The Amazing Digital Circus sbarca su Netflix]]
-- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]
-- [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
+- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
+- [[20260628-WyLCs2Wewbg|Prehistoria: una speranza per l'animazione tradizionale]]
+- [[20180830-Nl5ffkUKj-U|I miei gusti musicali]]

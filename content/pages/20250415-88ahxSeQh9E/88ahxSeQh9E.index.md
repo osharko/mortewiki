@@ -10,8 +10,8 @@ view_count: "8784"
 like_count: "693"
 comment_count: "30"
 playlist_index: "0"
-tags: ["never", "knew", "world", "without"]
-related: ["20190111-3HIe9O2A_rc", "20201227-R8JBqKVwsdI", "20250118--Hw0h8zxt-U", "20260315-JZcjb9pvNc0"]
+tags: ["smartphone", "virtuale", "potevi", "boomer", "anziana", "cresciuti"]
+related: ["20220801-H5H7tojTcHk", "20200524-IR0KORQlR_g", "20250817-WlKYmH6i1FQ", "20220730-tWfSji3EySc", "20180304--9Y-nkCO6QE", "20201216-SeA459I2b60", "20250727-Fnwa2wg0Xeo", "20250206-jlG-fLpk8G8", "20201212-Xn2y3dOgAV0", "20241117-CgUhuFS6Clc"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,7 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
-- [[20201227-R8JBqKVwsdI|La Filosofia di Accel World]]
-- [[20250118--Hw0h8zxt-U|San Tommaso vs THE WORLD (Za Warudo)]]
-- [[20260315-JZcjb9pvNc0|La Filosofia del Brave New World]]
+- [[20220801-H5H7tojTcHk|La Filosofia della Realtà Virtuale]]
+- [[20200524-IR0KORQlR_g|NECROPOLIS - Creepypasta #7]]
+- [[20250817-WlKYmH6i1FQ|La situazione umana è folle]]
+- [[20220730-tWfSji3EySc|La Storia della Realtà Virtuale]]
+- [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
+- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
+- [[20250727-Fnwa2wg0Xeo|Flip phones, Dumb phones e gadget retro: false e vere soluzioni per la detox digitale]]
+- [[20250206-jlG-fLpk8G8|La mia esperienza con i giochi di Will Wright]]
+- [[20201212-Xn2y3dOgAV0|La Filosofia di Sword Art Online]]
+- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]

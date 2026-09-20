@@ -10,8 +10,8 @@ view_count: "9226"
 like_count: "684"
 comment_count: "78"
 playlist_index: "0"
-tags: ["difendi", "papa", "dalle", "minacce", "trump"]
-related: ["20231223-_O4mNtUyzzQ", "20241026-3EAwhA0DQ4E", "20250222-QuNpgW83n0w", "20250422-IjEejHvQxTI", "20250516-Vv-52kpAJKc", "20260328-hLdaH20jhYU", "20250926-sRwhOms1cgY", "20251028-_m01MZx8r3w", "20240714-HMY-2X-G1CY", "20241106-OPbxvJJtkhc"]
+tags: ["vaticano", "marxista", "evasore", "oppio", "difendendo", "fiscale"]
+related: ["20260318-dNwyhP11mJM", "20241031-fRV8peE_AJQ", "20260630-sqbJ7cUBEbA", "20210622-tmnpsoL5rNE", "20230528-58AOHxJvbb4", "20260122-rPIw7HgVXfs"]
 video_type: "video"
 description: "Fonte immagine: https://www.deviantart.com/peterschulzda/art/Communist-Vatican-City-Holy-See-Flag-955959709"
 embeddable: "1"
@@ -20,13 +20,9 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
-- [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
-- [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
-- [[20250516-Vv-52kpAJKc|Un Papa che parla inglese]]
-- [[20260328-hLdaH20jhYU|Il Papa ha citato Umineko?!?!]]
-- [[20250926-sRwhOms1cgY|Perché Trump è TERRORIZZATO dalle milizie di autodifesa LGBT]]
-- [[20251028-_m01MZx8r3w|Dalle CROCIATE all'IMPERO OTTOMANO]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
+- [[20260318-dNwyhP11mJM|Perché sono contrario all'esistenza dello stato Vaticano]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]
+- [[20260630-sqbJ7cUBEbA|Le Tasse NON sono un furto]]
+- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20230528-58AOHxJvbb4|Cosa succede dopo il Comunismo?]]
+- [[20260122-rPIw7HgVXfs|Sul Marxismo Libertario]]

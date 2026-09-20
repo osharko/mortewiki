@@ -10,8 +10,8 @@ view_count: "4845"
 like_count: "380"
 comment_count: "23"
 playlist_index: "0"
-tags: ["prudenza", "eccessiva", "patologia", "infantile", "dell"]
-related: ["20241222-dunnMFCyOoc", "20150605-JMgwvRxY6NE", "20160501-0jJrHTxWfcI", "20160508-NmsVSV7jhAE", "20160717-pKSvXp0L1fQ", "20171002-I7MpZ0h-joI", "20180211-v5PXYxuQmMY", "20180422-S_tv3q-qCqg", "20180618-oO4PRo9BHUI", "20190530-ryodXEqwPIs"]
+tags: ["meccanismi", "batteri", "marte", "zanzare", "batterio", "negativi"]
+related: ["20251012-fqslxNSL-IE", "20190210-y9UAVMNR4vg", "20190127-_Gn0S9QVJNA", "20170625-ZEkafgKBueE", "20260827-AJFw_q_tGlk", "20250606-3c2BjZ2aLy4", "20190714-BlTmgKCSE1g", "20151010-5xuDPkTnKPI", "20230607-U6lYXM40OOE", "20240825-OZ4NajVtYMI"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241222-dunnMFCyOoc|Nichilismo: patologia infantile del cinismo]]
-- [[20150605-JMgwvRxY6NE|MANGA VS ANIME - Il manga è sempre meglio dell'Anime?]]
-- [[20160501-0jJrHTxWfcI|I livelli dell'AREA 51 - Creepypasta #40]]
-- [[20160508-NmsVSV7jhAE|Naruto e Sasuke: la Valle dell'Epilogo]]
-- [[20160717-pKSvXp0L1fQ|La Filosofia dell'Agente Smith]]
-- [[20171002-I7MpZ0h-joI|La Filosofia dell'Akatsuki]]
-- [[20180211-v5PXYxuQmMY|La sfida dell'Ascensore, la Verità - Creepypasta #34]]
-- [[20180422-S_tv3q-qCqg|La Morte dell'Universo - Creepypasta #90]]
-- [[20180618-oO4PRo9BHUI|Prima dell'Apocalisse - Creepypasta #94]]
-- [[20190530-ryodXEqwPIs|L'Imperatore dell'Umanità - Warhammer 40.000]]
+- [[20251012-fqslxNSL-IE|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 3]]
+- [[20190210-y9UAVMNR4vg|PANDEMIA - Creepypasta 111]]
+- [[20190127-_Gn0S9QVJNA|Le PIRAMIDI di MARTE - Creepypasta 110]]
+- [[20170625-ZEkafgKBueE|The Martian - Recensione Scientifica e Filosofica]]
+- [[20260827-AJFw_q_tGlk|E se ALESSANDRO MAGNO fosse SOPRAVVISSUTO? Parte 3]]
+- [[20250606-3c2BjZ2aLy4|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 2]]
+- [[20190714-BlTmgKCSE1g|ZOMBIE - Creepypasta 121]]
+- [[20151010-5xuDPkTnKPI|Il virus più terribile (SCP) - Creepypasta #26]]
+- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
+- [[20240825-OZ4NajVtYMI|LO SCIAME – Creepypasta 235]]

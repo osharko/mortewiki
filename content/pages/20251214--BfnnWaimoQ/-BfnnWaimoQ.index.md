@@ -10,8 +10,8 @@ view_count: "4616"
 like_count: "302"
 comment_count: "33"
 playlist_index: "0"
-tags: ["house", "vivo", "nella", "seconda", "stagione"]
-related: ["20141010-ZLFaaWEexGQ", "20181109-h4s0JcDf0ZE", "20210313-lPgJlnrMmwU", "20220327-hySzZWgPGTc", "20220624-hbnFwwJzDIU", "20230903-HH9ehgsGbh4", "20241205-tgSrJakGRWc", "20221130-DsS0lxEubZY", "20240426-e1UDWKfYYM8", "20250928--aKzIU-_lPE"]
+tags: ["house", "mister", "legione", "california", "vegas", "cesare"]
+related: ["20260416-dLQ9EZb-_qw", "20171116-2_DKdiKxVZE", "20171019-Y2fk-hvhbwg", "20171214-vtYGdzdlG6A", "20240505-3tQOZo_CPuA", "20260627-cR2zviDlyAY", "20260324-sary-ahdKLc", "20241003-OB8XV7OF1VU", "20181111-FewFpkBZ6oc", "20260223-yVF2UI0bwaw"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20210313-lPgJlnrMmwU|La Filosofia della Spada nella Roccia (ft 151eg)]]
-- [[20220327-hySzZWgPGTc|L'Economia nella Bibbia]]
-- [[20220624-hbnFwwJzDIU|La Psicologia nella Bibbia]]
-- [[20230903-HH9ehgsGbh4|Gli ANIMALI vanno in PARADISO nella BIBBIA?]]
-- [[20241205-tgSrJakGRWc|Speciazione nella fiction (Vulcaniani, Saiyan, Kriptoniani, Vitruviani, Chiss ecc...)]]
-- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
-- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
+- [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
+- [[20171116-2_DKdiKxVZE|New Vegas - Qual è il finale canonico?]]
+- [[20171019-Y2fk-hvhbwg|Fallout New Vegas e la Politica]]
+- [[20171214-vtYGdzdlG6A|Il finale di NEW VEGAS]]
+- [[20240505-3tQOZo_CPuA|La FILOSOFIA di FALLOUT (Serie Amazon)]]
+- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
+- [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
+- [[20241003-OB8XV7OF1VU|La Filosofia degli INCREDIBILI]]
+- [[20181111-FewFpkBZ6oc|La Filosofia di Mr Robot]]
+- [[20260223-yVF2UI0bwaw|Critica allo sfruttamento minorile]]

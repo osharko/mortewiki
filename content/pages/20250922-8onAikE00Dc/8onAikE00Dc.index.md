@@ -10,8 +10,8 @@ view_count: "7742"
 like_count: "606"
 comment_count: "39"
 playlist_index: "0"
-tags: ["nintendo", "esagerando"]
-related: ["20190912-sX777AyfxsI", "20240402-wiAHlWl8Ffo", "20241028-fUXftWJQcY0", "20241116-zW2mk3zC1b4", "20250413-Y0jMmKLzDWk", "20250524-zSGQoSrx00A", "20230614-9MnclOo_Ayc", "20260116-dCXWngTaYCU", "20260715-JUYqvsdvUKE", "20260901--REGlLWC-xw"]
+tags: ["nintendo", "marchio", "pokémon", "apple", "jobs", "patent"]
+related: ["20250828-gUXRvczylOM", "20251114-uznIlHcFInI", "20200313-vVUJlCn37NE", "20251220-Kf_lc_hw9n0", "20240614-tlrMiE7BzRY", "20251218-NOr_HttEIfg", "20190912-sX777AyfxsI", "20250524-zSGQoSrx00A", "20251025-pRSIEbpX97Q", "20200215-r4gqCDLGFl4"]
 video_type: "video"
 embeddable: "1"
 ---
@@ -19,13 +19,13 @@ embeddable: "1"
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
 - [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20240402-wiAHlWl8Ffo|IL MIGLIOR FANGAME POKÉMON (Nintendo lo ha fatto CHIUDERE)]]
-- [[20241028-fUXftWJQcY0|NINTENDO è stata BECCATA a usare EMULATORI]]
-- [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
-- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
 - [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20230614-9MnclOo_Ayc|Ora stiamo ESAGERANDO...... (Lutto Nazionale per Berlusconi)]]
-- [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
-- [[20260715-JUYqvsdvUKE|Boldrin ORA sta ESAGERANDO...]]
-- [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
+- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
