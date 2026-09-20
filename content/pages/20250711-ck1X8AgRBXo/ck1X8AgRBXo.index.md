@@ -11,7 +11,7 @@ like_count: "499"
 comment_count: "55"
 playlist_index: "0"
 tags: ["furto", "pirateria furto", "cuore pace", "film videogioco", "pirateria", "remoto"]
-related: ["20250708-gD-Sl6jmcwQ", "20210612-awu5IyEHplE", "20250621-eDOLgg_DanI", "20250616-_XAkL3efnyo"]
+related: ["20250708-gD-Sl6jmcwQ", "20210612-awu5IyEHplE", "20250621-eDOLgg_DanI", "20181101-OAGwFVBXtuI", "20250616-_XAkL3efnyo"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -23,4 +23,5 @@ qc: 100
 - [[20250708-gD-Sl6jmcwQ|La gente pirata solo per egoismo!!!123stella]]
 - [[20210612-awu5IyEHplE|La Filosofia di Robin Hood]]
 - [[20250621-eDOLgg_DanI|Piratare significa davvero sfruttare?]]
+- [[20181101-OAGwFVBXtuI|IL RE DEL SUD IN LIVE]]
 - [[20250616-_XAkL3efnyo|Ma la pirateria è illegale]]

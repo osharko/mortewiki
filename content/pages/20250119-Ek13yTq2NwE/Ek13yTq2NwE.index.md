@@ -10,8 +10,8 @@ view_count: "10696"
 like_count: "798"
 comment_count: "56"
 playlist_index: "0"
-tags: ["tocca grassa", "giocato", "battute carabinieri", "perso abitudine", "video parodia", "merda simulator"]
-related: ["20210730-DcZQjaGmwro", "20200902-qGiwPDfhiDo", "20260418-_rR04_MI8B4", "20260726-sDUpiGAqrCo"]
+tags: ["tocca grassa", "battute carabinieri", "perso abitudine", "video parodia", "merda simulator", "giochi tavolo"]
+related: ["20210730-DcZQjaGmwro", "20240703-ROvAs4NRkm8"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,4 @@ qc: 100
 
 ## Correlati
 - [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
-- [[20260418-_rR04_MI8B4|Quanto bisogna completare un gioco per farsi un'opinione?]]
-- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
+- [[20240703-ROvAs4NRkm8|Perché odio i GDR (e i giochi da tavolo)]]

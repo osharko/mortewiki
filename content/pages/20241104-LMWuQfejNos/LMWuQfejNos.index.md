@@ -11,7 +11,7 @@ like_count: "560"
 comment_count: "42"
 playlist_index: "0"
 tags: ["richard hawkins", "peterson", "jordan peterson", "richard", "dawkins", "alex connor"]
-related: ["20260214-RGD-I9c6Rv8", "20251219-EBQwDwYympo"]
+related: ["20200415-woRuzdQD52k", "20260214-RGD-I9c6Rv8", "20251219-EBQwDwYympo"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,5 +20,6 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20200415-woRuzdQD52k|LIVE tutti insieme]]
 - [[20260214-RGD-I9c6Rv8|Mortebianca e Rick DuFer: distanze filosofiche]]
 - [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]

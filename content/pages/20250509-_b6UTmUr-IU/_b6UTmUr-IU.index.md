@@ -10,8 +10,8 @@ view_count: "13315"
 like_count: "1088"
 comment_count: "74"
 playlist_index: "0"
-tags: ["progressista", "francesco", "papa francesco", "leone", "nord americano", "cardinale"]
-related: ["20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20250728---XEhfSbPeU", "20250422-IjEejHvQxTI", "20250222-QuNpgW83n0w", "20250227--SvTavqJK4M", "20250428-0Ah3uih9ERU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20241026-3EAwhA0DQ4E"]
+tags: ["francesco", "papa francesco", "leone", "nord americano", "cardinale", "quanto progressista"]
+related: ["20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20250728---XEhfSbPeU", "20250422-IjEejHvQxTI", "20250222-QuNpgW83n0w", "20250227--SvTavqJK4M", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20241026-3EAwhA0DQ4E", "20210606-KUEe3zpJYdc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
 - [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
 - [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
-- [[20250428-0Ah3uih9ERU|Clair Obscur: Expedition 33 ovvero la critica all'ageismo]]
 - [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
 - [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
+- [[20210606-KUEe3zpJYdc|La Filosofia dei due Papi]]

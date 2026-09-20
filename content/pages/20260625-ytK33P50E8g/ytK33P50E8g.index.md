@@ -11,7 +11,7 @@ like_count: "289"
 comment_count: "41"
 playlist_index: "0"
 tags: ["steam machine", "steam deck", "deck", "machine", "console", "qualità prezzo"]
-related: ["20250209-yfjF8ki7EHw", "20251019-1qH9ywYa4Vg", "20251117-qbPIhoXoj78", "20200509-PIjNe3OByjw", "20250210-8Kvt27bCw2Y", "20250328-ho9q_vbALig", "20250601-vCSmCMSsvm4", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20190912-sX777AyfxsI"]
+related: ["20250209-yfjF8ki7EHw", "20251019-1qH9ywYa4Vg", "20251117-qbPIhoXoj78", "20200509-PIjNe3OByjw", "20250210-8Kvt27bCw2Y", "20250328-ho9q_vbALig", "20250601-vCSmCMSsvm4", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20200824-ddOWkFxbq3g"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -29,4 +29,4 @@ qc: 100
 - [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
 - [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
 - [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]

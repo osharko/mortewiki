@@ -11,7 +11,7 @@ like_count: "380"
 comment_count: "23"
 playlist_index: "0"
 tags: ["effetto negativo", "possiamo creare", "piantiamo alberi", "meccanismi", "batteri", "marte"]
-related: ["20251012-fqslxNSL-IE", "20190127-_Gn0S9QVJNA", "20170625-ZEkafgKBueE", "20260827-AJFw_q_tGlk", "20250606-3c2BjZ2aLy4", "20210210-JjV_yS8PCzs", "20151010-5xuDPkTnKPI", "20260910-TpbEMej22-I", "20190210-y9UAVMNR4vg", "20200412-Rcjz5KIY4_A"]
+related: ["20251012-fqslxNSL-IE", "20190127-_Gn0S9QVJNA", "20170625-ZEkafgKBueE", "20260827-AJFw_q_tGlk", "20250606-3c2BjZ2aLy4", "20210210-JjV_yS8PCzs", "20151010-5xuDPkTnKPI", "20240401-znAMSQ86sO8", "20260910-TpbEMej22-I", "20190210-y9UAVMNR4vg"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,6 @@ qc: 100
 - [[20250606-3c2BjZ2aLy4|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 2]]
 - [[20210210-JjV_yS8PCzs|Ma gli OGM fanno davvero MALE?]]
 - [[20151010-5xuDPkTnKPI|Il virus più terribile (SCP) - Creepypasta #26]]
+- [[20240401-znAMSQ86sO8|FACE REVEAL IN LIVE]]
 - [[20260910-TpbEMej22-I|Le colpe di una madre]]
 - [[20190210-y9UAVMNR4vg|PANDEMIA - Creepypasta 111]]
-- [[20200412-Rcjz5KIY4_A|AMONG US - Creepypasta #65]]

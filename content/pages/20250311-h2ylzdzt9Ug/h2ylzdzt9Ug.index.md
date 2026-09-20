@@ -10,7 +10,7 @@ view_count: "18931"
 like_count: "1283"
 comment_count: "88"
 playlist_index: "0"
-tags: ["aspetti positivi", "corsa allo", "allo spazio", "americani hanno", "hollywood", "pensare cinema"]
+tags: ["corsa allo", "aspetti positivi", "allo spazio", "americani hanno", "hollywood", "pensare cinema"]
 related: ["20250124-upFt6wNCg8Q", "20260628-WyLCs2Wewbg"]
 video_type: "video"
 embeddable: "1"

@@ -10,7 +10,7 @@ view_count: "12500"
 like_count: "927"
 comment_count: "78"
 playlist_index: "0"
-tags: ["voglio morire", "groenlandia", "dichiarare guerra", "lucca", "parlato leva", "invadi lucca"]
+tags: ["voglio morire", "groenlandia", "dichiarare guerra", "lucca", "invadi lucca", "parlato leva"]
 related: ["20250122-bGO8tBip2M4", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I"]
 video_type: "video"
 embeddable: "1"

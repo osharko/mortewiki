@@ -11,7 +11,7 @@ like_count: "595"
 comment_count: "75"
 playlist_index: "0"
 tags: ["sondaggio", "baby boomer", "generazioni precedenti", "maschi femmine", "zoomer", "progressista generazione"]
-related: ["20210321--401lEv0u8U", "20250226-w2vJJBaeAME", "20190919-jfSd3GAeO9A"]
+related: ["20220110--oaVEXEMBdY", "20210321--401lEv0u8U", "20250226-w2vJJBaeAME", "20190919-jfSd3GAeO9A"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,6 +20,7 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20220110--oaVEXEMBdY|Live sul mondo Transgender (ft Abicocca e Marco Crepaldi)]]
 - [[20210321--401lEv0u8U|L'Origine dei Sessi]]
 - [[20250226-w2vJJBaeAME|IL PATRIARCATO È UNA COSA BELLA!]]
 - [[20190919-jfSd3GAeO9A|Terrore e Sovrappopolazione]]

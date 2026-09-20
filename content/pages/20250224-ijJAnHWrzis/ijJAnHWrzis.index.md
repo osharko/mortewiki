@@ -10,7 +10,7 @@ view_count: "7915"
 like_count: "663"
 comment_count: "24"
 playlist_index: "0"
-tags: ["hanno peso", "casio cortes", "avrei dovuto", "bernie sanders", "cortes", "sanders"]
+tags: ["casio cortes", "hanno peso", "bernie sanders", "avrei dovuto", "cortes", "sanders"]
 related: ["20260605-BdxjbOWNBkw", "20250421-0IATCCXpVu4", "20251105-LafzJEe-BFA", "20260906-UonTUjrzUT0", "20251109--BksbKgj4e0", "20260805-sxLK-rvj04E", "20251101-UDydP_MgAdI", "20250804-8o5Xyb4Q8Sk", "20250313-mpzh-Xn_Lbg", "20260828-lpk6Wr5gsrc"]
 video_type: "video"
 embeddable: "1"

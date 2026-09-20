@@ -10,7 +10,7 @@ view_count: "11795"
 like_count: "1132"
 comment_count: "74"
 playlist_index: "0"
-tags: ["allo specchio", "genocidio", "palestina", "posso distruggerti", "nazisti potevano", "gigantesca flag"]
+tags: ["allo specchio", "genocidio", "palestina", "nazisti potevano", "gigantesca flag", "carezza persiano"]
 related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20250902-aD6n83WTgds", "20231029-MhcdzqAUKcI", "20250830-nv4MaICTL6Y", "20231030-dRNbAY6XFDw", "20250920-JgFUDInERkU", "20170924-vWxHBSqUYRI", "20200329-KVzFspZylsc", "20231031-jM5c66bJntQ"]
 video_type: "video"
 description: "Fonte immagine: https://abcnews.go.com/Politics/week-transcript-israeli-prime-minister-benjamin-netanyahu/story?id=30092048"

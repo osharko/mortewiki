@@ -10,8 +10,8 @@ view_count: "9648"
 like_count: "724"
 comment_count: "37"
 playlist_index: "0"
-tags: ["ucraina", "putin", "zelenski", "trattato pace", "crimea", "territori"]
-related: ["20250506-Pcrfnsjr160", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20220228-JAaPG9MHvF8", "20220303-TiRY5wVHL1A", "20260120-l464ALtjP9I", "20260109-Tn8JtrbiCBQ", "20241211-faHi7yIvwDw"]
+tags: ["zelenski", "trattato pace", "crimea", "territori", "referendum", "israelo palestinese"]
+related: ["20250506-Pcrfnsjr160", "20251012-Z5Jp7iuCuXY", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20251228-w4bnZvkWjEY", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20260813-VWoqsF9auaE"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,12 +21,12 @@ qc: 100
 
 ## Correlati
 - [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20251228-w4bnZvkWjEY|Lore del Friuli-Venezia Giulia]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
-- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
-- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
-- [[20260109-Tn8JtrbiCBQ|Iran e Russia: tutte le ultime news]]
-- [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]

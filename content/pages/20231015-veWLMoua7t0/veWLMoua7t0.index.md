@@ -10,7 +10,7 @@ view_count: "42981"
 like_count: "3184"
 comment_count: "340"
 playlist_index: "0"
-tags: ["secondo specie", "culo dillo", "reaction alla", "alla reaction", "vide risposta", "bestie selvatiche"]
+tags: ["secondo specie", "culo dillo", "alla reaction", "reaction alla", "vide risposta", "bestie selvatiche"]
 related: ["20241025-tY_akSPuKOE"]
 video_type: "video"
 description: "SIKE\nRisposte a tutte le critiche mai fatte: https://t.me/mortebianca/4053\nFonte: https://kgsvr.net/xn/radah.analysis.html\n#satira #reaction #risposta"

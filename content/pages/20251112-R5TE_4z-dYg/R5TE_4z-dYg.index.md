@@ -10,7 +10,7 @@ view_count: "5151"
 like_count: "507"
 comment_count: "51"
 playlist_index: "0"
-tags: ["numero iscritti", "puoi permetterti", "cioè video", "gruppo telegram", "vedere video", "creepy pasta"]
+tags: ["numero iscritti", "puoi permetterti", "gruppo telegram", "cioè video", "vedere video", "creepy pasta"]
 related: ["20260304-FTDRaTnL7D0", "20250225-jmZ_5QzdFHM", "20160312-zN1kr3wikMo", "20260218-3neleQ8C3zI", "20150914-IDPGAVQ_8aY", "20140921-dQTMSp83rTE", "20151031-lE2MI1SQAf4", "20260308-lwwMqKKIDI0", "20241011-p5xWPIn2NYc", "20220410-R0pbNMbo3Do"]
 video_type: "video"
 embeddable: "1"

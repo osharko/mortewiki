@@ -10,7 +10,7 @@ view_count: "17650"
 like_count: "1239"
 comment_count: "101"
 playlist_index: "0"
-tags: ["berlusconi", "silvio berlusconi", "silvio", "domanda domanda", "tizio tromba", "aveva soldi"]
+tags: ["berlusconi", "silvio berlusconi", "silvio", "domanda domanda", "tizio tromba", "italiani brava"]
 related: ["20230614-9MnclOo_Ayc", "20211218-1msfjcv_Ovo"]
 video_type: "video"
 embeddable: "1"

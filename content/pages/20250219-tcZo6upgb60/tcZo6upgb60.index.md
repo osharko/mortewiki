@@ -10,7 +10,7 @@ view_count: "3213"
 like_count: "311"
 comment_count: "13"
 playlist_index: "0"
-tags: ["infanzia infantile", "tuoi iscritti", "altre domande", "mondo naruto", "tutte mattine", "stronzio nascondete"]
+tags: ["infanzia infantile", "tuoi iscritti", "mondo naruto", "altre domande", "tutte mattine", "stronzio nascondete"]
 related: ["20170319-IfVz4Fl0i6Q", "20170416-yRxTja2Z7lo", "20180318-rwKsWcNXbEU"]
 video_type: "video"
 embeddable: "1"

@@ -10,8 +10,8 @@ view_count: "21328"
 like_count: "1418"
 comment_count: "50"
 playlist_index: "0"
-tags: ["putin", "partito comunista", "classe dirigente", "comunista russo", "partecipare elezioni", "oligarchi"]
-related: ["20220228-JAaPG9MHvF8", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251122-bT5uXCtc85g", "20220224-AfzPCkTR0P0", "20250506-Pcrfnsjr160", "20220303-TiRY5wVHL1A", "20260120-l464ALtjP9I", "20220503-JtCgW83lNZ8", "20220802-T0B1FafHsTo"]
+tags: ["partito comunista", "classe dirigente", "comunista russo", "partecipare elezioni", "oligarchi", "russa"]
+related: ["20260606-PLb7SEpZKhs", "20260605-BdxjbOWNBkw", "20221113-nRYYBlqBw0w", "20250512-_Grsa_mjlUU", "20260130-9emWU6wdImk", "20260211-lJgfrviR5UI", "20250502-dW-nA5qTj_4", "20250305-5Mh3VfogFfM", "20250504--cPDe9izQSs", "20241211-kJECGf7FdRw"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,13 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
-- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
-- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
-- [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
+- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
+- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
+- [[20260130-9emWU6wdImk|Tentato golpe in Cina?]]
+- [[20260211-lJgfrviR5UI|La Cina non è democratica]]
+- [[20250502-dW-nA5qTj_4|Ricchi comunisti oggi: quali sono?]]
+- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
+- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
+- [[20241211-kJECGf7FdRw|Tutta colpa di Netanyahu]]

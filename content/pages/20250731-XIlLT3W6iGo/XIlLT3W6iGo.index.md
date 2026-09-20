@@ -10,7 +10,7 @@ view_count: "7142"
 like_count: "594"
 comment_count: "54"
 playlist_index: "0"
-tags: ["fallacia logica", "contro consensus", "terra piatta", "spiegami stanno", "metodo comunicativo", "quell errore"]
+tags: ["fallacia logica", "contro consensus", "terra piatta", "spiegami stanno", "metodo comunicativo", "livello comunicativo"]
 related: ["20260315-5BmAX31ewQ0", "20250327-nQOcs5YoGTs", "20260817-FTg2gCuguAM", "20250129-5JUX_EoZ5vc"]
 video_type: "video"
 embeddable: "1"

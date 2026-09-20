@@ -10,7 +10,7 @@ view_count: "7028"
 like_count: "573"
 comment_count: "37"
 playlist_index: "0"
-tags: ["partito comunista", "ragionevole presumere", "craxi", "berlinguer", "votano", "immaginati"]
+tags: ["partito comunista", "ragionevole presumere", "berlinguer", "craxi", "votano", "immaginati"]
 related: ["20241107-Zsyc4OecXhA", "20260605-BdxjbOWNBkw", "20221113-nRYYBlqBw0w", "20250512-_Grsa_mjlUU", "20260130-9emWU6wdImk", "20260211-lJgfrviR5UI", "20250502-dW-nA5qTj_4", "20250305-5Mh3VfogFfM", "20250504--cPDe9izQSs"]
 video_type: "video"
 embeddable: "1"

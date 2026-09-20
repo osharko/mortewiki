@@ -11,7 +11,7 @@ like_count: "564"
 comment_count: "42"
 playlist_index: "0"
 tags: ["isis", "deporre armi", "rojava", "erdogan", "curdi", "turchia"]
-related: ["20251118-Q5fHdhvoM7Y", "20250303-55UesOxanQs", "20251105-ftcTfO4Q4JY", "20250325-Rk9BX3mfdGg", "20260126-zvHJWqo35ak", "20260904-yywIbRjSk6Q"]
+related: ["20251118-Q5fHdhvoM7Y", "20191015-Ju0ljSLmtUo", "20250303-55UesOxanQs", "20251105-ftcTfO4Q4JY", "20250325-Rk9BX3mfdGg", "20260126-zvHJWqo35ak", "20260904-yywIbRjSk6Q"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,7 @@ qc: 100
 
 ## Correlati
 - [[20251118-Q5fHdhvoM7Y|Perché il Medio Oriente è così?]]
+- [[20191015-Ju0ljSLmtUo|RISPOSTA a BREAKING ITALY Sulla COERENZA]]
 - [[20250303-55UesOxanQs|Ocalan e la tregua con Erdogan]]
 - [[20251105-ftcTfO4Q4JY|NASSER e il sogno panarabista]]
 - [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]

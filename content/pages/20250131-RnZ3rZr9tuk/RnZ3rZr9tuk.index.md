@@ -11,7 +11,7 @@ like_count: "973"
 comment_count: "85"
 playlist_index: "0"
 tags: ["mussolini", "partito popolare", "cattolici", "mussolini caricaturale", "mussolini politica", "troppo ostile"]
-related: ["20250904-UxyeeuS9rGc", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20210622-tmnpsoL5rNE", "20250220-Sb5g2mS2-J0", "20250515-kvjs_N2Wv54", "20210429-kbqWynJU7Do"]
+related: ["20250904-UxyeeuS9rGc", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20190924-UKVj44aqHI4", "20210622-tmnpsoL5rNE", "20250220-Sb5g2mS2-J0", "20250515-kvjs_N2Wv54"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20250430-gUx4wOdsu-w|Bufale: come contrastarle]]
 - [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
 - [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
+- [[20190924-UKVj44aqHI4|Live così, de botto, senza senso]]
 - [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
 - [[20250220-Sb5g2mS2-J0|Cos'è il Criptofascismo?]]
 - [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
-- [[20210429-kbqWynJU7Do|Ezra Pound e Cioran - #Filosofia 39]]

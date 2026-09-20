@@ -10,7 +10,7 @@ view_count: "21173"
 like_count: "1585"
 comment_count: "122"
 playlist_index: "0"
-tags: ["secondo emendamento", "stai zitto", "zitto stai", "emendamento secondo", "dimentichi pagare", "italiani veramente"]
+tags: ["secondo emendamento", "stai zitto", "zitto stai", "dimentichi pagare", "emendamento secondo", "italiani veramente"]
 related: ["20250902-7FjEOk8nzA0"]
 video_type: "video"
 embeddable: "1"

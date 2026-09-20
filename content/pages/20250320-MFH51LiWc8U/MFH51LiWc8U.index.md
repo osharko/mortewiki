@@ -10,7 +10,7 @@ view_count: "20058"
 like_count: "1304"
 comment_count: "86"
 playlist_index: "0"
-tags: ["rearm europe", "nell esercito", "rearm", "europe", "unito europeo", "esercito europeo"]
+tags: ["rearm europe", "nell esercito", "rearm", "europe", "unito europeo", "standard europei"]
 video_type: "video"
 embeddable: "1"
 qc: 0

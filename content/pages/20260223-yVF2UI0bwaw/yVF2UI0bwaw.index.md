@@ -11,7 +11,7 @@ like_count: "753"
 comment_count: "87"
 playlist_index: "0"
 tags: ["mister beast", "lavoro minorile", "cioccolato", "testa cazzo", "minorile", "sfruttamento"]
-related: ["20250710-av0mX6et-XY", "20241115-vtv_wSlYoRo", "20250621-eDOLgg_DanI"]
+related: ["20250710-av0mX6et-XY", "20241115-vtv_wSlYoRo", "20200901-_cjJpi0dy7I", "20250621-eDOLgg_DanI"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,4 +22,5 @@ qc: 100
 ## Correlati
 - [[20250710-av0mX6et-XY|Se facciamo *COSA BUONA* alcune aziende falliranno!]]
 - [[20241115-vtv_wSlYoRo|Critica all'opulenza]]
+- [[20200901-_cjJpi0dy7I|Live su Marx (ft BarbaSophia)]]
 - [[20250621-eDOLgg_DanI|Piratare significa davvero sfruttare?]]

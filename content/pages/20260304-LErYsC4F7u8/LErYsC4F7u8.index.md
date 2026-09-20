@@ -11,7 +11,7 @@ like_count: "312"
 comment_count: "50"
 playlist_index: "0"
 tags: ["story", "giocattoli", "smettono giocare", "piranesi", "allora allora", "crescono smettono"]
-related: ["20240116-Z1MWIJ491Ds", "20260716-2v6LGsyiPOQ", "20241025-AhOI8WB_Vl4"]
+related: ["20240116-Z1MWIJ491Ds", "20260716-2v6LGsyiPOQ", "20180510-vqBxrHtQ_FU", "20241025-AhOI8WB_Vl4"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,4 +22,5 @@ qc: 100
 ## Correlati
 - [[20240116-Z1MWIJ491Ds|La Filosofia in TOY STORY]]
 - [[20260716-2v6LGsyiPOQ|Frankelda ha UMILIATO la Pixar]]
+- [[20180510-vqBxrHtQ_FU|PRIMA LIVE PUBBLICA]]
 - [[20241025-AhOI8WB_Vl4|Un film Disney di Kingdom Hearts? Poxxibile? Parliamone]]

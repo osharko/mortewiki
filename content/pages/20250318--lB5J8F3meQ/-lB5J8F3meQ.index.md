@@ -10,8 +10,8 @@ view_count: "10704"
 like_count: "791"
 comment_count: "85"
 playlist_index: "0"
-tags: ["villain", "eroi", "antagonista", "opere utopistiche", "eroi boniani", "antagonista villain"]
-related: ["20260808--EX0iEn-uEI", "20151114-Cmnv4ZfzQjY"]
+tags: ["villain", "antagonista", "opere utopistiche", "eroi boniani", "antagonista villain", "villain villain"]
+related: ["20260808--EX0iEn-uEI"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,4 +21,3 @@ qc: 100
 
 ## Correlati
 - [[20260808--EX0iEn-uEI|Bear non è il villan di Obsession!!!]]
-- [[20151114-Cmnv4ZfzQjY|Naruto e Zabuza: Cos'è un eroe?]]

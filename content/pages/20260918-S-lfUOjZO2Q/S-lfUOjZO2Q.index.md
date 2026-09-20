@@ -10,7 +10,7 @@ view_count: "3621"
 like_count: "332"
 comment_count: "42"
 playlist_index: "0"
-tags: ["aghi", "tanto vorrei", "stavolta aghi", "sempre aghi", "quante piccolo", "piccolo caduto"]
+tags: ["aghi", "stavolta aghi", "sempre aghi", "quante piccolo", "piccolo caduto", "inganno tanto"]
 video_type: "short"
 embeddable: "1"
 qc: 0

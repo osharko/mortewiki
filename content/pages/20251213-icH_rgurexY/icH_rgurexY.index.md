@@ -11,7 +11,7 @@ like_count: "325"
 comment_count: "14"
 playlist_index: "0"
 tags: ["tartarus engine", "tartarus", "engine", "sheol", "tartaro", "nuovo testamento"]
-related: ["20260617-62SpWKbYSuo", "20230611-RJTYsarj7N0", "20251028-PLZeB5tZwfE", "20220509--qwkD8BXOJI", "20251219-EBQwDwYympo", "20220309-7lqNG-k44-o", "20220320-9NecjfpGJDk"]
+related: ["20231026-l-eFB8Q9YTQ", "20260617-62SpWKbYSuo", "20230611-RJTYsarj7N0", "20251028-PLZeB5tZwfE", "20220509--qwkD8BXOJI", "20251219-EBQwDwYympo", "20220309-7lqNG-k44-o", "20220320-9NecjfpGJDk"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,6 +20,7 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20231026-l-eFB8Q9YTQ|Ma a che serve la Bibbia? (Ft Bella Prof)]]
 - [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
 - [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
 - [[20251028-PLZeB5tZwfE|Miside e l'Inferno biblicamente accurato]]

@@ -10,8 +10,8 @@ view_count: "23550"
 like_count: "1391"
 comment_count: "122"
 playlist_index: "0"
-tags: ["regno unito", "unione europea", "brexit", "ucraina", "facciamo entrare", "criterio maggioritario"]
-related: ["20260412-LcWrMgiJZ7k", "20260506-BWcNXtjYK9Q", "20260813-VWoqsF9auaE", "20260117-tspT5RQPpm4", "20241103-1odWEk69h8E", "20250331-JXUGBMAbBXA", "20260601-MiG7c6YOOgE", "20250418-YlPgqczhrj4", "20221130-DsS0lxEubZY", "20250420-QCxTgRZJiCs"]
+tags: ["unione europea", "brexit", "facciamo entrare", "criterio maggioritario", "polonia ungheria", "ungheria"]
+related: ["20260412-LcWrMgiJZ7k", "20260506-BWcNXtjYK9Q", "20260405-ISOYtywMOAQ", "20260812-QHb4P7HwdTQ", "20220303-TiRY5wVHL1A", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20241119-8FxNB7i69UI", "20260430-QUXUrmgMeMc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,11 +22,11 @@ qc: 100
 ## Correlati
 - [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
 - [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
-- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
-- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
-- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
-- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
-- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
-- [[20250420-QCxTgRZJiCs|La tradizione non è legge]]
+- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
+- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
+- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]

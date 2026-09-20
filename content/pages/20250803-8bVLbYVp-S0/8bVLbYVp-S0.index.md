@@ -10,8 +10,8 @@ view_count: "8179"
 like_count: "625"
 comment_count: "44"
 playlist_index: "0"
-tags: ["titoli", "filosofia coco", "linee guida", "fornisci descrizione", "fedelmente contenuti", "descrizione accurata"]
-related: ["20211002-vpw7ldIxYDg", "20250524-j2rowqMD8r4"]
+tags: ["titoli", "filosofia coco", "linee guida", "fornisci descrizione", "fedelmente contenuti", "accurata assicurati"]
+related: ["20211002-vpw7ldIxYDg", "20200119-TsA5nVDO7eY", "20250524-j2rowqMD8r4"]
 video_type: "video"
 description: "Prove: https://support.google.com/youtube/answer/12340300?hl=it"
 embeddable: "1"
@@ -22,4 +22,5 @@ qc: 100
 
 ## Correlati
 - [[20211002-vpw7ldIxYDg|Elogio dell'Infermiere]]
+- [[20200119-TsA5nVDO7eY|LA FACCIA DI MORTEBIANCA]]
 - [[20250524-j2rowqMD8r4|La Storia ITALIANA dell'Informatica]]

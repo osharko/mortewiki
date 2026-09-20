@@ -11,7 +11,7 @@ like_count: "267"
 comment_count: "40"
 playlist_index: "0"
 tags: ["harry potter", "kingdom hearts", "destiny island", "potter", "harry", "twilight town"]
-related: ["20200730-j8wQGaXVpEs", "20220728-INYpNinBP8I", "20200226-u6p192nXhl8", "20201213-N3kka4lm3SQ", "20201018-ZohFBdKag7Q", "20200308-CQTzmDrXD8c", "20201115-vTnolObLWJs", "20241025-AhOI8WB_Vl4", "20251212-FjOHAh4A_Do", "20260627-cR2zviDlyAY"]
+related: ["20200730-j8wQGaXVpEs", "20220728-INYpNinBP8I", "20200226-u6p192nXhl8", "20201213-N3kka4lm3SQ", "20201018-ZohFBdKag7Q", "20200308-CQTzmDrXD8c", "20201115-vTnolObLWJs", "20220110--oaVEXEMBdY", "20241025-AhOI8WB_Vl4", "20251212-FjOHAh4A_Do"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,6 @@ qc: 100
 - [[20201018-ZohFBdKag7Q|La Psicologia di Harry Potter]]
 - [[20200308-CQTzmDrXD8c|La Filosofia di Harry Potter]]
 - [[20201115-vTnolObLWJs|Harry Potter - Spiegazione del Finale]]
+- [[20220110--oaVEXEMBdY|Live sul mondo Transgender (ft Abicocca e Marco Crepaldi)]]
 - [[20241025-AhOI8WB_Vl4|Un film Disney di Kingdom Hearts? Poxxibile? Parliamone]]
 - [[20251212-FjOHAh4A_Do|Harry Potter 2 PC Nostalgia]]
-- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]

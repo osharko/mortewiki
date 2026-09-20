@@ -11,7 +11,7 @@ like_count: "741"
 comment_count: "136"
 playlist_index: "0"
 tags: ["sony", "playstation", "quel gioco", "disco", "console", "giochi fisici"]
-related: ["20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20260907-FHFHHiC4SGU", "20200509-PIjNe3OByjw", "20260901--REGlLWC-xw", "20260823-hCx7p_UC4cY", "20250824-JXwF0dwIMc0", "20250725-pJN6S2T2E6E", "20251019-1qH9ywYa4Vg", "20190912-sX777AyfxsI"]
+related: ["20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20260907-FHFHHiC4SGU", "20200509-PIjNe3OByjw", "20260901--REGlLWC-xw", "20260823-hCx7p_UC4cY", "20250824-JXwF0dwIMc0", "20250725-pJN6S2T2E6E", "20251019-1qH9ywYa4Vg", "20200824-ddOWkFxbq3g"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -29,4 +29,4 @@ qc: 100
 - [[20250824-JXwF0dwIMc0|Le esclusive si stanno sgretolando...]]
 - [[20250725-pJN6S2T2E6E|Esplorare caverne in VR💀]]
 - [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]

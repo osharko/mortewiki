@@ -10,7 +10,7 @@ view_count: "18801"
 like_count: "1153"
 comment_count: "76"
 playlist_index: "0"
-tags: ["homer", "simpson", "lisa", "stupido", "homer simpson", "trama orizzontale"]
+tags: ["homer", "simpson", "lisa", "homer simpson", "trama orizzontale", "gene simpson"]
 related: ["20250618-poHln4Hed0g", "20250518-dRjsGfFvYb0", "20251023-FTJnzuIHU3U"]
 video_type: "video"
 embeddable: "1"

@@ -10,7 +10,7 @@ view_count: "10619"
 like_count: "883"
 comment_count: "77"
 playlist_index: "0"
-tags: ["dice cambiamento", "colui dice", "lupo lupo", "cinismo", "andrà sicuro", "vista genere"]
+tags: ["dice cambiamento", "colui dice", "lupo lupo", "cinismo", "andrà sicuro", "mondo problemi"]
 related: ["20250921-oVnlEcb4lUA", "20251111-gILuzfnZQmo"]
 video_type: "video"
 embeddable: "1"

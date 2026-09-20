@@ -10,7 +10,7 @@ view_count: "9636"
 like_count: "862"
 comment_count: "58"
 playlist_index: "0"
-tags: ["segre", "genocidio", "olocausto", "liliana segre", "alla segre", "vissuto olocausto"]
+tags: ["segre", "genocidio", "olocausto", "liliana segre", "alla segre", "senatore vita"]
 related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20250920-JgFUDInERkU", "20250930-0_fHcp5qFs0", "20241202-BjCeX8GZ9C4", "20251109-5evZbA6wZqs", "20250812-iOnylhrbPag", "20241128-cQltYjMj2-E"]
 video_type: "video"
 embeddable: "1"

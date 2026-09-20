@@ -10,8 +10,8 @@ view_count: "10107"
 like_count: "801"
 comment_count: "57"
 playlist_index: "0"
-tags: ["palestina", "ucraina", "ucraina palestina", "rendi conto", "quel paese", "stai dicendo"]
-related: ["20251122-bT5uXCtc85g", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20241118-G5_Xl9Lv4jU", "20260416-8mvgZUFK5io", "20250902-aD6n83WTgds", "20231029-MhcdzqAUKcI", "20221012-CKUHAN5rLm0", "20250830-nv4MaICTL6Y", "20250821-8_DHVNR7qRo"]
+tags: ["palestina", "ucraina palestina", "rendi conto", "quel paese", "stai dicendo", "testa lasciare"]
+related: ["20250902-aD6n83WTgds", "20231029-MhcdzqAUKcI", "20250830-nv4MaICTL6Y", "20231030-dRNbAY6XFDw", "20231031-jM5c66bJntQ", "20250827-A-SRRM-1aus", "20260425-IGXcMbxPc3w", "20250430-gUx4wOdsu-w", "20260613-FhyGMpUHhAI", "20251011-Nxw8vwhX4Lw"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,13 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
 - [[20250902-aD6n83WTgds|Come risolvere ISRAELE e PALESTINA]]
 - [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
 - [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
-- [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
+- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]
+- [[20231031-jM5c66bJntQ|ISRAELE è colpevole di APARTHEID e GENOCIDIO]]
+- [[20250827-A-SRRM-1aus|ISRAELE è uno stato LEGITTIMO?]]
+- [[20260425-IGXcMbxPc3w|Linux non è meglio di Windows perché ci sono tante distro diverse]]
+- [[20250430-gUx4wOdsu-w|Bufale: come contrastarle]]
+- [[20260613-FhyGMpUHhAI|Perché sono serenamente pessimista]]
+- [[20251011-Nxw8vwhX4Lw|Perché Netanyahu è TERRORIZZATO da Barghouti?]]

@@ -10,7 +10,7 @@ view_count: "6040"
 like_count: "557"
 comment_count: "44"
 playlist_index: "0"
-tags: ["science fiction", "hard science", "hard", "fiction", "science", "soft"]
+tags: ["science fiction", "hard science", "hard", "science", "fiction", "soft"]
 related: ["20240902-zY71hagVf6k", "20250527-ZBCBdVv4q5Y", "20190816--a5yP-0g5Ro", "20260428-I-coYJPLpYU", "20220506-W-FGp-uFx5I"]
 video_type: "video"
 embeddable: "1"

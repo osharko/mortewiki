@@ -11,7 +11,7 @@ like_count: "883"
 comment_count: "94"
 playlist_index: "0"
 tags: ["quorum", "referendum", "votare sempre", "votare cambia", "stavolta quorum", "quorum dalla"]
-related: ["20250609--N6zDHQjxcQ", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20260813-VWoqsF9auaE", "20250707-qu16PceoXJg", "20260325-glBFTY-C52E", "20250507-_0Qnnxy5ulc"]
+related: ["20250609--N6zDHQjxcQ", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE", "20250707-qu16PceoXJg"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,8 +25,8 @@ qc: 100
 - [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
 - [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
 - [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]
-- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]
-- [[20250507-_0Qnnxy5ulc|La questione di San Marino]]

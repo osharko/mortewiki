@@ -10,14 +10,12 @@ view_count: "8119"
 like_count: "728"
 comment_count: "54"
 playlist_index: "0"
-tags: ["domande rispondo", "rispondo", "tendo rispondere", "risposto tante", "diritto sapere", "tante tante"]
-related: ["WKcPOetd-x4"]
+tags: ["domande rispondo", "rispondo", "tendo rispondere", "risposto tante", "diritto sapere", "vita personale"]
 video_type: "video"
 embeddable: "1"
-qc: 85
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[WKcPOetd-x4|RISPONDO ALLE VOSTRE DOMANDE #1]]

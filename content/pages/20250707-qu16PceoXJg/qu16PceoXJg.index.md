@@ -11,7 +11,7 @@ like_count: "801"
 comment_count: "48"
 playlist_index: "0"
 tags: ["monarchia repubblica", "brasile", "grecia", "referendum", "famiglia reale", "paesi scandinavi"]
-related: ["20260814-C1LkGYhibuY", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20260527-KnusyaTfPCc", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20260902-Ylm8WnAN5XA", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ"]
+related: ["20260814-C1LkGYhibuY", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20260527-KnusyaTfPCc", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20260902-Ylm8WnAN5XA", "20251122-bT5uXCtc85g"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
 - [[20260902-Ylm8WnAN5XA|Sul Referendum Islanda-Europa]]
-- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
-- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]

@@ -10,7 +10,7 @@ view_count: "7311"
 like_count: "637"
 comment_count: "26"
 playlist_index: "0"
-tags: ["blocco", "sentirti colpa", "bloccare", "store", "sentirti", "sull store"]
+tags: ["sentirti colpa", "bloccare", "store", "sentirti", "sull store", "twitter blue"]
 video_type: "video"
 embeddable: "1"
 qc: 0

@@ -10,7 +10,7 @@ view_count: "7123"
 like_count: "586"
 comment_count: "60"
 playlist_index: "0"
-tags: ["buttati fuori", "bibbia dice", "difetto morale", "destra difetto", "vennero buttati", "accogli straniero"]
+tags: ["buttati fuori", "bibbia dice", "destra difetto", "difetto morale", "vennero buttati", "accogli straniero"]
 related: ["20251006-QDYownw-kEI"]
 video_type: "video"
 embeddable: "1"

@@ -10,8 +10,8 @@ view_count: "9206"
 like_count: "753"
 comment_count: "62"
 playlist_index: "0"
-tags: ["velocità luce", "relatività", "alla velocità", "meccanica quantistica", "volare", "forze fondamentali"]
-related: ["20250208-drBsKlLlE08", "20191026-erglEe8LlpM", "20250107-3nEN4xYAjOM", "20230527-KAoLd3Q62_c", "20251014-iI7HCGIVYT4", "20241126-5zP5EKfpLhA", "20170226-HP7Ma_PU_P4", "20210815-ZXjIdVxpY6c", "20200910-7o8HnnSDkTk", "20230827-lc6W8MiAa6c"]
+tags: ["velocità luce", "relatività", "alla velocità", "meccanica quantistica", "volare", "veloce luce"]
+related: ["20250208-drBsKlLlE08", "20220920-DaxRYD7Dn20", "20191026-erglEe8LlpM", "20250107-3nEN4xYAjOM", "20230527-KAoLd3Q62_c", "20251014-iI7HCGIVYT4", "20241126-5zP5EKfpLhA", "20170226-HP7Ma_PU_P4", "20210815-ZXjIdVxpY6c", "20200910-7o8HnnSDkTk"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,7 @@ qc: 100
 
 ## Correlati
 - [[20250208-drBsKlLlE08|La Filosofia di STEINS;GATE]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20191026-erglEe8LlpM|FREUD, JUNG, GODEL ed EINSTEIN - #Filosofia 24]]
 - [[20250107-3nEN4xYAjOM|La storia del NOBEL (e i suoi problemi)]]
 - [[20230527-KAoLd3Q62_c|STORIA dell'AVIAZIONE]]
@@ -29,4 +30,3 @@ qc: 100
 - [[20170226-HP7Ma_PU_P4|Cervello Quantistico - Creepypasta #61]]
 - [[20210815-ZXjIdVxpY6c|SHINING 2, CODE GEASS 3, MR ROBOT 4, GODZILLA 5, PSYCHO PASS 6, WARHAMMER 7, SAW 8, POKÉMON 9]]
 - [[20200910-7o8HnnSDkTk|POPPER (Lezione completa) - #Filosofia 31]]
-- [[20230827-lc6W8MiAa6c|RESURREZIONE - Creepypasta 210]]

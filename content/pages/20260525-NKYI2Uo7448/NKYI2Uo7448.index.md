@@ -11,7 +11,7 @@ like_count: "559"
 comment_count: "30"
 playlist_index: "0"
 tags: ["azienda americana", "azienda italiana", "dobbiamo comprare", "microsoft", "aziende italiane", "possiamo dipendere"]
-related: ["20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20250803-KdI5mLXR9EU", "20260204-QxK66ZAFkDE"]
+related: ["20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20200824-ddOWkFxbq3g", "20250803-KdI5mLXR9EU"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -28,5 +28,5 @@ qc: 100
 - [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]
 - [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
 - [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]
 - [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]
-- [[20260204-QxK66ZAFkDE|La fine di Microsoft?]]

@@ -10,8 +10,8 @@ view_count: "6717"
 like_count: "454"
 comment_count: "49"
 playlist_index: "0"
-tags: ["regno unito", "laburisti", "referendum", "suoi predecessori", "entrare dalla", "brexit"]
-related: ["20250903-FfolkwKdC9U", "20260412-LcWrMgiJZ7k", "20250331-JXUGBMAbBXA", "20241103-1odWEk69h8E", "20260117-tspT5RQPpm4", "20260601-MiG7c6YOOgE", "20250418-YlPgqczhrj4", "20221130-DsS0lxEubZY", "20250420-QCxTgRZJiCs", "20250423-KPvqg1GRrFs"]
+tags: ["laburisti", "referendum", "suoi predecessori", "entrare dalla", "brexit", "partito laburista"]
+related: ["20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20250903-FfolkwKdC9U", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,13 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
-- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
 - [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
-- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
-- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
-- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
-- [[20250420-QCxTgRZJiCs|La tradizione non è legge]]
-- [[20250423-KPvqg1GRrFs|La Russia è stata esclusa dalla cerimonia di liberazione di Auschwitz]]
+- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
+- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]

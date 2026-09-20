@@ -11,7 +11,7 @@ like_count: "604"
 comment_count: "36"
 playlist_index: "0"
 tags: ["forze ordine", "parcheggiare", "hanno agito", "trasporti pubblici", "cioè capito", "agenti hanno"]
-related: ["20240227-Hg_3lUx4udI", "20260310-UP2KuFgg7Pc", "20230210-bTd9m2GYtPU", "20181104-Sj_7l4Gfe9g", "20260401-BXe57745OH0", "20250826-GIA-C11y-qU"]
+related: ["20240227-Hg_3lUx4udI", "20260310-UP2KuFgg7Pc", "20220417-yqHBoHsoUUk", "20230210-bTd9m2GYtPU", "20181104-Sj_7l4Gfe9g", "20260401-BXe57745OH0", "20250826-GIA-C11y-qU"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,6 +22,7 @@ qc: 100
 ## Correlati
 - [[20240227-Hg_3lUx4udI|POLIZIA: Studenti MANGANELLATI, i Fascisti invece no]]
 - [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
+- [[20220417-yqHBoHsoUUk|Live di Pasqua]]
 - [[20230210-bTd9m2GYtPU|La Filosofia di Zootropolis]]
 - [[20181104-Sj_7l4Gfe9g|Essi Muoiono - Creepypasta 104 (Speciale Halloween)]]
 - [[20260401-BXe57745OH0|Proposta di contratto sociale con i fantasmi]]

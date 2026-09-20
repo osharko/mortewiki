@@ -11,7 +11,7 @@ like_count: "638"
 comment_count: "30"
 playlist_index: "0"
 tags: ["pena morte", "serial killer", "killer", "condanna morte", "dalla polizia", "libero arbitrio"]
-related: ["20260403-rN_ydlfFQiY", "20170723-3HLQsq367a4", "20250205-03AsV9qhnj8", "20180610-NuYhwrjvFD4", "20161225-qmbX3fwq7Pg", "20260303-DejSXDQ373k", "20201220--J10Se9Ab5c", "20220125-ioM5Wh-q31k", "20260310-UP2KuFgg7Pc", "20170820-PGyYprqiJ0U"]
+related: ["20260403-rN_ydlfFQiY", "20250205-03AsV9qhnj8", "20170723-3HLQsq367a4", "20180610-NuYhwrjvFD4", "20161225-qmbX3fwq7Pg", "20260303-DejSXDQ373k", "20201220--J10Se9Ab5c", "20220125-ioM5Wh-q31k", "20260310-UP2KuFgg7Pc", "20170820-PGyYprqiJ0U"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,8 +21,8 @@ qc: 100
 
 ## Correlati
 - [[20260403-rN_ydlfFQiY|Pena di morte, Ergastolo, Carcere: tra abolizione e riforma]]
-- [[20170723-3HLQsq367a4|La filosofia in Dexter: Morale o Omicidio?]]
 - [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
+- [[20170723-3HLQsq367a4|La filosofia in Dexter: Morale o Omicidio?]]
 - [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]
 - [[20161225-qmbX3fwq7Pg|Il Serial Killer più SADICO e CRUDELE - Creepypasta #57 (Speciale Natale)]]
 - [[20260303-DejSXDQ373k|Una vendetta, una sentenza]]

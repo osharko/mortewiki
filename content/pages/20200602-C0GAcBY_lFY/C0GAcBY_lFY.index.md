@@ -13,7 +13,7 @@ playlist: "Arte"
 playlist_id: "PLU8-xwslFxH-t3myhWcWwssJOMVMJdWoT"
 playlist_index: "1"
 tags: ["forme arte", "forma arte", "pittura", "opera arte", "letteratura", "scultura"]
-related: ["20200708-E1HGWimlq14", "20160915-pPJizUcCSsU", "20250525-p7tnucyztl8", "20250522-a2HPoD2b61E", "20250521-MOhAGn85ZPA", "20190523-b3afCB19hr0", "20260223-6sXWZZfebWg", "20201203-Xc70JqExN5Y"]
+related: ["20200708-E1HGWimlq14", "20160915-pPJizUcCSsU", "20250522-a2HPoD2b61E", "20250525-p7tnucyztl8", "20250521-MOhAGn85ZPA", "20190523-b3afCB19hr0", "20260223-6sXWZZfebWg", "20201203-Xc70JqExN5Y"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Arte #Bello #Filosofia\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://theneondreamer.bandcamp.com/"
 embeddable: "1"
@@ -25,8 +25,8 @@ qc: 100
 ## Correlati
 - [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
 - [[20160915-pPJizUcCSsU|Perché Ib è un capolavoro]]
-- [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
 - [[20250522-a2HPoD2b61E|Il rapporto tra Arte e Denaro: Izumi Kato]]
+- [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
 - [[20250521-MOhAGn85ZPA|Lo Sport è Arte? I Videogiochi sono Sport?]]
 - [[20190523-b3afCB19hr0|Perché leggere Libri e guardare Anime? - Ft Mangaka96]]
 - [[20260223-6sXWZZfebWg|L'odio per l'Arte Moderna non ha il minimo senso]]

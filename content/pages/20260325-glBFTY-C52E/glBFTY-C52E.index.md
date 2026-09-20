@@ -11,7 +11,7 @@ like_count: "1171"
 comment_count: "179"
 playlist_index: "0"
 tags: ["referendum", "dufer ciao", "governo meloni", "quanto cazzo", "meloni", "ciao dufer"]
-related: ["20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260601-MiG7c6YOOgE", "20260402-VGpKEL1s_6M", "20250304-vOGnydyQbA8", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8"]
+related: ["20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260601-MiG7c6YOOgE", "20260402-VGpKEL1s_6M", "20250304-vOGnydyQbA8", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -29,4 +29,4 @@ qc: 100
 - [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]

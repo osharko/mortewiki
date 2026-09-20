@@ -11,7 +11,7 @@ like_count: "975"
 comment_count: "53"
 playlist_index: "0"
 tags: ["monarchici", "fratelli italia", "referendum", "movimento sociale", "quelle regioni", "savoia"]
-related: ["20250331-JXUGBMAbBXA", "20250507-_0Qnnxy5ulc", "20251125-oRcyF209PT8", "20220723-JjTOgCfG074", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg"]
+related: ["20250331-JXUGBMAbBXA", "20250507-_0Qnnxy5ulc", "20251125-oRcyF209PT8", "20220723-JjTOgCfG074", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20220723-JjTOgCfG074|Critica alla Monarchia]]
 - [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
 - [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
-- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
-- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]

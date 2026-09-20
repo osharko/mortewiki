@@ -11,7 +11,7 @@ like_count: "669"
 comment_count: "65"
 playlist_index: "0"
 tags: ["veneto", "padania", "vince carisma", "breaking italy", "zaia", "salvini"]
-related: ["20251125-oRcyF209PT8", "20250514-98VILQuSOtU", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20260619-y8-CUN5JYss", "20251005-vaZ84a-kTyM", "Ju0ljSLmtUo"]
+related: ["20251125-oRcyF209PT8", "20250514-98VILQuSOtU", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20260619-y8-CUN5JYss", "20251005-vaZ84a-kTyM", "20200415-woRuzdQD52k"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,4 +26,4 @@ qc: 100
 - [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
 - [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
 - [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
-- [[Ju0ljSLmtUo|RESPONSE to BREAKING ITALY on CONSISTENCY]]
+- [[20200415-woRuzdQD52k|LIVE tutti insieme]]

@@ -11,7 +11,7 @@ like_count: "830"
 comment_count: "48"
 playlist_index: "0"
 tags: ["luigi mangione", "guerra culturale", "prende potere", "luigi", "mangione", "culturale guerra"]
-related: ["20250920-JgFUDInERkU", "20260304-FTDRaTnL7D0", "20260826-G6S3ZGwI-hA", "20250630-n2c_nqJecPY", "20250226--KPXkqJOxYc"]
+related: ["20250920-JgFUDInERkU", "20260304-FTDRaTnL7D0", "20260826-G6S3ZGwI-hA", "20250630-n2c_nqJecPY", "20211212-q7tssU3awkQ", "20250226--KPXkqJOxYc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -24,4 +24,5 @@ qc: 100
 - [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
 - [[20260826-G6S3ZGwI-hA|Anche i pedofili hanno diritti umani]]
 - [[20250630-n2c_nqJecPY|Bezos blocca Venezia per il suo matrimonio: Neo-feudalesimo distopico]]
+- [[20211212-q7tssU3awkQ|Mortebianca in Fiera? E altre novità]]
 - [[20250226--KPXkqJOxYc|Una critica moderata ai moderati]]

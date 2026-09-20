@@ -11,7 +11,7 @@ like_count: "242"
 comment_count: "132"
 playlist_index: "0"
 tags: ["sony", "playstation", "console", "nintendo", "xbox", "microsoft"]
-related: ["20250526-yQg5jFVG958", "20190912-sX777AyfxsI", "20260907-FHFHHiC4SGU", "20260705-jcu-Hvbspu4", "20200509-PIjNe3OByjw", "20250413-Y0jMmKLzDWk", "20251114-uznIlHcFInI", "20260901--REGlLWC-xw", "20260823-hCx7p_UC4cY", "20251019-1qH9ywYa4Vg"]
+related: ["20250526-yQg5jFVG958", "20190912-sX777AyfxsI", "20260907-FHFHHiC4SGU", "20260705-jcu-Hvbspu4", "20200509-PIjNe3OByjw", "20200824-ddOWkFxbq3g", "20250413-Y0jMmKLzDWk", "20251114-uznIlHcFInI", "20260901--REGlLWC-xw", "20260823-hCx7p_UC4cY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,8 +25,8 @@ qc: 100
 - [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
 - [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
 - [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]
 - [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
 - [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
 - [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
 - [[20260823-hCx7p_UC4cY|Asobi: le esclusive PS5 arrivano su PC?]]
-- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]

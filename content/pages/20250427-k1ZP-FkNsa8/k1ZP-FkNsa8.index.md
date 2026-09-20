@@ -11,7 +11,7 @@ like_count: "1082"
 comment_count: "51"
 playlist_index: "0"
 tags: ["mussolini", "mafia", "prima disfa", "vabbè dici", "hanno messi", "hanno diritto"]
-related: ["20250131-RnZ3rZr9tuk", "20250515-kvjs_N2Wv54", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20180722-oBK6t2-Kz5M", "20250514-09NFcoNAF_M", "20210622-tmnpsoL5rNE"]
+related: ["20250131-RnZ3rZr9tuk", "20250515-kvjs_N2Wv54", "20260320-s8-zmip52LE", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20180722-oBK6t2-Kz5M", "20250514-09NFcoNAF_M", "20190924-UKVj44aqHI4"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -29,4 +29,4 @@ qc: 100
 - [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
 - [[20180722-oBK6t2-Kz5M|La Filosofia del Padrino]]
 - [[20250514-09NFcoNAF_M|Mussolini e l'IRI]]
-- [[20210622-tmnpsoL5rNE|FASCISMO e COMUNISMO sono la stessa cosa?]]
+- [[20190924-UKVj44aqHI4|Live così, de botto, senza senso]]

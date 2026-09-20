@@ -11,7 +11,7 @@ like_count: "464"
 comment_count: "39"
 playlist_index: "0"
 tags: ["punti interrogativi", "studenti", "testo generato", "funzionano dovranno", "vari strumenti", "pochi punti"]
-related: ["20241017-RqHqVbNu4QQ", "20210604-PPgciXLt-v0", "20190829--bOhzN9h6PQ", "20190905-WDdTpZU8AIk", "20200922-DPqIEzEmzS4"]
+related: ["20241017-RqHqVbNu4QQ", "20210604-PPgciXLt-v0", "20190829--bOhzN9h6PQ", "20190905-WDdTpZU8AIk", "20200922-DPqIEzEmzS4", "20221123-8lc4d7f8Gr4"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,3 +25,4 @@ qc: 100
 - [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
 - [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
 - [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
+- [[20221123-8lc4d7f8Gr4|Dialoghi Politico-Filosofici]]

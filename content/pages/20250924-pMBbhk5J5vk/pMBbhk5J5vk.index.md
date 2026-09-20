@@ -10,7 +10,7 @@ view_count: "6455"
 like_count: "548"
 comment_count: "54"
 playlist_index: "0"
-tags: ["orso", "orso balù", "disney plus", "addio", "parla luna", "famoso falso"]
+tags: ["orso", "orso balù", "disney plus", "parla luna", "famoso falso", "falso lost"]
 related: ["20221024-bSrS1M8unTc", "20230514-i7fzBJOAhs8", "20250218-5Ob-ztS22Zs"]
 video_type: "video"
 embeddable: "1"

@@ -11,7 +11,7 @@ like_count: "793"
 comment_count: "31"
 playlist_index: "0"
 tags: ["marino", "garibaldi", "vieni vieni", "sanmarinese", "savoia", "referendum"]
-related: ["20250528-RsQU-zKVSqQ", "20250408-lT-sJvOpjdM", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg", "20260325-glBFTY-C52E"]
+related: ["20250528-RsQU-zKVSqQ", "20250408-lT-sJvOpjdM", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20260813-VWoqsF9auaE", "20250609--N6zDHQjxcQ"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,8 +25,8 @@ qc: 100
 - [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
 - [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
 - [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
+- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
 - [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
 - [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
-- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]
-- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]

@@ -10,7 +10,7 @@ view_count: "2164"
 like_count: "201"
 comment_count: "15"
 playlist_index: "0"
-tags: ["vediamo vediamo", "madoca magica", "zelda", "interessa interessa", "bravi bravi", "sequel prequel"]
+tags: ["vediamo vediamo", "madoca magica", "zelda", "sequel prequel", "interessa interessa", "bravi bravi"]
 related: ["20250629-1wpwu_FsHSQ", "20250823-lvuDoi8FX5o", "20260127-Okbt1If7Lkw"]
 video_type: "video"
 embeddable: "1"

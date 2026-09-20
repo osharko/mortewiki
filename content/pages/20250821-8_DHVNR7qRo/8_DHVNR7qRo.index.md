@@ -12,8 +12,8 @@ comment_count: "213"
 playlist: "Storia"
 playlist_id: "PLU8-xwslFxH_4ccWo_pGUmjXVtVA0orpl"
 playlist_index: "17"
-tags: ["lienin", "social rivoluzionari", "lien", "rivoluzionari", "ucraina", "guerra civile"]
-related: ["20250520-6zskj2lzZH8", "20251122-bT5uXCtc85g", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20241118-G5_Xl9Lv4jU", "20260416-8mvgZUFK5io", "20260524-SMgMxXF8va0", "20251012-fqslxNSL-IE", "20221012-CKUHAN5rLm0", "20231021-UHnZ3KOWcrk"]
+tags: ["lienin", "social rivoluzionari", "lien", "rivoluzionari", "guerra civile", "bolcevichi"]
+related: ["20250520-6zskj2lzZH8", "20241118-G5_Xl9Lv4jU", "20260524-SMgMxXF8va0", "20251012-fqslxNSL-IE", "20231021-UHnZ3KOWcrk", "20171113-dixNExIirds"]
 video_type: "video"
 description: "Lenin: https://amzn.to/45DfGAe\nTIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#urss #lenin #storia #filosofia\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/buran_sw/nqf4tpcdcs4i?in=buran_sw/sets/istorii-kosmonavtov-ep\nhttps://soundcloud.com/buran_sw/9hhqwcgzrlln?in=buran_sw/sets/istorii-kosmonavtov-ep\nhttps://soundcloud.com/buran_sw/l6ewdrf0xqwu?in=buran_sw/sets/istorii-kosmonavtov-ep\nIMMAGINI: https://www.reddit.com/r/Marxism_Memes/comments/womv4s/lenin_wojak_meme_template/\nhttps://www.facebook.com/wakeupSG/posts/there-are-decades-where-nothing-happens-and-there-are-weeks-where-decades-happen/892446093086528/"
 embeddable: "1"
@@ -24,12 +24,8 @@ qc: 100
 
 ## Correlati
 - [[20250520-6zskj2lzZH8|Rispondo a Calenda su Lenin]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
 - [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
 - [[20260524-SMgMxXF8va0|E se ALESSANDRO MAGNO fosse SOPRAVVISSUTO? Parte 2]]
 - [[20251012-fqslxNSL-IE|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 3]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
 - [[20231021-UHnZ3KOWcrk|STORIA AMERICANA 2: GUERRA CIVILE]]
+- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]

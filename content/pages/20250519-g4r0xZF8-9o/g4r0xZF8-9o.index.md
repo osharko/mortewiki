@@ -10,7 +10,7 @@ view_count: "4830"
 like_count: "468"
 comment_count: "87"
 playlist_index: "0"
-tags: ["dragon ball", "gioco madagascar", "ragazzi periodo", "follie imperatore", "dark souls", "erano fatti"]
+tags: ["dragon ball", "gioco madagascar", "ragazzi periodo", "follie imperatore", "erano fatti", "dark souls"]
 related: ["20220717-XO4grJsda3s", "20231106-Py7BT1UUBlI", "20241216-FZMb6bpUTBc", "20260404-k1nBoGeq5M0", "20220923-H8h0Gn2CiHI", "20180805-k5ys4u7jEyg", "20241205-tgSrJakGRWc"]
 video_type: "video"
 embeddable: "1"

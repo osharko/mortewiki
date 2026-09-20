@@ -10,7 +10,7 @@ view_count: "12786"
 like_count: "1037"
 comment_count: "141"
 playlist_index: "0"
-tags: ["secondo mondo", "mondo secondo", "mondo però", "quei paesi", "vuoi mettere", "nord america"]
+tags: ["secondo mondo", "mondo secondo", "quei paesi", "mondo però", "vuoi mettere", "nord america"]
 related: ["20250517-RntUE-9cBtw", "20260323-QJOB3UzWnxw", "20260810-4UK4GwqjTVk"]
 video_type: "video"
 embeddable: "1"

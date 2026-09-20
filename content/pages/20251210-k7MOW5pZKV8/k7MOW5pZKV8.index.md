@@ -10,7 +10,7 @@ view_count: "6505"
 like_count: "519"
 comment_count: "42"
 playlist_index: "0"
-tags: ["autore video", "utente", "utilità sociale", "utente italiano", "shuzo shimi", "esistono libri"]
+tags: ["autore video", "utente", "utente italiano", "utilità sociale", "shuzo shimi", "esistono libri"]
 related: ["20260304-FTDRaTnL7D0", "20210822-G1rdaJRo9Vg"]
 video_type: "video"
 embeddable: "1"

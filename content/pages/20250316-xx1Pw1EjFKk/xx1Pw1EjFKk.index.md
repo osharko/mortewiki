@@ -11,7 +11,7 @@ like_count: "259"
 comment_count: "20"
 playlist_index: "0"
 tags: ["silent hill", "hill", "silent", "silen hill", "resident evil", "silen"]
-related: ["20210312-0POryNho0X4", "20210122-4WJh9fgiGWY", "20210618-RcDnO7cFii4", "20231226-puhWwBb9ryU", "20260404-k1nBoGeq5M0", "20260503-OCSEyCqD0Ww"]
+related: ["20210312-0POryNho0X4", "20210122-4WJh9fgiGWY", "20210618-RcDnO7cFii4", "20231226-puhWwBb9ryU", "20180524-F3riPjVHbxs", "20260404-k1nBoGeq5M0", "20260503-OCSEyCqD0Ww"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -24,5 +24,6 @@ qc: 100
 - [[20210122-4WJh9fgiGWY|La Filosofia di SILENT HILL]]
 - [[20210618-RcDnO7cFii4|La Morte di SILENT HILL]]
 - [[20231226-puhWwBb9ryU|Sequel: NHK 2, Ib 3, Stranger Things 4, Silent Hill 5, Wasteland 6, Madoka 7, Fallout 8, Dexter 9]]
+- [[20180524-F3riPjVHbxs|I Maestri dell'Horror (Giger, Lovecraft, Junji Ito, Kubrick, Kojima)]]
 - [[20260404-k1nBoGeq5M0|Quando gli anime ritornano alle loro origini]]
 - [[20260503-OCSEyCqD0Ww|Perché CAPCOM ha SCONFITTO la KONAMI]]

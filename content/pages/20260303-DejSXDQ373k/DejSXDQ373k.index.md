@@ -10,8 +10,8 @@ view_count: "9763"
 like_count: "676"
 comment_count: "71"
 playlist_index: "0"
-tags: ["pena morte", "carcere", "buco nero", "signora", "fuori carcere", "tanti italiani"]
-related: ["20260403-rN_ydlfFQiY", "20250205-03AsV9qhnj8", "20190908-T5deWAPps9c", "20200830-F-qSXG65Usg", "20250522-E50ONjn0O_U", "20180610-NuYhwrjvFD4", "20260310-UP2KuFgg7Pc", "20250418-zkIAlP_eYAg", "20240213-RqdlRdSbPZM", "20250523-9KRef9VPR1w"]
+tags: ["pena morte", "buco nero", "signora", "fuori carcere", "tanti italiani", "poste italiane"]
+related: ["20260403-rN_ydlfFQiY", "20190908-T5deWAPps9c", "20250205-03AsV9qhnj8", "20200830-F-qSXG65Usg", "20250522-E50ONjn0O_U", "20180610-NuYhwrjvFD4", "20260310-UP2KuFgg7Pc", "20250418-zkIAlP_eYAg", "20240213-RqdlRdSbPZM", "20250523-9KRef9VPR1w"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,8 +21,8 @@ qc: 100
 
 ## Correlati
 - [[20260403-rN_ydlfFQiY|Pena di morte, Ergastolo, Carcere: tra abolizione e riforma]]
-- [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
 - [[20190908-T5deWAPps9c|INTERSTELLAR - Spiegazione del Finale]]
+- [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
 - [[20200830-F-qSXG65Usg|Buchi Bianchi - Creepypasta 144]]
 - [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]
 - [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]

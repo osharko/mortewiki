@@ -11,7 +11,7 @@ like_count: "892"
 comment_count: "21"
 playlist_index: "0"
 tags: ["arabia saudita", "paesi hanno", "unione europea", "india", "bricks", "saudita"]
-related: ["20251118-Q5fHdhvoM7Y", "20260405-ISOYtywMOAQ", "20260506-BWcNXtjYK9Q", "20250325-Rk9BX3mfdGg", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260403-Sfm9saZJfig", "20241011-Vv4V510t0u8", "20260412-LcWrMgiJZ7k", "20260904-yywIbRjSk6Q"]
+related: ["20251118-Q5fHdhvoM7Y", "20260405-ISOYtywMOAQ", "20260506-BWcNXtjYK9Q", "20250325-Rk9BX3mfdGg", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20220920-DaxRYD7Dn20", "20260403-Sfm9saZJfig", "20241011-Vv4V510t0u8", "20260412-LcWrMgiJZ7k"]
 video_type: "video"
 description: "https://en.wikipedia.org/wiki/BRICS#/media/File:NDB-HQ-LOGO.jpg"
 embeddable: "1"
@@ -27,7 +27,7 @@ qc: 100
 - [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
 - [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
 - [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20260403-Sfm9saZJfig|Perché la Cina ha battuto l'India?]]
 - [[20241011-Vv4V510t0u8|Israele UMILIA l'Italia (e noi zitti, a quanto pare)]]
 - [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
-- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]

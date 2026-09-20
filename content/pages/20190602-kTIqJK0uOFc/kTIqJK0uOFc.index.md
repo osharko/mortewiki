@@ -13,7 +13,7 @@ playlist: "Racconti Horror"
 playlist_id: "PLU8-xwslFxH8CGl3iKTE0PQiZQ3OImdwM"
 playlist_index: "19"
 tags: ["disegno", "inchiostro", "stadio", "stadio dopo", "allo stadio", "giallo esiste"]
-related: ["20200913-hFIBzReq5Ig", "20200604-I9OBDCBOXx4", "20150513-V3XISiA7shU"]
+related: ["20200913-hFIBzReq5Ig", "20210130-1Bp5RAEECy0", "20200604-I9OBDCBOXx4", "20150513-V3XISiA7shU"]
 video_type: "video"
 description: "CANALE SVET:\nhttps://www.youtube.com/channel/UCdunKPO3sFStHg-hZB9lkzw\nDonazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: mortebianca0000\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: Vinicius\nMOOSEECA:\nhttps://www.youtube.com/watch?v=zV-P1xa8rGI\nhttps://soundcloud.com/lemmino/lemmino-moon\nAll This Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=XCr0bsng60Y\nhttps://www.youtube.com/watch?v=tukn5NK_XRo\nGli SCP sono presi dalla SCP Wiki"
 embeddable: "1"
@@ -24,5 +24,6 @@ qc: 100
 
 ## Correlati
 - [[20200913-hFIBzReq5Ig|La Ragazza del Deep Web - Creepypasta 145]]
+- [[20210130-1Bp5RAEECy0|Live sul Character Design ft Gianluca Iacono]]
 - [[20200604-I9OBDCBOXx4|Le Origini dell'Animazione e della Grafica (e il loro Futuro)]]
 - [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]

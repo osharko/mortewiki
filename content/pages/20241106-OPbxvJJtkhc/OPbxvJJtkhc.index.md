@@ -10,8 +10,8 @@ view_count: "25176"
 like_count: "1804"
 comment_count: "209"
 playlist_index: "0"
-tags: ["voto popolare", "sempre detto", "popolazione americana", "camala harris", "biden", "harris"]
-related: ["20241113-RvJ3nmgVDew", "20241101-Mz4vhvNZIew", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20201129-qJqdiBbaRq0", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY"]
+tags: ["voto popolare", "popolazione americana", "camala harris", "biden", "harris", "elettori"]
+related: ["20241113-RvJ3nmgVDew", "20241101-Mz4vhvNZIew", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -24,6 +24,5 @@ qc: 100
 - [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
 - [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
 - [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
-- [[20201129-qJqdiBbaRq0|Da dove Informarsi? - Le mie Ispirazioni]]
 - [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
 - [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]

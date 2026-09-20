@@ -11,7 +11,7 @@ like_count: "915"
 comment_count: "71"
 playlist_index: "0"
 tags: ["togliere vita", "pirateria", "liberare schiavi", "vita umano", "pereria illegale", "dimostrare copyright"]
-related: ["20250708-gD-Sl6jmcwQ", "20250621-eDOLgg_DanI", "20250711-ck1X8AgRBXo"]
+related: ["20250708-gD-Sl6jmcwQ", "20250621-eDOLgg_DanI", "20181101-OAGwFVBXtuI", "20250711-ck1X8AgRBXo"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,4 +22,5 @@ qc: 100
 ## Correlati
 - [[20250708-gD-Sl6jmcwQ|La gente pirata solo per egoismo!!!123stella]]
 - [[20250621-eDOLgg_DanI|Piratare significa davvero sfruttare?]]
+- [[20181101-OAGwFVBXtuI|IL RE DEL SUD IN LIVE]]
 - [[20250711-ck1X8AgRBXo|Piratare è davvero come rubare un'auto?]]

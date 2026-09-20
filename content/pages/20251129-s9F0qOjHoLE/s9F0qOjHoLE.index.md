@@ -11,7 +11,7 @@ like_count: "450"
 comment_count: "46"
 playlist_index: "0"
 tags: ["windows", "linux", "microsoft", "gabe", "console", "sistemi operativi"]
-related: ["20250601-vCSmCMSsvm4", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260526-5pi77L9A0gw", "20200509-PIjNe3OByjw", "20260815-LoFSH3Rwa6o", "20260425-IGXcMbxPc3w", "20260607-_q1-AIH51sk", "20250526-yQg5jFVG958", "20251019-1qH9ywYa4Vg"]
+related: ["20250601-vCSmCMSsvm4", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260526-5pi77L9A0gw", "20200509-PIjNe3OByjw", "20260815-LoFSH3Rwa6o", "20200824-ddOWkFxbq3g", "20260425-IGXcMbxPc3w", "20260607-_q1-AIH51sk", "20250526-yQg5jFVG958"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20260526-5pi77L9A0gw|Microslop è in grossi guai]]
 - [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
 - [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]
 - [[20260425-IGXcMbxPc3w|Linux non è meglio di Windows perché ci sono tante distro diverse]]
 - [[20260607-_q1-AIH51sk|Linux è americano (circa), dovremmo usarlo?]]
 - [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
-- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]

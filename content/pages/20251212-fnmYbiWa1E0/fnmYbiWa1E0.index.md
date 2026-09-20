@@ -10,20 +10,12 @@ view_count: "4647"
 like_count: "393"
 comment_count: "30"
 playlist_index: "0"
-tags: ["black face", "cosplay", "appropriazione culturale", "face", "black", "problema black"]
-related: ["20250315-PhnD0RMTryU", "20230930-UjzUn5-as24", "20180429-EjUy1LbT_qc", "20250428-aa9nUSSlN6s", "20210310-Vof-ksk9FUU", "20190707-vIuByvaaI2U", "znAMSQ86sO8"]
+tags: ["black face", "cosplay", "appropriazione culturale", "face", "problema black", "persona afrodiscendente"]
 video_type: "video"
 embeddable: "1"
-qc: 100
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20230930-UjzUn5-as24|BLACK MIRROR è MORTO]]
-- [[20180429-EjUy1LbT_qc|La Filosofia in Black Mirror]]
-- [[20250428-aa9nUSSlN6s|Black Mirror è RISORTO]]
-- [[20210310-Vof-ksk9FUU|La Filosofia della Satira - Cancel Culture vs Black Humour]]
-- [[20190707-vIuByvaaI2U|La Filosofia di Black Mirror (Stagione 5)]]
-- [[znAMSQ86sO8|FACE REVEAL IN LIVE]]

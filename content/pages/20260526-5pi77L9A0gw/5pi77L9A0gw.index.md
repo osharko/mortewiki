@@ -11,7 +11,7 @@ like_count: "474"
 comment_count: "59"
 playlist_index: "0"
 tags: ["microsoft", "windows", "programmi", "surface", "versione deblottata", "viene sospetto"]
-related: ["20250601-vCSmCMSsvm4", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260815-LoFSH3Rwa6o", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20260525-NKYI2Uo7448", "20250803-KdI5mLXR9EU"]
+related: ["20250601-vCSmCMSsvm4", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260815-LoFSH3Rwa6o", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20200824-ddOWkFxbq3g", "20260525-NKYI2Uo7448"]
 video_type: "video"
 description: "Fonte immagine: https://www.reddit.com/r/pcmasterrace/comments/1rinifc/microsoft_gets_tired_of_microslop_bans_the_word/?tl=it"
 embeddable: "1"
@@ -29,5 +29,5 @@ qc: 100
 - [[20250102-XOArfyW2q58|Sui cosiddetti capitalisti illuminati]]
 - [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
 - [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]
 - [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
-- [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]

@@ -10,8 +10,8 @@ view_count: "5819"
 like_count: "510"
 comment_count: "29"
 playlist_index: "0"
-tags: ["genocidio", "ucraini dalla", "fanno rientrare", "ucraini", "ucraina", "lolo domore"]
-related: ["20251007-EMI9sz3wvPQ", "20251122-bT5uXCtc85g", "20241118-G5_Xl9Lv4jU", "20231210-qDve480qKsY", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20260416-8mvgZUFK5io", "20221012-CKUHAN5rLm0", "20250821-8_DHVNR7qRo", "20220303-TiRY5wVHL1A"]
+tags: ["genocidio", "ucraini dalla", "fanno rientrare", "ucraini", "lolo domore", "idea cancellare"]
+related: ["20251007-EMI9sz3wvPQ", "20231210-qDve480qKsY", "20241118-G5_Xl9Lv4jU", "20250920-JgFUDInERkU", "20250930-0_fHcp5qFs0", "20241022-mdYpUdN0HW0", "20220503-JtCgW83lNZ8", "20250812-iOnylhrbPag"]
 video_type: "video"
 description: "Fonte: Hiroaki, Kuromiya (2008). \"The Soviet Famine of 1932–1933 Reconsidered\""
 embeddable: "1"
@@ -22,12 +22,10 @@ qc: 100
 
 ## Correlati
 - [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
 - [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
+- [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
+- [[20241022-mdYpUdN0HW0|Liliana Segre e la Palestina: un rispettoso dissenso]]
 - [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
-- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
+- [[20250812-iOnylhrbPag|La Cartoonesca cattiveria di ISRAELE]]

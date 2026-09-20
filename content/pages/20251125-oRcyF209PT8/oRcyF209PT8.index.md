@@ -11,7 +11,7 @@ like_count: "506"
 comment_count: "80"
 playlist_index: "0"
 tags: ["veneto", "fratelli italia", "puglia", "centrodestra", "zaia", "campania"]
-related: ["20251005-vaZ84a-kTyM", "20241121-smIutDtqomo", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20250514-98VILQuSOtU", "20250408-lT-sJvOpjdM", "20260530-lllfQzG5_Hw"]
+related: ["20251005-vaZ84a-kTyM", "20241121-smIutDtqomo", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20250514-98VILQuSOtU", "20250408-lT-sJvOpjdM", "20260530-lllfQzG5_Hw", "20250309-ahP-3cQlFds"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,3 +27,4 @@ qc: 100
 - [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
 - [[20260530-lllfQzG5_Hw|Amministrative: trionfo delle sinistre (circa), fallimento di ORA! e demagogia della destra]]
+- [[20250309-ahP-3cQlFds|La Transizione ecologica conviene]]
