@@ -1,0 +1,21 @@
+{
+ "video_id": "0adHMa4LZgI",
+ "segments": [
+  {
+   "start": 14.92,
+   "end": 17.72,
+   "text": "oh"
+  },
+  {
+   "start": 28.84,
+   "end": 38.32,
+   "text": "uh ciao"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 14.92,
+   "title": "oh"
+  }
+ ]
+}

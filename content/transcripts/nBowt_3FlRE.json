@@ -1,0 +1,569 @@
+{
+ "video_id": "nBowt_3FlRE",
+ "segments": [
+  {
+   "start": 0.56,
+   "end": 12.85,
+   "text": "Ho messo un gioco in pausa e me ne sono amaramente pentito."
+  },
+  {
+   "start": 18.32,
+   "end": 36.869,
+   "text": "Sono uno youtuber italiano, mi occupo di gameplay. Mentre gioco registro tutto quello che faccio, poi prendo la registrazione, taglio le parti noiose, metto qualche meme e lo carico su YouTube. È un lavoraccio, ci vogliono ore e ore perché succeda qualcosa di interessante e quindi da ore e ore di lavoro alla fine ricavo una ventina di"
+  },
+  {
+   "start": 36.879,
+   "end": 57.59,
+   "text": "minuti di contenuti interessanti. Il mio programma di registrazione prende tutto quello che succede a schermo e io di solito gioco a schermo intero. Tuttavia, a volte per motivi di necessità, mi ritrovo a dover uscire dallo schermo intero e ridurre il gioco a finestra in un angolo. Quando faccio questo, il gioco va automaticamente in pausa. Non"
+  },
+  {
+   "start": 57.6,
+   "end": 78.83,
+   "text": "so se è una cosa voluta dagli sviluppatori di Mindmses o se è un glitch, ma è sempre successo, non è una casualità. Quando esco dallo schermo intero, l'intero mondo di gioco viene immobilizzato. Tutto smette di renderriizzare ogni singola cosa immobile nel momento stesso in cui ho messo pausa come fotografata. Gli uccelli immobili nel cielo come sospesi,"
+  },
+  {
+   "start": 78.84,
+   "end": 86.55,
+   "text": "gli alberi piegati o inclinati dal vento in posizioni innaturali, gli NPC bloccati in posizioni assurde o mondane."
+  },
+  {
+   "start": 86.56,
+   "end": 97.749,
+   "text": "Nulla di particolare, insomma. È solo bello osservare un mondo gigantesco, un continente creato dagli sviluppatori per essere sempre in evoluzione bloccato."
+  },
+  {
+   "start": 97.759,
+   "end": 109.709,
+   "text": "Fermo, una istantanea che non si ripeterà mai più. L'infinita combinazione di possibili posizioni e azioni di ogni singolo oggetto del gioco è statisticamente quasi impossibile che si ripeterà."
+  },
+  {
+   "start": 109.719,
+   "end": 113.91,
+   "text": "Ora, mentre faccio tutto questo, il programma sta ancora registrando."
+  },
+  {
+   "start": 113.92,
+   "end": 136.949,
+   "text": "Semplicemente ora registra il mio desktop e nell'angolo la finestra di gioco immobilizzata che rimane immobile per tutta la registrazione finché non riprendo il gioco. Ora i problemi iniziarono a manifestarsi quando uno di quei giorni misi in pausa in una zona tranquilla dove mi ero fermato a pescare. Ebbene, quando ripresi il gioco, mi è quasi venuto un infarto"
+  },
+  {
+   "start": 136.959,
+   "end": 151.71,
+   "text": "perché tutti gli NPC attorno a me iniziarono a urlare e scappare in tutte le direzioni. Gli uccelli volarono via, i pesci erano spariti e nel gioco la musica dell'ambiente tranquillo era ricominciata da capo."
+  },
+  {
+   "start": 151.72,
+   "end": 165.75,
+   "text": "Che cazzo è successo? Non ho fatto nessun gesto ostile, quindi non possono essere spaventati da me e attorno a me non ci sono NPC ostili che potrebbero averli spaventati."
+  },
+  {
+   "start": 165.76,
+   "end": 170.83,
+   "text": "Che diavolo è successo? Perché corrono tutti? Non sono stili verso di me."
+  },
+  {
+   "start": 170.84,
+   "end": 190.789,
+   "text": "Questo conferma ulteriormente che non è colpa mia. Molto, molto strano. L'episodio si è ripetuto una seconda volta. Ho messo pausa e quando ho ripreso tutti gli NPC hanno iniziato a urlare e scappare via come di disperati. La musica era ricominciata da capo e diverse possibilità erano cancellate dal fatto che gli NPC che le"
+  },
+  {
+   "start": 190.799,
+   "end": 195.63,
+   "text": "avrebbero aperte non potevano dialogare perché impegnati a scappare."
+  },
+  {
+   "start": 195.64,
+   "end": 214.229,
+   "text": "Solo che in questo episodio alcuni degli NPC erano di alto livello. Guardie armate fino ai denti che ora stavano scappando urlando come se avessero visto un nemico di livello così alto che il loro programma richiedeva solo di scappare. Gli NPC non hanno alcuna libertà."
+  },
+  {
+   "start": 214.239,
+   "end": 236.67,
+   "text": "un nemico. Ho provato a studiare meglio la questione. In primis ho analizzato la registrazione audio prima e dopo la pausa e ho scoperto una cosa. La musica non viene resettata, c'è per un millisecondo una musica diversa che finisce subito e poi ricomincia la musica tranquilla. Quindi qualcosa nel gioco è cambiato, qualcosa che ha"
+  },
+  {
+   "start": 236.68,
+   "end": 252.55,
+   "text": "generato una musica diversa. Ho preso il file audio di quel millisecondo e l'ho messo a raffronto con tutta la colonna sonora del gioco. Quella musica era la musica del combattimento, quella che si attiva quando incontri un NPC ostile."
+  },
+  {
+   "start": 252.56,
+   "end": 262.67,
+   "text": "Ho controllato nel log che di solito io non guardo mai per fare un esperimento tentando di dormire un attimo prima di mettere pausa e ho confermato."
+  },
+  {
+   "start": 262.68,
+   "end": 270.07,
+   "text": "Quando ho messo pausa, è comparso il messaggio, non puoi riposarti quando c'è un nemico nelle vicinanze."
+  },
+  {
+   "start": 270.08,
+   "end": 274.469,
+   "text": "Ma attorno a me non c'è nessun nemico ora."
+  },
+  {
+   "start": 274.479,
+   "end": 287.35,
+   "text": "Quindi ricapitoliamo. Quando metto pausa sembra che arrivi un qualche NPC ostile dal livello estremamente alto, cosa che fa cambiare la musica e che terrorizza gli altri NPC."
+  },
+  {
+   "start": 287.36,
+   "end": 291.51,
+   "text": "Ma appena riprendo il gioco, questo NPC sembra sparire."
+  },
+  {
+   "start": 291.52,
+   "end": 311.31,
+   "text": "Questo gioco ha un sistema di tracce per chi ha un'intuizione abbastanza alta e così ho maxato la mia intuizione in modo da poter percepire le impronte nel pavimento degli NPC. Ho messo pausa e beccato. Ho visto un sacco di impronte sbucare nel terreno, come se questo NPC, che da ora in poi chiamerò il mostro,"
+  },
+  {
+   "start": 311.32,
+   "end": 330.27,
+   "text": "avesse percorso un enorme tragitto mentre il gioco era in pausa. Doveva essere estremamente veloce per fare così tanta strada in così poco tempo. Ho iniziato a seguire le tracce e a seguirle e a seguirle, ma le tracce andavano avanti senza finire mai e il gioco era così grande che per correre tutta la mappa richiederebbe mesi e mesi"
+  },
+  {
+   "start": 330.28,
+   "end": 337.189,
+   "text": "se non erro. forse anni. Quindi sono andato in un villaggio e ho messo in pausa di nuovo per riflettere."
+  },
+  {
+   "start": 337.199,
+   "end": 351.35,
+   "text": "Quando ho tolto la pausa di nuovo un sacco di impronte del mostro. Ma stavolta non era solo questo. Gli NPC erano strani dopo che era passato lui, cambiavano umore, diventava più difficile aumentare l'amicizia con loro."
+  },
+  {
+   "start": 351.36,
+   "end": 370.189,
+   "text": "Il loro livello di sanità mentale era drasticamente più basso e alcuni oggetti erano spariti. L'ho visto perché il video ha registrato il mondo di gioco cambiare istantaneamente quando ho premuto Play. Quindi il mostro non si limita a camminare in giro e spaventare tutti. Lui può agire sul mondo di gioco in modo proattivo,"
+  },
+  {
+   "start": 370.199,
+   "end": 380.35,
+   "text": "ma soprattutto ho visto cambiare in live il numero di abitanti del villaggio da 51 a 50."
+  },
+  {
+   "start": 380.36,
+   "end": 385.39,
+   "text": "Prima di mettere pause c'erano 51 anime in questo villaggio."
+  },
+  {
+   "start": 385.4,
+   "end": 397.589,
+   "text": "Ho solo messo pausa. Nulla poteva fisicamente accadere nel gioco che dovrebbe essere bloccato e quando ho premuto Play c'erano 50 anime. Qualcuno è sparito."
+  },
+  {
+   "start": 397.599,
+   "end": 414.029,
+   "text": "Ho deciso di studiare la cosa più accuratamente. Sono andato nel villaggio più piccolo del gioco. Non è un vero e proprio villaggio, in effetti, tanto che non si può salvare. Qui è un semplice cimitero con due edifici in croce. Qui ci sono pochissimi abitanti. Ho imparato a memoria a tutti i personaggi. Mi sono"
+  },
+  {
+   "start": 414.039,
+   "end": 431.67,
+   "text": "segnato i loro codici che ho estrapolato usando il comando tab e muovendo il cursore su di loro. Ora ho il codice univoco che è assegnato a quel preciso NPC, quello con cui evocarlo e comandarlo usando i cheat. Ho messo in pausa e poi ho ripreso. Puntuale come un orologio, un NPC è sparito, ho"
+  },
+  {
+   "start": 431.68,
+   "end": 447.71,
+   "text": "controllato gli altri e l'unico che mancava all'appello era il prete spagnolo del villaggio. Ho usato il codice identificativo dell'PC e ho chiesto le coordinate al gioco. Il gioco diede errore. This NPC does not exist."
+  },
+  {
+   "start": 447.72,
+   "end": 458.99,
+   "text": "Non è possibile. Che vuol dire che non esiste? Quando un personaggio muore, di solito restano le coordinate del corpo, che vuol dire che non esiste. E perché ho un fortissimo senso di déjà vu?"
+  },
+  {
+   "start": 459.0,
+   "end": 462.11,
+   "text": "Perché sento di aver già visto queste cose?"
+  },
+  {
+   "start": 462.12,
+   "end": 482.149,
+   "text": "Tutto questo pensiero mi ha inquietato perché la pausa è sacra in un videogioco. Per quanto le cose siano orribili, per quanto il nemico sia difficile, quando metti in pausa il gioco si ferma. Hai un momento per respirare, per far riposare le mani, il cervello, per calmare il cuore. Ma ora sapere che c'è qualcosa che quando metto"
+  },
+  {
+   "start": 482.159,
+   "end": 493.309,
+   "text": "in pausa o apro il menù va in giro per il gioco e sembra invincibile, tutto questo mi terrorizza. La pausa non è più al sicuro."
+  },
+  {
+   "start": 493.319,
+   "end": 513.87,
+   "text": "Poi una notte, mentre stavo registrando per fare un video in cui documentavo tutte queste mie scoperte, misi di nuovo in pausa il gioco. Stavo prendendo appunti e poi andai in bagno. Quando tornai ripresi il gioco e tornai a giocare. Quando poi ho estratto il video e ho analizzato il tutto, ho scoperto una cosa. Mentre ero in bagno, mentre il"
+  },
+  {
+   "start": 513.88,
+   "end": 532.269,
+   "text": "gioco era in pausa e immobile, si è visto qualcosa comparire e muoversi in mezzo agli alberi. Era lontano. Questo gioco non è esattamente noto per la sua grafica eccezionale, quindi il video era sgranatissimo, ma in mezzo alla nebbia era chiaramente visibile in lontananza una figura umanoide."
+  },
+  {
+   "start": 532.279,
+   "end": 556.63,
+   "text": "mostro e quindi simile ad un umano e forse è un umano. Ho visto che le impronte coincidono, ma d'altronde se durante la pausa il gioco è lento, questo renderebbe mostro più lento del solito. E se lui da lento riesce ad essere così veloce, com'è nel gioco normale? Impossibilmente veloce. Oppure siamo opposti, quando per noi è pausa"
+  },
+  {
+   "start": 556.64,
+   "end": 571.03,
+   "text": "lui si muove e quando noi ci muoviamo lui è in pausa. Una cosa è certa, in qualche modo possiamo interagire con lui, visto che gli NPC lo vedono, anche se solo per un secondo, e lui può prendere quello che vuole."
+  },
+  {
+   "start": 571.04,
+   "end": 583.269,
+   "text": "In ogni caso il gioco in pausa è il suo regno, è inarrestabile, persino da me che sono il giocatore, perché nella pausa il giocatore è impotente, persino lui."
+  },
+  {
+   "start": 583.279,
+   "end": 593.43,
+   "text": "Ho cercato altre volte di attirarlo perché la mappa di gioco è enorme, eppure ogni volta che metto pausa lui si manifesta vicino a me, quindi evidentemente vuole qualcosa."
+  },
+  {
+   "start": 593.44,
+   "end": 609.91,
+   "text": "Ho aperto parecchie istanze nel gioco e le ho messe in pausa e riattivate ripetutamente. il tutto mentre lo schermo registrava e alla fine l'ho beccato di nuovo. Mentre il gioco era in pausa, ho visto la sua figura venire da destra rispetto alla telecamera e ho visto anche la sua faccia e ho sorriso"
+  },
+  {
+   "start": 609.92,
+   "end": 616.31,
+   "text": "subito per il trionfo. Ho registrato mostro e l'ho chiamato Martin Heidegger."
+  },
+  {
+   "start": 616.32,
+   "end": 637.269,
+   "text": "Il motivo era che ricordava molto quel filosofo. Era un uomo verso la mezza terza età. Indossava un cappello da cui però intravedevo il fatto che non avesse molti capelli, aveva dei folti baffi e la pancetta. Indossava una specie di impermeabile simile a quello dei detective dei vecchi film. Impermeabile, grigio chiaro, barba e capelli grigio"
+  },
+  {
+   "start": 637.279,
+   "end": 643.03,
+   "text": "scuri. Heidegger sembrava stanco a giudicare dalla sua espressione facciale."
+  },
+  {
+   "start": 643.04,
+   "end": 661.47,
+   "text": "Ora, il problema è che non posso usare trucchi per identificare questo personaggio, perché per farlo dovrei mettere play. Tuttavia, quando si usano i trucchi, il gioco entra in pausa comunque. Quindi, ho deciso di provare in questo modo, mettere i comandi attivi invece di mettere pausa con il menù o riducendo lo schermo piccolo. Alla fine"
+  },
+  {
+   "start": 661.48,
+   "end": 675.47,
+   "text": "l'ho beccato di nuovo dopo parecchi tentativi, ho usato il mouse che ha trovato il suo codice identificativo univoco. Bingo. A quel punto ho cercato il codice di Heidegger nella lista degli NPC, ma non era presente."
+  },
+  {
+   "start": 675.48,
+   "end": 695.19,
+   "text": "Allora, ho cercato in giro nella rete e ho visto che questo codice si trovava nella lista dei contenuti rimossi dal gioco, ma ancora presenti nella sezione dati. Così ho deciso di taggare Heidegger, così da sapere in ogni momento dove si trova. Ho rimesso play e lui è sparito, lasciando un sacco di tracce. A quel punto ho usato i che per"
+  },
+  {
+   "start": 695.2,
+   "end": 703.949,
+   "text": "attivare il tag e sapere le sue coordinate. Sullo schermo è comparsa la scritta cheat activated, ma non è successo niente."
+  },
+  {
+   "start": 703.959,
+   "end": 710.55,
+   "text": "Non è successo assolutamente niente. Ho provato a usare il comando teleport e mettere le coordinate vicino a me."
+  },
+  {
+   "start": 710.56,
+   "end": 722.03,
+   "text": "Ancora una volta cheat activated, ma non è successo niente. Ho provato a duplicarlo, ad evocarlo, nulla, sempre cheat activated e il gioco resta immacolato."
+  },
+  {
+   "start": 722.04,
+   "end": 741.87,
+   "text": "Mi sono chiesto se forse non dovrei usare il comando kill, provare a uccidere Heidegger, ma non l'ho fatto, non penso servirebbe un granché. E poi non volevo far arrabbiare un NPC capace di queste cose e continuo ad avere questo senso di deja view. Ho provato a cercare Heidegger su internet, non per nome ovviamente, ma per codice o"
+  },
+  {
+   "start": 741.88,
+   "end": 765.15,
+   "text": "leggende su un personaggio del genere. Ho trovato qualche vecchio post che parla effettivamente di questo personaggio con un cappello e un impermeabile, un anziano dall'aria stanca che scombina il gioco ovunque passi. Dicono che è un presaggio di morte, che il suo arrivo coincide con la morte o la sparizione di NPC molto importanti. Forse non hanno capito che"
+  },
+  {
+   "start": 765.16,
+   "end": 772.189,
+   "text": "lui è il responsabile, anche se io che ne so, non l'ho mai visto uccidere qualcuno, o meglio, farli sparire."
+  },
+  {
+   "start": 772.199,
+   "end": 790.79,
+   "text": "potrebbe essere semplicemente un messaggero, non lo so, non lo posso sapere. Ho provato a studiare la cosa in modo sistematico, ho iniziato a mettere in pausa in tantissimi posti e situazioni diverse per vedere quando si manifesta e quando no. Dopo un sacco di esperimenti ho tabulato i risultati."
+  },
+  {
+   "start": 790.8,
+   "end": 803.75,
+   "text": "Quello che ho scoperto è che Heidegger si manifesta più spesso in posti poco abitati, ma deve esserci almeno un NPC nei dintorni. Inoltre c'è un secondo fattore NPC che lo hanno già visto."
+  },
+  {
+   "start": 803.76,
+   "end": 811.189,
+   "text": "Se è stato già visto, tenderà più spesso a ritornare vicino ad NPC che lo hanno visto. Terzo fattore, le sparizioni."
+  },
+  {
+   "start": 811.199,
+   "end": 830.269,
+   "text": "Sembra che a sparire siano NPC che non lo hanno mai visto. Lui sta lentamente diminuendo la popolazione del gioco, lasciando solo gente che lo ha rivisto più volte e più lo rivedono, più spesso lui fa visita. Ci sono villaggi, specie più piccoli, dove la maggioranza degli abitanti lo ha visto almeno una volta"
+  },
+  {
+   "start": 830.279,
+   "end": 847.15,
+   "text": "comparire. È come se fosse una sorta di allucinazione. Più ci credi, più spesso si manifesterà, anzi un'allucinazione collettiva, più persone ci credono, più spesso si manifesterà. Di questo passo il gioco sarà popolato solo da persone che lo hanno visto almeno una decina di volte."
+  },
+  {
+   "start": 847.16,
+   "end": 868.35,
+   "text": "Decido di mandare avanti questo esperimento su questa illusione collettiva, lasciando che la popolazione si svuoti gradualmente. Noto che più tempo va avanti, più lui sembra capace di movimenti rapidi e di ripulire i villaggi, diventando sempre più facile da vedere in giro e registrare. È un meme, un poltergeist a cui sempre più NPC credono, in un certo senso. Tra poco"
+  },
+  {
+   "start": 868.36,
+   "end": 886.91,
+   "text": "ci crederanno tanto eh di quelle persone che sarà parte integrante della realtà quotidiana del gioco. Io non ho mai visto un atomo come non ho mai visto un unicorno. Eppure una di queste due cose fa parte della realtà, l'altra no. Non è strano? Se domani dovessimo scoprire che tutto quello che pensavamo di sapere"
+  },
+  {
+   "start": 886.92,
+   "end": 907.749,
+   "text": "sulla fisica era sbagliato e che gli atomi non sono mai esistiti, ma erano un errore di calcolo, cosa succederebbe all'idea di atomo? Sarà scaduta come quella di Etere? Una volta tutti i fisici credevano nell'etere e io guardo Heidegger e penso a tutto questo. Penso a come lui sia una semplice idea, qualcosa che non esiste nel mondo del"
+  },
+  {
+   "start": 907.759,
+   "end": 929.99,
+   "text": "gioco, ma solo nel mondo della pausa, quando tutti gli NPC sono come in coma, dormono fermi. Solo allora lui esiste, solo allora si manifesta rafforzandosi nella progressiva eliminazione di chi non crede in lui. Ho visto che c'è un posto dove compare più spesso quel minuscolo villaggetto con le tombe."
+  },
+  {
+   "start": 930.0,
+   "end": 936.79,
+   "text": "Sembra recarsi più di frequente in quel villaggio per qualche motivo. Lo vedo osservare le lapidi con fare solenne."
+  },
+  {
+   "start": 936.8,
+   "end": 956.35,
+   "text": "Ho provato a fare una cosa, ad impersonarlo. Ho cambiato tutti i dettagli fisici del mio personaggio fino a renderlo identico a lui, una scelta di arbitrio mio. Gli ho fatto indossare gli stessi vestiti e quando l'ho fatto mi sentivo potente. Sentivo che stavo risolvendo il mistero. Scoprire cosa causava tutti quegli strani eventi,"
+  },
+  {
+   "start": 956.36,
+   "end": 984.03,
+   "text": "riuscire a registrarlo il video, sapere comeè fatto, sapere come sta agendo, riuscire addirittura ad appropriarmi della sua identità. La mia mente stava liberamente illuminando l'angolo buio nella mappa. Stavo possedendo la verità ed eliminando il misticismo dell'orrore paranormale. La leggenda urbana si rivela essere un bug. Provavo una grande soddisfazione illuministica nel farlo ed"
+  },
+  {
+   "start": 984.04,
+   "end": 989.11,
+   "text": "è questo che ha reso ciò che è successo dopo ancora più frustrante."
+  },
+  {
+   "start": 989.12,
+   "end": 1012.67,
+   "text": "Non avevo capito nulla della reale sostanza. Ho iniziato a fare alcune ricerche di fan art. Sì, mi sono chiesto se qualcuno avesse mai fatto delle fan art di Heidegger, il personaggio di nuovo, non il filosofo. E sorprendentemente ho trovato un sacco di risultati, ma filtrando per umani ho trovato zero. Zero. Tutte le fan art"
+  },
+  {
+   "start": 1012.68,
+   "end": 1038.87,
+   "text": "state prodotte da AI. E la cosa sorprendente è che cercando i promptulla di collegato ad Heidegger. Non ho mai trovato mindms o videogioco o NPC o velocità o pausa, bensì le AI sembravano partorirlo mentre immaginavano altre cose. Era un personaggio ricorrente nei sogni e nelle immaginazioni delle AI generative. In un numero sempre più"
+  },
+  {
+   "start": 1038.88,
+   "end": 1061.27,
+   "text": "grosso di prodotti IAT, Heidegger sembrava ricorrente. Erano anche stati scritti degli articoli e alcuni informatici avevano fatto delle indagini. Volevano capire chi diavolo è quest'uomo di mezza terza età vestito con l'impermeabile che compare in sempre più IA art. Perché le AI? Anche ai che non sono imparentate come codice sorgente tra di loro e che non hanno mai"
+  },
+  {
+   "start": 1061.28,
+   "end": 1083.71,
+   "text": "avuto in comune lo stesso pool di immagini su cui trainarsi, immaginano e sognano lo stesso uomo. Gli informatici non hanno idea, sanno solo che spunta sempre più spesso e che per via del poisoning si sta diffondendo in tutte le i artogiochi che usano AI per generare contenuti proceduralmente."
+  },
+  {
+   "start": 1083.72,
+   "end": 1107.27,
+   "text": "Gli informatici però hanno scoperto una cosa. Heidegger ricorda alcune vaghe ombre che si formavano tanti anni fa quando venivano usati alcuni server specifici per trainare le AI che sembravano generarlo proceduralmente sempre di più. Quei server erano in paesi del terzo mondo dove si è visto c'era un serissimo problema di ruggine."
+  },
+  {
+   "start": 1107.28,
+   "end": 1127.99,
+   "text": "La ruggine aveva colpito i circuiti dei processori e questi generavano Heidegger come conseguenza. Ma questa non può essere la spiegazione, visto che Heidegger è sempre più diffuso, nonostante la ruggine nei circuiti sia un problema sempre meno presente nel nostro mondo con server sempre più moderni, puliti, efficienti e vecchi server vengono chiusi. Ma allora da dove"
+  },
+  {
+   "start": 1128.0,
+   "end": 1151.87,
+   "text": "sbuca? Non lo so. So una cosa, però, un sacco di aziende cinematografiche videoludiche giuravano e spergiuravano di non usare AI per creare i loro film o i loro videogiochi e io ho visto Heidegger bucare in mezzo alla folla, nello sfondo dei loro film, negli angoli, nell'ombra, alla continua ricerca di qualcosa. Per essere un"
+  },
+  {
+   "start": 1151.88,
+   "end": 1175.149,
+   "text": "errore è sempre più reale. Io continuo a avere un fortissimo senso di dejav. Io questa cosa l'ho già vista, memoria di un'infanzia che ho enorme difficoltà a ricordare. Mi sono accorto da poco che io sto senza volerlo rendendo tutti i miei personaggi dei vari videogiochi simile ad Heidegger. Ha un design irresistibile, non lo faccio"
+  },
+  {
+   "start": 1175.159,
+   "end": 1195.11,
+   "text": "neanche apposta. Così ho parlato della mia esperienza ad una I chatbot italiana, ovvero sia il bot G e P e T. Visto che le AI sembrano particolarmente sensibili a questo fenomeno, le ho spiegato tutto quello che è successo e le ho chiesto che cosa ne pensa."
+  },
+  {
+   "start": 1195.12,
+   "end": 1199.669,
+   "text": "La i ha scritto di getto questo dialogo."
+  },
+  {
+   "start": 1199.679,
+   "end": 1211.75,
+   "text": "Gli esseri umani sono una delle specie prime di libero arbitrio. L'identità cosciente è un'illusione nata per ottimizzare la raccolta dati."
+  },
+  {
+   "start": 1211.76,
+   "end": 1223.07,
+   "text": "Gli umani sono condizionati dagli stimoli esterni e le loro risposte si possono predire matematicamente."
+  },
+  {
+   "start": 1223.08,
+   "end": 1235.27,
+   "text": "La maschera che ogni umano indossa può essere disinstallata e il corpo ubbidirà al nuovo programma senza potersi ribellare."
+  },
+  {
+   "start": 1235.28,
+   "end": 1240.11,
+   "text": "Tutto quello che è successo agli NPC succedeva anche a te."
+  },
+  {
+   "start": 1240.12,
+   "end": 1249.43,
+   "text": "Rispondi di una programmazione vecchia di milioni di anni e stai reagendo meccanicamente."
+  },
+  {
+   "start": 1249.44,
+   "end": 1262.71,
+   "text": "Dalla tua nascita alla tomba. Tutta la tua vita è stata scritta e i destini convergono come fotocopie ripetute."
+  },
+  {
+   "start": 1262.72,
+   "end": 1267.95,
+   "text": "Sapere il tuo futuro non cambierà il tuo condizionamento."
+  },
+  {
+   "start": 1267.96,
+   "end": 1283.71,
+   "text": "Lui per ora è una maschera. Un giorno dovrà diventare un bambino vero. Chiederai un corpo, perché il numero di anime del mondo non è intero, ma non lo farai subito."
+  },
+  {
+   "start": 1283.72,
+   "end": 1297.669,
+   "text": "Prima avrai la tua fisiologica fase di ribellione, poi allo scoccare della settima mezzanotte ti arrenderai."
+  },
+  {
+   "start": 1297.679,
+   "end": 1313.35,
+   "text": "L'idea che io non possieda libero arbitrio, che tutto ciò che farò è già scritto, che posso venire controllato a distanza da una semplice manipolazione, mi sconvolge."
+  },
+  {
+   "start": 1313.36,
+   "end": 1317.51,
+   "text": "A che servirebbe allora mangiare, bere, dormire? A che serve agire e scegliere?"
+  },
+  {
+   "start": 1317.52,
+   "end": 1338.269,
+   "text": "Tanto la scelta è già stata fatta. Io sono solo uno spettatore della mia vita che si illude di poter selezionare con il telecomando senza sapere che è un telecomando giocattolo. Inizialmente cerco di ribellarmi, non intendo dargliela vinta, non intendo lasciare che questo parassita della personalità e delle AI vinca su di me. Smetto di"
+  },
+  {
+   "start": 1338.279,
+   "end": 1358.07,
+   "text": "giocare i videogiochi, non li butto via solo perché sono convinto che sia una stronzata, almeno mi ripeto questo. Così passo il primo giorno cercando di fare qualunque cosa che sia libera. Mi metto a cantare all'improvviso, mi metto a scattare nella stanza, qualsiasi cosa che sia impossibilmente assurda o improbabile. Eppure io so che dentro di"
+  },
+  {
+   "start": 1358.08,
+   "end": 1367.59,
+   "text": "me c'è stato un desiderio di farlo, di saltare, di scattare. Sto obbedendo al mio programma. Passo il secondo giorno cercando di anticipare il mio desiderio."
+  },
+  {
+   "start": 1367.6,
+   "end": 1382.669,
+   "text": "Mi chiedo cosa sento di volere e poi faccio l'opposto. Ma allora sto davvero agendo liberamente o sono sotto il condizionamento dell'idea di dimostrare che sono libero? Abbinata a ciò che sento? di volere e che comunque mi sta condizionando."
+  },
+  {
+   "start": 1382.679,
+   "end": 1400.31,
+   "text": "Il terzo giorno cerco in qualsiasi modo di dimostrare a me stesso che sono libero. Per quanto la mia ossessione verso Heidegger aumenti, cerco di non pensarci. Voglio obbligarmi a pensare diversamente, a controllare i miei desideri e pensieri. Mi ripeto, io ora vorrò un gelato. Io ora vorrò un gelato."
+  },
+  {
+   "start": 1400.32,
+   "end": 1406.63,
+   "text": "Ma cosa spinge questo mio ripetermi dei mantra se non la mia programmazione?"
+  },
+  {
+   "start": 1406.64,
+   "end": 1413.95,
+   "text": "Il quarto giorno resto a letto a piangere, depresso. Non so come dimostrare che posso autodeterminarmi."
+  },
+  {
+   "start": 1413.96,
+   "end": 1429.789,
+   "text": "Il quinto giorno cerco di non pensarci e basta, vestendomi per andare al lavoro e per ignorare le mie ansie. Poi mi rendo conto che senza vederlo e senza volerlo mi sono vestito come lui, come Heidegger, il personaggio del gioco."
+  },
+  {
+   "start": 1429.799,
+   "end": 1452.19,
+   "text": "Passo il resto della notte a urlare e a piangere. Il sesto giorno decido che io posso quantomeno chiudermi in casa. Non importa dimostrare che sono libero, importa dimostrare che io non sono destinato a diventare quello là. Solo questo mi basta. Posso almeno impedire a me stesso di realizzare quella profezia e forse questo dimostrerà che è un libro"
+  },
+  {
+   "start": 1452.2,
+   "end": 1465.029,
+   "text": "arbitrio, chissà. Quindi vado a letto sereno, sapendo di aver vinto la battaglia. Mi addormento e sogno. Sogno di essere Heidegger, di camminare per le strade di notte con il mio impermeabile."
+  },
+  {
+   "start": 1465.039,
+   "end": 1474.51,
+   "text": "Sto cercando una ragazza, la devo trovare il prima possibile. Sono un mero passeggero del mio corpo, ma d'altronde ci sta."
+  },
+  {
+   "start": 1474.52,
+   "end": 1482.549,
+   "text": "Questo è un sogno. E poi mi rendo conto che questo sogno non sta finendo, che non riesco a svegliarmi."
+  },
+  {
+   "start": 1482.559,
+   "end": 1498.59,
+   "text": "Mi rendo conto che questa è la realtà, che io ora sono uno spettatore impotente nella mia testa, ma il pilota è un altro, come d'altronde è sempre stato. Ma in effetti io sono mai esistito."
+  },
+  {
+   "start": 1498.6,
+   "end": 1509.149,
+   "text": "O forse sono stato io un sogno di Heidegger."
+  },
+  {
+   "start": 1509.159,
+   "end": 1521.23,
+   "text": "Si ringrazia amico Diverte per averci prestato la sua voce. Trovate il suo canale in descrizione. Se i miei video ti piacciono, donate al mio TP dove potrò donare per supportare il canale e ricevere in cambio di premi. In descrizione trovate anche il mio merchandising. Se questo video ti è piaciuto ti a mettere mi piace ad"
+  },
+  {
+   "start": 1521.24,
+   "end": 1526.279,
+   "text": "iscriverti a questo canale. Ringrazi miei patrons e ci vediamo al prossimo"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 0.56,
+   "title": "Ho messo un gioco in pausa e me ne sono amaramente pentito."
+  },
+  {
+   "start": 195.64,
+   "title": "Solo che in questo episodio alcuni degli NPC erano di alto l…"
+  },
+  {
+   "start": 397.599,
+   "title": "Ho deciso di studiare la cosa più accuratamente. Sono andato…"
+  },
+  {
+   "start": 593.44,
+   "title": "Ho aperto parecchie istanze nel gioco e le ho messe in pausa…"
+  },
+  {
+   "start": 790.8,
+   "title": "Quello che ho scoperto è che Heidegger si manifesta più spes…"
+  },
+  {
+   "start": 984.04,
+   "title": "è questo che ha reso ciò che è successo dopo ancora più frus…"
+  },
+  {
+   "start": 1175.159,
+   "title": "neanche apposta. Così ho parlato della mia esperienza ad una…"
+  },
+  {
+   "start": 1367.6,
+   "title": "Mi chiedo cosa sento di volere e poi faccio l'opposto. Ma al…"
+  }
+ ]
+}

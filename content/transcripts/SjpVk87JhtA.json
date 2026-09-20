@@ -1,0 +1,494 @@
+{
+ "video_id": "SjpVk87JhtA",
+ "segments": [
+  {
+   "start": 10.04,
+   "end": 33.63,
+   "text": "in questo video parleremo dell'ai Art come nascono se sono classificabili come arte se sono una forma di plagio e soprattutto come risolvere il problema e so già che verrò ricoperto di insulti e video Reaction per quello che sto per dire l'idea di arte artificiale non è nuova nelle arti Abbiamo spesso figurato ehm robot capaci di arte pensiamo a"
+  },
+  {
+   "start": 33.64,
+   "end": 54.349,
+   "text": "Detroit bom Newman a Frankenstein considerando ciò come delle prove del loro avere ormai passato la linea ed essere diventati animati ma quest'idea ha delle radici nella realtà non solo nella fantasia sin dall'antichità abbiamo esempi di meccanismi artistici tipo i Caron le orchestre automatiche anche se queste potevano solo eseguire le indicazioni di uno spartito già"
+  },
+  {
+   "start": 54.359,
+   "end": 77.789,
+   "text": "creato da un umano negli anni 50 lo scultore svizzero tingui prodos delle statue cinetiche ossia statue che funzionano tramite ingranaggi che si muovono solo che le sue statue avevano una particolarità muovevano delle matite su tela e quindi creavano arte sono le prime forme di arte artificiale ma come nascono le intelligenze artificiali artistiche per capirlo dobbiamo andare"
+  },
+  {
+   "start": 77.799,
+   "end": 98.67,
+   "text": "indietro con lo sviluppo delle ai si iniziarono a sviluppare algoritmi capaci di riconoscere le immagini ossia capire se ti mostro un gatto che quello è un gatto questa è la pattern Recognition il conoscere formule matematiche regolari dietro le immagini se ci pensiamo questo è alla base di tutta l'arte ne parlerò nel mio video sul bello oggettivo che è"
+  },
+  {
+   "start": 98.68,
+   "end": 118.67,
+   "text": "basato proprio sulla matematica la sezione aurea è presente un po' ovunque nelle opere d'arte più famose come la monalisa ed è anche alla base della pareidolia e in generale La scienza è il processo di astrazione prendere tanti casi particolari e astrarre una formula universale dietro è la base dell'intelligenza ed è matematica e così"
+  },
+  {
+   "start": 118.68,
+   "end": 141.67,
+   "text": "vennero formulati diversi algoritmi capaci di pattern Recognition sempre più bravi Google ovviamente ci ha investito molto e ha prodotto Deep Mind chiamata così perché è strutturata con reti neurali ossia circuiti che imitano le ricombinazioni sinaptiche del cervello strutturate su più livelli che screm mano e ragionano sui risultati dei livelli precedenti spiego meglio questo"
+  },
+  {
+   "start": 141.68,
+   "end": 164.83,
+   "text": "concetto nel mio corso di filosofia Deep Mind è creato appositamente allo scopo di essere una AG Ossia una General artificial intelligence spieghiamo questi termini un secondo una ai debole è capace di fare un singolo compito bene quanto o meglio di un essere umano oppure qualche compito però sa fare soltanto quelle cose lì le calcolatrici i programmi di"
+  },
+  {
+   "start": 164.84,
+   "end": 188.789,
+   "text": "scacchi sono ai deboli una Agi è capace di fare tantissime cose potenzialmente tutte una Agi può essere divisa in intelligenza artificiale media ossia capace di superare il test di turing sembrare cosciente anche se non lo è davvero è forte quando è davvero cosciente Deep Mind è una Agi debole è stata programmata per poter imparare un"
+  },
+  {
+   "start": 188.799,
+   "end": 209.99,
+   "text": "po' di tutto riconoscere le immagini giocare a scacchi a shogi a go forse il gioco più complesso della storia umana a pong a Space Invaders battendo gli umani ora sa giocare anche a cose grosse tipo quake 3 e ha un text su speech chiamato wavenet e studia per predire il decorso clinico dei Tumori renali ora ad un"
+  },
+  {
+   "start": 210.0,
+   "end": 230.429,
+   "text": "certo punto gli ingegneri si sono fatti una domanda se chiedessimo a Deep Dream che è questo particolare algoritmo di Deep Mind di fare il contrario invece di riconoscere i pattern dietro le immagini gli chiedessimo di modificare le immagini in modo da aumentare la parid Olia il risultato furono le prime Art che sconvolsero il mondo i sogni di"
+  },
+  {
+   "start": 230.439,
+   "end": 254.789,
+   "text": "Google queste immagini Erano semplici caratterizzate da oniriche facce frattali e caleidoscopici arcobaleni da quel momento nacquero le Alt tre i che partendo da questo concetto sono andate oltre con un processo a vari step step 1 la pareidolia la I studia tantissime immagini e crea un diagramma cartesiano pluridimensionale virtuale chiamato spazio latente in questo spazio vengono"
+  },
+  {
+   "start": 254.799,
+   "end": 277.11,
+   "text": "distribuite le varie immagini in base a fattori così la macchina può raggruppare le immagini per somiglianza e farsi un'idea su milioni e milioni di campioni di come è fatta una certa cosa step 2 input la macchina riceve delle indic app azioni Step 3 generazione automatica in pratica la macchina distribuisce i pixel in modo probabilistico come rumore di"
+  },
+  {
+   "start": 277.12,
+   "end": 297.59,
+   "text": "fondo e poi togliendoli tipo le scimmie randomiche che finiscono per generare la Divina Commedia con le macchine da scrivere seguendo ciò che ha appreso su cosa quegli input sono di solito step 4 machine Learning a seconda del giudizio umano la macchina capisce cosa ha fatto bene e cosa no questa è selezione darwiniana informatica il bastone la"
+  },
+  {
+   "start": 297.6,
+   "end": 317.51,
+   "text": "carota ti dico no Quando sbagli ti dico così quando hai ragione è condizionamento pavloviano l'esempio più famoso è Mid Journey lei produce quattro risultati e tu puoi selezionare quello migliore e indicare il peso di ogni input e dargli maggiore importanza e poi da quelli che hai selezionato puoi screm Marne altri figli e così via possono"
+  },
+  {
+   "start": 317.52,
+   "end": 336.71,
+   "text": "correre intere generazioni lunghissime con disegni figli di altri disegni che nel corso di milioni di giudici umani rendono la macchina bravissima ci può essere anche un quinto step in cui un algoritmo chiamato il maestro approssima il giudizio degli umani e giudica il prodotto delle macchine e se questo maestro viene aggirato sapete che"
+  },
+  {
+   "start": 336.72,
+   "end": 361.27,
+   "text": "succede succede che una macchina per un errore iniziò a rendere porno tutte le immagini e più voti negativi riceveva più era convinta di avere ragione È importante menzionare che proprio come i chatbot le Art non stanno pianificando Cosa disegnare in anticipo bensì segue il pattern pedissequamente tenetelo a mente quando parliamo della questione della copia ora"
+  },
+  {
+   "start": 361.28,
+   "end": 386.71,
+   "text": "che abbiamo spiegato come funzionano le Art chiediamoci può un robot creare arte ho sentito alcune Teorie e sono diciamo un po' curiose Non può essere arte perché non le ha fatte un umano trovo abbastanza strano questo concetto Se una specie aliena facesse arte non sarebbe arte quello che facevano in Neandertal e gli altri"
+  },
+  {
+   "start": 386.72,
+   "end": 417.53,
+   "text": "ominidi non era arte i disegni fatti da scimmie elefanti non sono arte Io direi di uscire un attimo"
+  },
+  {
+   "start": 419.56,
+   "end": 438.51,
+   "text": "un' Altra cosa Se io metto i prompt nella i sono un artista no esattamente come chi commissionava Un quadro dando anche ordini molto dettagliati non era l'artista tu non sei l'artista se dai dei comandi ad una macchina è la macchina l'artista per questo trovo un po' ridicola l'idea del cazzo secondo cui la i è come Photoshop come la"
+  },
+  {
+   "start": 438.52,
+   "end": 458.95,
+   "text": "macchina fotografica è uno strumento nelle mani dell'artista zì qua tutto il lavoro lo fa Lai il fotografo è essenziale un altro fotografo avrebbe fatto un lavoro diverso con la stessa identica macchina già solo per le leggerissime variazioni della posa delle dita mentre la tiene in mano una i No io posso scrivere quell' input breve e lo"
+  },
+  {
+   "start": 458.96,
+   "end": 475.43,
+   "text": "puoi scrivere tu non cambierà nulla e allora non dipende da noi non siamo noi gli artisti usiamo L'analogia della pittura di nuovo se io dico ad un pittore Dipingi questo e quello non sto facendo altro Esattamente come per una i non sono io l'artista Io sono il commissionatore Ma se io mi metto a"
+  },
+  {
+   "start": 475.44,
+   "end": 497.869,
+   "text": "sistemare il quadrante dove sta la tela a posizionare gli oggetti eccetera come nella fotografia Ecco che sono artista pure io quindi il fotografo è l'artista il Tech bro fan di elon musk no non è arte perché la i ha bisogno di uno stimolo per creare non può creare dal nulla nean tu puoi creare dal nulla tu"
+  },
+  {
+   "start": 497.879,
+   "end": 516.07,
+   "text": "non puoi disegnare colori diversi da quelli che vedi non puoi raffigurare geometrie che non riesci ad osservare non puoi suonare suoni che non puoi sentire i nostri racconti parlano di case quadrati cielo fiori perché il mondo fatto di case quadrati cielo e fiori noi rielaboriamo continuamente tutte queste cose Uniamo le ali da"
+  },
+  {
+   "start": 516.08,
+   "end": 538.389,
+   "text": "pipistrello al coccodrillo e otteniamo il drago e anche la I crea cose senza senso e meravigliose persino arte astratta prendi un umano e immaginano sin dalla nascita nel vuoto più assoluto Secondo te Supponendo che riesca a sopravvivere per magia che cosa dipingerà il nulla Le ai non possono creare arte perché l'arte richiede un"
+  },
+  {
+   "start": 538.399,
+   "end": 565.67,
+   "text": "intento creativo un messaggio che voglio comunicare questo è di una falsità talmente disarmante che fa cascare le braccia ci sono un sacco di opere d'arte totalmente prive di manifesto o intento specifico basate su l'impressione sul sentimento casuale sull'emozione della realtà la fotografia o persino sulla randomico alcuni artisti sbrattel lasciando la casualità delle"
+  },
+  {
+   "start": 565.68,
+   "end": 594.03,
+   "text": "molecole della vernice a generare il pattern e questa è comunque arte non solo questa definizione di arte è incentrata sull'intesa da fare significa che l'artista ha il monopolio del significato della sua opera e se l'artista muore senza rivelarlo quell'opera smette di essere arte L'arte è una condivisione ermeneutica non è che io ti dico cosa provare è che io lascio"
+  },
+  {
+   "start": 594.04,
+   "end": 614.509,
+   "text": "te fruitore la possibilità di provare pensare avere le tue idee pensiamo alla fontana di Champ ma anche du balsam io nei miei racconti horror non ti dirò mai No tu hai tratto il messaggio sbagliato perché sta allo spettatore decidere cosa trarne Io sono per la morte dell'autore che deve farsi da parte dietro l'opera"
+  },
+  {
+   "start": 614.519,
+   "end": 633.99,
+   "text": "la definizione di arte l'ho data e l'ho spiegata nel mio video apposito e omonimo è la stessa definizione che danno I filosofi le enciclopedie e i vocabolari L'arte è un tipo di linguaggio che come tale possono usare anche le macchine e può produrre non senso pensiamo al Futurismo che elabora il bello e anche qui direi che ci siamo"
+  },
+  {
+   "start": 634.0,
+   "end": 657.15,
+   "text": "leart sono capaci di essere bellissime ed è disinteressata quindi sì un programma può creare arte non è richiesta nella definizione che a farla sia gente con un DNA umano o gente con un particolare sentimento e anzi le ai hanno permesso nuove forme d'arte agli umani io muoio dal ridere a guardare i video di Ben Shapiro Jordan Peterson Joe"
+  },
+  {
+   "start": 657.16,
+   "end": 680.509,
+   "text": "biden Obama e Trump che giocano a m sappiamo tutti che sono fake quindi non c'è il pericolo che descriveremo dopo per altri tipi di Art e ci facciamo due risate vedere le cover di canzoni con le voci degli youtuber È fantastico La i non può creare arte perché l'arte richiede Libertà questa di tutte le definizioni"
+  },
+  {
+   "start": 680.519,
+   "end": 705.91,
+   "text": "l'ho tenuta per ultima perché è la più stupida in assoluto allora A parte che questa definizione pretende di aver risolto la questione del libero arbitrio che cioè Wow parliamone Wow In secondo luogo secondo questa definizione nessuno schiavo è in grado di produrre arte straordinario No in terzo luogo questa definizione è genuinamente aberrante"
+  },
+  {
+   "start": 705.92,
+   "end": 726.47,
+   "text": "Supponiamo che arrivano degli alieni che sparano un un fascio di luce sulla terra e Bam magicamente abbiamo perso il libero arbitrio Fatemi capire e i pittori che stanno dipingendo in quel momento no quella pittura non sarà più arte e che cosa sono i quadri che produrranno se non sono più arte sono termosifoni Che cos'è A me sembra che la"
+  },
+  {
+   "start": 726.48,
+   "end": 749.509,
+   "text": "gente a volte quando deve definire la parola arte butti delle parole importanti tipo Libertà sentimento esperienza senza ragionare su cosa significano queste parole e quali sono le conseguenze le aporie le contraddizioni A me sembra che qui non ci sia ragionamento ma ci sia un pochino di ego l'ego che vuole disperatamente pensare che kasparov non può aere perso"
+  },
+  {
+   "start": 749.519,
+   "end": 771.43,
+   "text": "contro Deep Blue e invece ha perso che c'è ancora qualcosa che le ai non potranno fare ragazzi come spiegherò nel mio video sull'automazione tutti i lavori sono automatizzabili dal pilota di camion al neurochirurgo dallo psicologo all'avvocato questo non vuol dire che c'è da deprimersi anzi in quel video vi spiegherò che c'è molto"
+  },
+  {
+   "start": 771.44,
+   "end": 796.829,
+   "text": "potenzialmente che possiamo sistemare che possiamo fare in modo che questo non conduca a massima disoccupazione Ma ne parleremo passiamo alla seconda questione le Art sono plagio la risposta è spesso Sì ora chi dice le Art non hanno mai commesso plagio Ragazzi ve lo dico chiaramente O mente sapendo di mentire o è fortemente"
+  },
+  {
+   "start": 796.839,
+   "end": 813.11,
+   "text": "ignorante abbiamo tool di ai in cui tu prendi un disegno fatto da un artista e loro Te lo ricreano leggermente diverso questo è plagio dritto per dritto lo facesse un umano lo chiameremo plagio se lo fa una macchina magicamente smette di esserlo quindi sappiamo che le ai sono capaci sicuramente di fare a volte"
+  },
+  {
+   "start": 813.12,
+   "end": 831.43,
+   "text": "plagio attenzione Il plagio è sempre arte ok morte bianca le ai a volte hanno plagiato Ma la colpa è di chi glielo ordina siamo D'accordissimo non intendo dare la colpa a stringhe di codice Il problema è che la gente nega che ciò stia avvenendo in grossi numeri molte ai come vi ho spiegato che cosa fanno"
+  },
+  {
+   "start": 831.44,
+   "end": 858.03,
+   "text": "prendono le immagini su internet e imitano ciò che vedono ciecamente producendo poi arte che viene monetizzata rientrando nella definizione problematica potete addirittura chiedere specifici quadri specifici stili specifiche opere e lai Sarà in grado di produrre qualcosa di estremamente simile Lai non capisce il contesto è capace unicamente di disegnare e quando anche sa fare più cose insieme non è brava nel"
+  },
+  {
+   "start": 858.04,
+   "end": 877.47,
+   "text": "combinarle e spesso lei hanno una memoria limitata chat GTP sicuramente più evoluta di Cleverbot dei tempi andati ma è un umano ha i ricordi di una vita chat GTP No ora quando si parla di diverse Art se non fosse plagio perché le Art non si sono trainate soltanto sulle foto le foto dei paesaggi le foto"
+  },
+  {
+   "start": 877.48,
+   "end": 897.629,
+   "text": "del sole dei gatti perché hanno usato anche i disegni ricordate che ho detto all'inizio sul fatto che tutti noi rielaboriamo ciò che osserviamo e siamo tabula rasa intendiamoci Io non penso che chi fa Trump che gioca a Minecraft stia plagiando perché non sta sostituendo il prodotto non c'è quella minaccia non mette a rischio nessuno è"
+  },
+  {
+   "start": 897.639,
+   "end": 925.949,
+   "text": "una cosa completamente diversa è trasformativa Discorso diverso però è fingere che quella che quello sia realtà oppure monetizzare alle spalle del tizio senza dargli niente Ora ragazzi voi potete dirmi tutto e ripeto tutto Mi potete dire per difendere le ai tutto ma non dite mai e dico mai ad un informatico questa frase le ai non fanno altro che"
+  },
+  {
+   "start": 925.959,
+   "end": 956.15,
+   "text": "ispirarsi a ciò che vedono come si fanno ispirare dalle opere dei loro predecessori ragazzi tutte e ripeto tutte le stronzate possono essere sopportate Ma se dite una cosa così stronzata Davanti a qualcuno che ne capisce un minimo vi scoppia a ridere in faccia io lo dico per voi se dite una cavolata simile"
+  },
+  {
+   "start": 956.16,
+   "end": 985.629,
+   "text": "lasciate intendere di non avere la più pallida e ripeto pallida idea di cosa state parlando e di fare pagoni tra pianeti e zucche C'è una differenza gigantesca tra l'ispirazione e il plagio nell'arte ed è il concetto di elaborazione l'elaborazione del plagio è un'elaborazione superficiale l'elaborazione dell'ispirazione è profonda qualcuno che plagia copia paro"
+  },
+  {
+   "start": 985.639,
+   "end": 1002.15,
+   "text": "paro quello che vede aggiungendo piccole differenze un po' come scuola Se io faccio un tema sulla seconda guerra mondiale Io e il mio compagno diremo bene o male le stesse cose perché quello è l'argomento come si capisce che è un plagio e quando si dice la famosa frase Sì sì copia pure però Cambia qualche"
+  },
+  {
+   "start": 1002.16,
+   "end": 1025.59,
+   "text": "dettaglio così non si capisce il plagiatore prende e trasforma poco l'ispiratore invece crea qualcosa di radicalmente unico e diverso Le hai questo come vi ho spiegato sopra non lo sanno fare sono troppo semplici la gente pensa che siamo già alle ai forti la gente vede due quadri in croce e pensano che siamo a Detroit become Human con le"
+  },
+  {
+   "start": 1025.6,
+   "end": 1046.309,
+   "text": "ai che hanno dentro di sé chissà quali sentimenti e così creano qualcosa di profondamente personale la gente che si è innamorata di chat GTP No ragazzi le cose sono un po' più complicate di o non sanno disegnare o siamo in Matrix e c'è una leggera differenza tra le ai e il cervello di Leonardo Da Vinci fu lo"
+  },
+  {
+   "start": 1046.319,
+   "end": 1065.669,
+   "text": "stesso sarl criticando il test di turing a spiegare che sembrare umani non significa essere umani qui la differenza tra ai media e ai forte e lo fece usando la stanza cinese se per turing si è umani solo quando si è capaci di parlare con un umano fino a sembrare umani sarl risponde ipotizzando un uomo che usa un"
+  },
+  {
+   "start": 1065.679,
+   "end": 1085.87,
+   "text": "libro che ad input domanda in cinese deve rispondere con Un output risposta in cinese Seguendo le indicazioni del libro l'uomo non parla cinese non ha la più pallida idea di cosa sta dicendo Eppure passerà per cinese Questa è la differenza tra ai forte e ai debole tra sapere qualcosa e parlare a pappagallo"
+  },
+  {
+   "start": 1085.88,
+   "end": 1115.549,
+   "text": "tra creare e plagiare volete una prova più specifica quando le iart vennero sdoganate c'era qualcosa che confondeva gli informatici nei risultati c'era spesso in basso a destra uno scarabocchio e gli informatici si scervellarti cercavano errori un disastro non capivano perché la isc CH assero e poi capirono era la firma gli artisti quasi sempre fanno la firma in"
+  },
+  {
+   "start": 1115.559,
+   "end": 1134.549,
+   "text": "basso a destra e le ai a furria di copiare a pappagallo hanno pedissequamente fatto Lo Scarabocchio là sotto una ai non ha la più pallida idea di cosa sia una firma si limita ad imitare cosa ha davanti non parla cinese esegue solo le indicazioni della stanza di serl non crea copia le ai cercano di"
+  },
+  {
+   "start": 1134.559,
+   "end": 1154.23,
+   "text": "essere più simili possibile a quello che trovano sono le plagiat trici per Enza è lo stesso è successo con i watermark che hanno permesso di capire pure da dove prendevano le cose Ragazzi io ve lo dico se volete difendere le i Art dite quello che volete ma non dite mai una stronzata grossa come le ai stanno usando"
+  },
+  {
+   "start": 1154.24,
+   "end": 1175.95,
+   "text": "l'ispirazione come gli artisti perché il primo informatico il primo neurologo il primo artista che incontrate vi saltano addosso per questo le Art hanno così grosse difficoltà con le mani ci avete mai pensato perché non sanno Cos'è una mano possono solo come ha detto il canale di Vox ricopiare pedissequamente le foto e i dipinti di mani e trarne"
+  },
+  {
+   "start": 1175.96,
+   "end": 1195.669,
+   "text": "delle conclusioni Senza capire che le mani hanno delle ossa e che ne ha una struttura rigida un uomo sceglie se copiare o creare una ai obbedisce Ma il problema del plagio è solo metà della questione non è solo che tantissime ai imitano lo stile degli Artisti ma anche che lo fanno senza il"
+  },
+  {
+   "start": 1195.679,
+   "end": 1219.029,
+   "text": "loro consenso le ai non rispettano il copyright imitando sia cose in dominio pubblico sia protette Le ai non chiedono permesso e le ai non riportano la fonte altra differenza tra plagio ispirazione tutto questo resta sbagliato anche a volendo il copyright non è che le ai non creano non possono creare non possono fare altro che imitare sono"
+  },
+  {
+   "start": 1219.039,
+   "end": 1241.909,
+   "text": "semplicissime non hanno la complessità computazionale di un cervello umano Ma l'edizione I più potenti supercomputer all'avanguardia Mirano ad avere la potenza dei cervelli dei mammiferi di taga media e voi pensate che chat GTP si possa mettere a filosofare voi sentite un pappagallo cantare e pensate che sia un umano e ne avrei di cose da dire sull'analogia"
+  },
+  {
+   "start": 1241.919,
+   "end": 1260.95,
+   "text": "computer cervello ma mi fermo qua che è meglio Sfortunatamente il plagio non è l'unico problema di tantissime Art Avete presente il mega sciopero degli sceneggiatori degli animatori in America a cui si sono poi aggiunti anche gli attori quello sciopero non era soltanto per gli stipendi bassi era per le ai sempre più aziende hanno già dichiarato"
+  },
+  {
+   "start": 1260.96,
+   "end": 1281.549,
+   "text": "di voler usare ai al posto di artisti umani per disegnare questo creare la musica per quello e persino gli attori un Deep fake nasce per rispondere ad una tragedia un attore muore durante la produzione del film E allora si utilizzano le sue foto per creare una maschera virtuale da imporre su uno stuntman non è diverso dalle vtubers In"
+  },
+  {
+   "start": 1281.559,
+   "end": 1303.029,
+   "text": "effetti il problema è che di recente questa tecnologia è stata portata alle sue estreme conseguenze con attori che dopo la loro morte sono stati riportati virtualmente in vita anche se in interviste avevano detto prima di morire di non avere moltissima voglia di recitare in quel franchise di nuovo ma non solo a me azienda chi me lo fa fare"
+  },
+  {
+   "start": 1303.039,
+   "end": 1321.99,
+   "text": "di pagare 10 volte un tizio per 10 film quando posso pagarlo una sola volta per farlo fotografare da tutti gli angoli fare il suo Deep fake fargli recitare l'alfabeto così da imitare la sua voce stile lo quendo e far scrivere a chat GTP la sceneggiatura e poi creare Ins gli sfondi Supponiamo che una ai fa un"
+  },
+  {
+   "start": 1322.0,
+   "end": 1337.87,
+   "text": "lavoro migliore di un umano chi me lo fa fare a me di assumere un umano che costa pure di più morte bianca Questo non accadrà mai sapremo sempre distinguere una Art da una umana e loro perderanno sempre il confronto le Art hanno già vinto diversi concorsi e i giudici non erano non si erano accorti che erano"
+  },
+  {
+   "start": 1337.88,
+   "end": 1357.19,
+   "text": "iart pensi di essere più bravo di un critico d'arte ma non solo Supponiamo che una Art sia capace non di essere più brava ma tanto quanto un artista umano costa meno di un umano non rimane incinta non si fa male non ha bisogno di postazioni sicure Non invecchia mai ogni imprenditore la assumerebbe Supponiamo"
+  },
+  {
+   "start": 1357.2,
+   "end": 1382.51,
+   "text": "che una i faccia un lavoro inferiore ad un umano Ma comunque decente pensate che al capitalista interessi qualcosa dell'arte oppure preferisce risparmiare soldi sappiamo tutti la risposta il fast food è inferiore alla cucina artigionale e indovina chi fa più soldi Il fast food a parte qua qualche virtuoso caso come Miyazaki tutte le case produttive"
+  },
+  {
+   "start": 1382.52,
+   "end": 1407.87,
+   "text": "cinematografiche specie occidentali hanno già detto di volerlo fare addirittura katzenberg cofondatore della DreamWorks ha previsto che si potrebbero perdere fino al 90% dei posti di lavoro Ovvio tutto questo avverrà tra molto tempo eh attenzione i Tech Bros non fanno altro che dire la singolarità e dopodomani bro bro la singolarità sta arrivando Bro lo dicono dagli anni 50 Ok"
+  },
+  {
+   "start": 1407.88,
+   "end": 1429.23,
+   "text": "però il pericolo c'è anche se un po' lontano ma plagiare il lavoro degli Artisti senza permesso e senza compenso e senza Credit per poi togliergli il posto di lavoro non è l'unico problema delle Art i Deep fake hanno un problema ulteriore ora i Deep fake inizialmente erano Simpaticissimi metti la faccia di attore X che dice caca puzza poi abbiamo"
+  },
+  {
+   "start": 1429.24,
+   "end": 1447.07,
+   "text": "iniziato ad avere i Deep fake così realistici che per il pubblico internet ricordiamolo non esattamente giovanissimo sono diventati troppo simili alla realtà un fake di biden che dichiara guerra hanno fatto crollare le azioni in borsa un Deep fake di un cantante ha fatto incazzare i suoi fan e un Deep fake che è stato portato in"
+  },
+  {
+   "start": 1447.08,
+   "end": 1467.11,
+   "text": "tribunale come prova per fortuna un programma lo ha identificato come falso ma che succederà quando saranno così realistici da essere indistinguibili hanno già fatto dei Deep fake porno di annafrank già per Trump sarebbe facilissimo fare un Deep fake dei suoi avversari e fargli dire odio l'America Viva il comunismo e i suoi fan"
+  },
+  {
+   "start": 1467.12,
+   "end": 1485.43,
+   "text": "andrebbero a Linci persino io io uno youtuber italiano a caso ho avuto problemi con le ai stavo parlando con un tizio nei commenti che aveva detto una cosa falsa in ambito storico E allora io gli ho portato le fonti che dimostravano che quella cosa era falsa e il tizio sapete come mi ha"
+  },
+  {
+   "start": 1485.44,
+   "end": 1506.549,
+   "text": "risposto Non sto scherzando Mi ha detto ma io ho chiesto a chat GTP e lei mi ha detto così Quindi hai torto tu Siamo già alle ai che imitano i defunti e ve l'avevo detto in tempi non sospetti Inoltre le Art proprio perché plagiano e non creano hanno il problema di ogni plagio il problema dell'errore un uomo"
+  },
+  {
+   "start": 1506.559,
+   "end": 1526.029,
+   "text": "conosce le cose e le scrive per conoscenza invece un plagiatore copia un testo senza spirito critico se il testo contiene un errore allora l'errore viene copiato perché lui non ci ragiona sopra questo in filologia è considerato come una prova inconfutabile di plagio quando ci sono gli stessi errori e ai guarda caso sono state esaminate e hanno"
+  },
+  {
+   "start": 1526.039,
+   "end": 1545.87,
+   "text": "trovato dei bias razzisti e dei bias sessisti con le donne mostrate sempre in modo succinto e sessualizzato e questa è l'idea che le hai hanno delle donne bella sta singolarità bella nel culo che stiamo per prendere una delle prime ai capaci di dialogo Thai di Microsoft venne trollata così tanto che iniziò a"
+  },
+  {
+   "start": 1545.88,
+   "end": 1568.83,
+   "text": "strillare propaganda nazista E venne chiusa e i capitalisti che comandano questi ai ovviamente sono totalmente impreparati e non hanno pensato a nessuna di queste cose pensiamo alla famosa frase detta da uno di loro Meglio che chiedere perdono che chiedere permesso molto molto indicativa le aziende prima se ne sono fregate e ora stanno impostando delle"
+  },
+  {
+   "start": 1568.84,
+   "end": 1589.83,
+   "text": "censure facilmente aggirabili e soprattutto politiche una ai per esempio non vi faccio il nome non accettava xinping come input bello cyberpunk 2077 bello nel culo Questa è è quella che gli economisti chiamano Gig Economy ossia quando i capitalisti si buttano su un nuovo settore perché quel settore crea un vuoto normativo dove le regole non"
+  },
+  {
+   "start": 1589.84,
+   "end": 1609.669,
+   "text": "esistono ancora e dove possono fare un sacco di soldi senza badare ad altro io non sono un taxi Io sono Uber Io non sono la televisione Io sono Netflix io non sono una ditta discografica Io sono Spotify Io non sto facendo monopolio Io sono Facebook io non ti vendo giochi ti do solo la licenza per giocarli finché"
+  },
+  {
+   "start": 1609.679,
+   "end": 1630.029,
+   "text": "dico io la Gig Economy permette alle aziende di aggirare i limiti del proprio settore creando un nuovo settore dove per qualche anno la politica sarà troppo lenta e si pu potranno fare dei monopoli facilmente e crepy il copyright Io non sto producendo arte sto solo faccendo delle ai però voglio comunque monetizzare pensate che il Revenge porn"
+  },
+  {
+   "start": 1630.039,
+   "end": 1650.43,
+   "text": "sia grave aspettate il Revenge porn con le ai con cui qualsiasi ex geloso potrà rovinare la vita di una ragazza in pochi click arriveremo alla Dead internet una internet in cui gran parte degli Acc account sono o Bot o duplicati di un account umano oppure sono umani ma in questione posta contenuti generati da ai"
+  },
+  {
+   "start": 1650.44,
+   "end": 1673.07,
+   "text": "la Dead internet sarà composta quasi interamente da ai e solo in minoranza da umani Ricordate che vi ho spiegato che le ai imparano da internet Ecco avremo ai che imparano da altre ai sempre più omologate sempre più simili tra loro l'Iper realtà di baudri non posso non vedere dell'invidia nei Tech Bros che dicono finalmente gli"
+  },
+  {
+   "start": 1673.08,
+   "end": 1695.389,
+   "text": "artisti perderanno il lavoro andranno a fare un lavoro vero finalmente non eri un arsta prima e non lo sei ora che hai iscritto l'analogo di una kieri su 34 su una ai il tuo odio sublimato verso gli artisti è compensazione E allora morte bianca che cosa proponi per risolvere questa situazione bandire non è la soluzione è"
+  },
+  {
+   "start": 1695.399,
+   "end": 1716.75,
+   "text": "anche impossibile il futuro arriva che ci piaccia o meno non è soluzione l'idiotie non regoliamo il settore senò siamo scemi senò la Cina non lo regolerà e avrà un vantaggio chi dice Questo negli anni anni 10 avrebbe chiesto più armi chimiche per stare al passo con l'impero austro-ungarico Quali sono le vere soluzioni Ora parlerò più"
+  },
+  {
+   "start": 1716.76,
+   "end": 1746.83,
+   "text": "estensivamente del problema dell'automazione in un video apposito come ho detto ma intanto vi dico questo primo dobbiamo muoverci politicamente i Tech Bros non si autolimitanti per le Art implementare un sistema OPT in ovvero sia solo se vuoi allora i tuoi disegni saranno inclusi nel database usando per trainare la ai se una ai usa disegni senza"
+  },
+  {
+   "start": 1746.84,
+   "end": 1771.789,
+   "text": "autorizzazione l'umano responsabile va Iper multato proporzionato al reddito gli artisti che mettono i propri disegni nel database devono ricevere un pagamento mensile proporzionato al successo della i economicamente parlando secondo ogni azienda che usa Art deve dichiararlo potere alla trasparenza nulla andrebbe nascosto ai fruitori Io cliente Devo sapere se quello che sto guardando è fatto con a i oppure no"
+  },
+  {
+   "start": 1771.799,
+   "end": 1788.23,
+   "text": "terzo limite di età massima per i politici Questa è una cosa che ho già proposto ragazzi Noi non possiamo avere in Parlamento gente che ha 80 anni con l'Alzheimer già in stadio avanzato che è un miracolo se sa accendere il computer senza dargli fuoco che ora devono scrivere Leggi su come funzionano le"
+  },
+  {
+   "start": 1788.24,
+   "end": 1809.269,
+   "text": "ai questa gente gli chiedi chi è il presidente della repubblica ti rispondono metn come c'è un limite minimo per il voto e l'eleggibilità deve essere esserci un limite massimo per l'eleggibilità il voto invece giustamente fino alla morte è giusto che resti un diritto quarto se sei un artista non andare nel panico le Art"
+  },
+  {
+   "start": 1809.279,
+   "end": 1828.87,
+   "text": "come ho detto sono ancora primitive e in ambito video ancora limitatissime quindi vi mostrano i loro video migliori e tutti fate la Pikachu Face pensando che quello sia il risultato Standard Quindi per un bel po' l'artista umano sarà ancora preferito perché le ai sono ancora limitate Specie se vuoi qualcosa di specifico hanno uno stile ancora"
+  },
+  {
+   "start": 1828.88,
+   "end": 1851.11,
+   "text": "molto riconoscibile Tra l'altro Tuttavia Gli artisti hanno già iniziato a contrattaccare non hanno aspettato che il problema si faccia grave utilizzando alcuni loghi e alcuni filtri specifici tipo uno gratis come glazing il loro disegno pur rimanendo Quasi uguale diventa inutilizzabile per le ai Inoltre gli artisti hanno iniziato a usare ai contro le ai ai alleate con gli umani"
+  },
+  {
+   "start": 1851.12,
+   "end": 1872.909,
+   "text": "contro le ai Che ironia In sostanza creano dei database che utilizzano tag volutamente sbagliati in modo da confondere sminchiare l'apprendimento delle iart Questo si chiama poisoning Quinto tutto deve essere Open Source Paradossalmente È così che sono esplose le ai le prime erano spesso Open Source e potevano essere studiate copiate e modificate noi dobbiamo sapere che"
+  },
+  {
+   "start": 1872.919,
+   "end": 1894.389,
+   "text": "succede nel codice Sesto potrebbe diventare necessario balcanizzato il web creando alcuni siti dove esistono solo umani quindi per entrare devi verificare la tua identità e anche così stiamo solo tamponando perché un umano può entrare e farsi dettare da chat GT TP in altri siti bisognerà fornire la fonte primaria umana per qualsiasi cosa dal video"
+  },
+  {
+   "start": 1894.399,
+   "end": 1919.269,
+   "text": "all'articolo altrimenti ci sarà un bollino che dice questo articolo potrebbe non essere umano Settimo in classe vanno rimossi tutti gli smartphone facendo usare agli utenti dei tablet scolastici dal sistema chiuso e dalla connessione internet o assente o limitata in modo che non possano barare agli esami Zero tablet ovviamente eh Ottavo sviluppare lo ai unlearning per"
+  },
+  {
+   "start": 1919.279,
+   "end": 1941.389,
+   "text": "permettere alle ai di dimenticare i dati precedentemente ottenuti e questo non lo dico tanto ai fini riparativi verso gli artisti quanto per le ai stesse dimenticare è fondamentale per scartare dati ormai corrotti e inutilizzabili se le ai continuano a imparare a pappagallo senza poter scartare meglio diventeranno sempre più stupide nono smettete di fare paragoni senza"
+  },
+  {
+   "start": 1941.399,
+   "end": 1963.149,
+   "text": "senso tipo quello tra la diffusione e l'ispirazione umana per favore ultimo consiglio siate scettici arriva un video di biden che dice dichiaro guerra alla Cina usate la testa è una cazzata arriva un audio del tuo attore preferito che dice sì io sono una cattiva persona vi prego odiatemi e smettete di comprare i miei dischi"
+  },
+  {
+   "start": 1963.159,
+   "end": 1987.669,
+   "text": "ragione È una cazzata quando qualcuno ti manda un audio stronzo del tuo influencer preferito gli devi chiedere da dove viene se non ti mandano un link diretto al suo Social che puoi verificare bloccale e segnalali immediatamente usate la testa e ce la faremo tutti Vi lascio il link Amazon del libro Io robot di Isaac Asimov in descrizione"
+  },
+  {
+   "start": 1987.679,
+   "end": 1999.48,
+   "text": "se i mie video ti piacciono dai uniate mio TP dove potrai donare per supportare il canale e ricever in cambio di premi in descrizione trovate anche il mio merchandising se questo video ti piaciuto ti invite a mettere mi piace ad iscriverti a questo canale ringrazio m Patron ci vediamo al prossimo video"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 10.04,
+   "title": "in questo video parleremo dell'ai Art come nascono se sono c…"
+  },
+  {
+   "start": 277.12,
+   "title": "fondo e poi togliendoli tipo le scimmie randomiche che finis…"
+  },
+  {
+   "start": 538.399,
+   "title": "intento creativo un messaggio che voglio comunicare questo è…"
+  },
+  {
+   "start": 796.839,
+   "title": "ignorante abbiamo tool di ai in cui tu prendi un disegno fat…"
+  },
+  {
+   "start": 1065.679,
+   "title": "libro che ad input domanda in cinese deve rispondere con Un …"
+  },
+  {
+   "start": 1322.0,
+   "title": "lavoro migliore di un umano chi me lo fa fare a me di assume…"
+  },
+  {
+   "start": 1589.84,
+   "title": "esistono ancora e dove possono fare un sacco di soldi senza …"
+  },
+  {
+   "start": 1851.12,
+   "title": "contro le ai Che ironia In sostanza creano dei database che …"
+  }
+ ]
+}

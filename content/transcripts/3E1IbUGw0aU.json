@@ -1,0 +1,39 @@
+{
+ "video_id": "3E1IbUGw0aU",
+ "segments": [
+  {
+   "start": 5.879,
+   "end": 17.47,
+   "text": "Ciao giovanotto, cosa stai facendo? Ah, pensavi di votare AVS?"
+  },
+  {
+   "start": 17.48,
+   "end": 29.55,
+   "text": "No, Giovanotto, no. Devi votare ora. >> >> Ascoltami, giovanotto, vieni qui, avvicinati."
+  },
+  {
+   "start": 29.56,
+   "end": 36.99,
+   "text": "A te non serve la patrimoniale, a te non serve il reddito minimo."
+  },
+  {
+   "start": 37.0,
+   "end": 41.32,
+   "text": "A te serve una sola cosa. >>"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 5.879,
+   "title": "Ciao giovanotto, cosa stai facendo? Ah, pensavi di votare AV…"
+  },
+  {
+   "start": 17.48,
+   "title": "No, Giovanotto, no. Devi votare ora. >> >> Ascoltami, giovan…"
+  },
+  {
+   "start": 29.56,
+   "title": "A te non serve la patrimoniale, a te non serve il reddito mi…"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "video_id": "nCMkDeeZPC8",
+ "segments": [
+  {
+   "start": 0.32,
+   "end": 6.35,
+   "text": "Ho perso la mia armatura. Ho perso la mia presenza."
+  },
+  {
+   "start": 7.759,
+   "end": 14.789,
+   "text": "Ho perso la mia altezza. Ho perso la mia taglia."
+  },
+  {
+   "start": 14.799,
+   "end": 25.92,
+   "text": "Ho perso la mia paura. Ricorda chi sei."
+  }
+ ],
+ "chapters": [
+  {
+   "start": 0.32,
+   "title": "Ho perso la mia armatura. Ho perso la mia presenza."
+  },
+  {
+   "start": 14.799,
+   "title": "Ho perso la mia paura. Ricorda chi sei."
+  }
+ ]
+}

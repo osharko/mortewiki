@@ -1,0 +1,414 @@
+{
+ "video_id": "Q8FViTNue0w",
+ "segments": [
+  {
+   "start": 13.12,
+   "end": 34.79,
+   "text": "Sono un appassionato di retrogaming. La mia passione nasce da quando ero giovane. Non potevo permettermi i PC potenti e i PC che avevo dovevo farlo durare il più possibile, senza upgrade di nessun tipo. E per questo motivo sono diventato bravissimo per giocare agli ultimi videogiochi che uscivano, a smanettare con le loro impostazioni per"
+  },
+  {
+   "start": 34.8,
+   "end": 61.029,
+   "text": "farli girare su carrozzoni vecchissimi e dall'hardware molto debole. Sono uno dei più bravi in rete a questo giochino. So di chiedere tanto, ma voglio provarci lo stesso. Voglio provare a giocare un videogioco estremamente pesante e voglio farlo su un retrocomputer molto molto vecchio. GTA V, un open world GDR spara tutto dalle 1000 possibilità su un"
+  },
+  {
+   "start": 61.039,
+   "end": 78.83,
+   "text": "Commodor 64 moddato per garantirgli lo spazio fisico e con i programmi per farlo girare essendo un sistema moderno adattati ad un vecchio. Ma come può funzionare? Ovviamente il gioco non funziona, troppa RAM, troppa potenza video è richiesta, non si apre nemmeno."
+  },
+  {
+   "start": 78.84,
+   "end": 83.95,
+   "text": "Dunque devo lavorare sulle impostazioni preapertura, non posso neanche arrivare al menù."
+  },
+  {
+   "start": 83.96,
+   "end": 108.389,
+   "text": "In primo luogo, abbasso la risoluzione del gioco al minimo. Imposto per sacrificare tutto, per aumentare la performance. Disattivo tutte le opzioni, ovviamente niente ray tracing, ma neanche shaders, ombre, riflessi e in generale disattivo tutti gli effetti collegati all'acqua che sarà un semplice blocco blu fisso opaco. Ho messo la profondità ambientale al minimo, di"
+  },
+  {
+   "start": 108.399,
+   "end": 131.83,
+   "text": "fatto creando un effetto pop-up a pochi metri dal giocatore. Ancora niente. Ok, proviamo di più. Spingo la risoluzione delle texture e dello schermo oltre i minimi, forzandole. Installo delle mod che rendono tutti gli oggetti di gioco poligoni cubettosi dai pochi pixel colorati, rendendo tutto estremamente più facile da far girare. Elimino un sacco di effetti: fumo, fiamme,"
+  },
+  {
+   "start": 131.84,
+   "end": 151.869,
+   "text": "esplosioni, foglie, c'è un sacco di roba che non sapevo esistesse e che con questi modpack sto eliminando. Infine, inizio a comprimere i dettagli e la risoluzione di tutti gli artwork e di tutti i dettagli grafici usando dei software specifici, in modo da rendere il gioco molto più leggero. Diminuisco al minimo il numero di pedoni in una"
+  },
+  {
+   "start": 151.879,
+   "end": 163.11,
+   "text": "certa area e faccio in modo che oltre la visione di gioco non solo non siano visibili, non esistano proprio neanche in background, li deve ricreare da capo randomicamente."
+  },
+  {
+   "start": 163.12,
+   "end": 184.19,
+   "text": "Ancora il gioco è troppo pesante per un Commodor 64, ma almeno così può girare su qualsiasi dispositivo recente, pure su vecchi cellulari con un minimo di potenza, tutta roba molto oltre il Commodor, comunque devo andare oltre. E così prendo i codici di gioco e li affido ad una vecchia AI che si utilizzava per fare l'upscaling, Vortex,"
+  },
+  {
+   "start": 184.2,
+   "end": 206.47,
+   "text": "un AI che il nuovo governo cinese ha rilasciato in dominio pubblico insieme a tutte le sue scoperte da parecchio tempo. Solo che le ho invertito gli ordini, le ho ordinato di downscalare, downgradare, di makeare. Le chiedo di semplificarmelo, tenere le funzioni di base e togliere l'eccesso, mantenendo come priorità la funzionalità. La I"
+  },
+  {
+   "start": 206.48,
+   "end": 223.869,
+   "text": "esegue il comando perfettamente, diminuisce il numero di armi disponibili, di automobili disponibili, la varietà delle architetture delle case o degli NPC. Le dimensioni della mappa vengono fortemente ridotte, le meccaniche di gioco semplificate, il gameplay stesso ha molte meno opportunità."
+  },
+  {
+   "start": 223.879,
+   "end": 249.509,
+   "text": "Ritorniamo alle basi. Sono riuscito a far girare Doomatrici, su patate, persino dentro Doom stesso o dentro Minecraft. Se posso fare questo, devo ridurre GTA V ad una specie di Doom e a quel punto ridurre GT Doom ad una versione abbastanza downgradata da girare su Commodor 64. Doom funziona perché non è realmente 3D, è un gioco"
+  },
+  {
+   "start": 249.519,
+   "end": 258.629,
+   "text": "top down, la grafica è spiaccicata sull'alto e semplicemente viene proiettata davanti al giocatore dando l'illusione di tridimensionalità."
+  },
+  {
+   "start": 258.639,
+   "end": 281.31,
+   "text": "Uso quindi la i per prendere GTA V, imporgalto che era tipica dei primi GTA e poi annullare la renderizzazione tridimensionale lasciando solo questa modalità e proiettando un finto 3D alla Doom. Il gioco è molto più leggero. Ora ci vorrebbero mesi senza la I ad aiutarmi. Ho usato la I anche per semplificare la colonna sonora e per"
+  },
+  {
+   "start": 281.32,
+   "end": 295.469,
+   "text": "ridurre il numero di colori disponibili. Adesso girava. Ebbene sì, girava su Commodor 64, lentissimo e crashando dopo pochi minuti, ma girava male, ma girava."
+  },
+  {
+   "start": 295.479,
+   "end": 315.39,
+   "text": "E questo non è da poco riuscire a far girare un videogioco che all'epoca era del futuro, anzi che era del futuro quando ero piccolo io, molto tempo dopo la fine del Commodor. Ho continuato a giocherellare con i setting, diminuire i colori fino a renderlo monocromatico con varie sfumature di verde, diminuendo i pixel disponibili e togliendo qualche"
+  },
+  {
+   "start": 315.4,
+   "end": 326.909,
+   "text": "feature di gameplay, rendendolo in grado di giocare mantenendo un frame rate alto per modo di dire. Non so neanche se si possa parlare di FPS. su un Commodor 64."
+  },
+  {
+   "start": 326.919,
+   "end": 346.27,
+   "text": "Beh, di certo non crasha più e gira veloce. Mi sono chiesto quando ormai riuscivo a far girare GTA V pure su test di gravidanza, come ho visto fare ad altri, se a questo punto farlo girare sul mio moderno computer da gaming non avrebbe avuto effetti interessanti. Così l'ho installato."
+  },
+  {
+   "start": 346.28,
+   "end": 365.469,
+   "text": "se di installazione si può parlare, visto che il gioco è un eseguibile automatico ed è un file così leggero che l'antivirus lo ha bloccato tre volte pensando che fosse un virus, il gioco si è avviato subito, non si può neanche parlare di tempo di caricamento, quanto di attimo di caricamento. Primo problema, il gioco che ora funziona per"
+  },
+  {
+   "start": 365.479,
+   "end": 387.99,
+   "text": "8 bit e che risparmiava su tutto, su un computer moderno era velocissimo, praticamente ingiocabile, un effetto collaterale della semplificazione del gioco. Nel gioco erano passati, dopo qualche ora di tentativo di gioco nel mondo reale, anni e anni di tempo videoludico, un numero che non riuscivo a calcolare. Questo non sarebbe un problema perché tanto il gioco è iper"
+  },
+  {
+   "start": 388.0,
+   "end": 408.07,
+   "text": "semplificato e non è capace di fare granché. solo i personaggi che ti sparano addosso e che sì, sparano addosso. La seconda cosa di cui mi sono accorto è che il ciclo giorno e notte non era stato totalmente disattivato, solo enormemente semplificato, con un ciclo legato all'orologio del gioco che di notte diminuiva il numero degli NPC e"
+  },
+  {
+   "start": 408.08,
+   "end": 425.71,
+   "text": "basta. Ebbene, ad un certo punto l'orologio di gioco ha smesso di funzionare. Dopo esattamente 1826 miliardi, 250 milioni di cicli, ora c'era solo notte, una notte perenne."
+  },
+  {
+   "start": 425.72,
+   "end": 435.869,
+   "text": "Ma questo questo è impossibile. Come mai il gioco da solo decide dopo una certa data di abolire il ciclo giorno e notte?"
+  },
+  {
+   "start": 435.879,
+   "end": 446.15,
+   "text": "non ha senso. E poi ho fatto alcuni controlli osservando la velocità del gioco. Con il tempo in cui l'ho giocato non sono passati tutti quei cicli."
+  },
+  {
+   "start": 446.16,
+   "end": 450.83,
+   "text": "L'unica spiegazione è che qualcuno abbia giocato il gioco mentre dormivo."
+  },
+  {
+   "start": 450.84,
+   "end": 459.83,
+   "text": "Controllo il registro attività del computer. E sì, qualcuno ha effettivamente giocato tutta la notte al mio computer mentre dormivo, facendo anche un punteggio altissimo nel gioco."
+  },
+  {
+   "start": 459.84,
+   "end": 480.51,
+   "text": "Ma chi diavolo è che può giocare ad un gioco così veloce e per giunta stravincere? Non ne ho idea, però so una cosa. Il gioco non è diverso dal GTA V originale, è il GTA originale e ci sono diversi file che si ricamano a vicenda nello stesso computer. È dunque possibile, secondo la mia teoria, che"
+  },
+  {
+   "start": 480.52,
+   "end": 489.99,
+   "text": "mentre giocava nel gioco semplificato ha modificato il gioco reale allo stesso tempo, forse intenzionalmente, forse no."
+  },
+  {
+   "start": 490.0,
+   "end": 498.55,
+   "text": "Così provo a giocare a GTA V quello originale e il gioco è completamente diverso."
+  },
+  {
+   "start": 498.56,
+   "end": 516.63,
+   "text": "Il gioco inizia con Michael, non ci sono gli altri giocatori, non mi fa switchare e la prima cosa che noto è che non c'è niente, ci sono soltanto nuvole. Devo essere in cielo, ma c'è qualcosa di strano. Le mie coordinate indicano il piano terra, o meglio, lo indicavano perché ho iniziato la caduta e ci sono"
+  },
+  {
+   "start": 516.64,
+   "end": 539.91,
+   "text": "troppe nuvole, è tutto nebbioso. E infine il cielo. Oltre le nuvole e la nebbia non c'è la luna e non ci sono stelle. C'è solo una strana fascia che attraversa il firmamento e il sole sembra molto più piccolo di quello che ricordavo. La caduta inizia e non finisce. Continua a scendere, scendere, scendere per migliaia di chilometri. Di"
+  },
+  {
+   "start": 539.92,
+   "end": 545.67,
+   "text": "questo passo dovrei arrivare alla fossa delle Marianne. Aspetta un secondo."
+  },
+  {
+   "start": 545.68,
+   "end": 551.949,
+   "text": "In quel caso sono migliaia di metri, non migliaia di chilometri."
+  },
+  {
+   "start": 551.959,
+   "end": 557.59,
+   "text": "Di questo passo dovrei già da tempo aver superato il mantello terrestre."
+  },
+  {
+   "start": 557.6,
+   "end": 575.79,
+   "text": "Dove diavolo sto scendendo? E mi rendo conto che la velocità diventa parecchio alta. molto più alta di come di solito è in GTA. La velocità di caduta, dico la nebbia è tutto ciò che mi circonda. Dopo più o meno 3 ore, sì, 3 ore è rimasto a cadere, alla fine il giocatore atterra"
+  },
+  {
+   "start": 575.8,
+   "end": 590.47,
+   "text": "in un oceano privo di texture e trasparenza che sembra densissimo per questo, anche perché per qualche motivo nuoto molto lentamente. Nuotando e nuotando mi rendo conto che questo posto è quasi interamente pieno d'acqua."
+  },
+  {
+   "start": 590.48,
+   "end": 603.43,
+   "text": "Se è acqua è sommerso. Alla fine giungo a trovare la Terra e qui noto che la mappa di GTA sotto quegli strati infiniti di nuvola e nebbia è completamente cambiata."
+  },
+  {
+   "start": 603.44,
+   "end": 623.47,
+   "text": "Non ci sono edifici qui sotto, ci sono solo antenne, parabole, tralicci e quelli che sembrano dei radar. È tutto coperto da queste strutture collegate tra di loro da un sacco di fili. Non ci sono NPC, macchine o altri elementi del paesaggio che in effetti risulta pianeggiante, appiattito e semplificato."
+  },
+  {
+   "start": 623.48,
+   "end": 645.31,
+   "text": "Chi mantiene tutte queste antenne e a cosa servono? Continua ad esplorare il gioco, ma non c'è granché da vedere. La foresta urbana infinita di antenne tralicci, il ronzio regolare del loro funzionamento etereo e il cielo nuvoloso non sono esattamente uno scenario intrigante, anche se in qualche modo rilassante."
+  },
+  {
+   "start": 645.32,
+   "end": 656.23,
+   "text": "Penso però di aver lasciato installata qualche strana mod, perché quelle gigantesche otto zampe pelose che dai pilastri della Terra si alzano oltre le nuvole non sono ovviamente naturali."
+  },
+  {
+   "start": 656.24,
+   "end": 677.55,
+   "text": "Qualunque sia lo scarafaggio che le possiede deve essere gigantesco, però noto che ci sono ancora le aperture della metropolitana. Così scendo nella metro e qui mi accorgo che il numero di tunnel della metropolitana è aumentato enormemente. Qui non ci sono più poche linee, ma centinaia, forse migliaia di linee, tutte nuove scavate da chiunque"
+  },
+  {
+   "start": 677.56,
+   "end": 696.629,
+   "text": "abbia giocato o riprogrammato il gioco. Lunghissimi tunnel, molto più lunghi del normale. Posso solo presumere che chiunque abbia giocato il gioco abbia cercato di rendere quel mondo a sua immagine, somiglianza e abitudine, anche se non conosco nessun umano che scava tutti questi buchi. Per cosa poi?"
+  },
+  {
+   "start": 696.639,
+   "end": 704.19,
+   "text": "Continuo ad esplorare questi tunnel abbandonati, liminali e senza fine, labirintici, senza una direzione ben precisa."
+  },
+  {
+   "start": 704.2,
+   "end": 708.949,
+   "text": "Non so neanch'io cosa sto cercando. Immagino siano generati proceduralmente."
+  },
+  {
+   "start": 708.959,
+   "end": 729.15,
+   "text": "Un errore emergente dell'interazione tra le due copie del gioco. Mi chiedo a questo punto se l'intero fondo della mappa non sia scavato e pieno di questi tunnel. L'unica direzione che penso di poter avere è in basso. D'altronde chi scava un buco di solito ambisce a scendere in basso. E ho letto che diversi animali scavano buchi quando"
+  },
+  {
+   "start": 729.16,
+   "end": 746.15,
+   "text": "vogliono creare un nido e più in basso sta più è al sicuro il nido. Quindi scendo e mi accorgo che più scendo meno numerose sono le intersezioni, le svolte e i tunnel. È come una piramide invertita e io sto scendendo nei meandri di questa terra escavata."
+  },
+  {
+   "start": 746.16,
+   "end": 750.35,
+   "text": "Alla fine, disceso al massimo, trovo una scalinata."
+  },
+  {
+   "start": 750.36,
+   "end": 774.629,
+   "text": "La scendo e questa dura per un quarto d'ora. Continuo a scendere e scendere senza fermarmi. Mi chiedo se non sia glitciata, ma alla fine arrivo e giungo ad una stanza grossa più o meno quanto un campo da football. E in questa stanza ci sono un sacco di le chiamo maschere, sono le facce che può fare un NPC, tutte"
+  },
+  {
+   "start": 774.639,
+   "end": 790.55,
+   "text": "le combinazioni possibili, solo che sono senza occhi, le orbite sono vuote e sono staccate dal corpo, per questo le chiamo maschere. Sono accumulate tutte lì dentro, ammucchiate una addosso all'altra, quasi appiccicate tanto sono vicine e addensate in poco spazio."
+  },
+  {
+   "start": 790.56,
+   "end": 809.35,
+   "text": "Alcuni di questi mucchi di maschere erano appesi al soffitto come insaccati, come cadaveri di mucche o maiali in una macelleria. L'idea del posto, in effetti, mi ricordava un mattatoio. Uno di questi sacchi ha avuto un movimento improvviso, tipo una scossa."
+  },
+  {
+   "start": 809.36,
+   "end": 814.31,
+   "text": "Ho sentito un brivido quando l'ho visto e mi sono allontanato."
+  },
+  {
+   "start": 814.32,
+   "end": 833.269,
+   "text": "Cercando di risalire i tunnel mi sono perso tra le varie scale. In questi corridoi infiniti, ad un certo punto ho visto qualcosa strisciare. Non ho fatto in tempo a vedere cosa stava arrivando, che è giunto ad altissima velocità, ma non era una metropolitana, era una specie di È durata una frazione di secondo, non ho"
+  },
+  {
+   "start": 833.279,
+   "end": 853.069,
+   "text": "capito bene cosa fosse, ma mi è sembrato che avesse tanti passeggeri attaccati alla sua superficie, dai volti lunghi e deformati. Seguendo la direzione dei suoni, per quanto difficile vista la loro enorme velocità, alla fine ho trovato uno snodo dove queste strane creature sembravano ferme a dormire, le loro code intrecciate, tutte quante in"
+  },
+  {
+   "start": 853.079,
+   "end": 876.59,
+   "text": "un punto centrale da cui non sembrava possibile districarle, perché ho osservato a lungo, e questo sembra essere un luogo di sola andata, nessuna di queste strane entità auroborobiche sembra in grado di estrinsecarsi e snodarsi dopo essersi unita a questo miscuglio. Come serpenti intrecciati in una danza agonizzante, i loro corpi, già uniti in un centipede umano, si"
+  },
+  {
+   "start": 876.6,
+   "end": 891.069,
+   "text": "dimenavano e soffrivano nell'agonia di questo legame senza fine. Perché queste gigantesche e lunghissime creature dovrebbero venire qui a morire spontaneamente? E perché vengono tutte quante nello stesso punto per morire?"
+  },
+  {
+   "start": 891.079,
+   "end": 902.91,
+   "text": "Proprio nel piano sopra quello delle maschere? Come nascono questi centipedi umani? Catturano persone per aumentare i loro numeri? Eppure sembrano tutti così sofferenti."
+  },
+  {
+   "start": 902.92,
+   "end": 909.949,
+   "text": "Chi mai entrerebbe volentieri in questo stato? E chi mai spingerebbe qualcuno ad unirsi a Talagonia?"
+  },
+  {
+   "start": 909.959,
+   "end": 913.79,
+   "text": "Spengo il gioco. Non mangio per tutto il giorno dopo."
+  },
+  {
+   "start": 913.8,
+   "end": 918.949,
+   "text": "Sarà perché ho la nausea? Sarà perché ho un vago retrogusto metallico in bocca?"
+  },
+  {
+   "start": 918.959,
+   "end": 923.55,
+   "text": "Specie ogni volta che bevo acqua del rubinetto in questi giorni?"
+  },
+  {
+   "start": 923.56,
+   "end": 947.189,
+   "text": "Sarà perché da qualche giorno la tastiera del Comodor è ricoperta da una polverina grigia che credo di aver inalato? O forse sarà per l'immagine che mi ha restituito il gioco. Una terra che sta venendo rapidamente scavata, divorata dall'interno, riempita di nidi mascherati come come vermi che mangiano una mela."
+  },
+  {
+   "start": 947.199,
+   "end": 957.87,
+   "text": "Sì, mi ha fatto riflettere su questa immagine continuamente come un tarlo scavato ironicamente nella mia testa."
+  },
+  {
+   "start": 957.88,
+   "end": 966.509,
+   "text": "Che cosa siamo noi esseri viventi? I carnivori mangiano gli erbivori. Gli erbivori mangiano le piante. Le piante si nutrono dalla terra e del sole."
+  },
+  {
+   "start": 966.519,
+   "end": 982.309,
+   "text": "Viviamo tutti quanti parassitando su qualcosa, scavando qualcosa, su una risorsa destinata a finire. Le stelle sono destinate a spegnersi e così anche le nuove stelle, quando finirà il carburante cosmico e l'espansione universale avrà superato ogni limite."
+  },
+  {
+   "start": 982.319,
+   "end": 1006.829,
+   "text": "Giocare a quel gioco, vedere la stessa identica prosecuzione infinita semplificata ridotta all'osso, mi ha ricordato come tutte le azioni umane, anche le più complesse, non sono altro che un upscaling che può essere ridotto a fenomeni che emergono da equazioni matematiche. Alla fine tutto tende all'entropia. L'energia potenziale viene trasformata in energia cinetica. Si scende ad uno stadio"
+  },
+  {
+   "start": 1006.839,
+   "end": 1033.189,
+   "text": "inferiore. La vita accelera l'entropia. Tutto divora. Il caos prevale, non può esistere una mela, subito viene divorata. E allora a che serve se tanto tutto decade? Siamo davvero così diversi da NPC se il 90% delle azioni del 90% dell'umanità può essere ricondotto a produci, consuma, crepa? A che pro?"
+  },
+  {
+   "start": 1033.199,
+   "end": 1044.029,
+   "text": "Cosa cambia? Agiamo solo perché è doloroso soffrire e morire, mandiamo avanti la macchina perché siamo costretti da un ricatto."
+  },
+  {
+   "start": 1044.039,
+   "end": 1067.35,
+   "text": "Se ci sono esseri così veloci come quelli del gioco che riescono in pochi secondi nostri a passare anni e anni dalla loro vita, non avremmo alcuna possibilità di batterli. Né loro né le loro versioni virtuali. delle AI super veloci sono analoghe a super intelligenze. D'altronde decido di cancellare il programma dal Commodor 64 che utilizzo come terminale"
+  },
+  {
+   "start": 1067.36,
+   "end": 1077.43,
+   "text": "per il computer centrale e rimuoverlo pure da lì. Se fossi fuoco, in questo momento brucerei il mondo intero, disinstallando questa futilità."
+  },
+  {
+   "start": 1077.44,
+   "end": 1101.47,
+   "text": "Quando però ci provo, sento un dolore atroce alla mano, come due aghi roventi infilati nella carne, fino a toccare e spezzare le ossa dentro la mano. Un bruciore terribile si diffonde in tutto l'arto. Urlo e tiro via la mano e devo metterci pure forza. Qualcosa mi ha morso. Guardo la tastiera del Commodor e dallo slot dove si infilano"
+  },
+  {
+   "start": 1101.48,
+   "end": 1118.11,
+   "text": "le cartucce vedo emergere 1 2 3 4 e più zampe pelose simile a quelle di una tarantola, ma molto più lunghe che stanno uscendo salendo sulla tastiera."
+  },
+  {
+   "start": 1118.12,
+   "end": 1123.43,
+   "text": "Guardo la mia mano. La mia mano sta diventando viola."
+  },
+  {
+   "start": 1123.44,
+   "end": 1132.35,
+   "text": "Quando guardo la tastiera vedo la cosa peggiore del mondo. Le zampe sono sparite."
+  },
+  {
+   "start": 1132.36,
+   "end": 1151.11,
+   "text": "Oh no! Se i miei video ti piacciono, dai un'occhiata al mio TP dove potrai donare per supportare il canale e ricevere in cambio di premi. In descrizione trovai anche il mio merchandising. Se questo video ti è piaciuto, ti invito a mettere mi piace e ad iscriverti a questo canale. Ringrazi miei patrons e ci"
+  },
+  {
+   "start": 1151.12,
+   "end": 1153.88,
+   "text": "vediamo al prossimo"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 13.12,
+   "title": "Sono un appassionato di retrogaming. La mia passione nasce d…"
+  },
+  {
+   "start": 163.12,
+   "title": "Ancora il gioco è troppo pesante per un Commodor 64, ma alme…"
+  },
+  {
+   "start": 315.4,
+   "title": "feature di gameplay, rendendolo in grado di giocare mantenen…"
+  },
+  {
+   "start": 459.84,
+   "title": "Ma chi diavolo è che può giocare ad un gioco così veloce e p…"
+  },
+  {
+   "start": 623.48,
+   "title": "Chi mantiene tutte queste antenne e a cosa servono? Continua…"
+  },
+  {
+   "start": 774.639,
+   "title": "le combinazioni possibili, solo che sono senza occhi, le orb…"
+  },
+  {
+   "start": 918.959,
+   "title": "Specie ogni volta che bevo acqua del rubinetto in questi gio…"
+  },
+  {
+   "start": 1067.36,
+   "title": "per il computer centrale e rimuoverlo pure da lì. Se fossi f…"
+  }
+ ]
+}

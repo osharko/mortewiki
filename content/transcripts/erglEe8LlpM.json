@@ -1,0 +1,809 @@
+{
+ "video_id": "erglEe8LlpM",
+ "segments": [
+  {
+   "start": 10.08,
+   "end": 28.669,
+   "text": "La scienza inizia a cambiare agli inizi del si tenta di unificare le scienze e molte cose prima credute assolute vanno riviste. Si parte dalla geometria che fino ad ora è stata creduta una scienza sintetica a priori in modo cantiano, cioè sempre vera per tutti. Holms smentisce questa idea facendo una distinzione tra la geometria fisica che"
+  },
+  {
+   "start": 28.679,
+   "end": 45.709,
+   "text": "analizza lo spazio, ha bisogno di una verifica empirica e quella pura che guarda denti astratti possibili per assioma. Abbiamo anche Gaus che con la famosa triangolazione di Hannover, usando le tre cime di montagna, cerca di misurare lo spazio per calcolare la somma degli angoli interni di un triangolo che rivelano però essere inferiori al contrario di quello che"
+  },
+  {
+   "start": 45.719,
+   "end": 66.55,
+   "text": "Euclide sosteneva. Nasce così, grazie a Lobacevski, la geometria non euclidea, in cui le due rette e non una sola, come deriva dal quinto postulato di Euclide, passano tra una retta ed un punto a questo esterno. In pratica con Rinman si scopre che possiamo elaborare ogni tipo di teoria e di geometria possibile, immaginare spazi con qualsiasi numero di"
+  },
+  {
+   "start": 66.56,
+   "end": 82.95,
+   "text": "dimensioni, con curvature costanti o variabili, insomma dove le regole del nostro spazio non contano. Tutto questo conduce alla crisi dei fondamenti, perché fino ad ora si era ritenuto che la geometria fosse fondamentale e l'aritmetica nascesse da quella, quindi se crolla l'una crolla anche l'altra. La domanda è come funziona la matematica?"
+  },
+  {
+   "start": 82.96,
+   "end": 94.03,
+   "text": "Come la possiamo fondare? cioè darle un inizio che motivi tutto il resto. Ci sono diverse scuole di pensiero in questo periodo. Il riduzionismo era una sorta di rivincita di Pitagora su Euclide che quindi partiva da Cartesio."
+  },
+  {
+   "start": 94.04,
+   "end": 114.389,
+   "text": "Percepisce che sia l'aritmetica fondare la matematica e tratta la continuità, vi ricordate Zenone, come una successione di punti definiti come numeri. Il problema è che è impossibile costruire tale continuità. A tentare di risolvere il problema arriva Cantor con la sua famosa teoria degli insiemi e con la prima matematica capace di ragionare concretamente sugli infiniti. Deadkind"
+  },
+  {
+   "start": 114.399,
+   "end": 127.83,
+   "text": "considera la continuità come insieme partendo da Cantor. Per lui ogni numero può essere diviso e ancora e ancora e ancora e la divisione può avvenire anche in corrispondenza di un numero irrazionale come√2. Non dovrebbe essere razionale, ma ha i requisiti per farlo."
+  },
+  {
+   "start": 127.84,
+   "end": 142.15,
+   "text": "Cantor invece usava le serie convergenti, quindi fondava i numeri reali partendo dai numeri razionali, così come i razionali partendo dagli interi. Cantor cerca di fondare la matematica dicendo che l'insieme è astrazione, il numero invece è potenza."
+  },
+  {
+   "start": 142.16,
+   "end": 160.91,
+   "text": "Ogni insieme ha un numero cardinale simbolo definito alef con 0 quantità di elementi. Peano cerca di assomatizzare la matematica in modo più rigoroso dicendo che ci sono i numeri, l'uno è un numero, il successore di uno è esso stesso un numero e così via, derivando tutta la matematica. La scuola alternativa al riduzionismo è il"
+  },
+  {
+   "start": 160.92,
+   "end": 179.869,
+   "text": "logicismo, il quale è diviso tra platonisti, che in realtà erano presenti in molte altre scuole, e i concettualisti, ossia persone che pensano che la matematica sia solo nella nostra mente, divisi tra, a loro volta intuizionisti e predicativisti. Ed infine i nominalisti, i quali pensano che la matematica sia solo un segno. I logicisti pensano che la matematica sia"
+  },
+  {
+   "start": 179.879,
+   "end": 196.589,
+   "text": "una conseguenza della logica e vogliono fondare tutta la matematica sulla logica. Frege ci provò per primo dicendo che il numero è l'estensione dei concetti. Si parte dallo zero che è l'essere diverso da se stesso, non ha contenuto empirico e quindi ha estensione nulla. L'uno ha come estensione di concetto sotto di Zé lo"
+  },
+  {
+   "start": 196.599,
+   "end": 198.949,
+   "text": "zero. Il due ha l'uno e così via."
+  },
+  {
+   "start": 198.959,
+   "end": 214.71,
+   "text": "Immaginatevi come tanti cerchietti uno dentro l'altro. Una matriosca. Russell si associa a Freg. Scusate se io distruggo le pronunce, ma non le so. Ma c'è un problema. freghe rimane freato dalla questione della crisi dei fondamenti. Ora vi faccio un indovinello e vediamo se lo sapete risolvere."
+  },
+  {
+   "start": 214.72,
+   "end": 234.149,
+   "text": "Esistono classi che non contengono se stesse. Ad esempio, la classe degli animali non è un animale che te lo mangi. Queste si chiamano classi normali. Le classi opposte, cioè che si contengono dentro se stesse, come l'insieme degli insiemi, si chiamano classi non normali. Bene, la classe delle classi normali cos'è? Se avete una"
+  },
+  {
+   "start": 234.159,
+   "end": 253.509,
+   "text": "risposta l'avete sbagliato perché è un'antinomia, non c'è soluzione. Se la classe è normale non si contiene, quindi è normale. Se è normale deve contenersi e allora non è normale. È un paradosso come quello del mentitore, una verità che nega se stessa. Russell quando scoprì questa cosa cercò di paracularsi dicendo che questa era una definizione"
+  },
+  {
+   "start": 253.519,
+   "end": 257.189,
+   "text": "impedicativa e che andava evitata insieme a tutte le definizioni simili."
+  },
+  {
+   "start": 257.199,
+   "end": 273.11,
+   "text": "Il progetto logicista stava iniziando a crollare Zermelo tentò di rimediare a questo disastro. Ragazzi, veramente i matematici andarono nel panico. Era come se si scoprisse che la Terra è un palloncino gonfio d'aria, ponendo un limite di grandezza e quindi Russell, per evitare gli antiinfinitisti, propose la teoria dei tipi. Secondo cui ci sono"
+  },
+  {
+   "start": 273.12,
+   "end": 290.83,
+   "text": "classi costituite da elementi omogenei, cioè dalla stessa natura. A livello zero abbiamo gli individui, a livello uno gli insiemi di individui e a livello due gli insiemi di insiemi di inception. Questa teoria negava però la fondazione di freghe e lasciava la matematica molto vuota. Molte dichiarazioni che i matematici sapevano essere possibili non"
+  },
+  {
+   "start": 290.84,
+   "end": 307.15,
+   "text": "lo erano più. Questo fu il grande fallimento di Russell e la scuola logicista lasciò la scena filosofica. E io ho goduto perché, signori miei, molti mi hanno chiesto nel corso della mia carriera su YouTube morte, ma perché ce l'hai con Russell? Io non ce l'ho con Russell. No, io penso che sia il peggior"
+  },
+  {
+   "start": 307.16,
+   "end": 316.909,
+   "text": "filosofo mai esistito. Ci sono stati tanti filosofi con idee assurde e illogiche, come il mio corregionale Gorgio d'Aentini, che però erano personaggi affascinanti e carismatici."
+  },
+  {
+   "start": 316.919,
+   "end": 335.39,
+   "text": "Ci sono stati filosofi come Schopenhauer, invece, che avevano filosofie bellissime, affascinanti, ma come esseri umani erano dei pezzi di merda incoerenti o antipatici. Russell è stato l'unico caso, per la mia esperienza di tutte e due. Non solo, la sua filosofia è una bislacacca ridicoleria vittima di un riduzionismo scientista e di una visione"
+  },
+  {
+   "start": 335.4,
+   "end": 353.07,
+   "text": "positivistica ingenua, ma anche il suo aver contribuito ad una pericolosa disinformazione sulla storia della filosofia. Russell faceva passare parecchi filosofi che non la pensavano come lui, i cristiani in gran parte, come stupidi, semplificando la loro filosofia. Ancora oggi molte persone hanno un'idea distortissima del Medioevo anche a causa di Russell e come persona"
+  },
+  {
+   "start": 353.08,
+   "end": 356.79,
+   "text": "era un autentico pezzo di merda, ma vi basta guardare le sue interviste."
+  },
+  {
+   "start": 356.8,
+   "end": 376.95,
+   "text": "Presuntuosissimo, elitario, poco dialogante, parlava con sufficienza, tipica di quelli del suo lignaggio, di coloro che non lo convincevano. Aveva una visione della religione che definire caricaturale è poco, religione vista quasi come una stupida cattiveria e tutte le visioni dei religiosi e le loro complesse filosofie definite corbellerie. Per questo Russell è il filosofo che trovo più mediocre di"
+  },
+  {
+   "start": 376.96,
+   "end": 393.95,
+   "text": "tutti. ed è l'unico che non solo ha accannato pesantemente in ambito filosofico, ma che pure come persona era, secondo me, di un presuntuoso e chiuso mentale pazzeschi. Ma poi il progetto logicista era destinato a fallire, perché la logica si basa sulla necessità, la matematica invece è basata sulla possibilità, la matematica si basa"
+  },
+  {
+   "start": 393.96,
+   "end": 411.589,
+   "text": "sugli assiomi che siamo noi a scegliere. Tu decidi gli assiomi di partenza e poi usi la logica per trarne le uniche conseguenze possibili, ma quegli assiomi sono del tutto arbitrari, quindi cercare di far derivare tutta la matematica dalla logica è filosoficamente impossibile. È come cercare di eh ricavare la fisica dalla matematica."
+  },
+  {
+   "start": 411.599,
+   "end": 429.11,
+   "text": "Russell è cantianamente bocciato. La cosa divertente è che Russell non è manco uno di quelli con i fan boy dellar. pure da loro è stato in larga parte dimenticato. Comunque, chiusa questa meravigliosa parentesi, c'erano molte opposizioni ai logicisti, come chi riteneva che il numero fosse una induzione, quindi un mero reiterare all'infinito un'operazione e gli"
+  },
+  {
+   "start": 429.12,
+   "end": 449.11,
+   "text": "intuizionisti di stampo cantiano come Brower, ossia noi astraiamo dallo spazio-tempo un numero finito di operazioni come successione. La quarta scuola di pensiero è quella dei formalisti capeggiata da Hilbert, il quale cerca di fondare la matematica usando la metamatematica, ossia una matematica oltre la matematica. Secondo lui la matematica è un gioco linguistico e in questo ci vedo sempre molto"
+  },
+  {
+   "start": 449.12,
+   "end": 469.67,
+   "text": "Witkenstein, anzi Witgenstein, ossia un insieme finito di segni, di regole, di combinazioni, di segni e regole di trasformazione. La matematica deve essere coerente, quindi non condurre la contraddittorietà e completa, quindi bisogna dedurre se gli assiomi sono determinabili o meno. Ma anche Hilbert fallisce perché non riesce a dimostrare la non contraddittorietà della matematica stessa. E a questo punto"
+  },
+  {
+   "start": 469.68,
+   "end": 491.149,
+   "text": "arriva un giovane, un ragazzino che nessuno conosceva, un platonista chiamato Gdle, il quale getta la bomba atomica nel mondo dei matematici. Quella bomba si chiama teoria di teorema di incompletezza. In sostanza riassuntazzo alla barba rossa, barba scura. Vabbè, sì, X. Nessun sistema matematico, nessuno può essere dimostrato come completo e non contraddittorio al tempo"
+  },
+  {
+   "start": 491.159,
+   "end": 507.629,
+   "text": "stesso. Un sistema avrà sempre degli assunti di partenza che non puoi dimostrare da quel sistema. Devi andare oltre ad un altro sistema magari, ma anche quello si basa su qualcosa e così via e così via all'infinito. Se provi a cercare un sistema che si dimostra da solo, giungi in contraddizione, non ti salvi con le metaorie. Gle è in sostanza"
+  },
+  {
+   "start": 507.639,
+   "end": 527.59,
+   "text": "la rivincita dei platonisti che dalla crisi dei fondamenti ne escono forti e infatti ancora oggi molti matematici sono platonisti, ma anche dei cantiani perché va a dimostrare come è fondamentale nel processo umano il ruolo ehm che costruisce un sistema astraendosi. Ed oggi la matematica è praticamente figlia di Gel. Nessuno pretende più di farla derivare tutta da"
+  },
+  {
+   "start": 527.6,
+   "end": 543.35,
+   "text": "una regoletta magica. In un certo senso, Guodel ha unito tutti quanti i suoi vecchi rivali. La matematica sono degli assiomi in cui si usa la logica per definire delle regole di associazione per creare dei sistemi inimistici che non sono mai completi. Oggi ci sono tante teorie su come trattare la matematica e sono tutte ugualmente"
+  },
+  {
+   "start": 543.36,
+   "end": 562.269,
+   "text": "valide. La più popolare è la ZFC e la sua versione estesa, la NBG. Andiamo alla fisica. Maxwell unifica la forza elettrica e quella magnetica in un'unica cosa quando scopre che il campo elettrico quando varia fa nascere un campo magnetico. Scopre anche che lo spazio, siccome può essere sia conducente sia isontiene dei campi che"
+  },
+  {
+   "start": 562.279,
+   "end": 576.71,
+   "text": "lo modificano. Quindi l'elettricità è mediata da campi, non da onde. Ma nasce quindi un problema in fisica, ossia da un lato la fisica di Newton che è discreta e basata sulla gravità, dall'altro quella dell'Etere che è continua e dell'elettricità. Non si concilano bene, si tenta di unirle."
+  },
+  {
+   "start": 576.72,
+   "end": 593.71,
+   "text": "Lawrence sostiene che gli elettroni medino la forza elettromagnetica. Con la scoperta delle radiazioni nasce il famoso modello a panettone della materia grazie a Thompson. Quindi si recupera l'idea di Democrito con unità fatte di pezzi positivi e negativi, ma con i raggi alfa Rotherford scopre che gli elettroni non sono nel nucleo, ma orbitano. Fino ad ora si era utilizzato"
+  },
+  {
+   "start": 593.72,
+   "end": 611.79,
+   "text": "il letere come mezzo di propagazione delle onde luminose usato come mezzo di riferimento immobile. Michelson tenta di calcolare la velocità della luce usando degli specchi. Lawrence suggerì che la deformazione delle orbite si traduce in un'alterazione di velocità, massa, spazio e tempo. E tutto questo ci conduce al mio amico Albert Einstein che unirà questi due lati della fisica."
+  },
+  {
+   "start": 611.8,
+   "end": 626.63,
+   "text": "Parliamo della sua fisica e poi parliamo della sua vita. Einstein elabora la teoria della reattività con cui si abbandona definitivamente l'idea che lo spazio e il tempo siano separati. Il tempo è la quarta dimensione spaziale, il che significa che il futuro e il passato esistono come il presente. Noi ci spostiamo non solo camminando nelle"
+  },
+  {
+   "start": 626.64,
+   "end": 637.15,
+   "text": "tre dimensioni, ma anche nel tempo. E ci insegna che lo spazio-tempo formalizzato da Minkowski usando la geometria non euclidea appunto è relativo, cioè non ci sono riferimenti assoluti. Via lettere."
+  },
+  {
+   "start": 637.16,
+   "end": 653.069,
+   "text": "ci arrivò attraverso numerosi esperimenti mentali confermati poi dai esperimenti fisici, in particolare quello del treno con cui si arriva al paradosso che due eventi simultane con due fulmini vicino ad un treno in corsa saranno percepiti in maniera diversa a seconda di dove ti trovi e del tuo punto di riferimento. L'unica costante quindi"
+  },
+  {
+   "start": 653.079,
+   "end": 656.35,
+   "text": "è la velocità della luce che rimane uguale da tutti i punti di riferimento."
+  },
+  {
+   "start": 656.36,
+   "end": 673.269,
+   "text": "Quindi, per esempio, tra due gemelli, se uno dei due parte per un viaggio alla velocità della luce, quando torna dal gemello scopre che il tempo è passato diversamente. Questa cosa oggi è fondamentale per i satelliti, altrimenti ci sarebbero continui errori nei calcoli. Einstein scopre quindi che lo spazio-tempo è il campo della gravità,"
+  },
+  {
+   "start": 673.279,
+   "end": 682.75,
+   "text": "se vogliamo, che viene curvato dalla massa. Più un corpo è massivo, più piega il tappetino dello spaziot-tempo e gli oggetti su questo tappetino seguono la pendenza e questo spiega la gravità."
+  },
+  {
+   "start": 682.76,
+   "end": 700.47,
+   "text": "Einstein elabora la famosa equiparazione tra massa e energia, è uguale MC² e quindi di fatto accelerazione e massa sono collegate. Per questo motivo la velocità della luce non può essere superata perché più un corpo accelera più diventa pesante ed è difficile accelerarlo ancora. Arrivata alla velocità della luce, la sua massa è infinita, quindi le uniche particelle"
+  },
+  {
+   "start": 700.48,
+   "end": 717.03,
+   "text": "capaci di andare a quella velocità sono i fotoni che non hanno massa, anche se lui stesso aveva concepito diversi modi per aggirare questa cosa, come i ponti di Einstein Rose, detti vorgalmente warmhole, cioè buchi nello spazio-tempo stesso. Adesso parliamo delle quattro più famose critiche che oggi gli si fa su internet. La prima è che è quella che"
+  },
+  {
+   "start": 717.04,
+   "end": 736.43,
+   "text": "sentite più o meno ogni due settimane, no? Einstein distrutto, scoperta, roba che viaggia più veloce della luce. In realtà non è mai così. Gli articoli che quei giornali vi linkano sono semplici osservazioni non confermate, singole, non ripetute, di dati che parrebbero forse far sembrare una cosa del genere, ma poi il risultato non viene mai"
+  },
+  {
+   "start": 736.44,
+   "end": 755.31,
+   "text": "ripetuto. Sono 12 anni che dicono di aver scoperto questa cosa e da 12 anni la cosa finisce nel dimenticatoio. La seconda è che Einstein abbia sbagliato sulla costante cosmologica perché lui stesso ammise l'errore, ma in realtà Einstein pure quando sbaglia ci azzecca e la costante si rivelò importante nell'espansione dell'universo. La terza cosa è che Einstein sia stato smentito"
+  },
+  {
+   "start": 755.32,
+   "end": 775.389,
+   "text": "sul determinismo e questa è vera. La meccanica quantistica comincia con il problema del corpo nero. Stai calmo, Salvini. ossia la questione degli esperti d'assorbimento e delle emissioni uguali in questi enti. Si inizia a studiare la struttura dell'atomo meglio, a partire da Plank che scopre che gli elettroni quantizzano l'energia assorbita o emessa, stando in livelli"
+  },
+  {
+   "start": 775.399,
+   "end": 792.509,
+   "text": "precisi e solo quelli, cosa poi meglio esplorata da Bor, i cui problemi sono stati risolti dal principio di esclusione di Pauli che insegna che solo un paio di elettroni può occupare lo stesso spazio. Questa ha condotto Einstein a scoprire l'effetto fotoelettrico, cioè che viene messo un fotone come segno di ecitazione degli atomi. Ora, sapete Einstein per cosa ha"
+  },
+  {
+   "start": 792.519,
+   "end": 810.15,
+   "text": "vinto il Nobel? Per questo, non per la relatività, non per è uguale MC al qu, non per aver risolto una divisione che spaccava la fisica in due, no, lo hanno premiato per una cosa minorissima, perché quando Einstein propose la relatività, moltissimi fisici lo rifiutarono. Era troppo assurdo che il tempo fosse relativo, così quelli del"
+  },
+  {
+   "start": 810.16,
+   "end": 828.11,
+   "text": "Nobel pensarono di premiarlo con una cosa minore. Vabbè, un Nobel diamoglielo. E ancora oggi Einstein non è stato premiato per l'idea più rivoluzionaria della storia della fisica, ma per una cazzo di scoreggia degli elettroni. Ora la meccanica quantistica, grazie a De Brogy, conferma la natura duale di corpo e onda dell'elettrone e con Born la fisica"
+  },
+  {
+   "start": 828.12,
+   "end": 846.91,
+   "text": "arriva a poter predire la probabilità di trovare l'elettrone, mai la certezza. Il problema è che per misurare gli elettroni devi bombardarli di fotoni, il che significa contaminare l'esperimento, non puoi più sapere niente. E quindi lì, in mezzo a tutti quei fisici arriva un uomo che dice \"Say my name\" ed Einstein dice \"Eisenberg, you're goddamn right\"."
+  },
+  {
+   "start": 846.92,
+   "end": 863.749,
+   "text": "Heisenberg formula il principio di indeterminazione secondo cui possiamo conoscere solo la posizione di una particella o la quantità di moto, mai tutti e due. Quindi era nata la meccanica quantistica che studia il microscopico che è probabilistica fatta di oggetti che spariscono nel nulla, che si comunicano senza toccarsi e poi abbiamo la relatività che si occupa del"
+  },
+  {
+   "start": 863.759,
+   "end": 882.35,
+   "text": "macroscopico, della gravità ed è deterministica. Einstein non ci stava, disse \"Dio, non gioco a dadi\" e disse la cosa che tutti gli ignoranti di fisica appena gli spieghi la meccanica quantistica, solo che Einstein era giustificato, dicono: \"Ma no, non può essere così, ci sarà una spiegazione sotto, siamo noi ignoranti, ma se potessimo vedere troveremmo che le"
+  },
+  {
+   "start": 882.36,
+   "end": 899.35,
+   "text": "particelle sono determinate\". Venne ideato un esperimento, forse ispirato da Popper in cui si doveva determinare proprio questo. Il problema erano due particelle in entanglement che vengono misurate e si scopre che una è in un certo modo influenzata dall'altra. Ve la semplifico perché il video già lungo così. Come se le due particelle si"
+  },
+  {
+   "start": 899.36,
+   "end": 903.35,
+   "text": "fossero influenzate a distanza. L'esperimento diede torto ad Einstein."
+  },
+  {
+   "start": 903.36,
+   "end": 920.99,
+   "text": "Si scopre che non possiamo avere azioni che siano locali e deterministiche al tempo stesso. Non è che siamo ignoranti noi, è proprio Dio che, come disse Hawking, gioca a dadi. Einstein da questa cosa rimase scioccato, ma non essendo un depensante accetta il risultato. Grazie all'italiano Fermi, il fisico più intelligente dopo Einstein e"
+  },
+  {
+   "start": 921.0,
+   "end": 936.87,
+   "text": "Tesla di quel secolo, si scopriranno altre due forze fondamentali, quella nucleare debole e quella forte. Einstein passò tutta la vita a cercare di unire tutte le forze in una sola teoria, ma non ci riuscì e morì. Oggi siamo riusciti a riunirne solo tre. Con il modello standard possiamo spiegare l'elettromagnetismo, le due nucleari con"
+  },
+  {
+   "start": 936.88,
+   "end": 953.59,
+   "text": "una sola forza, ma la gravità ancora oggi ci sfugge. Sono come due mondi separati, serve una teoria del tutto, ci sono tanti candidati, la più popolare è la M Theory. Infine l'ultima critica ad Einstein è che lui fosse ignorante in matematica da piccolo, che è una bufala pazzesca ricondivisa da tutti. Non c'è"
+  },
+  {
+   "start": 953.6,
+   "end": 969.829,
+   "text": "una sola fonte. Einstein era bravissimo a scuola, abbiamo pure i suoi voti e oggi parliamo della sua vita. I suoi erano ebrei ashkenazi sì. Lui era sin da piccolo si mostrava estremamente intelligente. Lo zio gli faceva enigmi matematici. A scuola veniva spesso discriminato per le sue origini ebraiche e dal rigido sistema tedesco ed era"
+  },
+  {
+   "start": 969.839,
+   "end": 986.749,
+   "text": "spesso il primo della classe. Sentimentalmente ebbe prima un matrimonio molto burrascoso in cui imponeva alla moglie delle regole severissime sul rispetto del suo lavoro che raga andatevela a leggere perché è veramente allucinogeno. Poi sposò sua cugina perché Soma Alabama e rimase con lei fino alla morte. Einstein sentì che le persecuzioni contro gli ebrei stavano"
+  },
+  {
+   "start": 986.759,
+   "end": 998.67,
+   "text": "peggiorando quando uccisero il ministro degli esseri Ratenù che era ebreo ed era la 350ª vittima della destra tedesca secondo Wikipedia. Per questo decise di rinunciare alla cittadanza tedesca diventando svizzero e poi americano."
+  },
+  {
+   "start": 998.68,
+   "end": 1015.829,
+   "text": "Rimase sconvolto dagli acidi nazisti e cercò di aiutare economicamente varie ebrei a fuggire. sostenne quello che si chiama sionismo laburista, ossia un sionismo di sinistra che voleva che gli ebrei fossero liberi di emigrare in Palestina, ma con vivendo pacificamente con gli arabi e non espropriando le loro terre in modo più o meno forzoso. Egli"
+  },
+  {
+   "start": 1015.839,
+   "end": 1034.59,
+   "text": "stesso voleva che i due popoli collaborassero e si opponeva ad una Israele con confine e armi, dicendo che l'animo giudaico rifiutava queste cose e fu profetico nel dire che sarebbe stato dannoso tutto questo nazionalismo israeliano. Quando il presidente israeliano morì, gli venne chiesto di diventare il secondo, ma lui rifiutò. Se solo vedesse oggi che cosa è diventato"
+  },
+  {
+   "start": 1034.6,
+   "end": 1053.31,
+   "text": "Israele, penso che Einstein confermerebbe la sua scelta. Lui era un fatore di uno stato binazionale mescolato, modello Bosnia Herzeggovina, non una separazione rigida e non una oppressione degli arabi. Negli Stati Uniti difese i diritti civili degli afforamericani, degli omosessuali, i diritti animali e divenne vegetariano in tardetà. Politicamente, come molti intellettuali, era apertamente"
+  },
+  {
+   "start": 1053.32,
+   "end": 1067.15,
+   "text": "socialista ed anticapitalista, dicendo che l'unico modo per eliminare i grandi mali sociali era l'instaurazione di un'economia socialista, un sistema educativo ben riformato e una produzione pianificata secondo i beni della comunità che ridistribuiva tra i lavoratori garantendone tutti i diritti."
+  },
+  {
+   "start": 1067.16,
+   "end": 1088.83,
+   "text": "Infatti espresse simpatie per Lien, definendolo un uomo che aveva sacrificato tutto se stesso per la realizzazione della giustizia sociale, definendolo uno dei guardiani della coscienza umana. Mica cazzi. Per questo motivo era molto ostile all'anticomunismo americano e al maccartismo che definiva antiintellettuale. L'FBI Open Up scrisse un dossier di 1427 pagine in cui accusava Einstein di essere in combutta"
+  },
+  {
+   "start": 1088.84,
+   "end": 1105.59,
+   "text": "con varie organizzazioni comuniste. Ma soprattutto Einstein come me era un pacifista. Ho già spiegato cosa è il pacifismo nel video su Undertale e non mi ripeterò. Infatti era un grande ammiratore di Gandhi. Sosteneva che un modo efficace per combattere il nazionalismo fosse la regola del 2%. Se un uomo su 50 tra i chiamati facesse"
+  },
+  {
+   "start": 1105.6,
+   "end": 1124.63,
+   "text": "obiezione di coscienza, ogni paese quando vuole fare la leva avrebbe un effetto tattico così grave che nessun azione si sentirebbe pronta ad iniziare un conflitto. Sostenne la Lega delle Nazioni fino al suo errore dopo l'occupazione della RUR e quando eh e quindi a questo punto parliamo della bomba atomica. Come Pacifist Einstein era fortemente contrario all'uso di armi"
+  },
+  {
+   "start": 1124.64,
+   "end": 1140.35,
+   "text": "di risuzione di massa, ma al tempo stesso sapeva che molte più persone sarebbero morte a causa del nazismo che non accettava diplomazia e la storia gli ha dato ragione. Ma soprattutto Einstein temeva che i nazisti stessero lavorando su un progetto analogo e anche su questo la storia gli diede ragione. I nazisti c'erano arrivati pure vicini. Una bomba"
+  },
+  {
+   "start": 1140.36,
+   "end": 1158.51,
+   "text": "nelle mani di Hitler sarebbe stata terribile. Per questo Einstein si convinse a sostenere il progetto Manattan. Ma nonostante tutto questo, quando seppe che i nazisti non avevano completato il progetto, lui si sentì comunque estremamente in colpa, tanto che fu contrario al bombardamento di Hiroshima. Vedete che uomo coerente con se stesso. Si oppose al monopolo atomico"
+  },
+  {
+   "start": 1158.52,
+   "end": 1175.149,
+   "text": "americano, ritenendo che dovessero essere le Nazioni Unite ad avere le armi nucleari. famosa la sua frase \"Non so come si combatterà la terza guerra mondiale, ma la quarta si farà con bastoni e pietre per cacciare i governanti che non fanno come vuole il popolo.\" E parliamo di religione perché ciccia sempre fuori la domanda. Spesso"
+  },
+  {
+   "start": 1175.159,
+   "end": 1194.27,
+   "text": "Einstein viene messo insieme a Galileo e a Newton tra i grandi atteri della storia, solo ceffoni. Ma nulla di più falso. Einstein, anzitutto lo disse apertamente, rifiutò di essere chiamato ateo e uno come lui sa cosa significa quella parola. Lui stesso, a dire il vero, già ai suoi tempi era irritato per gli atei militanti che lo proclamavano"
+  },
+  {
+   "start": 1194.28,
+   "end": 1213.63,
+   "text": "uno di loro e fu molto critico dell'ateismo militante, affermando che era composto da uomini ancora soggiogati dalla religione e pieni di rancore, senza sentire la musica delle sfere e preferendo la religione alla mancanza di ogni trascendenza. riconosceva l'esistenza del Gesù storico definendolo un grande uomo la cui presenza risuona nei Vangeli e la Bibbia in generale un"
+  },
+  {
+   "start": 1213.64,
+   "end": 1232.029,
+   "text": "libro molto poetico. Tuttavia rifiutava il teismo tradizionale, quindi l'idea di un Dio personale e antropomorfo che punisce gli esseri viventi e in generale il controllo delle religioni, così come la reincarnazione. Ma non per questo era ateo o antireligioso. Lui era, per usare le sue stesse parole, un panenteista spinoziano che non è, come ha detto"
+  },
+  {
+   "start": 1232.039,
+   "end": 1248.11,
+   "text": "quell'ignorante di Dawkins, un semplice ammiratore dell'ordine del cosmo. Lui parla esplicitamente di Dio, dicendo che la scienza non lo elimina e paragonando questo mondo ad una libreria enorme. E gli umani come dei bambini che capiscono che qualcuno ha scritto quei libri, ma non capiscono la lingua né il perché."
+  },
+  {
+   "start": 1248.12,
+   "end": 1268.35,
+   "text": "Esattamente come Spinoza, lui credeva in un principio che trascende la materia, un'entità infinita, eterna e infinitamente razionale, una intelligenza, una sostanza che è intessuta nell'armonia del cosmo, affermando che un umano non può affermare che non vi sia un Dio. Questo suscita nell'uomo un senso di sublime meraviglia e mistero, la religiosità, appunto, che è collegata alla scienza,"
+  },
+  {
+   "start": 1268.36,
+   "end": 1285.43,
+   "text": "tanto che disse che la scienza senza religione è zoppa, la religione senza scienza è cieca. Una si occupa del come, l'altra del perché. affermò che tutti gli scienziati arrivano a percepire tale spirito divino che si manifesta nell'armonia delle leggi e quindi non è le leggi. Ecco di cosa parlava con il suo Dio non gioca dadi. Studiò con"
+  },
+  {
+   "start": 1285.44,
+   "end": 1304.31,
+   "text": "piacere la sua formazione cattolica. Ebbe come amico il prete Lemetre, il l'ideatore del Big Bang, ed elogio la Chiesa cattolica per essere stata l'unica in Germania ad essersi pubblicamente esposta alle repressioni hitleriane, salvando anche molti ebrei e definendosi ammirato da questa tanto da averli rivalutati. Questa frase alcuni hanno cercato di smentirla, ma Einstein"
+  },
+  {
+   "start": 1304.32,
+   "end": 1317.59,
+   "text": "stesso la conferma in una lettera autenticata che tale frase è riconducibile ad una sovera dichiarazione che infatti non fece mai smentire, anche se fu più moderato con le parole. Qualcuno ha detto che forse si riferiva a tutte le chiese in generale, ma questo è sicuramente falso."
+  },
+  {
+   "start": 1317.6,
+   "end": 1333.83,
+   "text": "Le chiese protestanti tedesche in larga parte si allinearono con il nazismo che fu profondamente anticattolico. In ogni caso non mancò di criticare lo scorantismo vaticano sostenendo che tutte le religioni sono unite e che sarebbe stato quacchero in una vita alternativa. Disse che forse Gesù sarebbe stato meglio se non fosse mai esistito, perché il suo nome è stato"
+  },
+  {
+   "start": 1333.84,
+   "end": 1350.269,
+   "text": "abusato dai suoi seguaci. fu un grande amante della filosofia, sia Kant, che però critica per il suo negare il tempo fisico e che è meglio di lui, sia Schopenhauer per la sua indipendenza dei sistemi separati spazialmente. Einstein ha rischiato di morire perché stava tornando in Germania quando sepè di Hitler facendo marcia indietro. Venne"
+  },
+  {
+   "start": 1350.279,
+   "end": 1366.149,
+   "text": "invitato in Italia ma rifiutò come opposizione a Mussolini. Quindi già allora Duxestin Juk alla velocità della Lux. La vita era in vita lui era così famoso che doveva dire alla gente di non essere Einstein per evitare i fan boy per i selfie. scrisse 300 paper scientifici e 150 non scientifici."
+  },
+  {
+   "start": 1366.159,
+   "end": 1382.31,
+   "text": "Divenuto anziano, rifiutò la chirurgia per l'aneurisma, dicendo che voleva andarsene di sua volontà e che era privo di gusto prolungare la vita artificialmente e che aveva fatto la sua parte e voleva andarsene in modo elegante e morì a 76 anni. Il medico legale tolse il cervello senza dire nulla alla famiglia che quando seppe"
+  },
+  {
+   "start": 1382.32,
+   "end": 1388.789,
+   "text": "accettò di consegnarlo alla ricerca. Oggi lo stereotipo stesso di scienziato intelligente è ispirato ad Einstein."
+  },
+  {
+   "start": 1388.799,
+   "end": 1411.63,
+   "text": "Capelli bianchi, ricci da pazza, occhiali, baffoni, eh, accento tedesco, area assente. Einstein fu davvero l'eroe della fisica. E ora passiamo a Freud, il creatore della psicanalisi, eh, che è la più influente delle scuole della psicologia. Era un medico di una famiglia ebrea ciassidica nell'impero austriaco. Anche lui, infatti chiamato Schlomo, nato nell'attuale Repubblica"
+  },
+  {
+   "start": 1411.64,
+   "end": 1430.23,
+   "text": "Ceca. Il padre si trasferì a Vienna per via delle prescurofisiologo e fu psichiatra e docente di neuropatologia. Studiava i fenomeni isterici. Prima di lui c'era una concezione positivistica della mente vista in modo materialistica, quindi eh se qualcosa va male è perché qualcosa si è rotto. Tutto il resto sono solo piagnucoli. Lui invece capì che a volte"
+  },
+  {
+   "start": 1430.24,
+   "end": 1435.31,
+   "text": "qualcosa può andare storto con il software. Si specializzò nell'uso dell'ipnosi per superare le amnesie."
+  },
+  {
+   "start": 1435.32,
+   "end": 1451.789,
+   "text": "Celebra il caso della paziente Anna o che era idrofoba, si scoprì che il cane della governante, quando lei era piccola, lei odiava la governante, aveva visto che leccava da un bicchiere e lei, proiettando il suo disgusto sul cane e sul bicchiere evitò tutti i bicchiere della casa fino a portarsi dietro l'idrofobia da grande. Questo è il"
+  },
+  {
+   "start": 1451.799,
+   "end": 1459.31,
+   "text": "metodo catartico di Freud, far capire al paziente la radice di un problema nascosta in modo da risolvere un conflitto interiore tra forze psichiche."
+  },
+  {
+   "start": 1459.32,
+   "end": 1479.35,
+   "text": "Freud, infatti, ispirandosi ai filosofi precedenti, tra cui il suo maestro, il berentano che ha influenzato Husserl, l'esistenza dell'inconscio, ossia l'attività della mente che noi non conosciamo e che è il 90% della nostra mente, responsabile dello stato di sonno, sonnambulismo, sogno, delirio e coma. La coscienza, quella che voi sentite nella testa, è solo la punta"
+  },
+  {
+   "start": 1479.36,
+   "end": 1496.23,
+   "text": "dell'iceberg. La ciccia sta sotto e l'inconscio è diviso in due zone. Il preconcio dove stanno i ricordi che possono emergere e il rimosso dove ci sono tutti quei desideri che sono ritenuti inaccettabili, i traumi. Altra idea di Freud era quella di far rilassare sul lettino i pazienti in modo che formassero libere associazioni tra"
+  },
+  {
+   "start": 1496.24,
+   "end": 1500.59,
+   "text": "idee conce fino ad agganciarsi a qualcosa nel subconscio e tirarlo fuori."
+  },
+  {
+   "start": 1500.6,
+   "end": 1516.51,
+   "text": "Lo psicologo è colui che deve subire il transfert, ossia il paziente proietta su di lui delle emozioni che sente invece di figure emotive. E poi c'è il controtransfert con cui lo psicologo agisce sulla psiche del paziente. La psiche per Freud è divisa in tre zone."
+  },
+  {
+   "start": 1516.52,
+   "end": 1532.43,
+   "text": "Less che è il calderone ribollente dei desideri che ignora le leggi della logica e infatti noi possiamo avere desideri contraddittori ed è del tutto inconscio. Poi c'è il superio parzialmente conscio, che è quella parte di te che ti dice come comportarti, come essere. è il grillo parlante, la coscienza ti dice cosa è giusto e"
+  },
+  {
+   "start": 1532.44,
+   "end": 1547.51,
+   "text": "sbagliato e quindi reprime l'ess. Però quanto all'io, quanto a quel che non può fare che lui, per l'io qualcosa da poter fare potrebbe esserci. Lio siamo noi, totalmente conscio, ed è quello che deve gestire queste due cose e il mondo reale. Se c'è un problema, tipo un superior troppo forte che quindi si"
+  },
+  {
+   "start": 1547.52,
+   "end": 1564.909,
+   "text": "reprime e crea una personalità ipergi giudicante, tipo il capoclasse, o troppo debole, ecco che nascono nevrosi e problemi mentali. Questa è la grande rivoluzione di Freud, il capire che noi siamo come riempiti di una grande energia inconcia. I desideri dell'Es che come vapore scorrono nei canali del corpo, vogliono uscire, ma l'io li"
+  },
+  {
+   "start": 1564.919,
+   "end": 1583.43,
+   "text": "blocca e cerca di bloccarli con le proibizioni, allora i desideri si manifesteranno in altre vie. Questa è la sublimazione, ossia quando un desiderio viene tradotto in un'attività accettabile e costruttiva. Un esempio è quando sei arrabbiato e ti metti a lavorare fortissimo. Oppure il chirurgo, che secondo Freud è un macellaio mancato, oppure Michelangelo che metteva"
+  },
+  {
+   "start": 1583.44,
+   "end": 1590.99,
+   "text": "nelle sue dedica nella sua dedicata arte le sue pulsioni omosessuali. Ora sapete perché, ad esempio, la polizia tolera così tanto la violenza negli stadi?"
+  },
+  {
+   "start": 1591.0,
+   "end": 1594.51,
+   "text": "Sanno che quella gente è incazzata per un sacco di cose, problemi nella vita."
+  },
+  {
+   "start": 1594.52,
+   "end": 1610.59,
+   "text": "Quella è tutta frustrazione che si accumula dentro di loro e se non la sfogano in un modo che lo Stato può controllare potrebbero catalizzarla in cose più pericolose, quindi possono sbollentare. Freud analizza tantissimo questi meccanismi di difesa, come li chiama lui, come le rimozioni in cui noi togliamo un ricordo o una percezione, i"
+  },
+  {
+   "start": 1610.6,
+   "end": 1626.59,
+   "text": "contrattempi quotidiani come gli incidenti in cui ops rompi qualcosa di qualcuno con cui hai un problema, oppure quando dimentichi una cosa molto impegnativa di cui avevi paura, segretamente non la volevi fare, o i lapsus freidiani in cui l'errore linguistico in realtà lo possiamo prendere alla lettera, tipo dire spogliatezza invece di spigliatezza."
+  },
+  {
+   "start": 1626.6,
+   "end": 1638.51,
+   "text": "Tutte queste cose sono determinate da desiderio sessuale o libido che per Freud si articola in diverse fasi, quindi anche il bambino ha una sessualità. la fase orale in cui il bambino prova a piacere con la bocca stimolata perché riceve il seno materno."
+  },
+  {
+   "start": 1638.52,
+   "end": 1654.669,
+   "text": "Coloro che non superano correttamente questa fase hanno una fissazione orale e tendono a tenere i soggetti in bocca, a succhiarsi il pollice, mangiucchiare le unghie, stuzie cadenti, problemi di fumo, obesità o succhiare cose. La seconda fase è quella anale in cui il bambino impara ad usare il vasino e trova piacere nella defecazione, ma deve"
+  },
+  {
+   "start": 1654.679,
+   "end": 1670.789,
+   "text": "imparare a farlo in modo corretto, sporca e deve vergognarsi, il superiore sta nascendo. Chi non supera correttamente questa fase può sviluppare coprofilia o diventare omosessuale o avere problemi di igiene. Secondo Freud, capito YouTube? E poi c'è la fase fallica in cui si ha la scoperta del pene oggetto di piacere. Il maschio vede"
+  },
+  {
+   "start": 1670.799,
+   "end": 1674.19,
+   "text": "che le femmine non hanno il pene e teme che questo sia dovuto alla castrazione."
+  },
+  {
+   "start": 1674.2,
+   "end": 1692.43,
+   "text": "Ossia il padre padrone che è violento, sovente verso la madre ha castrato la madre. Per questo il figlio sviluppa la paura subconscia, ripeto, sono tutte cose subconsce, sono metafore per aiutarev pagare il concetto di perdere il suo oggetto di piacere. Le figlie femmine provano invece l'invidia penis per il maschio e nasce il famoso"
+  },
+  {
+   "start": 1692.44,
+   "end": 1711.83,
+   "text": "complesso di Edipo in cui il figlio, ripeto, è una metafora, prova un'attrazione subconscia per la madre e un'ambivalenza verso il padre. È felice quando il padre si allontana, vuole dormire con la madre, vuole essere visto in bagno da lei, le promette di sposarla, si vede troppi anime giapponesi sull'incesto, insomma cose."
+  },
+  {
+   "start": 1711.84,
+   "end": 1728.269,
+   "text": "Ma poi il maschio finirà per capire che tale relazione è impossibile ed imparerà ad imitare il padre come modello maschile internalizzato nel superio e cercarsi una donna forse simile alla madre. La femmina ha il compresso di elettra che è uguale e contrario. Odia la madre, adora il padre, fa la civettuola con lui, salvo poi imitare la"
+  },
+  {
+   "start": 1728.279,
+   "end": 1743.389,
+   "text": "madre come modello femminile e cercarsi un uomo. Problemi durante questa fase possono condurre a problemi nella sessualità. Ricordo che tutta questa è una metafora, non è che il bambino vuole farsi la madre, è che subconsciamente proietta nella figura materna, che è la prima istanza femminile che gli vuole bene, il desiderio nascente, lo"
+  },
+  {
+   "start": 1743.399,
+   "end": 1760.35,
+   "text": "struttura in questo modo. Freud anticipò anche che esistevano dei complessi genitoriali, ma parlerò di questo in un video separato chissà quando, perché il complesso dei Dipo è proprio interessante. Questo è l'istinto della vita, la libido, ma poi c'è l'istinto opposto, la destrudo, l'istinto di morte autoannichilente per i depe, per questo lo chiama il principio del nirvana, il"
+  },
+  {
+   "start": 1760.36,
+   "end": 1781.029,
+   "text": "desiderio di annullarsi che conduce a molte cose inspiegabili dalla sua libido, come il ripercorrere esperienze dolorose. Per questa differenza di Einstein a cui scrisse lui era pessimista sul futuro dell'umanità perché l'uomo è violento per natura. In totem e tabù Freud parla di antropologia e religione affermando che la società sia appunto il superio che nasce dalla"
+  },
+  {
+   "start": 1781.039,
+   "end": 1790.95,
+   "text": "figura paterna che dice al figlio cosa fare, cosa non fare e poi dalla società tutta. Il superio collettivo che opprime gli individui limitando le libertà. Ma come obseggio."
+  },
+  {
+   "start": 1790.96,
+   "end": 1807.23,
+   "text": "Dio stesso che è il padre è una proiezione di questo superiore collettivo, una emanazione del padre primordiale che i figli temono perché tiene l'aren per sé obbligandoli ad andare via. Quindi esogamia forzata come i nei leoni, oppure ucciderlo. Ma temendo di fare la stessa fine, ne consumano le carni per assorbire la sua"
+  },
+  {
+   "start": 1807.24,
+   "end": 1823.83,
+   "text": "essenza e rendono il padre divino e obbligano i figli a venerarlo un'autorità paterna eterna. Hai elaborato la teoria che Mosè fosse un egiziano del culto di Aten che usò gli ebrei come seguaci dopo che questo cade in disuso dalla morte del faraone, cosa che spiega il suo nome egizio. Quindi la religione è una nevrosi di massa per"
+  },
+  {
+   "start": 1823.84,
+   "end": 1838.95,
+   "text": "Freud con cui esorcizzare la paura della morte e della natura e l'eucarestia consiste appunto nel mangiare la divinità. Il figlio si sacrifica per il padre. La psicanalisi spiega infiniti altri fenomeni come l'abbondare dei simboli fallici che non sarebbero casuali, ma proiezione del fallo stesso."
+  },
+  {
+   "start": 1838.96,
+   "end": 1856.269,
+   "text": "Pensate a come alcuni uomini curano la propria macchina in modo maniacale. Se la puliscono, se la lisciano, la mostrano in giro. Pensate ai gradi militari che ricordano una lancia, il saluto romano stesso, gli obelischi, le piramidi, le perversioni, ossia quando la sessualità non è diretta alla procreazione, ma qualcosa di diverso, tipo un vestito, un atteggiamento, un"
+  },
+  {
+   "start": 1856.279,
+   "end": 1872.43,
+   "text": "ruolo, le orecchie da gatta. Nessuna di queste cose serve per la riproduzione, il sadismo e il masochismo in cui i due istinti si mescolano. Freud proclamò, ricordate in che epoca è nato, che la l'omosessualità non è una malattia, che non è sbagliata, non è un vizio, non fa male e non c'è nulla di cui vergognarsi,"
+  },
+  {
+   "start": 1872.44,
+   "end": 1890.43,
+   "text": "definendo anzi ogni uomo bisessuale a livello fondamentale. La definiva una variazione della sessualità prodotta da un arresto dello sviluppo nella sua versione sosteneva che si potesse provare a curare, ma l'esito era imprevedibile. Oggi sappiamo che è impossibile curare l'omosessualità. Sì, è impossibile. C'è poi l'interpretazione dei sogni in cui ho già parlato nel mio"
+  },
+  {
+   "start": 1890.44,
+   "end": 1909.11,
+   "text": "video sulla psicologia dei videogiochi nel dettaglio, ma ricapitolando, per Freud i sogni hanno un contenuto manifesto, che è ovvio, e uno nascosto che invece mostra per metaforo e simboli quello che il subconscio desidera, ma il superiorio non non permette di mostrare così com'è. Compito dello psicologo, interpretare i sogni. Fumava molto Freud e disse che il fumo può sostituire la"
+  },
+  {
+   "start": 1909.12,
+   "end": 1926.31,
+   "text": "masturbazione, ma ricordate che un sigaro a volte è solo un sigaro. Freud spiegava la ripetizione compulsiva degli atti ripercorrendo una deficienza e il suo superamento, la negazione e la razionalizzazione con cui coloro che hanno un problema non lo vogliono ammettere ed anzi iniziano a ragionare per elaborare teorie alternative che evitano la falsificazione, la"
+  },
+  {
+   "start": 1926.32,
+   "end": 1944.509,
+   "text": "regressione, l'identificazione paterna, la somatizzazione, come nella coscienza di Zeno, il corpo soffre perché la mente soffre. Queste ultime tre sono state concettualizzate dalla figlia. Ultima nota è la differenza tra il principio di piacere, ciò che vogliamo, e di realtà ciò che è, cosa che renne l'uomo sempre infelice. Incontrò Salvador da lì inizialmente disprezzava i surrealisti"
+  },
+  {
+   "start": 1944.519,
+   "end": 1951.07,
+   "text": "che a lui si ispiravano, ma dopo questo incontro rimase folgorato, subì persecuzioni dei nazisti e andò in esilio a Londra con tutta la famiglia."
+  },
+  {
+   "start": 1951.08,
+   "end": 1968.07,
+   "text": "Le sorelle non vennero incluse sia perché non aveva abbastanza soldi, sia perché contava di venire a prenderle dopo, sia perché nessuno a quei tempi poteva immaginare cosa Hitler stesse per fare, le camere a gas. Inoltre fu costretto per gli eventi precipitosi ad andarsene. Le sorelle morirono. Fu supportato da Maribona parte in questo"
+  },
+  {
+   "start": 1968.08,
+   "end": 1985.029,
+   "text": "esilio, portandosi 17 persone totali. Quando morì la madre sentì che poteva morire ora anche lui, perché non voleva che lei ne soffrisse. A casa del fumo sviluppò un tumore e dovette subire l'asportazione della mascella, lasciandolo quasi sempre silenzioso con una protesi. Dopo aver sofferto tantissimo, discusse con il suo dottore di come questa era divenuta una tortura"
+  },
+  {
+   "start": 1985.039,
+   "end": 2001.149,
+   "text": "causa delle metastasi e che se la figlia lo avrebbe reputato giusto l'avrebbero fatta finita. Il dottore si consultò e dopo somministrò una dose letale di oppiacei e Freud morì due giorni dopo in un sonno tranquillo. Non sto a leggervi tutto l'albero genealogico. Sapate che tutti i suoi parenti sono diventati famosi, compreso suo nipote che applicò"
+  },
+  {
+   "start": 2001.159,
+   "end": 2020.07,
+   "text": "la psicologia subliminale in politica. Freud nel corso del tempo subirà varie critiche come quella di Sartr che sosteneva che non esiste l'inconscio perché l'essenza dell'uomo è la coscienza. Ma questa, come disse giustamente Boldwin, è un'incomprensione dei testi di Freud. L'Istituto psicanalitico russo fu l'unico a ricevere il sostegno dello Stato, fino a quando Stalin non salì al potere e"
+  },
+  {
+   "start": 2020.08,
+   "end": 2037.389,
+   "text": "iniziò a perseguitare degli psicanalisti, perché non si finisce mai di scoprire le troiate di Stalin. Freud è stato accusato di essere sessista e fallocentrico, ma la femminista Jacqueline Rose giustamente corresse questa visione dicendo che Freud non auspica ciò che descrive ed anzi la visione dell'invidia penis è un'ottima metafora della condizione della donna in"
+  },
+  {
+   "start": 2037.399,
+   "end": 2049.629,
+   "text": "questa società altamente patriarcale. Sicuramente Freud si sbagliava sull'orgasmo femminile. Oggi sappiamo che questo è essenzialmente clitorideo, non o clitorideo o vaginale. YouTube sta buona e non demonetizzare questo video che il tuo logo ricorda proprio quello."
+  },
+  {
+   "start": 2049.639,
+   "end": 2068.51,
+   "text": "Popper criticò pesantemente Freud dicendo che la sua tesi era infalsificabile. In realtà, come dico sempre io, Popper fu un genio su tutto tranne che su due cose: marxismo e psicanalisi, dove ha pesantemente semplificato. Già il filosofo Grombam disse che Popper aveva sbagliato e gli stessi freudiani dissero che la psicanalisi era falsificabile, come con"
+  },
+  {
+   "start": 2068.52,
+   "end": 2075.43,
+   "text": "il complesso di Dipo. venne accusato di antisemitismo, fascismo, evasione fiscale e di essere tossico da Onfrey."
+  },
+  {
+   "start": 2075.44,
+   "end": 2078.99,
+   "text": "Cosa ridicola, visto che Freud era ebreo etnicamente e fu pure perseguitato."
+  },
+  {
+   "start": 2079.0,
+   "end": 2089.829,
+   "text": "Persino il filosofo ebreo Henry Lev difese Freud. Venne accusato di essere antimarxista, ma in realtà i marxisti presero a prestito spessissimo la psicanalisi per la loro critica al capitalismo, come lo stesso Reich."
+  },
+  {
+   "start": 2089.839,
+   "end": 2110.95,
+   "text": "Witgenstein criticò la libera associazione delle idee perché non si sapeva dove fermarsi. Altra critica era quella che i sogni fossero privi di significato. Semplici sprazzi caotici attività nervosa, poi riordinati dalla corteccia. In realtà diversi neurocienziati hanno contestato questa cosa. Risulta palese che l'attivazione ripercorre istanze specifiche della mente. Diventa un po' difficile falsificare tale idea. Passiamo invece"
+  },
+  {
+   "start": 2110.96,
+   "end": 2131.069,
+   "text": "agli elogi. Nonostante un iniziale declino della psicanalisi nell'ambito psichiatrico tra gli anni 60 e 80, diverse metanalisi confermano che la psicanalisi è efficace nella terapia di molte patologie. Diversi neuroscienziati, compresi David Eaglemman, hanno elogiato il ruolo di Floyd e anche il premio Nobel Candallito la psicanalisi come il modello a tutt'oggi più coerente della mente"
+  },
+  {
+   "start": 2131.079,
+   "end": 2149.109,
+   "text": "umana. E il modello neuroscientifico del cervello Triuno ricorda Freud che è stato paragonato a Platone per la sua influenza, la sua visione dei sogni e della mente umana tripartita. Camille Paglia definì Freud l'erede di Nietzsche, creatore d'arte, che con Marx forma il trio dei mestri del sospetto secondo Rickur. Freud infine, ha avuto"
+  },
+  {
+   "start": 2149.119,
+   "end": 2168.109,
+   "text": "un'enorme influenza nelle mie storie e ora aspettiamo nei commenti qualche hater che dirà di essere un po' psicologo nel volermi interpretare politicamente. Sin dalla fondazione la psicanalisi deve affrontare divisioni non ortodosse e in particolare la tendenza di alcuni a fare di testa propria e interpretare troppo. Tra questi divergenti abbiamo Adler, il quale riprende Nietzsche affermando che"
+  },
+  {
+   "start": 2168.119,
+   "end": 2182.589,
+   "text": "l'allibido fa parte della volontà di potenza e da qui deriva l'idea del complesso di inferiorità, come chi ha un difetto e per compensare vuole essere grande in qualcosa di collegato, il balbuzzi empti diventano oratori, gli zoppi notatori e così via. Ora sapete come si dice cosa sta compensando."
+  },
+  {
+   "start": 2182.599,
+   "end": 2202.15,
+   "text": "Abbiamo Richik che sviluppa la teoria dell'armatura muscolare come somatizzazione che parlò molto della funzione dell'orgasmo e poi cadde nel misticismo con il suo orgone. Abbiamo Pearls, il quale sviluppò il Gelstat, ossia che è involzato da Reich e Jung, ossia dei partner riguardanti i livelli di funzionamento di un organismo, sottolineando l'importanza della terapia"
+  },
+  {
+   "start": 2202.16,
+   "end": 2218.39,
+   "text": "di gruppo fino ad arrivare a formare delle vite comunali. E parliamo di Jung e del film A Dangerous Method che parla della sua vita. Jung fu il primo presidente della società internazionale degli psicanalisti. Era l'allievo più brillante di Freud che lo vedeva come il suo allievo prediletto e Jung sicuramente in Freud vedeva un padre che"
+  },
+  {
+   "start": 2218.4,
+   "end": 2239.349,
+   "text": "era anche maestro e padrone, ma iniziò a curare una donna, Sabina Spillrain, schizofrenica, che aveva subito abusi dal padre da piccola e che si era per questi eccitata sviluppando un masochismo. I due iniziano una relazione. Il Transfert è decisamente parecchio conoft. Questa andava contro l'etica della psicanalisi, quindi Jung mise fine alla relazione e lei si fece"
+  },
+  {
+   "start": 2239.359,
+   "end": 2243.069,
+   "text": "curare da Freud, il padre quindi che gli prende la paziente, ma anche l'amante."
+  },
+  {
+   "start": 2243.079,
+   "end": 2250.47,
+   "text": "Il rapporto tra Freud e Jung si complica. Jung era profondamente religioso, famoso alla sua frase \"Io non credo in Dio io lo so che Dio esiste\"."
+  },
+  {
+   "start": 2250.48,
+   "end": 2267.47,
+   "text": "Freud negava ogni cosa di materiale, soprattutto per evitare che gli psicanalisti venissero presi per stregoni. Jung invece credeva nella sincronicità, ossia le coincidenze rarissime pregne di significato per il soggetto che le vive qui ed ora. Il film è pieno di questo scontro tra fede e scienza, spiritualità e materialità."
+  },
+  {
+   "start": 2267.48,
+   "end": 2272.23,
+   "text": "Jung alla fine si distacca dalla psicanalisi e Freud gli chiese di non usare tale termine per le sue teorie."
+  },
+  {
+   "start": 2272.24,
+   "end": 2290.19,
+   "text": "Quindi Jung usò la psicologia analitica. La sua teoria più famosa è quella del che oltre al concio singolare ci sia un inconscio che non è vuoto come vuole Freud, ma pieno di archetipi che sono comuni a tutta l'umanità perché tale inconscio è collettivo. Tutta l'umanità è unita a livello mentale. Archetipi comuni sono, per esempio, la grande"
+  },
+  {
+   "start": 2290.2,
+   "end": 2309.39,
+   "text": "madre presenti in tutte le religioni. Il subconscio di Freud si trasforma nell'ombra di Jung che ha una caricatura meno netta e Jung divide ogni coscienza in un anim lato maschile e anima femminile. Ogni uomo è dominato dall'animus, mentre l'anima resta latente. E nella donna l'anima domina e l'animus è latente. Vi mi chiedo se nei"
+  },
+  {
+   "start": 2309.4,
+   "end": 2327.829,
+   "text": "transessuali la cosa non sia quindi capovolta. Per Jung. Animus e Anima sono come due poli di una batteria e la loro pulsione genera energia psichica che spinge l'uomo a desiderare. Infatti durante l'adolescenza l'uomo è molto energetico e molto sessuale. Invecchiaia la batteria è scarica, nel senso che i due poli sono molto simili, infatti gli"
+  },
+  {
+   "start": 2327.839,
+   "end": 2348.75,
+   "text": "anziani sono molto più androgini. Per Jung ogni estroverso privilegge il mondo esterno consciamente, ma inconsciamente si concentra sull'io e viceversa per gli introversi. Purtroppo il dissing continuò. Jung cercò di proteggere gli psicanalisti ebrei durante le persecuzioni e mandò del denaro a Freud che però rifiutò sdegnosamente ritenendo Jung un razzista."
+  },
+  {
+   "start": 2348.76,
+   "end": 2352.27,
+   "text": "Jung e sopravvissuto al suo maestro scrivendo addirittura un necrologio."
+  },
+  {
+   "start": 2352.28,
+   "end": 2371.95,
+   "text": "Quanta Sabina influenzò Freud nella teoria della pulsione della morte e divenne psicanalista. Jung sposò una donna di nuovo sua paziente che gli ricordava lei, un caso evidente in psicanalisi freudiana di sostituzione per compensazione. Vi lascio il link Amazon di Come vedo io il mondo di Einstein, l'interpretazione di sogni di Freud, il libro rosso di Jung e il film"
+  },
+  {
+   "start": 2371.96,
+   "end": 2388.03,
+   "text": "e DVD di A Dangerous Mind in descrizione. Il video è rallentabile dalla rotellina. Se questo video ti è piaciuto, ti invito a mettere mi piace, ad iscriverti al canale e a visitare la pagina Facebook, il canale Telegram, il canale Twitch dove faccio live, il profilo Twitter, la pagina TP Patron europeo, se vuoi donare per sostenere il"
+  },
+  {
+   "start": 2388.04,
+   "end": 2403.19,
+   "text": "canale e ottenere dei premi, la lista di Steam se vuoi giftarmi un gioco, il negozio con le email ufficiali, il profilo Instagram e anche il mio profilo Whatpad dove scrivo store. Trovate tutto in descrizione. Inoltre, se questa rubrica ti piace, aiuta a sostenerla condividendo questo video e scrivendo qua sotto i tuoi pensieri. Ringrazio"
+  },
+  {
+   "start": 2403.2,
+   "end": 2406.88,
+   "text": "miei patrons e ci vediamo al prossimo"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 10.08,
+   "title": "La scienza inizia a cambiare agli inizi del si tenta di unif…"
+  },
+  {
+   "start": 316.919,
+   "title": "Ci sono stati filosofi come Schopenhauer, invece, che avevan…"
+  },
+  {
+   "start": 626.64,
+   "title": "tre dimensioni, ma anche nel tempo. E ci insegna che lo spaz…"
+  },
+  {
+   "start": 936.88,
+   "title": "una sola forza, ma la gravità ancora oggi ci sfugge. Sono co…"
+  },
+  {
+   "start": 1248.12,
+   "title": "Esattamente come Spinoza, lui credeva in un principio che tr…"
+  },
+  {
+   "start": 1564.919,
+   "title": "blocca e cerca di bloccarli con le proibizioni, allora i des…"
+  },
+  {
+   "start": 1872.44,
+   "title": "definendo anzi ogni uomo bisessuale a livello fondamentale. …"
+  },
+  {
+   "start": 2182.599,
+   "title": "Abbiamo Richik che sviluppa la teoria dell'armatura muscolar…"
+  }
+ ]
+}

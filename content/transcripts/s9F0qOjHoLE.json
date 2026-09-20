@@ -1,0 +1,759 @@
+{
+ "video_id": "s9F0qOjHoLE",
+ "segments": [
+  {
+   "start": 10.92,
+   "end": 21.349,
+   "text": "Allora, volevo fare un audio di aggiornamento di un mio vecchio audio che poi è diventato anche video quando avevo parlato del destino di Linux."
+  },
+  {
+   "start": 21.359,
+   "end": 33.03,
+   "text": "Allora, Windows ha sempre avuto un sostanziale monopolio dei sistemi operativi perché c'era solo ed esclusivamente il fisso server inclusi."
+  },
+  {
+   "start": 33.04,
+   "end": 42.069,
+   "text": "All'epoca i telefoni non avevano sistemi operativi, il concetto di console portatile non esisteva, un vero e proprio concetto di console portatile."
+  },
+  {
+   "start": 42.079,
+   "end": 67.31,
+   "text": "Le console stesse erano una cosa talmente semplificata, vabbè, di fatto il computer era tutto e a livello di computer lo standard IBM, Microsoft Intel regnava assoluto e quindi Windows regnava assoluto. Apple non è mai stata una una competizione seria perché i sistemi operativi Apple fanno schifo e hanno un sacco di incompatibilità e"
+  },
+  {
+   "start": 67.32,
+   "end": 75.95,
+   "text": "soprattutto il problema dei videogiochi su Apple non gira quasi un cazzo e e di conseguenza Windows ha sempre regnato."
+  },
+  {
+   "start": 75.96,
+   "end": 95.429,
+   "text": "Tanto che se voi guardate la distribuzione di percentuale dei sistemi operativi, Windows ha un solo rivale, un altro sistema Windows. Di solito il il rivale di Windows Vista era Windows XP e poi il terzo classificato alle volte era un altro Windows, dovevi scendere un po' prima di arrivare ad Apple."
+  },
+  {
+   "start": 95.439,
+   "end": 123.51,
+   "text": "E Linux è sempre stato marginale. Linux è sempre stato per pochi per gli eletti, eh perché perché era difficilissimo da installare e aveva tantissimi problemi di compatibilità con programmi vari e soprattutto a livello di videogiochi era una tragedia e con tutti i videogiochi, single player e multiplayer e di conseguenza tutti i sistemi Linux"
+  },
+  {
+   "start": 123.52,
+   "end": 129.55,
+   "text": "insieme non rivaleggiavano con un singolo sistema Windows."
+  },
+  {
+   "start": 129.56,
+   "end": 160.869,
+   "text": "Figurati tutti Windows insieme. Poi però il mercato smartphone è esploso e lì fondamentalmente Google si è infilata e non solo ha rubato a Microsoft il primato per quanto riguarda i browser con Chrome, togliendolo a Explorer e quindi poi ad Edge, ma togliendo anche eh di fatto questa cosa qui, perché a livello di smartphone"
+  },
+  {
+   "start": 160.879,
+   "end": 174.83,
+   "text": "Android ha finito per regnare. Ora, a livello di smartphone, Apple ha avuto molta più fortuna che con i computer. I computer Apple fanno cagare, gli smartphone Apple, cioè gli iPhone pure, ma hanno venduto molto di più."
+  },
+  {
+   "start": 174.84,
+   "end": 202.91,
+   "text": "invece le vendite dei Mining Touch fanno proprio schifo. Ehm, nonostante questo i sistemi Android si sono moltiplicati negli anni è arrivato Samsung e tutte le altre Huawei, Xia Xiaomi, tutte ste aziende asiatiche fondamentalmente e tutte 3000 altre cose, mentre soltanto Apple produce gli iPhone. Di conseguenza Android ha finito per diventare il sistema maggioritario per quanto"
+  },
+  {
+   "start": 202.92,
+   "end": 229.47,
+   "text": "riguarda non solo gli smartphone, ma anche tutte le micro console, queste consoline che escono ogni 3 secondi girano Android e di fatto a un certo punto, io non so quando, si è arrivati alla maggiore distribuzione per pezzi singoli di sistemi mobile rispetto al sistema fisso. ci sono meno computer fissi rispetto a sistemi mobile e quello è"
+  },
+  {
+   "start": 229.48,
+   "end": 245.11,
+   "text": "stato il momento in cui insindacabilmente Android ha vinto, in cui Linux ha vinto perché ricordiamo che Android è stato sviluppato e è una componente, no? Come si dice? Un fork, non conosco il termine corretto, di Linux. Giusto, giustissimo."
+  },
+  {
+   "start": 245.12,
+   "end": 264.59,
+   "text": "E va bene, si sa, eh. A livello di mobile Microsoft ci ha provato, ha provato a fare diversi dispositivi mobile, non hanno mai preso, non è mai stata una competizione seria. di fatto la competizione di Android è l'iPhone che fa cagare come sistema, quindi è perfetto. Va bene. Ma a livello di fissi"
+  },
+  {
+   "start": 264.6,
+   "end": 288.749,
+   "text": "Microsoft continua a regnare? In realtà non è vero, perché a livello di server, anche a livello di server Microsoft stessa utilizza Linux che è il paradosso, giusto? Nonostante loro, se non sbaglio, vendano qualcosa per i server. E va bene, ma a livello di computer fissi classici, cioè quelli che proprio vengono venduti così,"
+  },
+  {
+   "start": 288.759,
+   "end": 305.27,
+   "text": "eh classici proprio da utilizzo casalingo, l'OM computer, che sono anche quelli numeri alla mano che fanno la differenza. Beh, lì fondamentalmente Microsoft resta regnante, visto che i Makintosch continuano a fare schifo e i sistemi Linux continuano ad essere problematici."
+  },
+  {
+   "start": 305.28,
+   "end": 325.79,
+   "text": "E però e però si è giunti ad una questione, ovverosia che abbiamo avuto Steam che tenta di disarcionare, l'abbiamo detto tante volte, Windows, soprattutto quando ci fu il disastro di Windows 8."
+  },
+  {
+   "start": 325.8,
+   "end": 329.749,
+   "text": "E allora tentarono di fare la console casalinga."
+  },
+  {
+   "start": 329.759,
+   "end": 343.029,
+   "text": "Vedete che Microsoft ogni volta che sorge un nuovo mercato ha cercato di infilarsi prima l'Xbox, il Windows Phone e non è non è mai andata particolarmente bene, eh."
+  },
+  {
+   "start": 343.039,
+   "end": 361.55,
+   "text": "E quindi fondamentalmente Steam Machine che tentò di dire \"Ok, noi vogliamo produrre una roba che può essere usata come computer casalingo, noi creiamo un sistema operativo proprio funzionante, stimo S, però non era compatibile con tanti joy, soliti problemi di Linux\"."
+  },
+  {
+   "start": 361.56,
+   "end": 377.15,
+   "text": "Ma di recente hanno sviluppato questo stimo S così bene grazie a Proton che girano tranquillamente quasi tutti i programmi e quasi tutti i giochi nativamente."
+  },
+  {
+   "start": 377.16,
+   "end": 388.469,
+   "text": "E per gli altri giochi comunque dici devi smanettare, ma devi smanettare anche relativamente poco. Sono poche le robe proprio incompatibili ibili ibili o che richiedono smanettamenti sbattenti."
+  },
+  {
+   "start": 388.479,
+   "end": 405.189,
+   "text": "la stragrande maggioranza delle cose o funziona oppure funziona. Devi scaricare giusto due cosine che persino uno uno come me ce la fa e se ce la fa uno come me è tanto, eh? vuol dire che hanno fatto un ottimo lavoro, perché io ho un una naturale abilità per la distruzione."
+  },
+  {
+   "start": 405.199,
+   "end": 409.99,
+   "text": "Non solo, c'è anche il dispositivo per rilasciarlo, un dispositivo mobile."
+  },
+  {
+   "start": 410.0,
+   "end": 431.589,
+   "text": "Proprio adesso, tra l'altro, che Microsoft non ci ha mai voluto provare sul mobile fino a poco tempo fa, ora hanno provato a fare quella cosa lì, la Legion, giusto? eh eh portatile fatta alla Xbox che però costa un fottiliardo e c'è la versione non Xbox che è uguale praticamente, semplicemente non c'ha il"
+  },
+  {
+   "start": 431.599,
+   "end": 447.909,
+   "text": "coso nativo e ho capito, ma a quel punto giochi sul tuo smartphone, cioè è un acquisto ben poco sensato a parer mio, persino per chi ha tanti soldi. Ripeto, io ho sempre detto rà solo perché avete i soldi non vuol dire che tutto è giustificato. Io ce li ho i soldi per una PlayStation 5, non me la prendo lo"
+  },
+  {
+   "start": 447.919,
+   "end": 469.749,
+   "text": "stesso perché sinceramente a una certa a una certa gli devi di' senti ciao ebbene con la Steam Deck loro si infilano in un mercato dove esiste solo Nintendo ed è un mercato già dominato da Android e occasionalmente da Windows 10 e buttano."
+  },
+  {
+   "start": 469.759,
+   "end": 476.95,
+   "text": "Steamos si afferma e dalla Steam Deck si espande. si espande in tanti computer dove si vede che funziona e non solo."
+  },
+  {
+   "start": 476.96,
+   "end": 497.749,
+   "text": "Abbiamo detto che alcuni giochi non funzionano, ma quei giochi che funzionano, ebbene, a volte si è arrivati al ala alla alla ribaltatura, cioè spesso e volentieri su Linux giravano peggio le cose di Windows. Adesso in alcuni giochi, è il contrario, in alcuni giochi, Linux gira meglio perché perché Windows è diventato un blotware incredibile. è sempre stato"
+  },
+  {
+   "start": 497.759,
+   "end": 518.99,
+   "text": "blotterino, eh, però di recente stanno esagerando e in più Windows, vedi che succede con il monopolio, non hai motivo di migliorare. Windows è poco ottimizzato. Poi di recente sono impazziti completamente, fanno fanno scrivere il codice alla i e hanno rovinato gli SSD, cioè veramente siamo alla pazzia. Però in linea generale il fatto che adesso"
+  },
+  {
+   "start": 519.0,
+   "end": 540.91,
+   "text": "Linux diventi conveniente non solo a livello di prezzo perché è gratis, ma il fatto che sia conveniente a livello di gaming su Windows, questa è una cosa che non si era mai vista prima e ovviamente non poteva che farlo Steam che ha il monopolio della distribuzione dei videogiochi."
+  },
+  {
+   "start": 540.92,
+   "end": 554.23,
+   "text": "E adesso sta arrivando la Steam Machine, una console fissa che vuole infilarsi in quello spazio lì. E allora ricapitoliamo un secondo."
+  },
+  {
+   "start": 554.24,
+   "end": 572.75,
+   "text": "Su mobile regna già Linux con Android. Google sta cercando di rovinarlo chiaramente, però la roba del sideloing delle app che avrebbe rovinato gli emulatori se ne sono pentiti e l'hanno tolta e adesso hanno fatto, ecco, hanno fatto una cosa bella, poi se la rimangeranno prima o poi, lo so, però per ora hanno fatto una cosa bella,"
+  },
+  {
+   "start": 572.76,
+   "end": 595.03,
+   "text": "hanno fatto che tu accetti i rischi. Sì, sì, grazie, è così che voglio essere trattato come adulto io, sottoscritto morte bianca, clicco, accetta e voglio scaricare il programma. È un virus, è una cosa fare e son cazzi miei. Non me lo devi impedire. Io non voglio lo Stato che ti che ti deve impedire di fare le"
+  },
+  {
+   "start": 595.04,
+   "end": 611.069,
+   "text": "stronzate finché riguardano te. E va bene. Quindi, ehm, ricapitoliamo. Su Android, su su mobile domina Linux da sempre. è stato il primo regno in cui Linux ha dominato."
+  },
+  {
+   "start": 611.079,
+   "end": 635.47,
+   "text": "Sulle console portatili qui Linux già adesso regna grazie a Steamoo S. Nintendo non usa Windows, chi lo sappia. Ehm e in più tantissime consoline girano con Android, alcune girano con Windows 10, ma non è sufficiente minimamente. E ancora oggi la Steam Deck è quella che vende di più rispetto a tutte le altre, rispetto alle"
+  },
+  {
+   "start": 635.48,
+   "end": 643.629,
+   "text": "varie eh alternative e quindi di fatto Linux pure qui regna."
+  },
+  {
+   "start": 643.639,
+   "end": 654.509,
+   "text": "rimangono server PC fissi e console fisse a livello di server."
+  },
+  {
+   "start": 654.519,
+   "end": 683.269,
+   "text": "Già lì Linux sta esplodendo da tanti anni a livello di eh console fisse, a parte Xbox, nessuna utilizza eh Windows. E ora io non sto dicendo che Steam Machine arriverà a superare le vendite di PlayStation o di Xbox, anche perché è la prima. Di solito le console ci mettono un po' ad ingranare, a meno"
+  },
+  {
+   "start": 683.279,
+   "end": 701.629,
+   "text": "che non siano PlayStation, perché PlayStation 1, la prima PlayStation, esplose in una maniera incredibile. PlayStation ci ha messo un po' a rovinare il suo prodotto, iniziando con la tre principalmente e poi rovinandosi completamente con la 4 e adesso la 5 che è un disastro acclarato."
+  },
+  {
+   "start": 701.639,
+   "end": 717.47,
+   "text": "Bene. Ed infine nel fisso dove già ti possono ci sono tante officine informatiche, oggi che è più facile che mai, oggi che è più compatibile che mai, tante officine informatiche si offrono di installarti Linux."
+  },
+  {
+   "start": 717.48,
+   "end": 732.75,
+   "text": "Non è più soltanto come una volta che vabbè signora tot in più le mettiamo la licenza di Windows. No, adesso è eh No, signora, signora, per un giovane una proposta del genere, che cosa ci vuoi? Ci vuoi mint?"
+  },
+  {
+   "start": 732.76,
+   "end": 748.189,
+   "text": "ci vuoi Ubuntu? Certo, ovviamente ti mettono quelli grossi, quelli famosi, quelli standard, che non sono i migliori, tendenzialmente sono quelli un po' più commercialoni, tra virgolette, perché sono gratis, eh, quasi sempre. Ma insomma il punto è un altro."
+  },
+  {
+   "start": 748.199,
+   "end": 780.949,
+   "text": "si è infilato dappertutto e adesso il dominio di Microsoft è sempre più accerchiato. E ricordiamo Microsoft come sta rispondendo tutto questo, con numero uno, una eh una console portatile che è praticamente inutile, tanto vale giocare sul tuo cellulare, ne esistono varianti meno costose, cioè è un disastro."
+  },
+  {
+   "start": 780.959,
+   "end": 805.35,
+   "text": "Numero due, mettendo la i e obbligando tutti quanti a transitare dopo che aveva promesso che Windows 10 sarebbe stato il sistema operativo eterno, facendo gli stessi errori che fecero con vista, cioè numero uno, abbandonare un sistema operativo molto amato che era XP, numero due, obbligare un cambiamento hardware con quella roba lì del del della scheda"
+  },
+  {
+   "start": 805.36,
+   "end": 810.629,
+   "text": "madre che deve essere presente per motivi di sicurezza."
+  },
+  {
+   "start": 810.639,
+   "end": 814.67,
+   "text": "Veramente una una roba disastrosa. Numero tre, la i che scrive il codice."
+  },
+  {
+   "start": 814.68,
+   "end": 839.15,
+   "text": "Che stronzate. E per giunta, rendendolo un blotware incredibile con la gente che si lamenta tantissimo che quando installi un computer m quando installi un sistema di Microsoft parte già lento, parte già rallentato e più va avanti più Microsoft ha suon di aggiornamenti per giunta poco ottimizzati. ripeto, è questo che fa il monopolio. Suondi tutto cos rovina. Lo"
+  },
+  {
+   "start": 839.16,
+   "end": 860.91,
+   "text": "rovina. Ti compri una roba targata Microsoft, dopo pochissimo tempo inizia a rallentare e tu dici \"Vabbè, mi disinstallo le cose\". Ci sono quei programmi, i deblot, no, sono delle robe che tu le installi e ti puliscono il PC. Lo puoi fare solo all'inizio e sono delle robe amatoriali, non sono approvate da Microsoft. A un"
+  },
+  {
+   "start": 860.92,
+   "end": 875.35,
+   "text": "aggiornamento ti sminchiano il computer. È possibile di nuovo? Non non sono contro queste cose qui, però è una di quelle cose in cui devi assumerti la responsabilità, in cui devi dire accetto che mi si potrebbe danneggiare il sistema e questa cosa è sbagliata."
+  },
+  {
+   "start": 875.36,
+   "end": 905.389,
+   "text": "Stimo S è leggero, è un è Linux, quindi è molto più privacy orientato, è molto più personalizzabile, ma soprattutto è Arch Arch Arch la migliore distro possibile, ma resa facile, cioè hanno fatto veramente alchimia quello che ha fatto Gabe e alchimia pure hanno preso il più brutale, difficile e l'hanno reso facile, insomma. Insomma,"
+  },
+  {
+   "start": 905.399,
+   "end": 920.87,
+   "text": "io non sto dicendo domani Microsoft 5% tutti i loro sistemi, cioè che si ribalta la situazione e invece stimo al 90%, non sto dicendo questo. Numero uno, Apple continuerà a vendere Mcintosch."
+  },
+  {
+   "start": 920.88,
+   "end": 943.67,
+   "text": "Faranno pochissimo, ma comunque qualcosa fanno. Numero due, a livello mobile gli iPhone continueranno a vendere. Numero tre, tantissime consoline continuano continueranno ad avere Windows 11 installato sopra perché è il sistema che comunque la maggior parte dei developer conosce per i videogiochi e queste consoline sono fatte per i videogiochi e SimoS è ancora"
+  },
+  {
+   "start": 943.68,
+   "end": 956.749,
+   "text": "sperimentale. Detto questo, sta cosa che lui che Gabb ha rilasciato stimo tutti ci possono sperimentare sopra, se lo possono studiare veramente di un di un etico gargantuesco."
+  },
+  {
+   "start": 956.759,
+   "end": 983.79,
+   "text": "Quello che io sto dicendo è che cambieranno le percentuali, non che si stravolgeranno. Ah, domani Microsoft viene comprata da Morte Bianca, tanto è diventata piccola. Non sto dicendo questo. Sto dicendo che Linux avrà un'importante crescita, soprattutto mano che i Baby boomers muoiono, e vedremo sempre di più Android penetrare laddove prima si pensava"
+  },
+  {
+   "start": 983.8,
+   "end": 990.79,
+   "text": "soltanto che sistemi classici avrebbero penetrato, Steam S crescerà, eccetera eccetera."
+  },
+  {
+   "start": 990.8,
+   "end": 1019.269,
+   "text": "Vabbè, tutte rose, tutto bello, tutto meraviglioso. No, purtroppo c'è un presagio oscuro nel futuro. Sarà inizialmente così per un bel postimo godrà di aggiornamenti continui, sarà install, sarà tipo Doom che lo installao sulle patate, sui frigoriferi, sulle stampanti, eh sugli sui Samsung, dappertutto, no? Ecco, sarà una roba simile. Ci sarà un periodo così"
+  },
+  {
+   "start": 1019.279,
+   "end": 1029.909,
+   "text": "virtuoso che durerà un bel po', ma c'è un problema e quel problema è lo stesso di Microsoft. è un monopolio."
+  },
+  {
+   "start": 1029.919,
+   "end": 1040.99,
+   "text": "Microsoft ha il sostanziale monopolio dei sistemi operativi su fisso e questo li ha resi compiacenti."
+  },
+  {
+   "start": 1041.0,
+   "end": 1062.99,
+   "text": "Non hai competizioni, lo Stato non ti regola, quindi fai il cazzo che vuoi, quindi non ti impegni, spendi il minimo indispensabile. Se una feature rovina il tuo prodotto, però ti fa guadagnare di più, lo fai. Encitification. E quindi ora Windows è pieno di pubblicità, pieno di app preinstallate, la i tutte ste stronzate con cui sperano di ottenere"
+  },
+  {
+   "start": 1063.0,
+   "end": 1076.75,
+   "text": "informazioni e soldi da voi a livelli mai visti prima. fare un botto di soldi per niente. La loro rivale è la grande mela che fa cagare con PC fissi, quindi lo possono fare."
+  },
+  {
+   "start": 1076.76,
+   "end": 1085.35,
+   "text": "Steam ha lo stesso problema, ma dall'altro lato, non dal lato console portatili, perché c'è Nintendo."
+  },
+  {
+   "start": 1085.36,
+   "end": 1107.31,
+   "text": "Vero è però che se guardi dal lato console portatili customizzabili che ci puoi fare cose, è un po' il monopolo ce l'hanno, cioè sì. È vero, ci sono le varie consoline alternative, ma non vendono minimamente tanto quanto Steam Deck, non sono minimamente ottimizzate quanto tanto Steam Deck e non sono ottimizzate per Steam e quindi, ma non"
+  },
+  {
+   "start": 1107.32,
+   "end": 1127.31,
+   "text": "mi riferisco a quello, mi riferisco all'essere il portale dei videogiochi, all'essere l'Amazon dei videogiochi. Se ci fosse la partnership su Steam ogni singolo mio video, io linkerei assolutamente, farei un sacco di soldi, mannaggia che non si può. linkerei tantissimo i link dei giochi di Steam, direi. Vi lascio il link Steam, lo farei"
+  },
+  {
+   "start": 1127.32,
+   "end": 1138.87,
+   "text": "tranquillamente come lo faccio per Amazon, perché su Amazon tanti giochi non ci sono, non c'è, non è mai uscito in fisico."
+  },
+  {
+   "start": 1138.88,
+   "end": 1150.95,
+   "text": "Ora che stavo dicendo? Steam ha questo dominio praticamente incontrastato come ehm web store di videogiochi."
+  },
+  {
+   "start": 1150.96,
+   "end": 1159.669,
+   "text": "La le sue alternative sono poche, hanno pochissimo di rilevanza e soprattutto fanno schifo."
+  },
+  {
+   "start": 1159.679,
+   "end": 1182.39,
+   "text": "Epic orrore. Epic è terrificante e ora se l'è comprato. Ora vabbè da un po' se l'è comprato pure Tensent che peggia ancora, cioè peggio sempre peggio. Epic è una roba che ogni volta che la devo accendere mi vorrei martellare fortissimo i Perché esisti Epic? Perché io ep odio per Epic che non avete idea."
+  },
+  {
+   "start": 1182.4,
+   "end": 1207.669,
+   "text": "Betesda, il suo tentativo lo ha accannato. Ubisoft e con il suo Uplay e EA con il suo prima Origins, ora si chiama EA Play, si sono arrese, ce l'hanno ancora, eh, però EA Play è orribile da usare. Play, non ve non ne parliamo neanche, per favore."
+  },
+  {
+   "start": 1207.679,
+   "end": 1233.51,
+   "text": "Non ha rivali, non ha competitor, ci sarebbe Amazon Games, tecnicamente il Microsoft Store, ma non c'entrano niente. Ma Amazon Games non non ha mai preso e con Twitch che sta morendo peggio che mai, no? Il punto è che questo è un monopolio e quindi non c'è alcun incentivo ad essere virtuosi. Ora, qual è la cosa? è che Gabe ha un"
+  },
+  {
+   "start": 1233.52,
+   "end": 1252.95,
+   "text": "controllo gigantesco anche per influenza su Steam e quindi lui sta usando la sua influenza per fare il cosiddetto capitalista etico, quindi il classico Olivetti, no? Il classico per certi aspetti anche Bill Gates, no? Un sacco di soldi in beneficenza, queste cose qui simpatiche, no? Che cosa ha fatto Gabe di bello?"
+  },
+  {
+   "start": 1252.96,
+   "end": 1258.789,
+   "text": "principalmente ha usato la sua leva politica per cose pro consumer."
+  },
+  {
+   "start": 1258.799,
+   "end": 1279.87,
+   "text": "Per esempio, quando volevano mettere le pubblicità nei giochi, Gabe ha messo proprio boom il cazzo sul tavolo. Ha detto \"Voi non vi dovete azzardare a mettere pubblicità, se li mettete li buttate fuori da Steam\". Tradotto, vendite allo 0%. Vai, vattene su Epic, vai su Epic. Vedi, vedi quando qualcuno dice \"Ah, devo è uscito questo gioco\"."
+  },
+  {
+   "start": 1279.88,
+   "end": 1283.87,
+   "text": "Uh, che bello! È un gioco amatissimo, lo vogliono tutti, è pure in sconto."
+  },
+  {
+   "start": 1283.88,
+   "end": 1287.63,
+   "text": "Minchia, sono andato a comprarlo. Dove sta su Epic?"
+  },
+  {
+   "start": 1287.64,
+   "end": 1292.63,
+   "text": "Porca E si martellano i Dove sta la password?"
+  },
+  {
+   "start": 1292.64,
+   "end": 1310.95,
+   "text": "Che palle. Codice di autentificazione. Due palle. Non lo usi due settimane. E non lo usi due settimane perché fa schifo. Te le chiede di nuovo che tu paglioni. È una roba inenarrabile. Non non è così ottimizzato, non è così plastico. Non c'hai quella libreria."
+  },
+  {
+   "start": 1310.96,
+   "end": 1313.51,
+   "text": "E un attimo ti sei ammazzato le vendite."
+  },
+  {
+   "start": 1313.52,
+   "end": 1321.549,
+   "text": "Vendi comunque, attenzione, il successino lo fai, ma lo sanno e quindi non s'azzardano."
+  },
+  {
+   "start": 1321.559,
+   "end": 1341.269,
+   "text": "Quando anche quando ha fallito pure Steam si è ottenuto una certa reputazione positiva, quando ha provato a resistere a PayPal, Visa e Mastercard che hanno detto \"No, vesti sti giochi troppo porny\". No, Gabe ci ha provato, no? E tutti quanti, anche se ha fallito, gli vogliamo bene. Diciamo, \"Eh, però lui ha provato a resistere eccetera,"
+  },
+  {
+   "start": 1341.279,
+   "end": 1362.07,
+   "text": "ovvio lo fa per i soldi, eh, non è che lo fa perché vao bene, lo fa perché la reputazione è danaro in questo caso.\" Bene, io ve l'ho detto tante volte e in tanti miei audio questo è un è un mio timore ricorrente. Io francamente temo questa cosa più della bolla."
+  },
+  {
+   "start": 1362.08,
+   "end": 1383.59,
+   "text": "Io temo il giorno in cui morirà Gab, perché il giorno in cui muore Gabe e il suo successore prende il potere è finita, ragazzi, è finita. Steam che già oggi non è vostro amico, vi ricordo che Steam esattamente come Gog, perché poi arrivano i Gog fanby, dice che tu non stai comprando i giochi, stai comprando"
+  },
+  {
+   "start": 1383.6,
+   "end": 1404.39,
+   "text": "le licenze. Non dipende da Steam, non dipende da queste cose qui. Vi ricordo che Steam in teoria non vuole che ereditate gli account, dipende anche da Steam. anche Steam in questo gioco ci guadagna perché chiaramente i vostri figli dovrebbero in teoria ricomprarsi i giochi. Poi sì c'è l'account sharing, poi sì Steam non lo può sapere cosa fate"
+  },
+  {
+   "start": 1404.4,
+   "end": 1410.19,
+   "text": "con la vostra email e password, però capito, no?"
+  },
+  {
+   "start": 1410.2,
+   "end": 1427.31,
+   "text": "Ora il giorno che muore Steam Sì, Gabe, una lapsus interessante in realtà il giorno che muore Gabe è finita, ragazzi, è finita. Io gli voglio bene, gli auguro di vivere 30.000 Milanni, ma tipo tipo l'imperatore dell'umanità, se no così attaccato al trono. Sh, ma io io lo vado a tenere in vita come quelli"
+  },
+  {
+   "start": 1427.32,
+   "end": 1435.07,
+   "text": "dell'imperatore dell'umanità. Vado a fare l'adeptus, io vado a fare i 1000 sacrifici al giorno, io ci penso, cioè lo tengo in vita io. Ma non andrà così."
+  },
+  {
+   "start": 1435.08,
+   "end": 1449.909,
+   "text": "E questo è il problema del capitalismo etico, che devi monarchicamente sperare che una volta su 1000 ti arriva il re buono, ma poi crepa e siamo punte a capo. E qui il nuovo re buono, il milionario buono. Il giorno che muore, ragazzi."
+  },
+  {
+   "start": 1449.919,
+   "end": 1456.669,
+   "text": "Ti siamo eccitati di eh eccitati lo so, ma non per i motivi che pensi. Siamo eccitati di darvi delle grandi novità."
+  },
+  {
+   "start": 1456.679,
+   "end": 1465.029,
+   "text": "Dite, dite. Innanzitutto abbiamo la grande opportunità di usare pubblicità nei videogiochi di Steam, no? Primo."
+  },
+  {
+   "start": 1465.039,
+   "end": 1469.19,
+   "text": "Secondo, da oggi in poi ci saranno pubblicità anche dentro Steam. No."
+  },
+  {
+   "start": 1469.2,
+   "end": 1472.446,
+   "text": "Terzo, con le nuove feature a No, no."
+  },
+  {
+   "start": 1473.279,
+   "end": 1480.07,
+   "text": "Quarto, da questo momento su non potrete più comprare con i soldi, ma con le gemme. No, no."
+  },
+  {
+   "start": 1480.08,
+   "end": 1484.892,
+   "text": "Cinque. In questo momento le mod saranno a pagamento."
+  },
+  {
+   "start": 1485.6,
+   "end": 1508.11,
+   "text": "Sei questo momento tutti gli account hanno una data di scadenza di 50 anni, dopodiché dovete ricomprare tutto da cap. No. Sette. I giochi che non avete giocato da 50 anni ve li disattivi otto. Non non sarà tutto in una volta, sarà piano piano, ma sarà una atroce, ragazzi, perché Steam è un monopolio che ha tanti modi"
+  },
+  {
+   "start": 1508.12,
+   "end": 1532.23,
+   "text": "di essere spremuto e non sta venendo spremuto. non sta venendo spremuto perché Gabe è uno di quei capitalisti di nuovo tra virgolette illuminati tra virgolette etici che sa che una buona reputazione ed essere consumer friendly paradossalmente conviene al capitalista, però richiede sacrifici a breve termine, richiede \"Eh, però le Ferrari io vorrei sette Ferrari ora, ma te ne fai 100 di"
+  },
+  {
+   "start": 1532.24,
+   "end": 1542.909,
+   "text": "Ferrari se stai zitto e aspetti\". Invece se spremi tanto sai che succede? Succede che ti fai 10 Ferrari subito, però non ti farai le 100 dopo, lo sai perché?"
+  },
+  {
+   "start": 1542.919,
+   "end": 1561.389,
+   "text": "Perché la gente piano piano odierà il tuo prodotto. Tu dici: \"Eh, ma perché c'è la competizione del capitalismo?\" Non necessariamente. A volte sì, a volte è quello. Ma nel caso di Monopoli questa cosa non succede. Facebook fa schifo, tutti sappiamo che fa schifo. Nessuno difende Facebook, resta il primato."
+  },
+  {
+   "start": 1561.399,
+   "end": 1575.029,
+   "text": "È un monopolio. Succede che o la gente si rivolge all'illalità oppure la gente abbandona proprio il servizio, non vuole più aver parte a quel mondo lì oppure si rivolge alla competizione."
+  },
+  {
+   "start": 1575.039,
+   "end": 1591.63,
+   "text": "E io l'ho detto tanto, io questa cosa la temo perché il giorno in cui muore Gabe, arriva il successore e Valve diventa tipo Apple, è finita. È finita. Lo sai perché?"
+  },
+  {
+   "start": 1591.64,
+   "end": 1621.269,
+   "text": "Perché fino ad ora la roba di stop killing videames che è come una cassandra che avvisa di un problema e non sta venendo ascoltata, la roba di stop killing videogames è valsa per tanti giochi, ma sono una minoranza di giochi. La maggioranza dei giochi è ancora là. Bene, ma vi ricordate che ho detto che il 95% dei giochi è a"
+  },
+  {
+   "start": 1621.279,
+   "end": 1641.75,
+   "text": "rischio estinzione, giusto? Steam, il giorno in cui Steam inizia ad adoperarsi in quei modi lì è la fine. Il giorno in cui Steam dovesse iniziare a rendervi più difficile giocare ai giochi che già possedete."
+  },
+  {
+   "start": 1641.76,
+   "end": 1648.47,
+   "text": "Il giorno in cui Steam inizierà ad indagare, \"Ma questo account è davvero tuo o l'hai editato da tuo nonno? Perché questo account è stato creato nel 2013?"
+  },
+  {
+   "start": 1648.48,
+   "end": 1665.11,
+   "text": "Siamo nel 2140, siamo sicuri sicuri? il giorno in cui Steam inizierà a a dire, \"Allora già Steam, questo è stato sempre un difetto di Steam, è un po' puritano a livello sessuale, il giorno in cui Steam diventa ancora peggio, che su questo ha già perso, ricordiamolo, eh, non è uno dei fronti in cui Steam è migliore."
+  },
+  {
+   "start": 1665.12,
+   "end": 1681.87,
+   "text": "Pensa come deve diventare dopo Gab il giorno in cui Microsoft, sì, Microsoft, Mastercard, Visa e PayPal decidono che ancora meno sesso ci deve stare. il giorno in cui decidono che Doki Doki non gli piace perché eh quelle gonne sono un po' troppo ammiccanti."
+  },
+  {
+   "start": 1681.88,
+   "end": 1685.87,
+   "text": "Niside non gli piace perché eh puoi guardare sotto la sottana."
+  },
+  {
+   "start": 1685.88,
+   "end": 1707.19,
+   "text": "È finita, ragazzi, è finita perché fino ad ora Steam si opporrebbe, ma in altri casi Steam in mano a gente che vuole soltanto più Ferrari possibili è la fine sarebbe un disastro, una catastrofe. Ed è qui che ritorna il mio discorso iniziale, anche stimo S, perché non è che Linux significa, come credono certi"
+  },
+  {
+   "start": 1707.2,
+   "end": 1724.59,
+   "text": "Linuxari, santità. Linux è un modo di fare le cose a livello di sistema operativo, ma poi ci può essere anche un Linux in mano ad aziende. Stimo S è una una una distro che di fatto è gestita da un'azienda."
+  },
+  {
+   "start": 1724.6,
+   "end": 1743.19,
+   "text": "Sono loro che fanno gli update, sono loro che lo tengono compatibile. Il giorno in cui decidono di fare come Microsoft, il giorno in cui decidono che Steam S deve riempire di ads, deve prendervi le informazioni per l'anticheat non vi permette di fare certe cose, tu dici \"Eh, ma non me ne frega, io non"
+  },
+  {
+   "start": 1743.2,
+   "end": 1754.23,
+   "text": "aggiorno, mi tengo stimo essere delle prime versioni di quando c'era Gab\". Sì, ma saranno anche le versioni meno compatibile con i futuri aggiornamenti di Steam, fino a che a un certo punto può darsi che Steam non funzioni più."
+  },
+  {
+   "start": 1754.24,
+   "end": 1762.47,
+   "text": "Siamo punto e da capo. Sarà molto peggio di quello che è successo a Ubuntu. Ubuntu a confronto."
+  },
+  {
+   "start": 1762.48,
+   "end": 1774.47,
+   "text": "Nusent. Io non sto dicendo che avverranno tutte le cose che ho detto a seconda delle sensibilità del singolo capitalista, di quale corrente di azionisti prevarrà, di cosa accadrà."
+  },
+  {
+   "start": 1774.48,
+   "end": 1796.31,
+   "text": "Potrebbero avvenire tutte queste cose, però è quello che io temo è il giorno in cui immagina milioni di giocatori che hanno speso milioni di euro dollari in librerie di Steam gigantesche, gli vengono tolte, gli viene sostanzialmente detto tutti i soldi che avete speso non contano un cazzo perché perché you will nothing and you will be happy. Quel"
+  },
+  {
+   "start": 1796.32,
+   "end": 1813.35,
+   "text": "giorno la gente, un bel po' di gente, non dico tutti perché tutti non esiste, non compreranno più una minchia, non solo da Steam, da Epic, cioè Steam se affonda, è come il Titanic, si porta giù tutto. Si porta giù Epic, si porta giù Uplay, si porta tutto."
+  },
+  {
+   "start": 1813.36,
+   "end": 1824.789,
+   "text": "E quel giorno, signori, io ve lo dico, quel giorno a sopravvivere saranno soltanto due tipi di videogiochi."
+  },
+  {
+   "start": 1824.799,
+   "end": 1845.549,
+   "text": "Il primo sarà il modello Netflix, cioè Game Pass principalmente, secondariamente la la copia, la brutta copia di Game Pass di PlayStation, la brutta copia di Game Pass di Origin che se non sbaglio è inclusa, eh, è la brutta copia che vorrà fare Ubisoft perché vuoi che non lo facciano. Quindi l'idea, no, ragazzi, lo sappiamo che i"
+  },
+  {
+   "start": 1845.559,
+   "end": 1862.23,
+   "text": "giochi non le possedete, quindi pagate di conseguenza pagate una cifra mensile, quindi la gente dice \"No, va bene, quello lo spendo perché lì almeno non mi mentono.\" Almeno so che quei soldi me li possono togliere in ogni momento, ma a sto punto pago poco e c'ho tutto. Perché comprare il singolo gioco come faceva i"
+  },
+  {
+   "start": 1862.24,
+   "end": 1866.43,
+   "text": "tempi di Steam se poi ti viene tolto tutto?"
+  },
+  {
+   "start": 1866.44,
+   "end": 1888.629,
+   "text": "Se poi Trump si sveglia e decide all games developing China has to be removed by Steam e Steam si piega come si è piegata Google, come si è piegato Microsoft. Tutti loro si sono piegati a qualche capriccio di Trump. Regà, aziende internazionali, internazionali, internazionali, ma gran parte del loro fatturato viene dagli Stati Uniti e se"
+  },
+  {
+   "start": 1888.639,
+   "end": 1893.43,
+   "text": "Trump mette qualche tariffa loro perdono un botto di soldi, quindi si piegano."
+  },
+  {
+   "start": 1893.44,
+   "end": 1928.47,
+   "text": "Alla fine so aziende americane, loro possono dire \"Ma noi abbiamo la sede legale nello Zimbabwe, in Irlanda, nel Burundi?\" Sì, s se là c'hai tutti gli uffici, c'hai tutte le cose e si ritornerebbe appunto da capo con stimo S alfa che è quello bello, aggiornato, ripulito, sicuro, compatibile con i giochi anche multiplayer, però quello più castrato e"
+  },
+  {
+   "start": 1928.48,
+   "end": 1941.19,
+   "text": "quello più rog e a quel punto arriveranno delle alternative, degli archinali che dicono \"Ma noi a sto punto sì contro Steam, dai, abbiamo anche noi una specie di Proton, dai\"."
+  },
+  {
+   "start": 1941.2,
+   "end": 1950.029,
+   "text": "E si frantumerà perché il Linux ha sempre avuto sto problema della grande divisione, no, della community."
+  },
+  {
+   "start": 1950.039,
+   "end": 1970.669,
+   "text": "Il secondo modello che prevalrà sarà il modello diametralmente opposto, cioè il modello che ti promette che tu acquisti quel gioco e quel gioco è tuo. Soltanto che questo modello in un certo senso non esiste più perché non c'è più la cartuccia fisica che ti vendono e tu te la giochi nell'hardware e finché"
+  },
+  {
+   "start": 1970.679,
+   "end": 1993.95,
+   "text": "funziona l'hardware e finché funziona la cartuccia c'è tutto. Ormai tutti sti cazzo di giochi richiedono un controllino onine, una paccina, un qualcosa, però non è necessario questo, lo sappiamo bene. Stop killing videogames lo dimostra questo. Stop killing videogames, vi ricordo che non è retroattiva, non dice tutti i giochi che non sono fatti così li dovete rendere"
+  },
+  {
+   "start": 1993.96,
+   "end": 2012.269,
+   "text": "così, dice da questo momento in poi i giochi li sviluppate così, cioè che quando non ve ne volete occupare più sono in grado di girare su quei computer o su server da cui declinate ogni responsabilità gestite dalla community e so cazzi di chi possiede quel server e l'azienda non ha più problemi. Non lo"
+  },
+  {
+   "start": 2012.279,
+   "end": 2039.11,
+   "text": "vogliono fare. Non lo vogliono fare perché così non vi possono rivendere il remake perché non è morto davvero il prequel, l'original quel possiamo immaginare che ci sarà un mercato principalmente su ich in un certo senso anche GOG. Vi ricordo che pure GOG c'ha quella cosa lì, però GOG quantomeno è molto più offline"
+  },
+  {
+   "start": 2039.12,
+   "end": 2062.95,
+   "text": "friendly. Ci sarà un mercato di giochi basati sull'autenticità, su una specie di bollino immaginario che dice \"Tu questo gioco una volta che l'hai comprato è tuo, io non te lo posso disattivare, io non te lo posso spegnere\". Non ho un termine, non è come free source, open source, freewar, software, tutte ste cazz. Non c'ho un termine per una cosa"
+  },
+  {
+   "start": 2062.96,
+   "end": 2086.79,
+   "text": "simile, eh, chiamiamolo va bene? un software che funziona anche offline, anche se il lo sviluppatore odia il suo prodotto, ha cambiato idea, lo odia, lo vuole cancellare dalla Terra, benissimo, non ti può fare niente, ok? Ecco, ci sarà questo termine che in futuro, non lo so, qualcuno creerà, per ora lo chiamiamo software e si baserà"
+  },
+  {
+   "start": 2086.8,
+   "end": 2105.31,
+   "text": "molto su questo, sull'idea di sì, tu compri questo gioco, però non ti serve un launcher, non ti serve niente. Sai che cos'erano i giochi Java? erano così, tu non dovevi neanche installarli, era una cartella, premevi sull'Exe, funziona tutto, plug and play, solo che quelli dipendevano da Java, da quando Jav è stato dismesso mo ti devi devi usare di"
+  },
+  {
+   "start": 2105.32,
+   "end": 2118.63,
+   "text": "fatto un programma che lo simuli. Eh, però queste cose funzionano solo per giochi piccoli, per giochi grossi te comunque devi installare. Ma ripetiamolo, non è necessaria questa cosa dell'online."
+  },
+  {
+   "start": 2118.64,
+   "end": 2139.43,
+   "text": "Io questa cosa la temo molto di più dalla bolla A. Lo sai perché? Perché la bolla ai non è non è certo che esploderà. Può darsi che riescano a sviluppare degli usi e degli utilizzi effettivamente pratici per la i e quindi non ci sarà un'esplosione totale, magari un'esplosione parziale dalla bolla, magari come un foruncolo invece che una"
+  },
+  {
+   "start": 2139.44,
+   "end": 2156.15,
+   "text": "bolla, invece di esplodere completamente si sgonfia ed esce molto puss. Il pus ovviamente sapete tutti di chi sto parlando, invidia. Eh, che vi ricordo Nvidia, avevo visto in questo video, Nvidia vale più di tutta l'economia del Sud America."
+  },
+  {
+   "start": 2156.16,
+   "end": 2158.47,
+   "text": "Cioè, raga, è è un po' una bolla, eh."
+  },
+  {
+   "start": 2158.48,
+   "end": 2168.71,
+   "text": "Cioè, attenzione, dai, oggettivamente una compagnia che vale quanto un pezzo di pianeta non è sano come sistema opera, economico, non solo operativo."
+  },
+  {
+   "start": 2168.72,
+   "end": 2186.67,
+   "text": "Quindi niente, ragazzi miei, questa è la mia opinione. Io spero di sbagliarmi, non non voglio avere ragione. Cioè, se domani riderete su questo audio, direte: \"Che io sarò contentissimo, perché ho detto: \"Minchia, meno male, proiettile schivato, son felice di aver fatto una figuraccia\" e invece io ho paura che avverrà. Però è uno spettro"
+  },
+  {
+   "start": 2186.68,
+   "end": 2206.67,
+   "text": "quello che avvo raccontato. Possono succedere tante cose, dalla più brutta a una versione un po' meno brutta e magari saremo un po' in mezzo, però non ci sono tanti margini di miglioramento per come la vedo io e io lo temo più della bolla AI, sai perché? Perché il mercato videoludico nel suo insieme è gigantesco. La bolla"
+  },
+  {
+   "start": 2206.68,
+   "end": 2231.23,
+   "text": "ai sì, sono quelle tre cazzo di aziende, eh, Open AI, eh, Nvidia e e AMD. Ok. Sì, sono loro tre principalmente poi le varie aziendine che c'hanno le loro piccoline, Copilot, Siri, eh Grock, Depsic, Dipsic entra nel mercato cinese che diventa ancora più complicato."
+  },
+  {
+   "start": 2231.24,
+   "end": 2254.51,
+   "text": "Bene, però il mercato videoludico non c'è una sola realtà grossa, ce ne sono tante piccoline, ma io non voglio raggiungere quel crash fu i videogiochi che venivano buttati nel nei nei cassoni e è servita Nintendo quella volta per resuscitare con il suo Seal of approval."
+  },
+  {
+   "start": 2254.52,
+   "end": 2270.349,
+   "text": "Seal che oggi non significa niente, lo sappiamo. Quel Seal l'ha ricevuto Violetto, l'ha ricevuto ZA, cioè sappiamo ormai vuol dire niente e te lo vendono pure a €100, non vuol dire un cazzo. E quindi chi sarà la prossima Nintendo?"
+  },
+  {
+   "start": 2270.359,
+   "end": 2279.39,
+   "text": "Cioè per il momento, se dovessi dire una Nintendo dell'epoca, cioè qualcuno che che può salvare il mercato, a me viene in mente solo Steam."
+  },
+  {
+   "start": 2279.4,
+   "end": 2291.63,
+   "text": "Se domani se domani Steam facesse uno Steam Seal of Quality, ci fideremmo tutti. Io per primo mi fido. Ho capito, ma che succede quando Steam diventa il cattivo."
+  },
+  {
+   "start": 2291.64,
+   "end": 2297.829,
+   "text": "Chi è il prossimo Nintendo? Chi è il prossimo Steam?"
+  },
+  {
+   "start": 2297.839,
+   "end": 2334.79,
+   "text": "Non non lo so. Non mi viene in mente nessuno, anche perché serve qualcuno di più giovane di Gabe. E chi è più giovane di Gabe che però si è talmente affermato che può sostituirlo. Non mi viene in mente nessuno. Rà, so che quando bevo ad alcuni fa ridere, ad altri dà fastidio."
+  },
+  {
+   "start": 2334.8,
+   "end": 2340.44,
+   "text": "Non mi viene in mente nessun gabe, spero di sbagliarmi."
+  }
+ ],
+ "chapters": [
+  {
+   "start": 10.92,
+   "title": "Allora, volevo fare un audio di aggiornamento di un mio vecc…"
+  },
+  {
+   "start": 305.28,
+   "title": "E però e però si è giunti ad una questione, ovverosia che ab…"
+  },
+  {
+   "start": 611.079,
+   "title": "Sulle console portatili qui Linux già adesso regna grazie a …"
+  },
+  {
+   "start": 905.399,
+   "title": "io non sto dicendo domani Microsoft 5% tutti i loro sistemi,…"
+  },
+  {
+   "start": 1207.679,
+   "title": "Non ha rivali, non ha competitor, ci sarebbe Amazon Games, t…"
+  },
+  {
+   "start": 1508.12,
+   "title": "di essere spremuto e non sta venendo spremuto. non sta venen…"
+  },
+  {
+   "start": 1813.36,
+   "title": "E quel giorno, signori, io ve lo dico, quel giorno a sopravv…"
+  },
+  {
+   "start": 2118.64,
+   "title": "Io questa cosa la temo molto di più dalla bolla A. Lo sai pe…"
+  }
+ ]
+}

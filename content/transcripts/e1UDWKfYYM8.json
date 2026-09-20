@@ -1,0 +1,629 @@
+{
+ "video_id": "e1UDWKfYYM8",
+ "segments": [
+  {
+   "start": 10.8,
+   "end": 34.19,
+   "text": "in questo video Parleremo della dimensionalità nei videogiochi ovverosia Quante dimensioni graficamente ci possono essere in un videogioco quante persone possono esserci nel videogioco prima persona terza persona ma anche seconda persona e altre e quante dimensioni di comando ci possono essere in un videogioco come Cominciamo dalle dimensioni inerenti lo spazio dei videogiochi stesso prima dobbiamo"
+  },
+  {
+   "start": 34.2,
+   "end": 55.51,
+   "text": "chiarire Che cos'è una dimensione in Matematica la dimensione è il grado di libertà che ha un punto di muoversi nello spazio ovverosia quante cifre devo usare per definire le sue coordinate tante più sono quante più cifre ci sono tanto più il punto è libero quindi io ho un punto nello spazio e se ho solo due"
+  },
+  {
+   "start": 55.52,
+   "end": 76.95,
+   "text": "coordinate lunghezza e larghezza il punto può muoversi in due dimens ovvero sia in un piano ma se ho tre dimensioni profondità si può muovere in un cubo Tre dimensioni appunto se ne ha quattro in un Iper cubo e così via quindi tutti noi abbiamo presente un gioco in 2D sono quei giochi per così dire piatti in cui il"
+  },
+  {
+   "start": 76.96,
+   "end": 97.95,
+   "text": "protagonista può muoversi solo su due assi quello orizzontale e quello verticale pensiamo agli isometrici che guardano il protagonista Dall'alto o ai platform da lato e tutti conosciamo i giochi in 3D in cui il protagonista può muoversi anche avanti e indietro e che simulano la tridimensionalità Ma che ci crediate o meno esiste una modalità a"
+  },
+  {
+   "start": 97.96,
+   "end": 118.35,
+   "text": "metà tra 3D e 2D ossia il 2,5d Che cos'è ora a seconda della persona a cui chiedete otterrete una definizione diversa la definizione più diffusa è un gioco che è a livello di controllo in 2D ma a livello grafico in 3D è un concetto su cui ritorneremo a fine video quindi pensate a quei"
+  },
+  {
+   "start": 118.36,
+   "end": 135.309,
+   "text": "platform quindi che sono in due 2D in cui però il motore renderizza in 3D la grafica Cioè puoi vedere gli alberi che sono tridimensionali gli sfondi e il resto sono palesemente in 3D però sempre come super Mario ti puoi muovere avanti e indietro su giù basta c'è lo sfondo ma non ci puoi andare la seconda"
+  },
+  {
+   "start": 135.319,
+   "end": 159.19,
+   "text": "definizione è il contrario ovverosia giochi che sono in 3D come Gameplay Ma bidimensionali come grafica pensiamo a Zelda in cui sebbene siano in 2D i controlli ci sono le scale e i piani e i pti uno sopra l'altro dove puoi andare quindi c'è una tridimensionalità implicita in realtà Come ho detto prima il 3D nei videogiochi simula la"
+  },
+  {
+   "start": 159.2,
+   "end": 183.869,
+   "text": "tridimensionalità dico simula perché dovete ricordare che la nostra vista è bidimensionale noi vediamo tutto quanto sparso su dei pixel di uno schermo piatto che sono un analogo dei pixel tra virgolette dei nostri occhi noi non vediamo la tridimensionalità noi la intuiamo usando la prospettiva ossia analizzando le proporzioni tra gli oggetti proporzioni che non"
+  },
+  {
+   "start": 183.879,
+   "end": 208.99,
+   "text": "esisterebbero se vivessimo in un mondo bidimensionale In effetti ogni essere n dimensionale vede n-1 dimensioni se fossimo bidimensionali come in flatlandia vedremmo tutto quanto in una dimensione cioè monodimensionale cioè vedremmo delle linee multicolor Se fossimo delle linee saremmo morti perché non potremmo avere degli organi però facciamo finta che fossimo delle linee pensanti vedremmo soltanto un punto"
+  },
+  {
+   "start": 209.0,
+   "end": 232.67,
+   "text": "davanti a noi Noi siamo esseri che vivono in quattro dimensioni per questo motivo la nostra concezione è a tre dimensioni e per giunta visualizziamo in due pur intuendo la terza dimensione con la prospettiva ora la domanda sorge spontanea come sarebbe un gioco in una dimensione la risposta è semplice torniamo alla definizione un punto che ha una sola"
+  },
+  {
+   "start": 232.68,
+   "end": 253.63,
+   "text": "coordinata quindi un solo asse su cui muoversi quindi sarebbe un gioco ambientato su una retta c'è uno youtuber Mash Poe che ha creato un gioco in 1D che appunto è una linea in cui i vari punti possono essere di colore diverso e lo ha fatto sfruttando proprio il concetto di visione di cui abbiamo"
+  },
+  {
+   "start": 253.64,
+   "end": 276.51,
+   "text": "parlato prima un essere tridimensionale vede un mondo bidimensionale E allora lui ha creato un mondo in 2D isometrico e poi ha simulato il punto di vista del protagonista in modo simile a Doom per renderlo più giocabile ha allargato Anzi dovremmo dire allungato l'asse verticale Ma questo non rende il gioco meno monodimensionale perché basta che non ci"
+  },
+  {
+   "start": 276.52,
+   "end": 294.909,
+   "text": "sia variabilità lungo l'asse verticale come il codice a barre lui stesso fa questo esempio il codice a barre è in 1D come sarebbe un gioco in 0d semplice sarebbe un punto e basta un unico spazio monotono Eppure anche questo è possibile basterebbe rendere questo punto che può anche essere un quadrato L'importante è"
+  },
+  {
+   "start": 294.919,
+   "end": 315.83,
+   "text": "che non ci sia variabilità al suo interno può cambiare colore puoi pr dei pulsanti E tutto questo basta avanza comunque a generare un gioco Insomma sempre di più vediamo che c'è una differenza tra le dimensioni grafiche di un gioco e le dimensioni di controllo un gioco può avere una sola dimensione come grafica ma quattro come controlli ora"
+  },
+  {
+   "start": 315.84,
+   "end": 341.67,
+   "text": "che abbiamo parlato dei giochi semplici 0d 1D 2D 2,5d e 3D passiamo ai giochi complessi un gioco in 4D come sarebbe torniamo alla definizione di dimensione tanti punti che di loro sono 0d formano una retta 1D tante rette 1D formano un quadrato 2D tanti quadrati 2D formano un cubo 3D Dunque per avere 4D"
+  },
+  {
+   "start": 341.68,
+   "end": 361.95,
+   "text": "devi avere tanti 3D ossia Un iper cubo Ora noi siamo esseri che percepiscono il mondo in 3D eure con difficoltà come abbiamo spiegato prima però in realtà il nostro mondo è in 3D Noi abbiamo tre assi spaziali avanti e indietro sinistra destra sopra e sotto Ma poi c'è anche un asse temporale Quindi in realtà il"
+  },
+  {
+   "start": 361.96,
+   "end": 386.15,
+   "text": "nostro mondo è in 4D passato e futuro infatti la teoria della relatività formalizza il tempo come unito nello spazio il tessuto spazio temporale e utilizzando i numeri immaginari steph Hawking era riuscito a dimostrare che si può armonizzare il tutto in uno spazio quattro dimensioni quindi noi siamo oggetti tridimensionali che si muovono lungo il tempo quindi tanti fotogrammi"
+  },
+  {
+   "start": 386.16,
+   "end": 405.11,
+   "text": "3D uno dopo l'altro tu sei in 3D come corpo ma in 4D sei tutti i tuoi corpi dal passato la tua nascita al futuro la morte per questo motivo Noi abbiamo difficoltà a capire le quattro dimensioni in modo non matematico perché in matematica invece è chiarissimo esattamente come un essere bidimensionale di nuovo flatlandia"
+  },
+  {
+   "start": 405.12,
+   "end": 426.95,
+   "text": "avrebbe difficoltà a capirne uno tridimensionale gli sembrerebbe capace di cose paranormali se io prendo un foglio per andare da Punto a A punto B bidimensionalmente posso muovere il mio punto usando soltanto due assi due coordinata punto Ma se io uso una terza dimensione posso piegare il foglio agli esseri di flatlandia sembrerebbe che io"
+  },
+  {
+   "start": 426.96,
+   "end": 450.309,
+   "text": "sia capace di sparire e riapparire in punti lontanissimi in un istante allo stesso modo eventuali esseri capaci di manipolare la quarta dimensione sarebbero in grado di creare wormhole e curvare lo spazio-tempo teletrasportandosi istantaneamente altrove e a noi sembrerebbe impossibile ma è matematicamente possibilissimo quindi sì anche se è strano è possibilissimo vivere in"
+  },
+  {
+   "start": 450.319,
+   "end": 472.27,
+   "text": "quattro dimensioni e tecnicamente Noi abbiamo già creato diversi giochi quad dimensionali Ci sono alcuni giochi che possiamo definire 3,5d ossia giochi che a livello di Gameplay sono totalmente in 3D Ma essendo che il tempo scorre sono tecnicamente in 4D però secondo Questo ragionamento tutti i giochi in 3D sono 3,5d Forse è meglio usare una"
+  },
+  {
+   "start": 472.28,
+   "end": 494.79,
+   "text": "definizione più precisa Quella in cui il mio controllo sull'asse temporale è manipolabile da me tipo un gioco dove posso fermare il tempo tecnicamente questo gioco sarebbe in 3,5d cioè 3D con piccoli elementi 4D ma dei giochi effettivamente in 4D Cioè in cui lo spazio è esplorabile tanto in 3D quanto nella quarta dimensione sono stati"
+  },
+  {
+   "start": 494.8,
+   "end": 515.31,
+   "text": "creati pensiamo a 4D Miner che riprende appunto il funzionamento del tempo nella quarta dimensione In pratica il mondo è in 3D Ma c'è un comando con cui posso far scorrere la visione lungo la quarta dimensione e di conseguenza lo scenario cambia davanti a te con oggetti che compaiono dal nulla si distorcono e"
+  },
+  {
+   "start": 515.32,
+   "end": 539.509,
+   "text": "scompaiono ora come sarebbe un gioco in 5D sarebbe un insieme di 4D e le cose iniziano a farsi un po' astratte Quindi facciamo un esempio proveniente dalla fisica se 3D è lo spazio fisico immobile 4D è lo spazio-tempo con cui le cose si muovono in una linea temporale 5D sono tutte le linee temporali di un mult"
+  },
+  {
+   "start": 539.519,
+   "end": 561.43,
+   "text": "multiverso un essere pent dimensionale percepirebbe il mondo in 4D quindi vedrebbe un tesseratto senza problemi e sarebbe in grado di fare cose che persino nella quarta dimensione Sembrerebbero magiche se un essere quadrimensionale è capace di andare avanti e indietro nel tempo gradualmente spostandosi un essere pent dimensionale sarebbe in grado di viaggiare indietro"
+  },
+  {
+   "start": 561.44,
+   "end": 584.069,
+   "text": "nel tempo teletrasportandosi all'istante in una coordinata desiderata e ciò è possibile Se solo se esiste una quinta dimensione da usare per spostarsi lungo la quarta in modo immediato e questo ha senso Sia in matematica sia in fisica I viaggi nel tempo sono possibili se e solo se esistono altre linee temporali altrimenti si giunge a paradossi ora"
+  },
+  {
+   "start": 584.079,
+   "end": 602.79,
+   "text": "Esiste un gioco forse ne avete sentito parlare qualche volta se avete visto Queen gambit o se avete visto il video su Deep Blue contro kasparov è un gioco poco noto si chiama scacchi Ora gli scacchi sono stati modificati un sacco di volte li hanno esagonali cosa che rende controllare l'esterno e non il"
+  },
+  {
+   "start": 602.8,
+   "end": 623.75,
+   "text": "centro fondamentale li hanno Resi circolari in modo da accogliere tre giocatori li hanno persino Resi in 3D con Star Trek dove tu hai diversi piani sovrapponibili e piattaforme di attacco girabili rendendo il gioco complicatissimo Ebbene Esiste un gioco in 5D ossia scacchi in 5D con il viaggio nel tempo nel multiverso Sì questo è il"
+  },
+  {
+   "start": 623.76,
+   "end": 643.47,
+   "text": "titolo da me italianizzato in pratica sono scacchi normali solo che ogni volta che che fai una mossa si crea una nuova scacchiera che è il nuovo fotogramma e il futuro rispetto a quello di prima che è il passato quindi più si va avanti più si forma una linea temporale con tutte le fasi del gioco Ebbene i pedoni possono"
+  },
+  {
+   "start": 643.48,
+   "end": 662.03,
+   "text": "muoversi indietro nel tempo e io posso usare la mia Torre ora per mangiare il tuo re 8 anni fa scorrendo lungo la linea temporale e non solo è possibile cambiare il tempo creando nuove linee temporali e io posso spostarmi con i miei pedoni in altre linee temporali rendendo la cosa una guerra tra diverse"
+  },
+  {
+   "start": 662.04,
+   "end": 683.829,
+   "text": "linee temporali i più attenti di voi mi diranno aspetta morte bianca ma gli scacchi sono in 2D quindi questo gioco dovrebbe essere in 4D non 5D e però il gioco è 2,5d in termini grafici quindi questo in questo modo tecnicamente si arriva a 5D Comunque ovviamente per non rompere il gioco ci sono dei limiti alla"
+  },
+  {
+   "start": 683.839,
+   "end": 703.87,
+   "text": "quantità di linee temporali con linee temporali attive e inattive cosa Paradossalmente eh realistica da un punto di vista fisico ci sono varie scuole di pensiero sull'interpretazione a molti mondi della meccanica quantistica che è quella che postula l'esistenza di più linee temporali e tra queste non tutti pensano che ogni singola linea temporale possibile esiste"
+  },
+  {
+   "start": 703.88,
+   "end": 722.15,
+   "text": "e attiva e anzi Everett questo non lo diceva anche perché noi non possiamo dimenticare la relazione causale tra le linee temporali se io devo viaggiare nel tempo per creare una linea temporale X quella linea temporale X non è come la mia linea temporale che invece è spontanea dal Big Bang fino alla mia"
+  },
+  {
+   "start": 722.16,
+   "end": 742.629,
+   "text": "nascita e poi eh ci sono tutta una serie di quadrati in questo gioco transtemporal che si possono attraversare mi ricordo per esempio quella volta che io stavo giocando con kasparov a scacchi in 5D e ho usato un esercito di regine da tutte le linee temporali per andare a distruggere tutti i suoi pedoni prima ancora che"
+  },
+  {
+   "start": 742.639,
+   "end": 767.47,
+   "text": "nascessero e cambiare l'esito della guerra fredda creando un impero romano multiversale davvero uno dei momenti della Store degli Scacchi è possibile un gioco in 6D Sì come avete capito dal gioco in 5D citato poco fa più dimensioni ci sono più diventa francamente difficile stare dietro al Gameplay perché noi non siamo fatti per ragionare in 5D fuori dalla"
+  },
+  {
+   "start": 767.48,
+   "end": 787.47,
+   "text": "matematica figuriamoci in 6D Anche perché come abbiamo visto in fisica le dimensioni non sono tutte uguali Come può essere invece in matematica ad esempio nella teoria della relatività il tempo non si comporta proprio uguale uguale alle altre dimensioni spaziali non puoi andare indietro nel tempo facilmente come puoi andare a destra e a"
+  },
+  {
+   "start": 787.48,
+   "end": 811.47,
+   "text": "sinistra No oppure la quinta dimensione il multiverso nell'interpretazione a molti mondi della meccanica quantistica è possibile per oggetti microscopici viaggiare tra le linee temporali ma per oggetti macroscopici le cose si fanno più complicate oppure pensiamo alle 11 dimensioni della M Theory In pratica per generare tutti i fenomeni del Campo del modello standard sono necessarie delle"
+  },
+  {
+   "start": 811.48,
+   "end": 831.389,
+   "text": "stringhe monodimensionali che vibrano ma non vibrano solo in tre dimensioni vibrano in 11 dimensioni Il problema è che gran parte di queste dimensioni sono compat ific ossia si verificano solo a livello microscopico noi non possiamo interagir c e Bisogna porre dei limiti al gioco Inoltre perché sennò il numero di mosse possibili diventa troppo alto e"
+  },
+  {
+   "start": 831.399,
+   "end": 854.11,
+   "text": "il computer per elaborarle tutte esploderebbe appunto hanno fatto scacchi in 5D perché scacchi è un gioco semplice sempre tra virgolette pensa a fare cyberpunk 2077 in 5D credo che come CPU ti servirebbe il buco nero super massivo al centro di messier 87 e pure lì arriveresti a 45 FPS senza retracing io posso fare un"
+  },
+  {
+   "start": 854.12,
+   "end": 877.069,
+   "text": "gioco in tutte le dimensioni che voglio Finché me lo permette l'hardware ma una volta che hai capito come funziona Non è che cambi granché ogni dimensione extra ti permette di muoverti in modi prima impossibili e saltare a coordinate prima distanti in un istante su più piani dimensionali è così ora passiamo alle persone nei videogiochi quali persone"
+  },
+  {
+   "start": 877.079,
+   "end": 898.03,
+   "text": "possiamo vivere nei videogiochi e passo per questo la parola al professor Toniolo Ciao sono Francesco Toniolo sono un professore universitario e mi occupo di videogiochi sono qui per provare a ragionare insieme a voi su questo discorso delle persone videoludiche e diciamo fin da subito anche un paio di premesse La prima è che ci sono tanti"
+  },
+  {
+   "start": 898.04,
+   "end": 920.11,
+   "text": "modi con cui si può può provare a intendere questo concetto ho cercato di farlo anche partendo da quelle che sono delle esperienze Comunque già esistenti quindi non andando a immaginare qualcosa di ipotetico l'altra premessa è che siamo comunque sempre davanti a un forte grado di approssimazione Se ci pensate questo vale anche con quelle che sono la prima"
+  },
+  {
+   "start": 920.12,
+   "end": 942.99,
+   "text": "e la terza persona videoludica quella a cui siamo abituati perché nella prima persona semplificando io sono dentro la testa del mio personaggio Quindi vado a condividere perfettamente il suo punto di vista sul mondo e della persona del personaggio vedo al massimo magari le braccia e poco più mentre invece in terza persona il mio punto di vista"
+  },
+  {
+   "start": 943.0,
+   "end": 965.59,
+   "text": "esterno è legato a quello di una telecamera che va a seguire questo personaggio cosa che non si sovrappone però perfettamente con quelle che è la prima e la terza persona per esempio nei romanzi o nei racconti dove invece appunto prima persona io troverò tutta una serie di frasi come entro al ristorante Ordino una pizza Mentre"
+  },
+  {
+   "start": 965.6,
+   "end": 987.389,
+   "text": "invece se fossimo in terza persona vedremo che si parla di Marco entra al ristorante e va a ordinare una pizza per cui Qual è il fatto è che nel videogioco noi comunque anche quando siamo in terza persona stiamo in ogni caso controllando quel personaggio Abbiamo spesso anche un forte grado di intervento di agency su"
+  },
+  {
+   "start": 987.399,
+   "end": 1009.71,
+   "text": "quella che è la su sua capacità di agire appunto Cioè questo anche discorso dell' agency sarebbe quanto sia in grado di operare in modo significativo sul mondo che ci circonda e questo vale sia per il personaggio sia per il giocatore le cose vanno di solito a sovrapporsi per cui siamo noi che entriamo Comunque in forte"
+  },
+  {
+   "start": 1009.72,
+   "end": 1029.669,
+   "text": "sintonia in forte legame con questo con questo personaggio qui anche quando siamo in una prospettiva in terza persona quindi è molto meno esterno da quel punto di vista lo è certo In quest'ottica di punto di vista di telecamera Scusate il gioco di parole sul punto di vista l'ottica di di telecamera proprio di dove vado a"
+  },
+  {
+   "start": 1029.679,
+   "end": 1053.07,
+   "text": "collocare il mio sguardo sul mondo Ed è principalmente in questo modo effettivamente che nel videogioco si è andato a intendere questo discorso per cui anche alcuni degli esempi che andremo a fare vanno in questa direzione altri prendono strade differenti Però perché ritengo che il concetto sia effettivamente più ampio e più sfaccettato come vi dicevo per cui"
+  },
+  {
+   "start": 1053.08,
+   "end": 1077.549,
+   "text": "Cominciamo con quella che è la seconda persona la prima e la terza non sto a fare esempi perché sono quelle già note sulla seconda persona quindi il tu c'è sicuramente un discorso che alcuni potrebbero aver già visto che è un video abbastanza famoso di Nick Robinson dove parla di una missione di scriviamolo anche usiamo questa bella"
+  },
+  {
+   "start": 1077.559,
+   "end": 1101.31,
+   "text": "lavagnetta e vedete quanto la mia grafia sia pessima comunque di Driver San Francisco ci parla appunto di questa missione dove noi abbiamo il punto di vista collocato all'interno di una macchina di un automobile o meglio all'interno della testa del guidatore di questo automobile ma in realtà noi con i controlli stiamo muovendo l'automobile"
+  },
+  {
+   "start": 1101.32,
+   "end": 1130.31,
+   "text": "davanti a noi per una serie di ragioni interne al gioco legate al fatto che possiamo sostanzialmente spostarci da un corpo all'altro e quindi è qualcosa sicuramente di inedito e secondo Nick Robinson questo Sarebbe un'idea di un videogioco in seconda persona Dove appunto abbiamo questo punto di vista scorporato quindi io sono nella testa di un personaggio ma i"
+  },
+  {
+   "start": 1130.32,
+   "end": 1156.27,
+   "text": "controlli il modo con cui mi muovo impatta su un personaggio differente in realtà se ci pensiamo non è una cosa neanche del tutto nuova Perché tutto sommato siamo davanti a qualcosa di simile anche già in Super Mario 64 dove lì abbiamo la telecamera che viene dieti che viene inserita appunto all'interno del mondo diegetico indicando che c'è un"
+  },
+  {
+   "start": 1156.28,
+   "end": 1179.149,
+   "text": "personaggio che sta seguendo Super Mario che in quel caso è la kitu no sapete quella specie di tartarughina sulla nuvoletta e noi sì in quel caso controlliamo entrambi Perché sostanzialmente ci viene detto che nel nel momento in cui agiamo sulla telecamera stiamo muovendo stiamo spostando la kitu e noi vediamo tutto quanto quindi dal punto di vista delle"
+  },
+  {
+   "start": 1179.159,
+   "end": 1205.19,
+   "text": "riprese che la kitu sta andando a fare per cui controlliamo Super Mario ma il nostro punto di vista è legato a quest'altro personaggio presente all'interno di quel mondo per cui come detto Non sarebbe neanche qualcosa di di totalmente nuovo è un gioco in seconda persona secondo questa idea di Nick Robinson Sì probabilmente secondo altri approcci No"
+  },
+  {
+   "start": 1205.2,
+   "end": 1230.029,
+   "text": "perché appunto siamo sempre comunque nell'ottica del punto di vista di dove andiamo a collocarci diciamo anche che se si volesse ragionare sulla seconda persona in un altro modo sicuramente l'esempio più facile che si può fare sono tutti quei videogiochi che hanno una forte parentela con i libri game quindi diverse Visual novel intorni Dove si va"
+  },
+  {
+   "start": 1230.039,
+   "end": 1259.549,
+   "text": "a utilizzare lo stesso approccio narrativo dei libri game dove In effetti in quel caso sono narrazioni molto spesso in seconda persona cio stai andando nel bosco trovi una cassaforte il Minotauro ti viene incontro Quindi c'è questo tipo qui di narrazione in senso letterario Come dicevamo prima che ha anche un corrispettivo con questa tipologia di"
+  },
+  {
+   "start": 1259.559,
+   "end": 1288.63,
+   "text": "videogiochi fin qui Siamo davanti anche a cose Tutto sommato facili la vera sfida il vero problema inizia quando siamo davanti alla quarta quinta e sesta persona iniziamo con con la quinta scusate con la quarta Volevo dire il noi il noi la quarta qui Alcuni hanno detto che siamo davanti all'ottica degli strategici però non sono più di tanto da"
+  },
+  {
+   "start": 1288.64,
+   "end": 1310.75,
+   "text": "accordo perché allora lì siamo davanti a un io che controlla un loro in realtà perché di di base lo strategico Com'è lo strategico è che io ho in realtà un punto di vista che è quello di questa sorta di occhio Divino che poi Di solito viene anche più o meno personificato nel generale il comandante l'imperatore o"
+  },
+  {
+   "start": 1310.76,
+   "end": 1336.11,
+   "text": "qualche altra figura e quindi io sto impartendo ordini a delle truppe ma non c'è un non sono legato a loro non sono unito in un attante collettivo insieme a queste figure sono io che rimango separato Certo c'è questo grado di astrazione perché nessun generale in realtà un occhio Divino che segue il campo di battaglia Però possiamo"
+  },
+  {
+   "start": 1336.12,
+   "end": 1358.19,
+   "text": "immaginarlo come se fosse per l'appunto che io ricevo le informazioni dai miei scout no Se io fossi il generale ci sono i miei occhi sul campo che mi mi riferiscono informazioni e io di conseguenza ordino che cosa andare a fare oppure no per cui è un grado di astrazione di una cosa che ha comunque"
+  },
+  {
+   "start": 1358.2,
+   "end": 1387.269,
+   "text": "un suo senso mentre invece se dovessi provare a ragionare su degli esempi di un effettivo noi che vanno a giocare eh si potrebbe anche pensare a quello che è il multiplayer Però anche lì manca quel qualcosa perché siamo davanti sempre a a tanti io che gestiscono C differenti quindi immaginando classico sparatutto multiplayer ogni persona gestisce il suo"
+  },
+  {
+   "start": 1387.279,
+   "end": 1409.549,
+   "text": "personaggio ragiona di suo e dopo vanno chiaramente a interfacciarsi a coordinarsi ma non so se si possa definire effettivamente un noi per andare a fare quindi quel passo in più bisogna andare a cercare delle esperienze un po' particolari una per esempio che è forse più una performance artistica che un videogioco sta un po' a"
+  },
+  {
+   "start": 1409.559,
+   "end": 1441.95,
+   "text": "metà tra queste due cose è best before best before dei Rimini protocol che è questo collettivo gruppo teatrale che ha sempre fatto opere molto particolari in una di queste best before è proprio legata alla presenza di un'attività videoludica in cui le persone che erano presenti a teatro avevano un controller con cui dovevano"
+  },
+  {
+   "start": 1441.96,
+   "end": 1466.19,
+   "text": "andare a intervenire su quello che era una sorta di loro corrispettivo di loro personaggio ma tutte queste decisioni avevano poi un valore collettivo che veniva tra l'altro anche poi ripreso dalle persone sul palco dai Rimini protocol e quindi si cercava appunto di andare a fare un ragionamento proprio in un'ottica comunitaria quindi lì si vede"
+  },
+  {
+   "start": 1466.2,
+   "end": 1486.11,
+   "text": "sicuramente di più questo senso del noi poi andate ad approfondirlo come caso che è curioso Quindi adesso vi dico giusto un paio di di spunti ma sono Vale sicuramente la pena andare poi a espander ad ampliarli un altro caso che va un po' in questa direzione in un modo certo molto differente è stato anche"
+  },
+  {
+   "start": 1486.12,
+   "end": 1493.2,
+   "text": "quello di Twitch Play"
+  },
+  {
+   "start": 1495.52,
+   "end": 1518.389,
+   "text": "Pokémon Ecco qui vedete scrivo molto bene Cioè per niente Twitch plays Pokémon penso ve lo ricordiate caso molto noto appunto dove si era fatta questa partita a Pokémon in cui però era la chat di Twitch che andava a inserire volta per volta i comandi e poi in un modo molto casuale il sistema andava a"
+  },
+  {
+   "start": 1518.399,
+   "end": 1540.07,
+   "text": "pescarne alcuni e nonostante questo si è riusciti a finire questa partita in un modo totalmente assurdo è diventato un caso emblematico è nata anche la sorta di religione su cos'è sull' elix fossile mi pare per cui come fenomeno è si è sicuramente diffuso e anche qui siamo forse davanti Ecco a qualcosa che va in"
+  },
+  {
+   "start": 1540.08,
+   "end": 1565.269,
+   "text": "questa direzione quindi un noi dove effettivamente il discorso della singola individualità viene meno non è più come detto una semplice giusta posizione di tanti io io io io ognuno che controlla il suo personaggio ma un qualcosa che cerca di fare un passaggio ulteriore quindi dove siamo un noi collettivo che stiamo effettivamente andando a giocare"
+  },
+  {
+   "start": 1565.279,
+   "end": 1590.07,
+   "text": "quinta persona voi questo è probabilmente il più difficile quello che mi mi viene da dire potrebbe essere una sorta di partita tra due Bot cioè perché siamo davanti Quindi a un qualcosa dove voi appunto Fate questo e io mi limito a guardare quello che sta succedendo per cui e la massima idea che mi è mi è venuta"
+  },
+  {
+   "start": 1590.08,
+   "end": 1614.07,
+   "text": "in mente che abbia un minimo di senso ma probabilmente Ce ne sono anche di altre di strade possibili esplorabili per cui lascio anche a voi poi commentare chiaramente avete magari delle idee molto più interessanti e stimolanti l'ultimo il loro anche qui ho pensato un po' a due strade diverse per intendere questo questo concetto cioè il primo è"
+  },
+  {
+   "start": 1614.08,
+   "end": 1646.669,
+   "text": "quando siamo davanti a un videogioco dove noi abbiamo un controllo parziale per cui sostanzialmente stiamo guardando quello che fanno loro quello che fanno altre persone per esempio un gioco che mi è venuto in mente che va in questa direzione è Riot Riot Civil unrest Rest Ecco qui allora Riot Civil unrest che è un videogioco italiano tra"
+  },
+  {
+   "start": 1646.679,
+   "end": 1673.59,
+   "text": "l'altro molto andate a cercarlo Perché anche solo concettualmente particolare cioè si vanno a ricreare gli scontri di piazza alcuni famosi scontri tipo anche quello in Val di Susa dei notav e molti altri e noi possiamo giocare o nei panni dei manifestanti o nei panni della polizia l'intento un po' di questo gioco È quello di generare anche"
+  },
+  {
+   "start": 1673.6,
+   "end": 1698.43,
+   "text": "consapevolezza intorno a questi temi perché bisogna idealmente ccare di raggiungere il proprio obiettivo senza però far esplodere eccessivamente la violenza ed è un gioco appositamente difficile da andare a controllare soprattutto quando si gioca dalla parte dei manifestanti perché la polizia è più inquadrata lì si gioca proprio in un modo un po' più simile a"
+  },
+  {
+   "start": 1698.44,
+   "end": 1722.789,
+   "text": "uno strategico per cui seleziono l'unità la mando in quel punto e più o meno eseguono in modo abbastanza lineare gli ordini manifestanti no manifestanti è molto più caotico proprio per cercare di andare a ricreare quella che è la psicologia della folla vi ricordate anche ricordi scolastici dei Promessi Sposi La psicologia della folla quando"
+  },
+  {
+   "start": 1722.799,
+   "end": 1745.07,
+   "text": "si arrivava con Renzo a Milano l'assalto ai forni e tutte quelle amenità e qui vediamo un po' la stessa lo stesso principio per cui noi diamo delle indicazioni ma sono loro poi che vanno ad agire in un modo che può essere anche totalmente diverso perché nel frattempo può avvenire un qualcosa che fa"
+  },
+  {
+   "start": 1745.08,
+   "end": 1769.23,
+   "text": "scoppiare la rivolta anche quando noi stiamo cercando di portarlo in un'altra direzione in un'altra strada e quindi Questa potrebbe essere un'idea Ecco con cui intendere un videogioco in sesta persona come vedete Tra l'altro siamo usciti da quello che è un discorso del punto di vista cioè qui Siamo davanti a un punto di vista semplicemente esterno"
+  },
+  {
+   "start": 1769.24,
+   "end": 1795.83,
+   "text": "molto classico così come anche nei casi nei casi di prima perché come vi dicevo bisogna un po' cercare di allargare il campo per trovare delle soluzioni che siano funzionali per provare a ragionare su come poter distribuire questi punti qua su dei videogiochi un'altra cosa Sempre sulla sesta persona che va in una direzione differente che ho trovato è un"
+  },
+  {
+   "start": 1795.84,
+   "end": 1828.07,
+   "text": "esperimento molto curioso si chiama Playing With pigs e eh sostanzialmente descrive quello che è cioè giocare con i maiali nel senso anche qui diamo un minimo di contesto qualche anno fa un gruppo di ricercatori di alcune università si sono messi insieme con degli sviluppatori di videogiochi E hanno immaginato una serie di attività videoludiche per i maiali O"
+  },
+  {
+   "start": 1828.08,
+   "end": 1852.71,
+   "text": "meglio in cui gli esseri umani e i maiali interagiscono questo Tra l'altro nasce anche da un elemento di di necessità di obbligo anzi di legge cioè il fatto che perlomeno in Europa negli allevamenti dei maiali devono essere presenti dei giocattoli che di solito sono per esempio non so una pallina di plastica attaccata a una catenella e"
+  },
+  {
+   "start": 1852.72,
+   "end": 1875.31,
+   "text": "così i maialini possono andare lì a giocare è necessario che ci siano queste cose per ridurre lo stress dei maiali e quindi evitare che vadano poi senò a combattersi tra di loro o a sviluppare malattie o altre problematiche per cui c'è questa idea del far giocare i maiali del mettergli lì una serie di oggetti di"
+  },
+  {
+   "start": 1875.32,
+   "end": 1896.909,
+   "text": "cose con cui loro possono andare a interagire per cui cosa hanno fatto utilizzando uno schermo touch dei proiettori un po' di altre cose hanno pensato a questo questa cosa che da un lato appunto potrebbe anche essere sempre una sorta di di noi che mette insieme gli umani e i maiali ma non lo"
+  },
+  {
+   "start": 1896.919,
+   "end": 1915.95,
+   "text": "intendere in questo senso perché si torna a quello che vi dicevo prima Cioè alla fine lì Rimango come l'io che sta giocando con un altro io che però non è una persona ma in quel caso un maialino nell'ottica dell'oro Però potrebbe avere senso interpretarlo in questo modo perché è vero che anche noi giochiamo ma"
+  },
+  {
+   "start": 1915.96,
+   "end": 1940.669,
+   "text": "sostanzialmente in realtà il nostro agire Che cosa fa dà a loro un modo per giocare per cui siamo davanti a una prospettiva diversa rispetto appunto a una partita multiplayer anche di quelle Eh asimmetriche quindi anche da un Dead by Daylight Penso sia un esempio noto as simmetrica vuol dire Appunto quando personaggi differenti hanno obiettivi"
+  },
+  {
+   "start": 1940.679,
+   "end": 1969.029,
+   "text": "capacità diverse quindi lì perché ci sono i quattro Sopravvissuti e il killer hanno obiettivi capacità differenti per cui questo è un multiplayer asimmetrico anche in un caso del genere siamo comunque davanti a qualcosa di di molto differente Qui invece Perché nel caso del multiplayer asimmetrico Io sto comunque giocando insieme ad altre persone anche qui Sì c'è una sorta di"
+  },
+  {
+   "start": 1969.039,
+   "end": 1993.31,
+   "text": "discorso di gioco però sostanzialmente sto dando la possibilità ai maiali di giocare attraverso il mio intervento è un po' complicato da spiegare me ne rendo conto anche qui la cosa migliore che vi posso consigliare è andate un po' ad approfondire se scrivete Playing With pigs aggiungendo magari qualche altro termine non so game o altro trovate una"
+  },
+  {
+   "start": 1993.32,
+   "end": 2017.95,
+   "text": "serie di video un po' Vecchiotti Ce ne sono diversi su Vimeo e vi fate un po' un'idea proprio di quello che avevano cercato di realizzare all'interno di questo progetto per cui questi sono alcuni possibili spunti che volevo condividere con voi fate sapere nei commenti Se vi vengono altre idee se li trovate minimamente sensati e"
+  },
+  {
+   "start": 2017.96,
+   "end": 2044.07,
+   "text": "corrispondenti a questo discorso delle varie persone ripeto anche un'ultima volta come detto stiamo comunque parlando di quella che è un'approssimazione perché è già insito nella radice della questione già quando vediamo la prima e la terza persona che comunque sono una semplificazione in termini astrattivo che altrove andiamo a utilizzare in un modo molto differente"
+  },
+  {
+   "start": 2044.08,
+   "end": 2068.869,
+   "text": "Poi certo si è affermato in questo modo lo utilizziamo come categoria di comodo e funziona molto difficilmente vedremo in futuro l'affermarsi di altre categorie di questo genere perché anche se si riuscisse a trovare loro un perimetro un po' più chiaro rimarrebbero comunque dei casi limite dei casi estremamente particolari i di nicchia e"
+  },
+  {
+   "start": 2068.879,
+   "end": 2092.43,
+   "text": "quindi non andrebbero a fare statistica rimarrebbero l'eccezione alla regola per cui non vedo un grande futuro personalmente per questo discorso qui a meno che non ci siano il classico stravolgimento totale della situazione del mercato nasce un nuovo genere proprio un nuovo modo di pensare i videogiochi a cui Però al momento non è"
+  },
+  {
+   "start": 2092.44,
+   "end": 2113.15,
+   "text": "qualcosa su cui possiamo fare delle previsioni Quindi abbiamo capito che la prima persona è quando il punto di vista e il personaggio controllato coincidono Io sono il personaggio terza persona è quando il punto di vista è totalmente strano il personaggio io sto leggendo una storia su qualcun altro seconda persona è quando il personaggio"
+  },
+  {
+   "start": 2113.16,
+   "end": 2133.47,
+   "text": "controllato viene osservato da un altro specifico e a lui collegato personaggio come ha detto il professor Toniolo Ci sono diversi giochi in seconda persona oltre al già citato Driver San Francisco che lo stesso nick Robinson giustamente afferma essere una metafora di come noi controlliamo l'avatar del gioco con questo fatto che il protagonista"
+  },
+  {
+   "start": 2133.48,
+   "end": 2154.069,
+   "text": "Controlla i corpi telepaticamente e super Maro 64 possiamo citare anche trover saves the Universe in cui tu sei un personaggio che con un controller ne Controlla un altro hai il suo pov ma non il pov del personaggio che fa effettivamente le azioni live Adventure in cui tu sei una ragazza che riprende con una telecamera un'altra ragazza che"
+  },
+  {
+   "start": 2154.079,
+   "end": 2173.99,
+   "text": "effettivamente controlli e Stanley parable è in seconda persona In certi punti passiamo alla quarta persona o prima persona plurale che dirsi voglia il noi dove io ho il punto di vista e il controllo di tante persone qualora ci sia un generale o comunque un punto di vista singolare Allora come ha detto il"
+  },
+  {
+   "start": 2174.0,
+   "end": 2194.349,
+   "text": "professor Toniolo non si può parlare di quarta bensì di nuovo di prima persona o al massimo terza ma per quei giochi dove non è possibile un punto di vista singolare Io direi che possiamo parlare di quarta persona quindi io come il professore erei quasi tutti gli strategici tranne quei giochi tipo civilization dove non è possibile che io"
+  },
+  {
+   "start": 2194.359,
+   "end": 2215.589,
+   "text": "sia un leader dato che passano millenni e dove tu sei effettivamente la civiltà stessa e prendi decisioni anche collettive che nessun leader può controllare tipo cambi di religione o altro un altro tipo di gioco che potrebbe essere quarta persona sarebbe qualcosa in stile Pain di Naruto in cui io controllo tanti corpi e tutti sono"
+  },
+  {
+   "start": 2215.599,
+   "end": 2236.91,
+   "text": "effettivamente miei corpi tutti quegli occhi sono miei occhi ora una cosa del genere è Canonica in StarCraft dove tra le specie giocabili ci sono gli Zerg che sono una specie con una mente collettiva Dunque canonicamente Noi siamo quella mente collettiva che controlla tutti quanti i corpi insieme passiamo alla sesta persona o terza plurale"
+  },
+  {
+   "start": 2236.92,
+   "end": 2263.589,
+   "text": "essi qui è difficile Dobbiamo avere il punto di vista esterno ma non di un singolo bensì di una collettività che subisce in qualche modo ciò che osserviamo qua è veramente difficile immaginare qualcosa che non scada nella terza singolare che è in qualche modo astratta Quindi io qui mi rifaccio agli esempi del professore"
+  },
+  {
+   "start": 2263.599,
+   "end": 2287.15,
+   "text": "e passiamo all'ultimo che ho ottenuto Cioè la seconda persona plurale o quinta persona il voi questo è molto difficile da pensare e mi permetto di suggerire un tipo di gioco futuro che oggi non esiste ma con la ai potrebbe nascere cioè il gioco in cui noi siamo una folla di spettatori su uno streaming Nel senso che noi"
+  },
+  {
+   "start": 2287.16,
+   "end": 2306.67,
+   "text": "scriviamo tanti commenti e ogni commento quando compare nella chat avrà un username diverso generato proceduralmente così da dare l'illusione che noi siamo tante persone e questi commenti suggeriranno l'azione al personaggio giocante che magari è un influencer penso che sia un tipo di videogioco che oggi non può esistere però con la ai che legge la chat e"
+  },
+  {
+   "start": 2306.68,
+   "end": 2328.63,
+   "text": "capisce potrebbe nascere Ma se ci accontentiamo in teoria del pov ci sono già dei giochi in cui noi controlliamo qualcuno ma il pov è di una chat da noi non controllata e quindi in teoria secondo la definizione che abbiamo usato prima con Super Mario allora è un seconda persona plurale la nostra lingua si ferma qui"
+  },
+  {
+   "start": 2328.64,
+   "end": 2349.069,
+   "text": "con singolare e plurale Ma alcune lingue come il greco antico hanno anche il duale ossia quando ci si riferisce ad una coppia di cose pensiamo alle mani il duale nei videogiochi esiste nella misura in cui io canonicamente controllo due personaggi contemporaneamente e in modo simile e ci sono diversi esempi Ora volendo si"
+  },
+  {
+   "start": 2349.079,
+   "end": 2369.95,
+   "text": "possono prendere giochi in cui si controllano due personaggi a rotazione come anche tre pensiamo a Harry Potter e il prigioniero di Azkaban o a GTA V Però quelli alla fine sono giochi in terza persona o 3,5 se vogliamo riprendere la terminologia della Grafica No io preferisco quei giochi in cui controlli due corpi contemporaneamente come quel"
+  },
+  {
+   "start": 2369.96,
+   "end": 2385.75,
+   "text": "gioco di cui purtroppo non ricordo il nome era in 2D in cui tu controlli due esserini e uno sta nel mondo di sopra è un platform e l'altro nel mondo di sotto che è quasi speculare e tu devi stare attento a come ti muovi perché muovi tutti e due i corpi e devi risolvere i"
+  },
+  {
+   "start": 2385.76,
+   "end": 2409.39,
+   "text": "livelli Questo è un tipo di gioco duale se penso a giochi in triale Sì in qualche lingua Esiste il triale a quanto pare mi viene in mente un gioco come TR perché sebbene si alternino tre Avatar canonicamente condividono un solo corpo e Una sola mente condivisa oltre francamente scadi nella prima persona plurale quindi non vale la"
+  },
+  {
+   "start": 2409.4,
+   "end": 2431.27,
+   "text": "pena discuterne ulteriormente ma c'è un ultimo modo di esprimere le dimensioni nei videogiochi ed è quello del controller mirabilmente esposto dal buon matpat di Game theorist nel suo video sui consigli per introdurre i bambini in modo graduale e sano ai videogiochi E lui fa giustamente notare che esiste una dimensionalità anche nei controlli"
+  },
+  {
+   "start": 2431.28,
+   "end": 2451.109,
+   "text": "partiamo dal videogioco più semplice che esista la visual novel la visual novel ha un solo comando un singolo tasto possibilmente il sinistro del mouse che serve per andare avanti con i dialoghi e nelle Visual novel cinetiche basta anche questo cosa che blurra il confine tra film e videogioco vedetevi il mio video su bandersnatch Mentre nelle Visual No"
+  },
+  {
+   "start": 2451.119,
+   "end": 2471.67,
+   "text": "il tradizionali non kineti bisogna ogni tanto anche scegliere qualcosa e basta Sempre con quel pulsante Ma poi ci sono giochi in cui devi usare più tasti per muoverti in uno spazio Quindi hai più opzioni a tua disposizione ora qui diciamo che il concetto di dimensioni dei controlli Si mescola con quello di dimensioni grafiche perché se giochi a"
+  },
+  {
+   "start": 2471.68,
+   "end": 2491.63,
+   "text": "un gioco 2D puoi controllare il movimento su solo due assi Ma se giochi in 3D cosa più difficile ti muovi su tre assi A questo punto possiamo considerare il prossimo livello quello in cui si combinano le due cose usi qualcosa per muoverti come un joys o il classico wasd o le freccette e poi c'è il pulsante"
+  },
+  {
+   "start": 2491.64,
+   "end": 2510.71,
+   "text": "extra che fa le azioni E questo rende il gioco ancora più complesso da manipolare e poi arriviamo al livello in stile Super Mario dove hai due pulsanti oltre ai tasti direzionali e poi come dice di nuovo il Buon game theorist si aggiunge un secondo joystick per controllare la telecamera che in molti giochi se ci"
+  },
+  {
+   "start": 2510.72,
+   "end": 2531.63,
+   "text": "fate caso è una cosa automatica Non la controlli tu e da lì Ci sono giochi che aggiungono anche ulterior tà tasti tipo levette tasti laterali per ulteriori comandi e ulteriori feature e ad oggi molti Tripla A sono più generi prendiamo starfield ad esempio è solo un gioco FPS No è anche un GDR è anche un gioco"
+  },
+  {
+   "start": 2531.64,
+   "end": 2550.109,
+   "text": "d'avventura è anche un open World e anche un simulatore di guida anzi di spazio ha anche una componente survival con tutte le caratteristiche del corpo No ora tutte queste funzioni si possono espletare con un controller e con una tastiera con in cui bene o male sono sempre gli stessi tasti a venire usati"
+  },
+  {
+   "start": 2550.119,
+   "end": 2569.109,
+   "text": "wasd per la direzione mouse per la visuale pulsante sinistro del mouse per sparare il destro per mirare shift per correre e che fa da pulsante di azione Tab per il menù il pulsante control per accovacciarsi q per i comandi veloci e Volendo ci potremmo anche fermare qui questo rende i giochi più dimensionali a"
+  },
+  {
+   "start": 2569.119,
+   "end": 2591.03,
+   "text": "livello di controller i typing Games che richiedono di scrivere parole o frasi intere Ergo richiedono potenzialmente Tutto l'alfabeto in termini di comandi da lì in poi c'è la difficoltà che pur avendo gli stessi controlli rende il gioco più complesso e dedicherò un video proprio alla difficoltà nei videogiochi tra diversi mesi ed infine quando di un"
+  },
+  {
+   "start": 2591.04,
+   "end": 2612.03,
+   "text": "gioco hai Masato le modalità più difficili a parte gli scacchi Sei pronto per il multiplayer che dovrebbe essere sempre tarato per farti affrontare gente del tuo livello e mi sembrava giusto concludere il video citando game theorist che come sapete se mi seguite da un po' è è il mio youtuber preferito e di recente si è ritirato dal tubo come"
+  },
+  {
+   "start": 2612.04,
+   "end": 2630.829,
+   "text": "molti youtuber della mia gioventù che ora ormai sono padri e questo video quindi lo dedico a lui che mi ha tanto ispirato vi lascio il link Amazon al video l'universo elegante del fisico Brian Green che parla della M Theory in descrizione si ringrazia il professor Toniolo per la sua profonda riflessione trovate il suo canale in descrizione si"
+  },
+  {
+   "start": 2630.839,
+   "end": 2648.15,
+   "text": "ringrazia anche Clod vicus per avermi Gift 5D Chess su Steam e anche voi potete Gi armi un gioco e potrei parlarne oppure fare da spunto ne parliamo prima Ovviamente trovate la mia wish list In ogni caso in descrizione se i miei video ti piacciono dai unata il mio TP dove potrai donare per supportare"
+  },
+  {
+   "start": 2648.16,
+   "end": 2659.24,
+   "text": "il canale riceverai in cambio di premi in descrizione trovate anche il mio merchandising se questo video ti è piaciuto diventa mettere mi piace ed iscrivi a questo canale ringrazio m patrons e ci vediamo al prossimo video"
+  }
+ ],
+ "chapters": [
+  {
+   "start": 10.8,
+   "title": "in questo video Parleremo della dimensionalità nei videogioc…"
+  },
+  {
+   "start": 361.96,
+   "title": "nostro mondo è in 4D passato e futuro infatti la teoria dell…"
+  },
+  {
+   "start": 703.88,
+   "title": "e attiva e anzi Everett questo non lo diceva anche perché no…"
+  },
+  {
+   "start": 1053.08,
+   "title": "Cominciamo con quella che è la seconda persona la prima e la…"
+  },
+  {
+   "start": 1387.279,
+   "title": "personaggio ragiona di suo e dopo vanno chiaramente a interf…"
+  },
+  {
+   "start": 1722.799,
+   "title": "si arrivava con Renzo a Milano l'assalto ai forni e tutte qu…"
+  },
+  {
+   "start": 2068.879,
+   "title": "quindi non andrebbero a fare statistica rimarrebbero l'eccez…"
+  },
+  {
+   "start": 2409.4,
+   "title": "pena discuterne ulteriormente ma c'è un ultimo modo di espri…"
+  }
+ ]
+}
