@@ -1,0 +1,6 @@
+[submodule "code/wiki-tube"]
+	path = code/wiki-tube
+	url = git@github.com:osharko/wiki-tube.git
+[submodule "sync/wiki-tube-sync"]
+	path = sync/wiki-tube-sync
+	url = git@github.com:osharko/wiki-tube-sync.git

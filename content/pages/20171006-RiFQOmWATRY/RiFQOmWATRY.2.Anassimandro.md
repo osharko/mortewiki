@@ -1,0 +1,11 @@
+##### Introduzione
+Anassimandro, nato verso la fine 600 a.C. a Mileto, è considerato un filosofo presocratico e il primo cartografo della storia, nonché secondo maestro della scuola di Mileto fondata da [[Talete]], di cui egli stesso fu maestro.
+
+##### Ricerca dell' archè
+Anassimandro, a differenza del suo maestro [[Talete]], non cercò una spiegazione dell’origine del mondo nei singoli elementi osservabili, ma in un principio trascendente e privo di forma; Per lui l'[[Dizionario#^340f16|archè]] non poteva essere acqua, poiché l’acqua è già uno degli elementi naturali; dunque l'[[Dizionario#^340f16|archè]] è un’entità senza dimensioni, senza aspetto e senza elemento, la base di tutti gli elementi. Questo principio lo denominò **[[Dizionario#^de9503|apeiron]]**, una sostanza o luogo infinito da cui derivano aria, acqua, fuoco e ogni altra cosa, e al quale tutto ritornerà. L’[[Dizionario#^de9503|apeiron]] è dinamico: genera, trasforma e distrugge continuamente, in un ciclo infinito di creazione‑distruzione.
+
+Secondo Anassimandro, ogni cosa nasce separandosi dal suo opposto; l’acqua si stacca dal fuoco, entrambi un tempo uniti nell’[[Dizionario#^de9503|apeiron]]. Dopo la separazione, gli opposti rimangono in perenne conflitto, ma sono comunque legati da una legge universale che, alla fine, riunirà tutti gli opposti e ristabilirà l’equilibrio, facendo tornare tutto all’[[Dizionario#^de9503|apeiron]]. Questa unione degli opposti è la **coincidentia oppositorum** (unione degli opposti): come tutti i colori mescolati producono il bianco, tutti gli opposti fusi formano l’indistinto principio originario.
+
+Anassimandro ipotizzò inoltre che l’universo abbia subito infinite cicli di distruzione e ricreazione, includendo la nostra Terra, che sarebbe stata distrutta e ricreata più volte. Propose una primitiva teoria evolutiva secondo cui l’uomo non sarebbe nato “da solo”, ma da altri animali, in particolare “per l’attesa dei pesci”, cercando così di collocare la specie umana all'interno del più ampio ordine naturale.
+
+In sintesi, per Anassimandro il mondo è un caos di forze opposte scaturito da una separazione traumatica dell’[[Dizionario#^de9503|apeiron]], ma al suo interno esiste una legge che garantirà, alla fine, la riconciliazione di tutti gli opposti e il ritorno all'infinito originario.

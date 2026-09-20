@@ -1,0 +1,10 @@
+# dati locali del container
+/data/
+data/
+__pycache__/
+*.pyc
+*.log
+.sync-data/
+
+# transcripts: generati dal sync, non committati
+content/transcripts/*.json

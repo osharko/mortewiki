@@ -1,0 +1,35 @@
+# mortewiki — orchestratore: web (nginx+php-fpm) + cron (sync python)
+# Avvio:  podman-compose up -d   (o: podman compose up -d)
+# Forma un POD con i due servizi.
+
+services:
+  web:
+    build:
+      context: ./code/wiki-tube
+      dockerfile: Containerfile
+    container_name: mortewiki-web
+    ports:
+      - "127.0.0.1:8080:80"
+    env_file: .env
+    environment:
+      WIKI_CONTENT: /data/content
+    volumes:
+      - ./content:/data/content:Z
+
+  cron:
+    image: python:3.12-alpine
+    container_name: mortewiki-cron
+    env_file: .env
+    environment:
+      RAW_DIR: /data/raw_subs
+      WIKI_CONTENT: /data/content
+    volumes:
+      - ./sync/wiki-tube-sync:/sync:Z
+      - ./content:/data/content:Z
+      - ./data/raw_subs:/data/raw_subs:Z
+    working_dir: /sync
+    # cron ogni 6h esegue manage.py run (sync canali + build + relink)
+    command: >
+      sh -c "pip install --quiet -r requirements.txt &&
+             echo '0 */6 * * * cd /sync && python manage.py run >/var/log/sync.log 2>&1' > /etc/crontabs/root &&
+             crond -f"

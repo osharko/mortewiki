@@ -1,0 +1,34 @@
+---
+title: "Computer Quantistico - Creepypasta #31"
+video_id: "yReZvazsx78"
+channel: "Mortebianca"
+channel_url: "https://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA"
+upload_date: "20151223"
+duration: "768"
+duration_string: "12:48"
+view_count: "62970"
+like_count: "2126"
+comment_count: "131"
+playlist: "Le Migliori Creepypasta"
+playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
+playlist_index: "31"
+tags: ["computer", "quantistico", "creepypasta"]
+related: ["20250203-OgJlXNZkc-8", "20140929-th86-RCCs_k", "20150829-0HKaCwCwTZU", "20160514-YktoUcOhqRY", "20161002-mYsk0d1c3Xw", "20170226-HP7Ma_PU_P4", "20170730--qRa5Vvndtc", "20180506-mpDMlzOXrHA", "20141010-4DrwKPOstME", "20141010-ZLFaaWEexGQ"]
+video_type: "video"
+description: "Scusate il ritardo, si ritorna all'inizio!\nCanale di Sakini: https://www.youtube.com/channel/UCYzsh2k6iN4_gJmrVkb9YxA\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\n\"This House\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\n\"Metaphysik\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/\n\"Ghost Story\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/"
+embeddable: "1"
+---
+
+*Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
+
+## Correlati
+- [[20250203-OgJlXNZkc-8|La STORIA dei COMPUTER]]
+- [[20140929-th86-RCCs_k|L'uomo quantistico - Riscrittura Horror #8]]
+- [[20150829-0HKaCwCwTZU|Teletrasporto Quantistico - Creepypasta #21]]
+- [[20160514-YktoUcOhqRY|Entanglement Quantistico - Creepypasta #41]]
+- [[20161002-mYsk0d1c3Xw|Gatto Quantistico - Creepypasta #51]]
+- [[20170226-HP7Ma_PU_P4|Cervello Quantistico - Creepypasta #61]]
+- [[20170730--qRa5Vvndtc|Vuoto Quantistico - Creepypasta #71]]
+- [[20180506-mpDMlzOXrHA|Solipsismo Quantistico - Creepypasta #91 (ft Horror Maniaci)]]
+- [[20141010-4DrwKPOstME|Sesto Senso - Creepypasta #3]]
+- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
