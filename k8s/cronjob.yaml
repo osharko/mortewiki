@@ -1,0 +1,40 @@
+apiVersion: batch/v1
+kind: CronJob
+metadata: {name: sync, namespace: wiki}
+spec:
+  schedule: "0 */6 * * *"
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          nodeSelector: {kubernetes.io/hostname: wiki}
+          restartPolicy: OnFailure
+          containers:
+          - name: sync
+            image: python:3.12-alpine
+            env:
+            - {name: WIKI_CONTENT, value: /repo/content}
+            - {name: RAW_DIR, value: /repo/data/raw_subs}
+            - {name: GIT_SSH_COMMAND, value: "ssh -o StrictHostKeyChecking=accept-new -i /key/id_ed25519"}
+            command: ["/bin/sh","-c"]
+            args:
+            - >-
+              set -e; mkdir -p /repo/data/raw_subs;
+              apk add --no-cache git openssh-client >/dev/null 2>&1;
+              pip install -q -r /repo/sync/wiki-tube-sync/requirements.txt;
+              cd /repo && git pull --rebase origin HEAD >/dev/null 2>&1 || true;
+              python /repo/sync/wiki-tube-sync/manage.py run;
+              cd /repo;
+              git add content;
+              git -c user.email="wiki@loc" -c user.name="wiki" commit -m "sync $(date -u +%F_%T)" >/dev/null 2>&1 || true;
+              git push origin HEAD >/dev/null 2>&1 || true;
+              echo SYNC_DONE
+            volumeMounts:
+            - {name: repo, mountPath: /repo}
+            - {name: key, mountPath: /key, readOnly: true}
+          volumes:
+          - name: repo
+            persistentVolumeClaim: {claimName: mortewiki}
+          - name: key
+            secret: {secretName: wiki-gitkey, defaultMode: 0600}
