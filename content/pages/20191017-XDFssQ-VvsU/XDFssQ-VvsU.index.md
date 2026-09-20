@@ -12,23 +12,18 @@ comment_count: "701"
 playlist: "FILOSOFIA"
 playlist_id: "PLU8-xwslFxH9NwboeEdiYOwWyZX6uCks9"
 playlist_index: "53"
-tags: ["educazione", "genitore", "obiezione", "liceo", "schiaffi", "laurea"]
-related: ["20260720-wpIQo5aoJjY", "20190829--bOhzN9h6PQ", "20210812-TG0Vudhv9tQ", "20190905-WDdTpZU8AIk", "20260115-CzG-sz_NooI", "20260409-SasP1g3bfj8", "20251024-DmNTskHd94E", "20260515-NBn02wtdK-Y", "20260319-yvURgCgtO0E", "20250729-HMW12KVwUjM"]
+tags: ["educazione", "genitore", "obiezione numero", "obiezione", "liceo", "ricerca mostra"]
+related: ["20190829--bOhzN9h6PQ", "20210812-TG0Vudhv9tQ", "20260409-SasP1g3bfj8", "20250729-HMW12KVwUjM"]
 video_type: "video"
 description: "Donazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nFonti: https://en.wikipedia.org/wiki/Corporal_punishment_in_the_home\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://theneondreamer.bandcamp.com/\nhttps://soundcloud.com/sledge23-2/sledge-one-way-out?in=sledge23-2/sets/vos\nhttps://www.youtube.com/watch?v=tukn5NK_XRo"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260720-wpIQo5aoJjY|Essere Fuoricorso: non una vergogna]]
 - [[20190829--bOhzN9h6PQ|Il Liceo Classico del Futuro]]
 - [[20210812-TG0Vudhv9tQ|Educazione Civica: la materia più IMPORTANTE]]
-- [[20190905-WDdTpZU8AIk|Sistema Scolastico: come migliorarlo]]
-- [[20260115-CzG-sz_NooI|La Filosofia di Mirai]]
 - [[20260409-SasP1g3bfj8|Apologia linguae latinae (Denuo)]]
-- [[20251024-DmNTskHd94E|Genitori single]]
-- [[20260515-NBn02wtdK-Y|Rick DuFer non sa cos'è la Filosofia]]
-- [[20260319-yvURgCgtO0E|Una carne etica (ma qualcuno si lamenta comunque)]]
 - [[20250729-HMW12KVwUjM|La Scuola deve essere dura sennò gli studenti escono deboli]]

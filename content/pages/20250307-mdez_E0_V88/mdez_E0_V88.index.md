@@ -10,21 +10,23 @@ view_count: "25242"
 like_count: "1782"
 comment_count: "107"
 playlist_index: "0"
-tags: ["integrati", "scommessa", "orban", "mele", "collassa", "spesa"]
-related: ["20260415-bf2MjiywJzc", "20200505-ltrs70UyKh8", "20260416-8mvgZUFK5io", "20260117-tspT5RQPpm4", "20260405-ISOYtywMOAQ", "20250203-UAQDHMtvngk", "20211226-bAMJYrp9nkA", "20260414-BiRiNnQGc3s", "20260120-l464ALtjP9I"]
+tags: ["unione europea", "uniti hanno", "andate vedere", "ricchi ricchi", "andiamo vedere", "scommessa collassa"]
+related: ["20260506-BWcNXtjYK9Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20241119-8FxNB7i69UI", "20260430-QUXUrmgMeMc", "20241206-_j4XwppAZH0", "20241212-Ax9gkuXak7s"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
-- [[20200505-ltrs70UyKh8|Dopo il Coronavirus? (E la Maturità)]]
-- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
-- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
-- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
-- [[20250203-UAQDHMtvngk|GTA 6 potrebbe costare 100 dollari]]
-- [[20211226-bAMJYrp9nkA|Il Sistema Operativo del DEEP WEB - Creepypasta 175]]
-- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
-- [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
+- [[20241206-_j4XwppAZH0|Critica al BRICS]]
+- [[20241212-Ax9gkuXak7s|Una proposta per l'Inno Europeo?]]

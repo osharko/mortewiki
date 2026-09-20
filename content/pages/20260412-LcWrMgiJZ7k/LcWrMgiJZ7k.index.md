@@ -10,21 +10,23 @@ view_count: "8779"
 like_count: "621"
 comment_count: "73"
 playlist_index: "0"
-tags: ["starmer", "brexit", "ungheria", "corbin", "sanchez", "laburisti"]
-related: ["20250903-FfolkwKdC9U", "20260813-VWoqsF9auaE", "20250804-8o5Xyb4Q8Sk", "20260405-ISOYtywMOAQ", "20260415-bf2MjiywJzc", "20260127-drsFnEIUu1s", "20260512-Xnabv3lSijA", "20251128-IR7vbCMEPO0", "20260601-MiG7c6YOOgE"]
+tags: ["regno unito", "unione europea", "destra destra", "starmer", "brexit", "entrare regno"]
+related: ["20250903-FfolkwKdC9U", "20260506-BWcNXtjYK9Q", "20260813-VWoqsF9auaE", "20260117-tspT5RQPpm4", "20241103-1odWEk69h8E", "20250331-JXUGBMAbBXA", "20260601-MiG7c6YOOgE", "20250418-YlPgqczhrj4", "20221130-DsS0lxEubZY", "20250420-QCxTgRZJiCs"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
 - [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
-- [[20250804-8o5Xyb4Q8Sk|Il nuovo partito di Corbyn sta TERRORIZZANDO gli Antiwoke]]
-- [[20260405-ISOYtywMOAQ|USA: da potenza mondiale a mercenariato regionale]]
-- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]
-- [[20260127-drsFnEIUu1s|Storia della ROMANIA]]
-- [[20260512-Xnabv3lSijA|Celtix: gli indipendentisti trionfano (e Farage trema)]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
 - [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
+- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
+- [[20250420-QCxTgRZJiCs|La tradizione non è legge]]

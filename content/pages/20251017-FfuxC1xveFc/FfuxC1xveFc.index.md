@@ -10,16 +10,17 @@ view_count: "11374"
 like_count: "884"
 comment_count: "59"
 playlist_index: "0"
-tags: ["sistemare", "pulisce", "sistemano", "simpson", "puliscono", "restaurazione"]
-related: ["20250618-poHln4Hed0g", "20250617-2ElKAn7NYmE", "20251023-FTJnzuIHU3U", "20250518-dRjsGfFvYb0"]
+tags: ["sotto sotto", "sistemare", "sistemare persone", "trauma center", "dello squalo", "fanno vedere"]
+related: ["20251127-OqcTrWuDq9g", "20250128-dO092738ZNk", "20200216-G1lI0Rt4O10", "20250716-nZdj5jJ9UpQ"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250618-poHln4Hed0g|Critica a Lisa Simpson]]
-- [[20250617-2ElKAn7NYmE|La Psicologia di Homer Simpson]]
-- [[20251023-FTJnzuIHU3U|Lackadaisy: della furrica filosofia]]
-- [[20250518-dRjsGfFvYb0|A nessuno piace Milhouse]]
+- [[20251127-OqcTrWuDq9g|L'Ipocrisia dei MAGA (e degli Antiwoke)]]
+- [[20250128-dO092738ZNk|Cina: vuota opulenza, futuro apofantico]]
+- [[20200216-G1lI0Rt4O10|Cosa c'è oltre l'Orizzonte? - Creepypasta 133]]
+- [[20250716-nZdj5jJ9UpQ|Lo Squalo]]

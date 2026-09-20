@@ -11,9 +11,10 @@ like_count: "650"
 comment_count: "66"
 playlist_index: "0"
 tags: ["sardi", "sardo", "sardegna", "veneto", "indipendentismo", "geneticamente"]
-related: ["20250513-Hua0V8mvi7g", "20251125-oRcyF209PT8", "20241120-FoRJxzBmYeM", "20241121-smIutDtqomo", "20250514-98VILQuSOtU", "20251005-vaZ84a-kTyM", "20250528-RsQU-zKVSqQ", "20251227-YToeiTvL190", "20260619-y8-CUN5JYss", "20251224-9bsGm21CExY"]
+related: ["20250513-Hua0V8mvi7g", "20251125-oRcyF209PT8", "20241120-FoRJxzBmYeM", "20241121-smIutDtqomo", "20250514-98VILQuSOtU", "20251005-vaZ84a-kTyM", "20250528-RsQU-zKVSqQ"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -26,6 +27,3 @@ embeddable: "1"
 - [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
 - [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
 - [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
-- [[20251227-YToeiTvL190|SISTEMO le province italiane del Norde (e parte del centro)]]
-- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]

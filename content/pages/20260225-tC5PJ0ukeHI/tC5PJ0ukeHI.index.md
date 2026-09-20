@@ -10,23 +10,24 @@ view_count: "13012"
 like_count: "773"
 comment_count: "52"
 playlist_index: "0"
-tags: ["simone", "tutubi", "catechismo", "omosessualità", "aborto", "gnosticismo"]
-related: ["20220815-sLp3d-L1nCI", "20260220-RdORzhEi4eM", "20240308-BwP3YRCd7hA", "20230709-eEpjudjBR2s", "20230710-rkwWGE0175A", "20260417-ReitMvcjouo", "20220813-bSeLluAY_Mg", "20240417-td05FofUsZs", "20250907-iVXW64XFlV4", "20210510-d-HgEX9HjIQ"]
+tags: ["simone", "destra sinistra", "chiesa cattolica", "tutubi", "feto formato", "consiglio morte"]
+related: ["20260501-MfIGVsJKM5w", "20250904-UxyeeuS9rGc", "20260414-BiRiNnQGc3s", "20260221-N7zhvUWA-rY", "20210309--SZ7XGGYcAg", "20260220-RdORzhEi4eM", "20260915-D62wrcXbifU", "20260502-1K07UwWMWZg", "20260603-y5o1v6Pv2CI", "20241031-fRV8peE_AJQ"]
 video_type: "video"
 description: "Aborto: https://www.youtube.com/watch?v=sLp3d-L1nCI\nOmosessualità: https://www.youtube.com/watch?v=rkwWGE0175A"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220815-sLp3d-L1nCI|Religione e ABORTO]]
+- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
 - [[20260220-RdORzhEi4eM|Tre consigli per Tutubbi]]
-- [[20240308-BwP3YRCd7hA|Hitler NON ha legalizzato l'Aborto - Storia dell'Aborto]]
-- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
-- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
-- [[20260417-ReitMvcjouo|Perché la Chiesa si riforma più veloce su altro (Omosessualità, Divorzio) rispetto all'Aborto?]]
-- [[20220813-bSeLluAY_Mg|La Filosofia dell'ABORTO]]
-- [[20240417-td05FofUsZs|Il governo MELONI e l’ABORTO (Ci risiamo...)]]
-- [[20250907-iVXW64XFlV4|No Utero? No Party!]]
-- [[20210510-d-HgEX9HjIQ|La Filosofia di The Young Pope]]
+- [[20260915-D62wrcXbifU|Come avrebbero reagito i cristiani al Death Note?]]
+- [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
+- [[20260603-y5o1v6Pv2CI|Magnifica Humanitas - Recensione dell'Enciclica di Leone XIV]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]

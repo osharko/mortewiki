@@ -12,11 +12,12 @@ comment_count: "374"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "82"
-tags: ["godzilla", "kong", "versus", "motra", "scimmia", "radiazioni"]
-related: ["20240204-TRoHvbOsJmI", "20250130-TAu7rtsh_sM", "20210815-ZXjIdVxpY6c", "20160918-udWdcG-Ik7E", "20251119-bu24P5q5TlU", "20260520-ylfnMlWU850", "20241123-uhLroOo8nPo", "20230521-t3Sjy0jwmGI", "20191027--l0i1ljBfvI", "20250706-KQlz0xY60mY"]
+tags: ["godzilla", "kong", "mega godzilla", "godzilla versus", "film godzilla", "fine godzilla"]
+related: ["20240204-TRoHvbOsJmI", "20250130-TAu7rtsh_sM", "20210815-ZXjIdVxpY6c"]
 video_type: "video"
 description: "Miti del Tubo: https://www.youtube.com/channel/UCnxAhVbJgqGV2KodJHPJv1g\nShin Godzilla: https://amzn.to/2OECXhf\nGodzilla Americani: https://amzn.to/3rQISyg\nIl mio LIBRO: https://bitly.com/creepypasta1\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://bit.ly/morte_bianca\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#Godzilla #KingKong #Kong\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMOOSEECA:\nhttps://www.youtube.com/watch?v=zXZsUCwRkPs\nhttps://www.youtube.com/watch?v=b73t9SLss8k\nhttps://www.youtube.com/watch?v=TkoLxwCahrE&t=93s\nFONTE:\nhttps://quotepark.com/quotes/1773321-aron-ra-godzilla-2014-missed-the-mark-primarily-because-it/"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -25,10 +26,3 @@ embeddable: "1"
 - [[20240204-TRoHvbOsJmI|Non hai capito Godzilla]]
 - [[20250130-TAu7rtsh_sM|Godzilla Minus One vs The New Empire]]
 - [[20210815-ZXjIdVxpY6c|SHINING 2, CODE GEASS 3, MR ROBOT 4, GODZILLA 5, PSYCHO PASS 6, WARHAMMER 7, SAW 8, POKÉMON 9]]
-- [[20160918-udWdcG-Ik7E|Intrappolati a Černobyl' - Creepypasta #50]]
-- [[20251119-bu24P5q5TlU|Sono usciti i candidati dei Game Awards]]
-- [[20260520-ylfnMlWU850|Fukushima è stata un disastro]]
-- [[20241123-uhLroOo8nPo|Alien: Pianeta Terra, i miei timori e le mie speranze]]
-- [[20230521-t3Sjy0jwmGI|Animali Parlanti - Creepypasta 205]]
-- [[20191027--l0i1ljBfvI|Radiofobia - Creepypasta #13 (Speciale Halloween)]]
-- [[20250706-KQlz0xY60mY|Fossa delle Marianne - Creepypasta 255]]

@@ -6,10 +6,14 @@ playlist: "Storia"
 playlist_id: "PLU8-xwslFxH_4ccWo_pGUmjXVtVA0orpl"
 playlist_index: "1"
 source: "https://youtu.be/25kqLS9Qvuo"
+tags: ["mare parole", "popoli mare"]
+related: ["20210727-fAD3Pz--xYI"]
 embeddable: "0"
 stub: "1"
+qc: 100
 ---
 
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*
 
 ## Correlati
+- [[20210727-fAD3Pz--xYI|Storia completa di ATLANTIDE]]

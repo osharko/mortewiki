@@ -10,18 +10,16 @@ view_count: "3765"
 like_count: "317"
 comment_count: "24"
 playlist_index: "0"
-tags: ["carino", "oscar", "meritato", "shrek", "zootropolis", "mirai"]
-related: ["20260612-zwli8h_OjzU", "20250314-adXqXoSqYSg", "20260804-kf2zhe_Rhn0", "20241208-pKPFXw4uv_U", "20260115-CzG-sz_NooI", "20250913-tw2W3ZPrbJE"]
+tags: ["carino", "oscar", "avrei vincere", "film carino", "alza vento", "meritato"]
+related: ["20260612-zwli8h_OjzU", "20241208-pKPFXw4uv_U", "20240623-5HkbTJJH2Bk"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20260612-zwli8h_OjzU|Amazing Digital Circus agli Oscar?]]
-- [[20250314-adXqXoSqYSg|Prospettive su Shrek 5]]
-- [[20260804-kf2zhe_Rhn0|La Filosofia di OBSESSION]]
 - [[20241208-pKPFXw4uv_U|Commentario ai Saturn Awards]]
-- [[20260115-CzG-sz_NooI|La Filosofia di Mirai]]
-- [[20250913-tw2W3ZPrbJE|Sfogone 3]]
+- [[20240623-5HkbTJJH2Bk|Si alza il Vento, bisogna tentare di vivere]]

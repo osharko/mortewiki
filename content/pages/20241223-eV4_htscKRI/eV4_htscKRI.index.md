@@ -10,10 +10,11 @@ view_count: "11848"
 like_count: "991"
 comment_count: "55"
 playlist_index: "0"
-tags: ["mafia", "mcdonald", "sentimento", "mafiosi", "catturi", "satira"]
-related: ["20260903-SvVQ_QXA89Q", "20250515-kvjs_N2Wv54", "20180722-oBK6t2-Kz5M", "20210310-Vof-ksk9FUU", "20180108-SRaemBYELqc", "20191207-SWGixUpGM7w", "20191006-G236uG57kok", "20250710-av0mX6et-XY", "20250427-k1ZP-FkNsa8", "20251019-UbC7lP9wiOE"]
+tags: ["mafia", "laurea filosofia", "mcdonald", "sentimento", "volevo fascisti", "sanno parecchio"]
+related: ["20260903-SvVQ_QXA89Q", "20250515-kvjs_N2Wv54", "20180722-oBK6t2-Kz5M", "20191207-SWGixUpGM7w", "20191006-G236uG57kok", "20250710-av0mX6et-XY", "20250427-k1ZP-FkNsa8", "20250919-k4OWzYlYgfA"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -22,10 +23,8 @@ embeddable: "1"
 - [[20260903-SvVQ_QXA89Q|La Storia di McDonald's]]
 - [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
 - [[20180722-oBK6t2-Kz5M|La Filosofia del Padrino]]
-- [[20210310-Vof-ksk9FUU|La Filosofia della Satira - Cancel Culture vs Black Humour]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
 - [[20191207-SWGixUpGM7w|La Filosofia di ADRIAN - La Serie Evento]]
 - [[20191006-G236uG57kok|La Filosofia del Camorrista]]
 - [[20250710-av0mX6et-XY|Se facciamo *COSA BUONA* alcune aziende falliranno!]]
 - [[20250427-k1ZP-FkNsa8|Elogio del 25 Aprile]]
-- [[20251019-UbC7lP9wiOE|Israele e le sue MAFIE]]
+- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]

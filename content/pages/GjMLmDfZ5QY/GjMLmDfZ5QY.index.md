@@ -6,10 +6,11 @@ playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "28"
 source: "https://youtu.be/GjMLmDfZ5QY"
-tags: ["inquietanti", "deep"]
+tags: ["inquietanti deep", "deep creepypasta", "inquietanti", "deep"]
 related: ["20190407-EZxUbdnDB1M", "20180701-oRFkCQ4hFzI", "20220630-PMc1UGxQT2s", "20240410-SjpVk87JhtA", "20200315-7qr5u7AtaiA", "20211226-bAMJYrp9nkA", "20200913-hFIBzReq5Ig", "20210131-LeAsuY2klWg", "20150621--fAWBj5vv1M", "20210627-gF6XQO2gd80"]
 embeddable: "0"
 stub: "1"
+qc: 100
 ---
 
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*

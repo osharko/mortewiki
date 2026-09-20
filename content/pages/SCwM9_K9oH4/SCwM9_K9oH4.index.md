@@ -6,10 +6,11 @@ playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "16"
 source: "https://youtu.be/SCwM9_K9oH4"
-tags: ["siansc", "intro"]
+tags: ["videogiochi siansc", "intro videogiochi", "siansc", "intro"]
 related: ["20170621-FeuB1putj4g", "20170815-sGSfQKqCtpM", "20170928-FoW2UtZmcKs", "20201024-yUmwR20eJow", "20250217-CbDibY3EMqU", "20250307-rKuupJd6-wQ", "20250503-Gf0mbUFf_rE", "20250526-0mg6g2QiDWQ", "20250601-fEpc6Y30Qp8"]
 embeddable: "0"
 stub: "1"
+qc: 15
 ---
 
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*

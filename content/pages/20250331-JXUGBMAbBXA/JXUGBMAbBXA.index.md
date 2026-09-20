@@ -10,22 +10,23 @@ view_count: "13169"
 like_count: "897"
 comment_count: "73"
 playlist_index: "0"
-tags: ["carlo", "monarchici", "referendum", "elisabetta", "quadrante", "monarchie"]
-related: ["20250408-lT-sJvOpjdM", "20220723-JjTOgCfG074", "20230723-K1j2K-uyIbQ", "20250707-qu16PceoXJg", "20230105-2YG-QNBSTBM", "20260426-TlFsgHQZaNk", "20210309--SZ7XGGYcAg", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g"]
+tags: ["regno unito", "carlo", "monarchici", "referendum", "nell orbita", "pezzo carta"]
+related: ["20250903-FfolkwKdC9U", "20260813-VWoqsF9auaE", "20250408-lT-sJvOpjdM", "20260412-LcWrMgiJZ7k", "20250418-YlPgqczhrj4", "20241103-1odWEk69h8E", "20230723-K1j2K-uyIbQ", "20260117-tspT5RQPpm4", "20260601-MiG7c6YOOgE", "20221130-DsS0lxEubZY"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
 - [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20220723-JjTOgCfG074|Critica alla Monarchia]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
+- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
 - [[20230723-K1j2K-uyIbQ|E se l'Impero di CARLO MAGNO fosse Sopravvissuto?]]
-- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]
-- [[20230105-2YG-QNBSTBM|E se CARLO V non avesse diviso l'Impero?]]
-- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
-- [[20210309--SZ7XGGYcAg|Cosa significano Destra e Sinistra? Critica al Political Compass]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]

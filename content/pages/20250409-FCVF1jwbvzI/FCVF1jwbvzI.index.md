@@ -10,22 +10,21 @@ view_count: "12090"
 like_count: "976"
 comment_count: "47"
 playlist_index: "0"
-tags: ["estetica", "pedofilia", "mafia", "ariani", "pedofili", "coincidenze"]
-related: ["20210919-AsrzSYG9Tt0", "20250515-kvjs_N2Wv54", "20210411-Po-nnJdlaPI", "20260826-G6S3ZGwI-hA", "20180722-oBK6t2-Kz5M", "20220806-QeE7uYbQ_hk", "20260114-dPMTPFNn-u8", "20180108-SRaemBYELqc", "20240515-ZRuVIHUfGlc", "20260503-SZBocEbdQao"]
+tags: ["guerra contro", "estetica", "pedofilia", "fascista vuole", "guardate guardate", "estetica etica"]
+related: ["20210919-AsrzSYG9Tt0", "20220806-QeE7uYbQ_hk", "20210411-Po-nnJdlaPI", "20240515-ZRuVIHUfGlc", "20260503-SZBocEbdQao", "20241215-Sjr1XkQows4", "20220508-h94SfUdF4KY", "20260114-dPMTPFNn-u8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20210919-AsrzSYG9Tt0|Viaggio tra i PEDOFILI del DEEP WEB]]
-- [[20250515-kvjs_N2Wv54|La storia d'amore tra FASCISMO e MAFIA]]
-- [[20210411-Po-nnJdlaPI|La Filosofia di Cuties (Non c'è)]]
-- [[20260826-G6S3ZGwI-hA|Anche i pedofili hanno diritti umani]]
-- [[20180722-oBK6t2-Kz5M|La Filosofia del Padrino]]
 - [[20220806-QeE7uYbQ_hk|La Vita migliore possibile]]
-- [[20260114-dPMTPFNn-u8|Età del consenso, adulta e diritto di voto]]
-- [[20180108-SRaemBYELqc|La Banda della Magliana - Romanzo Criminale e Suburra]]
+- [[20210411-Po-nnJdlaPI|La Filosofia di Cuties (Non c'è)]]
 - [[20240515-ZRuVIHUfGlc|Cos'è il FRUTIGER AERO?]]
 - [[20260503-SZBocEbdQao|L'Arte di Adolf Hitler]]
+- [[20241215-Sjr1XkQows4|Il sottile anticattolicesimo della Destra]]
+- [[20220508-h94SfUdF4KY|Il Problema di Essere Nati]]
+- [[20260114-dPMTPFNn-u8|Età del consenso, adulta e diritto di voto]]

@@ -10,9 +10,10 @@ view_count: "6467"
 like_count: "689"
 comment_count: "70"
 playlist_index: "0"
-tags: ["truccato", "obbedienti", "produttivi", "pseudofascismo", "oleata", "badarci"]
+tags: ["obbedienti produttivi", "studiare studiare", "votare ingenuità", "votando truccato", "viper gioco", "vabboh finché"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

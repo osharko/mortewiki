@@ -12,23 +12,16 @@ comment_count: "375"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "54"
-tags: ["truman", "show", "caverna", "attori", "regista", "menzogna"]
-related: ["20260803-yT-GO5_4OJ4", "20190711-kl1p3lnL9sY", "20201010-oA8JQomLSLA", "20180204-8_IHgAz-PSI", "20200611-Bja1GdZnMqE", "20200429-5ksJ_atnAYU", "20160522-aI5FIGhK9uY", "20260128-WggPME6XLKk", "20251212-fnmYbiWa1E0", "20260808--EX0iEn-uEI"]
+tags: ["truman", "truman show", "show", "realtà truman", "reality show", "iper realtà"]
+related: ["20190711-kl1p3lnL9sY", "20180204-8_IHgAz-PSI"]
 video_type: "video"
 description: "TRUMAN SHOW SU AMAZON\nhttps://amzn.to/2ULAXkv\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/sledge23-2/sledge-one-way-out?in=sledge23-2/sets/vos\nDarkest Child Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nThe Machine Thinks Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nThe Other Side of the Door Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://soundcloud.com/sledge23-3/04-sledge-timeless-space"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
 - [[20190711-kl1p3lnL9sY|La Filosofia di Yotobi]]
-- [[20201010-oA8JQomLSLA|TOP migliori ANIME SHONEN di SEMPRE]]
 - [[20180204-8_IHgAz-PSI|Black Mirror e la Politica]]
-- [[20200611-Bja1GdZnMqE|La Filosofia di Cannarsi (Traduzione, Adattamento, Doppiaggio)]]
-- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
-- [[20160522-aI5FIGhK9uY|Siamo dentro Matrix?]]
-- [[20260128-WggPME6XLKk|Voglio scalare una montagna]]
-- [[20251212-fnmYbiWa1E0|Cosplay tra Blackface e Fat shaming]]
-- [[20260808--EX0iEn-uEI|Bear non è il villan di Obsession!!!]]

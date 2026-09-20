@@ -10,21 +10,18 @@ view_count: "9848"
 like_count: "830"
 comment_count: "48"
 playlist_index: "0"
-tags: ["luigi", "mangione", "gender", "giornali", "padroni", "italoamericani"]
-related: ["20250211-GP33JOLQjfM", "20250226--KPXkqJOxYc", "20210519-1RK93CbCktw", "20161030-15InOj8iByM", "20190928-kpVAgG6QP0w", "20170401-xtFdl6cevOU", "20210909-LDBR0wTktT4", "20210317-vlS5LiWoRCk", "20250224-ijJAnHWrzis"]
+tags: ["luigi mangione", "guerra culturale", "prende potere", "luigi", "mangione", "culturale guerra"]
+related: ["20250920-JgFUDInERkU", "20260304-FTDRaTnL7D0", "20260826-G6S3ZGwI-hA", "20250630-n2c_nqJecPY", "20250226--KPXkqJOxYc"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250211-GP33JOLQjfM|GENDER WAGE GAP: tra Economia e Cervello]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
+- [[20260826-G6S3ZGwI-hA|Anche i pedofili hanno diritti umani]]
+- [[20250630-n2c_nqJecPY|Bezos blocca Venezia per il suo matrimonio: Neo-feudalesimo distopico]]
 - [[20250226--KPXkqJOxYc|Una critica moderata ai moderati]]
-- [[20210519-1RK93CbCktw|La Filosofia del Libro della Giungla]]
-- [[20161030-15InOj8iByM|La Villa degli Specchi - Creepypasta #53]]
-- [[20190928-kpVAgG6QP0w|NIETZSCHE (Lezione completa) - #Filosofia 23]]
-- [[20170401-xtFdl6cevOU|MORTEBIANCA FACE REVEAL]]
-- [[20210909-LDBR0wTktT4|Apologia di Cicciogamer]]
-- [[20210317-vlS5LiWoRCk|Cosa abbiamo imparato dal Covid?]]
-- [[20250224-ijJAnHWrzis|Alexandria Ocasio-Cortez e Bernie Sanders]]

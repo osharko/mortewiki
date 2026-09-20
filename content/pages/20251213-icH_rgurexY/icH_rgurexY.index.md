@@ -10,22 +10,20 @@ view_count: "3810"
 like_count: "325"
 comment_count: "14"
 playlist_index: "0"
-tags: ["tartarus", "engine", "sheol", "tartaro", "ergastoli", "demoni"]
-related: ["20220424-BMiz0RBPros", "20251021-a9GMGUzHVac", "20251028-PLZeB5tZwfE", "20170716-kgarwsIMhJ8", "20260410-7kqYnIHd-4s", "20240218-nCh9NAjg-MA", "20250525-ouCk8QQ4Zos", "20260205-6kRSAEQZD_8", "20250724-yCpcmLUe-1c", "20150919-9MJLLFFKwVs"]
+tags: ["tartarus engine", "tartarus", "engine", "sheol", "tartaro", "nuovo testamento"]
+related: ["20260617-62SpWKbYSuo", "20230611-RJTYsarj7N0", "20251028-PLZeB5tZwfE", "20220509--qwkD8BXOJI", "20251219-EBQwDwYympo", "20220309-7lqNG-k44-o", "20220320-9NecjfpGJDk"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220424-BMiz0RBPros|La Filosofia di Promised Neverland]]
-- [[20251021-a9GMGUzHVac|La Filosofia di FRIEREN]]
+- [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
+- [[20230611-RJTYsarj7N0|I Passaggi Violenti dell'Antico Testamento]]
 - [[20251028-PLZeB5tZwfE|Miside e l'Inferno biblicamente accurato]]
-- [[20170716-kgarwsIMhJ8|Il Monaco - Creepypasta #70]]
-- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
-- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
-- [[20250525-ouCk8QQ4Zos|Cosa è umano?]]
-- [[20260205-6kRSAEQZD_8|Critica a Film Theorist su Hazbin Hotel]]
-- [[20250724-yCpcmLUe-1c|La Filosofia di COCO]]
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]
+- [[20220509--qwkD8BXOJI|La Proprietà Privata è davvero Sacra?]]
+- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
+- [[20220309-7lqNG-k44-o|La Filosofia dei 10 Comandamenti]]
+- [[20220320-9NecjfpGJDk|La Filosofia della Bestemmia (Non c'è)]]

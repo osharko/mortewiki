@@ -10,22 +10,23 @@ view_count: "10650"
 like_count: "708"
 comment_count: "51"
 playlist_index: "0"
-tags: ["ping", "correnti", "golpe", "taiwan", "putin", "bush"]
-related: ["20220228-JAaPG9MHvF8", "20241107-Zsyc4OecXhA", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251122-bT5uXCtc85g", "20250206-HiRzQUZUhHY", "20220224-AfzPCkTR0P0", "20250506-Pcrfnsjr160", "20220303-TiRY5wVHL1A", "20250928--aKzIU-_lPE"]
+tags: ["partito comunista", "ping", "europa cina", "xijin ping", "quanto probabile", "comunista cinese"]
+related: ["20250502-dW-nA5qTj_4", "20260606-PLb7SEpZKhs", "20241107-Zsyc4OecXhA", "20260605-BdxjbOWNBkw", "20221113-nRYYBlqBw0w", "20250512-_Grsa_mjlUU", "20260211-lJgfrviR5UI", "20260212-80t_llStvlI", "20250305-5Mh3VfogFfM", "20250504--cPDe9izQSs"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
+- [[20250502-dW-nA5qTj_4|Ricchi comunisti oggi: quali sono?]]
+- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]
 - [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20250506-Pcrfnsjr160|La miopia geopolitica di TRUMP sull'UCRAINA]]
-- [[20220303-TiRY5wVHL1A|Come RISOLVERE la guerra in UCRAINA?]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
+- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
+- [[20260211-lJgfrviR5UI|La Cina non è democratica]]
+- [[20260212-80t_llStvlI|Ho fatto arrabbiare i difensori di Pechino]]
+- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
+- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]

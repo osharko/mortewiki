@@ -10,22 +10,17 @@ view_count: "5996"
 like_count: "369"
 comment_count: "108"
 playlist_index: "0"
-tags: ["subnautica", "warcraft", "portal", "andreas", "giocato", "cyberpunk"]
-related: ["20240902-zY71hagVf6k", "20241117-CgUhuFS6Clc", "20250503-l7dtFsZyOl4", "20260726-sDUpiGAqrCo", "20260824-cNYu_H4axOI", "20230305-SqnpWqRn380", "20250810-Cldu7V6BsE0", "20200902-qGiwPDfhiDo", "20240204-84WKboHOqlc", "20250119-Ek13yTq2NwE"]
+tags: ["world warcraft", "prima morire", "mass effect", "elden ring", "metal gear", "subnautica"]
+related: ["20260722-wG6fPkBh4o8", "20181118-Wqm1rnmSZsk", "20150408-pemrddn3Uew", "20250324-PzzyWA0R7R8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240902-zY71hagVf6k|Cosa (NON) è il Cyberpunk]]
-- [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
-- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
-- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
-- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
-- [[20230305-SqnpWqRn380|La Filosofia di CYBERPUNK 2077]]
-- [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
-- [[20200902-qGiwPDfhiDo|La mia Storia con i Videogiochi]]
-- [[20240204-84WKboHOqlc|CYBERPUNK 2077: Qual è il Finale CANONICO? - Phantom Liberty]]
-- [[20250119-Ek13yTq2NwE|Non hai capito i GDR]]
+- [[20260722-wG6fPkBh4o8|Asari: è parassitismo?]]
+- [[20181118-Wqm1rnmSZsk|Il Culto del DEEP WEB - Creepypasta 105]]
+- [[20150408-pemrddn3Uew|Post Mortem - Creepypasta #12]]
+- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]

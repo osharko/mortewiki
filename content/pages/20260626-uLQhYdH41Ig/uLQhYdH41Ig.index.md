@@ -10,22 +10,22 @@ view_count: "9947"
 like_count: "697"
 comment_count: "86"
 playlist_index: "0"
-tags: ["renzi", "meloni", "centristi", "coalizione", "vota", "progressista"]
-related: ["20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20250509-_b6UTmUr-IU", "20260402-VGpKEL1s_6M", "20260909-UEGP6k2vN-o", "20260322-uUpJEd5vCpw", "20260324-sary-ahdKLc", "20260529-JlQu1zEslFQ", "20251118-R9gzIIr_3Ek", "20260601-MiG7c6YOOgE"]
+tags: ["renzi", "italia viva", "durante governo", "fronte progressista", "meloni", "opposizione durante"]
+related: ["20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260619-y8-CUN5JYss", "20260322-uUpJEd5vCpw", "20260324-sary-ahdKLc", "20260601-MiG7c6YOOgE", "20250304-vOGnydyQbA8", "20260527-KnusyaTfPCc", "20260325-glBFTY-C52E"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
 - [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
 - [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
-- [[20260909-UEGP6k2vN-o|Sul trionfo di AFD]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
 - [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
 - [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
-- [[20260529-JlQu1zEslFQ|Dovresti criticare Vannacci, non Boldrin!]]
-- [[20251118-R9gzIIr_3Ek|Il tradimento dei Democratici Centristi]]
 - [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
+- [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]

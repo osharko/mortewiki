@@ -12,23 +12,23 @@ comment_count: "495"
 playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "52"
-tags: ["bannato", "indiscutibile", "insulta", "clown", "rivista", "target"]
-related: ["20160626-coz3YbDOLKo", "20260306-sFW5grXZSEw", "20251124-avrmErwu0Tk", "20250930-0_fHcp5qFs0", "20201224-QAcT36Qkdc8", "20250129-bKWEV16WRKo", "20200927-g56C2UYHznY", "20200429-5ksJ_atnAYU", "20260308-lwwMqKKIDI0", "20260317-y5pG11MM0to"]
+tags: ["libertà espressione", "bianca clown", "bannato", "indiscutibile", "insulta", "clown"]
+related: ["20250129-bKWEV16WRKo", "20250921-oVnlEcb4lUA", "20241129-HFOQHOQoGJg", "20160626-coz3YbDOLKo", "20260306-sFW5grXZSEw", "20251124-avrmErwu0Tk", "20250930-0_fHcp5qFs0", "20201224-QAcT36Qkdc8", "20200927-g56C2UYHznY"]
 video_type: "video"
 description: "PROVE\nhttps://imgur.com/hdeLMSt"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250129-bKWEV16WRKo|Se BANNI sei come ELON MUSK]]
+- [[20250921-oVnlEcb4lUA|Negare il contraddittorio è davvero Fassismo?]]
+- [[20241129-HFOQHOQoGJg|Haterismo come proiezione freudiana]]
 - [[20160626-coz3YbDOLKo|Hai paura dei Clown? - Creepypasta #44]]
 - [[20260306-sFW5grXZSEw|No, non sei Bannato]]
 - [[20251124-avrmErwu0Tk|Idolatria portami via]]
 - [[20250930-0_fHcp5qFs0|La PEGGIORE difesa della NATO che io abbia mai letto]]
 - [[20201224-QAcT36Qkdc8|Regolamento del Canale]]
-- [[20250129-bKWEV16WRKo|Se BANNI sei come ELON MUSK]]
 - [[20200927-g56C2UYHznY|Pareidolia - Creepypasta 146]]
-- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
-- [[20260308-lwwMqKKIDI0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 2)]]
-- [[20260317-y5pG11MM0to|Iniziano le Purghe Mortebianchiste]]

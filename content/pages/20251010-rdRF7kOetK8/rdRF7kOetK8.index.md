@@ -10,9 +10,10 @@ view_count: "15355"
 like_count: "966"
 comment_count: "48"
 playlist_index: "0"
-tags: ["ascesa"]
+tags: ["declino ascesa", "confronto cina", "ascesa confronto", "ascesa"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

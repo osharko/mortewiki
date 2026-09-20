@@ -10,17 +10,14 @@ view_count: "7686"
 like_count: "692"
 comment_count: "41"
 playlist_index: "0"
-tags: ["mazzarò", "verga", "compra", "nobile", "risparmia", "pessimismo"]
-related: ["20250113-O0ijRE06g6c", "20210729-9wyT4qZXAH4", "20260822--Cpqd4lD0iQ", "20240820-t814HTd4x7U", "20210328-cPojEf5N5_o"]
+tags: ["mazzarò", "verga", "compra compra", "compra", "risparmia risparmia", "roba roba"]
+related: ["20250113-O0ijRE06g6c"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20250113-O0ijRE06g6c|Se le varie aziende comprassero UBISOFT]]
-- [[20210729-9wyT4qZXAH4|La Filosofia di Taron e la pentola magica]]
-- [[20260822--Cpqd4lD0iQ|You will own NOTHING and be happy]]
-- [[20240820-t814HTd4x7U|Pessimismo e Nichilismo Cristiano]]
-- [[20210328-cPojEf5N5_o|La Filosofia di ATTACK ON TITAN]]

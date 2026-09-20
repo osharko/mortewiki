@@ -10,10 +10,11 @@ view_count: "4755"
 like_count: "377"
 comment_count: "26"
 playlist_index: "0"
-tags: ["console", "nintendo", "consoline", "deck", "switch", "portatili"]
-related: ["20190912-sX777AyfxsI", "20250209-yfjF8ki7EHw", "20250413-Y0jMmKLzDWk", "20200509-PIjNe3OByjw", "20251114-uznIlHcFInI", "20260815-LoFSH3Rwa6o", "20250526-yQg5jFVG958", "20250210-8Kvt27bCw2Y", "20251015-X13TPjDtzyI", "20250922-8onAikE00Dc"]
+tags: ["steam deck", "console", "nintendo", "console portatili", "consoline", "console portatile"]
+related: ["20190912-sX777AyfxsI", "20250209-yfjF8ki7EHw", "20250210-8Kvt27bCw2Y", "20250413-Y0jMmKLzDWk", "20251114-uznIlHcFInI", "20200509-PIjNe3OByjw", "20260815-LoFSH3Rwa6o", "20260625-ytK33P50E8g", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,11 +22,11 @@ embeddable: "1"
 ## Correlati
 - [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
 - [[20250209-yfjF8ki7EHw|Console-PC portatili: il mio pensiero]]
-- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
-- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
-- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
 - [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
-- [[20251015-X13TPjDtzyI|Sui Pokeleaks]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
+- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20260625-ytK33P50E8g|Steam Machine: cosa ne penso del GabeCube]]
 - [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
+- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]

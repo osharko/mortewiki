@@ -10,22 +10,23 @@ view_count: "14540"
 like_count: "1094"
 comment_count: "155"
 playlist_index: "0"
-tags: ["scomunica", "cattolici", "cattolico", "collassa", "aspe", "minacciato"]
-related: ["20250904-UxyeeuS9rGc", "20231223-_O4mNtUyzzQ", "20250131-RnZ3rZr9tuk", "20260502-1K07UwWMWZg", "20250504--cPDe9izQSs", "20250227--SvTavqJK4M", "20221027-Nrb13Cfy8jw", "20260505-KEpwvnkblbc", "20171113-dixNExIirds", "20210715-fhuC7NwT3Rc"]
+tags: ["chiesa cattolica", "america america", "romano impero", "scomunica", "vanno fatte", "americani americani"]
+related: ["20260501-MfIGVsJKM5w", "20250904-UxyeeuS9rGc", "20260221-N7zhvUWA-rY", "20260915-D62wrcXbifU", "20260502-1K07UwWMWZg", "20260603-y5o1v6Pv2CI", "20241031-fRV8peE_AJQ", "20260318-dNwyhP11mJM", "20231219-6lxKk1bu4-8", "20260225-tC5PJ0ukeHI"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20260915-D62wrcXbifU|Come avrebbero reagito i cristiani al Death Note?]]
 - [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
-- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
-- [[20260505-KEpwvnkblbc|L'Ecumenismo tra Cristianesimo e Islam]]
-- [[20171113-dixNExIirds|V per Vendetta e l'Anarchia]]
-- [[20210715-fhuC7NwT3Rc|Le RELIGIONI stanno SPARENDO?]]
+- [[20260603-y5o1v6Pv2CI|Magnifica Humanitas - Recensione dell'Enciclica di Leone XIV]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]
+- [[20260318-dNwyhP11mJM|Perché sono contrario all'esistenza dello stato Vaticano]]
+- [[20231219-6lxKk1bu4-8|La CHIESA benedice le COPPIE GAY: e ora?]]
+- [[20260225-tC5PJ0ukeHI|Sul gentile responso di Tutubbi]]

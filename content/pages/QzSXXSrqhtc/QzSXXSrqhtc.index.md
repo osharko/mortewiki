@@ -6,10 +6,11 @@ playlist: "Parodie e altro :D"
 playlist_id: "PLU8-xwslFxH8rRTf-0vmhb69xV2D23ooP"
 playlist_index: "20"
 source: "https://youtu.be/QzSXXSrqhtc"
-tags: ["parody", "toto", "dune"]
+tags: ["toto africa", "dune toto", "africa parody", "parody", "toto", "dune"]
 related: ["20240317-2qFac1rmD1A", "20240707-Dj34Xmf9JKE", "20250103-F7qA3AIQn5A", "20240602-leDGM8azp2M", "20210920-V3HpJ8peugI"]
 embeddable: "0"
 stub: "1"
+qc: 100
 ---
 
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*

@@ -10,15 +10,12 @@ view_count: "6276"
 like_count: "561"
 comment_count: "40"
 playlist_index: "0"
-tags: ["ginoide", "mina", "wife", "romantica", "sposato", "emotion"]
-related: ["20220706-fpRr0io6Vcc", "20250103-Mxq9UbruNBQ", "20260309-QT-nQXh1xuM"]
+tags: ["ginoide", "mina dice", "sotto pioggia", "sposato robot", "wife emotion", "padrone padrone"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220706-fpRr0io6Vcc|Mortecuore 9 Director's Cut (ft Jematria)]]
-- [[20250103-Mxq9UbruNBQ|Abolire il Celibato dei preti]]
-- [[20260309-QT-nQXh1xuM|Sulla monarchia giapponese e il suo futuro]]

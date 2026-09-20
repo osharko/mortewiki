@@ -10,22 +10,19 @@ view_count: "8813"
 like_count: "813"
 comment_count: "51"
 playlist_index: "0"
-tags: ["martin", "hunter", "piece", "berserk", "trilogia", "autori"]
-related: ["20150328-lStExoasZBY", "20250324-PzzyWA0R7R8", "20260706-jNDtv2e0bCE", "20260313-ynkTjz44iKc", "20200112-YsAW-FWmH60", "20201010-oA8JQomLSLA", "20250527-ZBCBdVv4q5Y", "20260308-KxiAmVhYs-k", "20260127-Okbt1If7Lkw", "20260731-P0B5DbMIVfM"]
+tags: ["hunter hunter", "purtroppo ragazzi", "martin", "ragazzi miei", "hunter", "cazzo gliene"]
+related: ["20250324-PzzyWA0R7R8", "20260706-jNDtv2e0bCE", "20250115-qzGw__75EoA", "20201010-oA8JQomLSLA", "20260901--REGlLWC-xw", "20260127-Okbt1If7Lkw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20150328-lStExoasZBY|Il Fandom Di ONE PIECE è Una Cosa Bella!]]
 - [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
 - [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
-- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]
-- [[20200112-YsAW-FWmH60|La Filosofia di Star Wars IX (Non c'è)]]
+- [[20250115-qzGw__75EoA|Separare autore e opera]]
 - [[20201010-oA8JQomLSLA|TOP migliori ANIME SHONEN di SEMPRE]]
-- [[20250527-ZBCBdVv4q5Y|RT poop riporta Robin Williams]]
-- [[20260308-KxiAmVhYs-k|Critica a Catelyn Stark (née Tully)]]
+- [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
 - [[20260127-Okbt1If7Lkw|Madoka 4 è stato rimandato]]
-- [[20260731-P0B5DbMIVfM|Un video per il mio amico Donny di Alchill]]

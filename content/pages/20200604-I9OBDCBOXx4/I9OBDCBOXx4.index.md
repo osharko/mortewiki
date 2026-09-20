@@ -12,11 +12,12 @@ comment_count: "131"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "92"
-tags: ["animazione", "grafica", "disegno", "sfondo", "edison", "sparatutto"]
-related: ["20200726-cZUxl_7sAwU", "20231106-Py7BT1UUBlI", "20150605-JMgwvRxY6NE", "20251023-FTJnzuIHU3U", "20240327-N3NWXWJfRyI", "20250930-mtacieae1RY", "20260803-yT-GO5_4OJ4", "20260628-WyLCs2Wewbg", "20250722-qMzLysXMGeY", "20260521-gLmXjo9aA5c"]
+tags: ["animazione", "grafica", "tante immagini", "disegno", "fratelli lumière", "stop motion"]
+related: ["20200726-cZUxl_7sAwU", "20231106-Py7BT1UUBlI", "20251023-FTJnzuIHU3U", "20240327-N3NWXWJfRyI", "20250930-mtacieae1RY", "20260628-WyLCs2Wewbg", "20260521-gLmXjo9aA5c", "20260830-6vZulACux14", "20260901--REGlLWC-xw", "20200913-hFIBzReq5Ig"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Animazione #Grafica #Storia\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/sledge23-2/sledge-daydreaming\nhttps://www.youtube.com/watch?v=IMcC-u4AHM0\nhttps://soundcloud.com/sledge23-3/09-sledge-turning-point\nhttps://www.youtube.com/watch?v=ma3BFoEwjPI"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -24,11 +25,11 @@ embeddable: "1"
 ## Correlati
 - [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
 - [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
-- [[20150605-JMgwvRxY6NE|MANGA VS ANIME - Il manga è sempre meglio dell'Anime?]]
 - [[20251023-FTJnzuIHU3U|Lackadaisy: della furrica filosofia]]
 - [[20240327-N3NWXWJfRyI|Dov'è DIO? - TEORIE SU HAZBIN HOTEL]]
 - [[20250930-mtacieae1RY|La Filosofia di GUINEVERE]]
-- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
 - [[20260628-WyLCs2Wewbg|Prehistoria: una speranza per l'animazione tradizionale]]
-- [[20250722-qMzLysXMGeY|Fallout: Remastered, Remake, Reboot]]
 - [[20260521-gLmXjo9aA5c|TOP 20 ANIME HORROR]]
+- [[20260830-6vZulACux14|Aspetto Fable 4 più di GTA 6]]
+- [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
+- [[20200913-hFIBzReq5Ig|La Ragazza del Deep Web - Creepypasta 145]]

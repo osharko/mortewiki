@@ -10,10 +10,11 @@ view_count: "16500"
 like_count: "1120"
 comment_count: "75"
 playlist_index: "0"
-tags: ["veneto", "moderati", "frontis", "centrodestra", "votano", "votato"]
-related: ["20251125-oRcyF209PT8", "20241121-smIutDtqomo", "20250511-wkyU76rAHC0", "20250514-98VILQuSOtU", "20251005-vaZ84a-kTyM", "20260619-y8-CUN5JYss", "20251224-9bsGm21CExY", "20260530-lllfQzG5_Hw", "20250408-lT-sJvOpjdM", "20250309-ahP-3cQlFds"]
+tags: ["veneto", "estrema sinistra", "sinistra veneto", "sinistra italiana", "veneto sinistra", "voto buttato"]
+related: ["20251125-oRcyF209PT8", "20241121-smIutDtqomo", "20250511-wkyU76rAHC0", "20250920-JgFUDInERkU", "20250514-98VILQuSOtU", "20251005-vaZ84a-kTyM", "20191219-cmdllE4A-qY", "20251020-kAoNRE2vFz0", "20251109--BksbKgj4e0", "20200401-EoCHyJi8Y9U"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -22,10 +23,10 @@ embeddable: "1"
 - [[20251125-oRcyF209PT8|Commentario alle regionali 2025 (Puglia, Campania e Veneto)]]
 - [[20241121-smIutDtqomo|Lega Nord tra Venetismo e Nazionalismo]]
 - [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
 - [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
 - [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
-- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
-- [[20251224-9bsGm21CExY|Il mio audio PEGGIORE in assoluto 4]]
-- [[20260530-lllfQzG5_Hw|Amministrative: trionfo delle sinistre (circa), fallimento di ORA! e demagogia della destra]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20250309-ahP-3cQlFds|La Transizione ecologica conviene]]
+- [[20191219-cmdllE4A-qY|I Radical Chic non esistono]]
+- [[20251020-kAoNRE2vFz0|Contro la stramaledetta scissione dell'atomo]]
+- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
+- [[20200401-EoCHyJi8Y9U|MORTEBIANCA È UN CLOWN?!1]]

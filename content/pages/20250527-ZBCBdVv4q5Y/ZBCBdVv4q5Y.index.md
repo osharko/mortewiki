@@ -10,22 +10,18 @@ view_count: "3887"
 like_count: "324"
 comment_count: "21"
 playlist_index: "0"
-tags: ["poop", "fiction", "williams", "robin", "martin", "nintendo"]
-related: ["20190912-sX777AyfxsI", "20251213-b-2w8GMJ9RA", "20251114-uznIlHcFInI", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM", "20250524-zSGQoSrx00A", "20250413-Y0jMmKLzDWk", "20250324-PzzyWA0R7R8", "20260706-jNDtv2e0bCE", "20241201-Lt5SAfzFC9g"]
+tags: ["youtube poop", "robin williams", "poop", "fiction", "williams", "robin"]
+related: ["20251213-b-2w8GMJ9RA", "20241201-Lt5SAfzFC9g", "20210612-awu5IyEHplE", "20190816--a5yP-0g5Ro", "20260428-I-coYJPLpYU"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
 - [[20251213-b-2w8GMJ9RA|La storia più EPICA di YOUTUBE]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
-- [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
-- [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
 - [[20241201-Lt5SAfzFC9g|Hard vs Soft science fiction]]
+- [[20210612-awu5IyEHplE|La Filosofia di Robin Hood]]
+- [[20190816--a5yP-0g5Ro|Contest Horror + Fanfiction]]
+- [[20260428-I-coYJPLpYU|TUTTE LE REGOLE DI INTERNET]]

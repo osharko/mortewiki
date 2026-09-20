@@ -10,10 +10,11 @@ view_count: "5885"
 like_count: "516"
 comment_count: "59"
 playlist_index: "0"
-tags: ["sardegna", "sardi", "sardo", "penisola", "quand", "nuoro"]
-related: ["20250511-wkyU76rAHC0", "20250528-RsQU-zKVSqQ", "20251227-YToeiTvL190"]
+tags: ["sardegna", "sardi", "sardo", "maggior sardi", "penisola", "quand avrò"]
+related: ["20250511-wkyU76rAHC0", "20250528-RsQU-zKVSqQ"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,4 +22,3 @@ embeddable: "1"
 ## Correlati
 - [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
 - [[20250528-RsQU-zKVSqQ|Risorgimento e Questione Meridionale - Critica a Neoborbonici e Leghisti]]
-- [[20251227-YToeiTvL190|SISTEMO le province italiane del Norde (e parte del centro)]]

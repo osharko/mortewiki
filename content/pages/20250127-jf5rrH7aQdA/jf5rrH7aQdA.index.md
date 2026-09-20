@@ -10,18 +10,14 @@ view_count: "7918"
 like_count: "823"
 comment_count: "80"
 playlist_index: "0"
-tags: ["pazzesco", "scherzo", "aspettavo", "abituati", "preoccupare", "community"]
-related: ["20220525-fPUumekOZBI", "20250802-NzaykUIBvqA", "20251016-tAcBqKBfXYA", "20240621-eroRrHrqDFA", "20260216--gAYhninVrs", "20220109-FFBFpp6Mw9E"]
+tags: ["detto voglio", "esperimento sociale", "cioè persona", "miei iscritti", "voglio suicidare", "preoccupare mamma"]
+related: ["20260728-QM_2gxdzDi0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220525-fPUumekOZBI|Mortebianca compie 12 anni]]
-- [[20250802-NzaykUIBvqA|La caduta di ZEB89]]
-- [[20251016-tAcBqKBfXYA|DISTRUGGO Ben Shapiro con Fatti e Logica]]
-- [[20240621-eroRrHrqDFA|LA FILOSOFIA FURRY]]
-- [[20260216--gAYhninVrs|Eulogia per Frusciante]]
-- [[20220109-FFBFpp6Mw9E|Vincitore Del Quinto Contest Mortebianca Maiuscolo]]
+- [[20260728-QM_2gxdzDi0|Mamdani contro gli abbonamenti furbetti]]

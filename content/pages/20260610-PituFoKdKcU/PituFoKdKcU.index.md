@@ -10,14 +10,12 @@ view_count: "11987"
 like_count: "924"
 comment_count: "122"
 playlist_index: "0"
-tags: ["razzo", "ridiamo", "alleare", "sankara", "cesso", "buttati"]
-related: ["20200116-LW-42WwoUTM", "20260702-uIXBC2q7Dk0"]
+tags: ["dobbiamo alleare", "nuovo sankara", "alleare paese", "buttati cesso", "casa bianca", "razzo"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200116-LW-42WwoUTM|Io e Amico Diverte scappiamo di prigione]]
-- [[20260702-uIXBC2q7Dk0|Gesù voleva la remigrazione!!!]]

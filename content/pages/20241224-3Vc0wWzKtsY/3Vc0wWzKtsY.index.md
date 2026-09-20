@@ -10,16 +10,18 @@ view_count: "7667"
 like_count: "657"
 comment_count: "22"
 playlist_index: "0"
-tags: ["risolverà", "conflitti", "kurg", "lobbing", "bandiera", "cgat"]
-related: ["20260413-JchQdHY22-M", "20250504--cPDe9izQSs", "20241029-jDsQeHZVfyY", "20250806-v7lcRTqfAxI"]
+tags: ["mano invisibile", "kurg esat", "fanno lobbing", "libero mercato", "tecnologia risolverà", "puzzavano pochino"]
+related: ["20260214-RGD-I9c6Rv8", "20260514-PpFGHECYXf4", "20260115-Yp8dokjbYhg", "20250120-23-Lrx2KZX0", "20250726-HIX-VljEPeA"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260413-JchQdHY22-M|Bandiera terrestre: esaminiamo le proposte]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20241029-jDsQeHZVfyY|Empatia e Teoria della Mente]]
-- [[20250806-v7lcRTqfAxI|Mamma, pare che sono sionista!]]
+- [[20260214-RGD-I9c6Rv8|Mortebianca e Rick DuFer: distanze filosofiche]]
+- [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
+- [[20260115-Yp8dokjbYhg|Come la crisi RAM sbugiarda il capitalismo]]
+- [[20250120-23-Lrx2KZX0|Los Angeles brucia]]
+- [[20250726-HIX-VljEPeA|Perché odio il CINEMA]]

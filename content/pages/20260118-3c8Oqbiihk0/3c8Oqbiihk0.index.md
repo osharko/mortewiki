@@ -10,10 +10,11 @@ view_count: "10107"
 like_count: "801"
 comment_count: "57"
 playlist_index: "0"
-tags: ["palestina", "ucraina", "borghesi", "proletariato", "invaso", "rendi"]
+tags: ["palestina", "ucraina", "ucraina palestina", "rendi conto", "quel paese", "stai dicendo"]
 related: ["20251122-bT5uXCtc85g", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20241118-G5_Xl9Lv4jU", "20260416-8mvgZUFK5io", "20250902-aD6n83WTgds", "20231029-MhcdzqAUKcI", "20221012-CKUHAN5rLm0", "20250830-nv4MaICTL6Y", "20250821-8_DHVNR7qRo"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

@@ -12,23 +12,13 @@ comment_count: "220"
 playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "3"
-tags: ["percepire", "odore", "ormone", "percepisco", "soggetti", "angoli"]
-related: ["20251228-uB6-4Q0ZToU", "20240611-bPcj2QQI1VQ", "20160228-qrC_cMsu6GY", "20260412-9TV9V9wtqCw", "20141001-_b7LDZmMpCk", "20200214-tTn5HGIeQww", "20250224-Hh4syXM9bPE", "20250323-fWx7joWsPkE", "20150418-Lb9nn3qfb4I", "20200412-Rcjz5KIY4_A"]
+tags: ["senso permette", "permette percepire", "avete senso", "percepire", "venivano aumentate", "percepisco ancora"]
 video_type: "video"
 description: "Terza creepy, è venuta più lunga del solito, sto iniziando ad aggiungere musiche e a migliorare l'editing.\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251228-uB6-4Q0ZToU|La NEBBIA sta arrivando - Creepypasta 267]]
-- [[20240611-bPcj2QQI1VQ|Perché odio il pesce (e JUNJI ITO concorda)]]
-- [[20160228-qrC_cMsu6GY|Fai finta di nulla - Creepypasta #36]]
-- [[20260412-9TV9V9wtqCw|LICANTROPIA - Creepypasta 270]]
-- [[20141001-_b7LDZmMpCk|Il cancello della Mente - Riscrittura Horror #10]]
-- [[20200214-tTn5HGIeQww|La Filosofia di Parasite]]
-- [[20250224-Hh4syXM9bPE|Una spiegazione per il 99,99% del PARANORMALE]]
-- [[20250323-fWx7joWsPkE|Il Regno dei Funghi - Creepypasta 157]]
-- [[20150418-Lb9nn3qfb4I|Happy Puppet Syndrome - Riscrittura Horror #6]]
-- [[20200412-Rcjz5KIY4_A|AMONG US - Creepypasta #65]]

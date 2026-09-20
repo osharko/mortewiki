@@ -10,17 +10,14 @@ view_count: "7463"
 like_count: "622"
 comment_count: "67"
 playlist_index: "0"
-tags: ["slurs", "insulti", "evita", "tratti", "coscienti", "insultare"]
-related: ["20200726-cZUxl_7sAwU", "20260714-aLl6KZqULBc", "20250529-HfVS5zFkmI0", "20201224-QAcT36Qkdc8", "20250913-tw2W3ZPrbJE"]
+tags: ["praticamente certi", "bambina vera", "slurs", "insulti", "personaggi videoludici", "sembra intelligente"]
+related: ["20260714-aLl6KZqULBc"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200726-cZUxl_7sAwU|Risposta definitiva: Endgame (+ Blastata sui ban)]]
 - [[20260714-aLl6KZqULBc|BOLDRIN MI INSULTA - Rispondiamo al Messia di ORA!]]
-- [[20250529-HfVS5zFkmI0|Il dibattito su Nietzsche + la questione Fat shaming]]
-- [[20201224-QAcT36Qkdc8|Regolamento del Canale]]
-- [[20250913-tw2W3ZPrbJE|Sfogone 3]]

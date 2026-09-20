@@ -10,10 +10,11 @@ view_count: "16209"
 like_count: "996"
 comment_count: "165"
 playlist_index: "0"
-tags: ["meloni", "marra", "giorgia", "podcast", "intervista", "pulp"]
-related: ["20260324-sary-ahdKLc", "20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260601-MiG7c6YOOgE", "20250304-vOGnydyQbA8", "20260626-uLQhYdH41Ig", "20260527-KnusyaTfPCc", "20260117-tspT5RQPpm4", "20260825-GTSsnHYxARY"]
+tags: ["giorgia meloni", "meloni", "pool podcast", "marra", "pulp podcast", "giorgia"]
+related: ["20260324-sary-ahdKLc", "20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260601-MiG7c6YOOgE", "20250304-vOGnydyQbA8", "20260626-uLQhYdH41Ig", "20260527-KnusyaTfPCc", "20260325-glBFTY-C52E"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -27,5 +28,4 @@ embeddable: "1"
 - [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
 - [[20260626-uLQhYdH41Ig|NO a Italia Viva nel Fronte Progressista]]
 - [[20260527-KnusyaTfPCc|Ho RAGEBAITATO un partito politico - l'Ossessione dei fan di ORA!]]
-- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
-- [[20260825-GTSsnHYxARY|Non dovresti parlare di partiti piccoli]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]

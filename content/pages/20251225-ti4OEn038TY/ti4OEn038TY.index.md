@@ -10,16 +10,15 @@ view_count: "8845"
 like_count: "737"
 comment_count: "74"
 playlist_index: "0"
-tags: ["regalo", "regali", "calzino", "nutella", "calzini", "station"]
-related: ["20191225-DGyCgIQkHLA", "20241209-Gh142vq95TI", "20191212-n19qh_7TbCc", "20250806-v7lcRTqfAxI"]
+tags: ["police station", "regalo", "regali", "momento bambino", "quella figura", "casa riposo"]
+related: ["20191225-DGyCgIQkHLA", "20230106-Qur5GuTd_qw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20191225-DGyCgIQkHLA|Perché odio il Natale]]
-- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
-- [[20191212-n19qh_7TbCc|Differenza tra corruzione, concussione e sponsorizzazione]]
-- [[20250806-v7lcRTqfAxI|Mamma, pare che sono sionista!]]
+- [[20230106-Qur5GuTd_qw|MEMORIA – Creepypasta 197]]

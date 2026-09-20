@@ -10,22 +10,19 @@ view_count: "9953"
 like_count: "737"
 comment_count: "82"
 playlist_index: "0"
-tags: ["coltivata", "maiale", "sentimento", "organismo", "sapore", "obiezione"]
-related: ["20230821-6rqGtylScIE", "20241209-Gh142vq95TI", "20260809-6gR5i-qIQ00", "20250919-k4OWzYlYgfA", "20191017-XDFssQ-VvsU", "20260802-XQulU3i-adg", "20211218-1msfjcv_Ovo", "20241020-sWgCIv1VA7w", "20260201-VHWl_BY3izc", "20241114-16RiTNi6rQQ"]
+tags: ["carne coltivata", "senza cervello", "quello vuoi", "coltivata", "maiale", "sistema nervoso"]
+related: ["20230202-lK_mQ1dF4YE", "20251026-pE8piBpjbiU", "20250426-JGFj_BA_hlc", "20230521-t3Sjy0jwmGI", "20240114-9jetoynokTg", "20230821-6rqGtylScIE"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20230202-lK_mQ1dF4YE|Come si sono EVOLUTI gli animali dal MARE alla TERRA?]]
+- [[20251026-pE8piBpjbiU|L'Intelligenza delle PIANTE]]
+- [[20250426-JGFj_BA_hlc|Zootropolis 2 introduce i rettili]]
+- [[20230521-t3Sjy0jwmGI|Animali Parlanti - Creepypasta 205]]
+- [[20240114-9jetoynokTg|HOMUNCULUS – Creepypasta 220]]
 - [[20230821-6rqGtylScIE|La Filosofia di PORCO ROSSO]]
-- [[20241209-Gh142vq95TI|Provo la Nutella vegana (ASMR Mukbang live Mortebianca reaction)]]
-- [[20260809-6gR5i-qIQ00|Burrito e Nachos: cosa ne penso]]
-- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
-- [[20191017-XDFssQ-VvsU|L'Educazione Migliore]]
-- [[20260802-XQulU3i-adg|I dolori del giovane Mortebianca]]
-- [[20211218-1msfjcv_Ovo|MORTECUORE 8 The Re;surrection (ft Zerga)]]
-- [[20241020-sWgCIv1VA7w|Tre parabole connesse]]
-- [[20260201-VHWl_BY3izc|Ho preparato uno Scottish Brunch (ASMR Mukbang Taste Test)]]
-- [[20241114-16RiTNi6rQQ|Ho assaggiato il pollo vegetariano]]

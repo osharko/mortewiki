@@ -10,10 +10,11 @@ view_count: "11160"
 like_count: "883"
 comment_count: "128"
 playlist_index: "0"
-tags: ["light", "misa", "coltello", "attrazione", "intelletto", "omosessuale"]
-related: ["20180513-k-x4n5J1RvM", "20180708-FU-Eezlk1CA", "20250102-d6VytRWuVVU", "20180610-NuYhwrjvFD4", "20240710-KPmyLsfdVU8", "20230709-eEpjudjBR2s", "20200917-JTh5ejiEMsY", "20180615-4OCXxIEudiI"]
+tags: ["light", "misa", "light persona", "credo light", "light sembra", "misa misa"]
+related: ["20180513-k-x4n5J1RvM", "20180708-FU-Eezlk1CA", "20250102-d6VytRWuVVU", "20180610-NuYhwrjvFD4", "20240710-KPmyLsfdVU8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -24,6 +25,3 @@ embeddable: "1"
 - [[20250102-d6VytRWuVVU|La sottile stupidità di LIGHT YAGAMI]]
 - [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]
 - [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
-- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
-- [[20200917-JTh5ejiEMsY|Mortecuore 4: il Ritorno (ft Mr Marra)]]
-- [[20180615-4OCXxIEudiI|San Tommaso e la Scolastica - #Filosofia 10]]

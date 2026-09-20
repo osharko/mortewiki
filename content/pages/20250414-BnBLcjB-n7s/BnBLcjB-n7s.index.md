@@ -10,19 +10,15 @@ view_count: "5798"
 like_count: "537"
 comment_count: "19"
 playlist_index: "0"
-tags: ["pewdiepie", "scuse", "mishima", "pewie", "logan", "paul"]
-related: ["20240707-Dj34Xmf9JKE", "20240602-leDGM8azp2M", "20240317-2qFac1rmD1A", "20250417-GHoS0YNX864", "20210920-V3HpJ8peugI", "20250103-F7qA3AIQn5A", "20251004-8yWgzrDL4rg"]
+tags: ["video scuse", "pewdiepie", "logan paul", "scuse", "ammettere torto", "stiamo vedendo"]
+related: ["20250417-GHoS0YNX864", "20250312-r5U3Cd7Ou3o"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240707-Dj34Xmf9JKE|LA FILOSOFIA DI DUNE]]
-- [[20240602-leDGM8azp2M|TUTTA LA LORE DI DUNE]]
-- [[20240317-2qFac1rmD1A|DUNE - SPIEGAZIONE DEL FINALE]]
 - [[20250417-GHoS0YNX864|Apologia di PewDiePie]]
-- [[20210920-V3HpJ8peugI|DUNE - Cosa ne penso?]]
-- [[20250103-F7qA3AIQn5A|Dune 4 confirmed? Poxxibile? Parliamone]]
-- [[20251004-8yWgzrDL4rg|La Filosofia di Mushoku Tensei]]
+- [[20250312-r5U3Cd7Ou3o|No, i giovani non sono più conservatori]]

@@ -10,13 +10,12 @@ view_count: "8447"
 like_count: "637"
 comment_count: "35"
 playlist_index: "0"
-tags: ["dibattere", "debate", "bros", "terrapiattista", "dibattiti", "fregatene"]
-related: ["20260817-FTg2gCuguAM"]
+tags: ["debate bros", "dibattere", "debate", "bros", "inutili dannosi", "dovete dibattere"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260817-FTg2gCuguAM|Sul Dialogo Socratico]]

@@ -10,22 +10,23 @@ view_count: "12840"
 like_count: "1039"
 comment_count: "35"
 playlist_index: "0"
-tags: ["indipendenza", "romani", "inghilterra", "ever", "caledonia", "invasi"]
-related: ["20250515-Azp54fQKR1w", "20241012-LdQcX3Dm4RM", "20250606-3c2BjZ2aLy4", "20260507-xyKa9tpD8GA", "20260320-s8-zmip52LE", "20231002-pNe3PhDr-EI", "20250302-_Zx7FzBT12s", "20250207-8ududSJJavc", "20241119-8FxNB7i69UI", "20260429-QbdsvLTq1C4"]
+tags: ["regno unito", "indipendenza", "romani", "inghilterra", "never ever", "stati schiavi"]
+related: ["20250903-FfolkwKdC9U", "20260412-LcWrMgiJZ7k", "20260813-VWoqsF9auaE", "20250331-JXUGBMAbBXA", "20260117-tspT5RQPpm4", "20260601-MiG7c6YOOgE", "20250418-YlPgqczhrj4", "20221130-DsS0lxEubZY", "20250420-QCxTgRZJiCs", "20250423-KPvqg1GRrFs"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250515-Azp54fQKR1w|Apologia dei Romani in Asterix e Obelix]]
-- [[20241012-LdQcX3Dm4RM|L'Impero romano era davvero cattivo?]]
-- [[20250606-3c2BjZ2aLy4|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO? Parte 2]]
-- [[20260507-xyKa9tpD8GA|Il mio audio più FOLLE in assoluto]]
-- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
-- [[20231002-pNe3PhDr-EI|E se la FRANCIA avesse vinto la GUERRA DEI SETTE ANNI?]]
-- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]
-- [[20250207-8ududSJJavc|Il GLADIATORE DUE è PEGGIO DEL PREVISTO....]]
-- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
-- [[20260429-QbdsvLTq1C4|Cos'è il Colonialismo? Perché è diverso dalla conquista?]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
+- [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
+- [[20221130-DsS0lxEubZY|E se HITLER avesse vinto la Seconda Guerra Mondiale?]]
+- [[20250420-QCxTgRZJiCs|La tradizione non è legge]]
+- [[20250423-KPvqg1GRrFs|La Russia è stata esclusa dalla cerimonia di liberazione di Auschwitz]]

@@ -10,14 +10,16 @@ view_count: "6377"
 like_count: "585"
 comment_count: "33"
 playlist_index: "0"
-tags: ["apparizioni", "agosto", "golf", "vence", "pubbliche", "segreta"]
-related: ["20210604-PPgciXLt-v0", "rRKVpIqsmH4"]
+tags: ["america america", "apparizioni pubbliche", "opposizione trump", "avete rotto", "stai zitto", "vivo trump"]
+related: ["20250321-AviBBQdQqYU", "20260414-BiRiNnQGc3s", "20260208-gCFNjzl5CF8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20210604-PPgciXLt-v0|Perché dovremmo abolire I VOTI]]
-- [[rRKVpIqsmH4|Live Segreta (Non ditelo a nessuno)]]
+- [[20250321-AviBBQdQqYU|Gli USA si stanno incattivendo....]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
+- [[20260208-gCFNjzl5CF8|Noi per molto meno abbiamo distrutto governi]]

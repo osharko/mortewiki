@@ -10,18 +10,19 @@ view_count: "9649"
 like_count: "788"
 comment_count: "67"
 playlist_index: "0"
-tags: ["teatro", "pacifico", "alleato", "arbor", "avvisato", "vetro"]
-related: ["20230220-IAE8nUum5ZE", "20200708-E1HGWimlq14", "20200602-C0GAcBY_lFY", "20170924-vWxHBSqUYRI", "20250415-gliJQTKD8O4"]
+tags: ["buona idea", "quanto cazzo", "minimo senso", "casa vetro", "prima ministra", "voglia morire"]
+related: ["20250514-98VILQuSOtU", "20260613-FhyGMpUHhAI", "20260325-glBFTY-C52E", "20260708-6qytzpPFAXc", "20260309-QT-nQXh1xuM"]
 video_type: "video"
 description: "Fonte immagine: https://abc7ny.com/post/trump-praises-japans-new-prime-minister-saying-us-is-ally-strongest-level/18080149/"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230220-IAE8nUum5ZE|Il più GRAVE CRIMINE di PUTIN]]
-- [[20200708-E1HGWimlq14|I Videogiochi sono ARTE]]
-- [[20200602-C0GAcBY_lFY|Cos'è l'Arte?]]
-- [[20170924-vWxHBSqUYRI|Non guardarti allo specchio di notte - Creepypasta #75]]
-- [[20250415-gliJQTKD8O4|Il peggior crimine ISRAELIANO]]
+- [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
+- [[20260613-FhyGMpUHhAI|Perché sono serenamente pessimista]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]
+- [[20260708-6qytzpPFAXc|La PEGGIORE critica agli inglesismi che io abbia mai letto]]
+- [[20260309-QT-nQXh1xuM|Sulla monarchia giapponese e il suo futuro]]

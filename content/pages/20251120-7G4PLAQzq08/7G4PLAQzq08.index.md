@@ -10,19 +10,17 @@ view_count: "4983"
 like_count: "467"
 comment_count: "18"
 playlist_index: "0"
-tags: ["pomeriggio", "spendere", "giocherai", "wishlist", "tassa", "uova"]
-related: ["20260630-sqbJ7cUBEbA", "20240825-OZ4NajVtYMI", "20251130-YqXiTofqwYY", "20260726-zbAsM_UyLrM", "20181109-h4s0JcDf0ZE", "20161013-WuG9Nrq76Wk"]
+tags: ["minuti vita", "fine mondo", "ultimo pomeriggio", "ultima giocherai", "fosse ultimo", "stragrande maggioranza"]
+related: ["20220306-DYcE8S01Big", "20250917-KI_QI--vGJI", "20260215-qGBbCXcZdcc"]
 video_type: "video"
 description: "US, UP, UD (o UR)"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260630-sqbJ7cUBEbA|Le Tasse NON sono un furto]]
-- [[20240825-OZ4NajVtYMI|LO SCIAME – Creepypasta 235]]
-- [[20251130-YqXiTofqwYY|Perché il CICLO è così doloroso? Come la risolviamo?]]
-- [[20260726-zbAsM_UyLrM|Febbre della Lumaca - Creepypasta 276]]
-- [[20181109-h4s0JcDf0ZE|Cosa c'è nella mia Wishlist di Steam?]]
-- [[20161013-WuG9Nrq76Wk|La Psicologia di YUME NIKKI]]
+- [[20220306-DYcE8S01Big|Cosa faresti se DOMANI finisse il MONDO?]]
+- [[20250917-KI_QI--vGJI|Perché ho permesso il doppiaggio automatico]]
+- [[20260215-qGBbCXcZdcc|La sezione commenti PEGGIORE che io abbia mai visto...]]

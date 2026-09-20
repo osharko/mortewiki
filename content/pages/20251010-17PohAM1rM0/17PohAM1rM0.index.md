@@ -10,14 +10,14 @@ view_count: "6610"
 like_count: "543"
 comment_count: "27"
 playlist_index: "0"
-tags: ["bosnia"]
-related: ["20251111-3vBeOjHJzMU", "20251128-IR7vbCMEPO0"]
+tags: ["futuro bosnia", "bosnia"]
+related: ["20251111-3vBeOjHJzMU"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20251111-3vBeOjHJzMU|TITO e il sogno della JUGOSLAVIA]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]

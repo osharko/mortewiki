@@ -12,17 +12,18 @@ comment_count: "112"
 playlist: "A Billion Lies"
 playlist_id: "PLNSqddIVxJyU"
 playlist_index: "4"
-tags: ["jack", "uranio", "scorie", "canada", "filiera", "urio"]
-related: ["20260913--8ezzWjZ1qE", "20260914-Oo115Yosmpc", "20260917-qGMQERfraGE", "20260916-Ijw-qfE4jU8", "20260918-bQBGWrMMaWk", "20190331-tD9o5iCsmfU", "20231118-xxcvzFtN3RI", "20260111-fGc-jpcK4TQ", "20260919-IgChd2ZNxEk", "20260920-1spGRt8ku3U"]
+tags: ["jack", "uranio", "forma vita", "scorie", "canada", "filiera"]
+related: ["20260914-Oo115Yosmpc", "20260913--8ezzWjZ1qE", "20260917-qGMQERfraGE", "20260916-Ijw-qfE4jU8", "20260918-bQBGWrMMaWk", "20190331-tD9o5iCsmfU", "20231118-xxcvzFtN3RI", "20260111-fGc-jpcK4TQ", "20260919-IgChd2ZNxEk", "20260920-1spGRt8ku3U"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260913--8ezzWjZ1qE|A Billion Lies: Ideologia e proiezione (Parte 2)]]
 - [[20260914-Oo115Yosmpc|A Billion Lies: Fonti schierate e dove trovarle (Parte 3)]]
+- [[20260913--8ezzWjZ1qE|A Billion Lies: Ideologia e proiezione (Parte 2)]]
 - [[20260917-qGMQERfraGE|A Billion Lies: Terre non così rare (Parte 6)]]
 - [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
 - [[20260918-bQBGWrMMaWk|A Billion Lies: Chery Chery Picchi (Parte 7)]]

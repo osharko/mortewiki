@@ -10,22 +10,23 @@ view_count: "9206"
 like_count: "753"
 comment_count: "62"
 playlist_index: "0"
-tags: ["relatività", "volare", "viaggiare", "space", "artemis", "quantistica"]
-related: ["20250107-3nEN4xYAjOM", "20230607-U6lYXM40OOE", "20230527-KAoLd3Q62_c", "20240225-SvrSztco8a0", "20250319-Jz1es0_3ScU", "20241030-OJkaL32vlo8", "20250105-lRQi4qp8aHI", "20260516-bAoPOuqL9o0", "20250819-xdze3pAL6gY", "20240609-IWrLGWfrSc0"]
+tags: ["velocità luce", "relatività", "alla velocità", "meccanica quantistica", "volare", "forze fondamentali"]
+related: ["20250208-drBsKlLlE08", "20191026-erglEe8LlpM", "20250107-3nEN4xYAjOM", "20230527-KAoLd3Q62_c", "20251014-iI7HCGIVYT4", "20241126-5zP5EKfpLhA", "20170226-HP7Ma_PU_P4", "20210815-ZXjIdVxpY6c", "20200910-7o8HnnSDkTk", "20230827-lc6W8MiAa6c"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250208-drBsKlLlE08|La Filosofia di STEINS;GATE]]
+- [[20191026-erglEe8LlpM|FREUD, JUNG, GODEL ed EINSTEIN - #Filosofia 24]]
 - [[20250107-3nEN4xYAjOM|La storia del NOBEL (e i suoi problemi)]]
-- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
 - [[20230527-KAoLd3Q62_c|STORIA dell'AVIAZIONE]]
-- [[20240225-SvrSztco8a0|HO FERMATO IL TEMPO - Creepypasta 223]]
-- [[20250319-Jz1es0_3ScU|La Caduta di ELON MUSK]]
-- [[20241030-OJkaL32vlo8|Perché gli anti-Woke ODIANO la psicologia?]]
-- [[20250105-lRQi4qp8aHI|IL LATO OSCURO DI ELON MUSK]]
-- [[20260516-bAoPOuqL9o0|La Verità su ELON MUSK]]
-- [[20250819-xdze3pAL6gY|ELON MUSK VS TRUMP: LA RESA DEI CONTI]]
-- [[20240609-IWrLGWfrSc0|ELON MUSK ALLA RISCOSSA]]
+- [[20251014-iI7HCGIVYT4|La Filosofia di WATCHMEN]]
+- [[20241126-5zP5EKfpLhA|Critica al SOLIPSISMO]]
+- [[20170226-HP7Ma_PU_P4|Cervello Quantistico - Creepypasta #61]]
+- [[20210815-ZXjIdVxpY6c|SHINING 2, CODE GEASS 3, MR ROBOT 4, GODZILLA 5, PSYCHO PASS 6, WARHAMMER 7, SAW 8, POKÉMON 9]]
+- [[20200910-7o8HnnSDkTk|POPPER (Lezione completa) - #Filosofia 31]]
+- [[20230827-lc6W8MiAa6c|RESURREZIONE - Creepypasta 210]]

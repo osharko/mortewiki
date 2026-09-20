@@ -10,22 +10,16 @@ view_count: "12902"
 like_count: "1027"
 comment_count: "28"
 playlist_index: "0"
-tags: ["hater", "proposte", "parlamento", "consensus", "omosessualità", "competente"]
-related: ["20230709-eEpjudjBR2s", "20230710-rkwWGE0175A", "20251124-avrmErwu0Tk", "20260426-TlFsgHQZaNk", "20260315-5BmAX31ewQ0", "20200429-5ksJ_atnAYU", "20260411-9MZT8TX4Dk0", "20250418-YlPgqczhrj4", "20260317-y5pG11MM0to", "20260225-tC5PJ0ukeHI"]
+tags: ["vita privata", "ragazzini sognano", "omosessualità malattia", "pensiero politico", "presidente consiglio", "carità però"]
+related: ["20250204-7yB3loP15w4", "20260810-4UK4GwqjTVk", "20190531-do45hVcQ6Og"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230709-eEpjudjBR2s|La Filosofia dell'Omosessualità]]
-- [[20230710-rkwWGE0175A|Bibbia e Omosessualità]]
-- [[20251124-avrmErwu0Tk|Idolatria portami via]]
-- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
-- [[20260315-5BmAX31ewQ0|Raccolta firme per riformare il gruppo: ecco cosa cambieremo (e cosa no)]]
-- [[20200429-5ksJ_atnAYU|La Psicologia degli Haters]]
-- [[20260411-9MZT8TX4Dk0|Quando Mussolini NON si mise in Autoaccusa]]
-- [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
-- [[20260317-y5pG11MM0to|Iniziano le Purghe Mortebianchiste]]
-- [[20260225-tC5PJ0ukeHI|Sul gentile responso di Tutubbi]]
+- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]
+- [[20260810-4UK4GwqjTVk|Ho provato a fare la Polenta (due volte)]]
+- [[20190531-do45hVcQ6Og|Perché non mostro il volto]]

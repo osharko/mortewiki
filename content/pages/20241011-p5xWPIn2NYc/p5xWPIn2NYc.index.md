@@ -10,22 +10,23 @@ view_count: "6008"
 like_count: "610"
 comment_count: "33"
 playlist_index: "0"
-tags: ["edit", "stronzi", "creepy", "first", "nazionalismo", "humanity"]
-related: ["20250225-jmZ_5QzdFHM", "20251216-IjAjwGmBaH8", "20160312-zN1kr3wikMo", "20260723-4GvDQhFguPM", "20241212-Ax9gkuXak7s", "20250516-s4FiWAR7N6I", "20250723-sOw4syo7ddg", "20260218-3neleQ8C3zI", "20250128-dO092738ZNk", "20140921-dQTMSp83rTE"]
+tags: ["forme vita", "opere umani", "altre specie", "creepy pasta", "altre forme", "quei cazzo"]
+related: ["20260722-wG6fPkBh4o8", "20230424-MAPz6iU24l8", "20250225-jmZ_5QzdFHM", "20160312-zN1kr3wikMo", "20231124-nIAAAIh60Wo", "20260218-3neleQ8C3zI", "20170129--U1yhSkcOBQ", "20250805-qroh4Lv5tJc", "20150914-IDPGAVQ_8aY", "20260304-FTDRaTnL7D0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20260722-wG6fPkBh4o8|Asari: è parassitismo?]]
+- [[20230424-MAPz6iU24l8|Dove sono gli ALIENI? - Il Paradosso di Fermi]]
 - [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
-- [[20251216-IjAjwGmBaH8|La Filosofia di Edith Finch]]
 - [[20160312-zN1kr3wikMo|SPECIALE 10.000 - Il Nostro Trionfo (+ Nome sigla/intro)]]
-- [[20260723-4GvDQhFguPM|No, i Tau non sono peggio del Caos]]
-- [[20241212-Ax9gkuXak7s|Una proposta per l'Inno Europeo?]]
-- [[20250516-s4FiWAR7N6I|Differenze tra Nazionalismo e Patriottismo]]
-- [[20250723-sOw4syo7ddg|Fallout Bakersfield: cosa ne penso]]
+- [[20231124-nIAAAIh60Wo|Come è nata la VITA?]]
 - [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
-- [[20250128-dO092738ZNk|Cina: vuota opulenza, futuro apofantico]]
-- [[20140921-dQTMSp83rTE|Minecraft - Partita perfetta!]]
+- [[20170129--U1yhSkcOBQ|Le piante ci stanno guardando (SCP) - Creepypasta #59]]
+- [[20250805-qroh4Lv5tJc|La Filosofia di Turning Red]]
+- [[20150914-IDPGAVQ_8aY|Speciale 2500 iscritti - V per Vlog di presentazione]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]

@@ -12,18 +12,18 @@ comment_count: "133"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "28"
-tags: ["anthology", "unboxing", "limited", "edition"]
-related: ["20200404-SLCmorkPbNE", "20230316-4nZxDq9feYU", "20250424-kcaOOyJsWWQ", "20210221-G5C53rkXXu4", "20191021-oneNXUxYw7k"]
+tags: ["fallout anthology", "edition unboxing", "anthology limited", "limited edition", "anthology", "unboxing"]
+related: ["20200404-SLCmorkPbNE", "20211217-7GpLBMnBz1s", "20220514-zx9Sz3CY9Dg", "20210221-G5C53rkXXu4"]
 video_type: "video"
 description: "Pip Boy su Amazon\nhttp://amzn.to/2HYifRv\nCanale di Giuliagatta che ha fatto le riprese https://www.youtube.com/user/giulyagatta97\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it"
 embeddable: "1"
+qc: 79
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20200404-SLCmorkPbNE|Vincitori del Contest + Magliette + Libri + Sono veramente euforico]]
-- [[20230316-4nZxDq9feYU|Vincitore Sesto Contest]]
-- [[20250424-kcaOOyJsWWQ|Della qualità audio dei video]]
+- [[20211217-7GpLBMnBz1s|Quinto Contest di Mortebianca!]]
+- [[20220514-zx9Sz3CY9Dg|Checché ne Strillino i Liberisti - Analisi di un meme]]
 - [[20210221-G5C53rkXXu4|Recensione Key Anthology - Trailer]]
-- [[20191021-oneNXUxYw7k|Unboxing Silver Play Button dei 100.000 iscritti (Epico et cetera)]]

@@ -10,22 +10,23 @@ view_count: "11194"
 like_count: "1092"
 comment_count: "67"
 playlist_index: "0"
-tags: ["minorenni", "porno", "rubano", "elon", "parto", "giocatore"]
-related: ["20250823-lvuDoi8FX5o", "20260802-TeNDxHNNZbU", "20220123-EfCUfd5HKyI", "20250211-1D0clNOe0Dc", "20190111-3HIe9O2A_rc", "20251120-29RH-cMlBZE", "20251014-3wmjKpIoB_s", "20251216-1Bo2xDFYWss", "20160527-0bTtbHb0byI", "20241013-zaBaaiDXgCc"]
+tags: ["rubano donne", "persone colore", "elon musk", "speriamo facciano", "rubare donne", "puro brainrot"]
+related: ["20231021-UHnZ3KOWcrk", "20240813-0DGlNyn5gS8", "20250221-SvEkqdd8g10", "20231015-2n3YvIxIAGE", "20240107-XGom_Cer7mw", "20241101-Mz4vhvNZIew", "20250105-lRQi4qp8aHI", "20230607-U6lYXM40OOE", "20240906-SCq2YmIAcPY", "20250824-7L7PlAD1RFg"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250823-lvuDoi8FX5o|L'artista che ha RESISTITO alla tentazione]]
-- [[20260802-TeNDxHNNZbU|Il Nofap non ha senso - Critica al No Nut November]]
-- [[20220123-EfCUfd5HKyI|La Psicologia di OnlyFans]]
-- [[20250211-1D0clNOe0Dc|Critica alla Pornificazione mediatica imperante]]
-- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
-- [[20251120-29RH-cMlBZE|La Filosofia di MISIDE]]
-- [[20251014-3wmjKpIoB_s|Durov contro il Chat Control]]
-- [[20251216-1Bo2xDFYWss|Perché i maschi conservatori hanno difficoltà con le donne?]]
-- [[20160527-0bTtbHb0byI|Game Story - Creepypasta #42]]
-- [[20241013-zaBaaiDXgCc|Cosa sono gli SPAZI LIMINALI?]]
+- [[20231021-UHnZ3KOWcrk|STORIA AMERICANA 2: GUERRA CIVILE]]
+- [[20240813-0DGlNyn5gS8|STORIA AMERICANA 4: KENNEDY VS REAGAN]]
+- [[20250221-SvEkqdd8g10|La Filosofia di KANYE WEST (Non c'è)]]
+- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
+- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
+- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
+- [[20250105-lRQi4qp8aHI|IL LATO OSCURO DI ELON MUSK]]
+- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
+- [[20240906-SCq2YmIAcPY|ELON MUSK SENZA FRENI!]]
+- [[20250824-7L7PlAD1RFg|Il Tecnofeudalesimo di PALANTIR]]

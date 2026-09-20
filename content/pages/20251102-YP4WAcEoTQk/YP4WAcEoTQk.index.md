@@ -10,10 +10,11 @@ view_count: "5697"
 like_count: "483"
 comment_count: "74"
 playlist_index: "0"
-tags: ["efesto", "afrodite", "ares", "zeus", "tier", "apollo"]
+tags: ["guerra guerra", "tier list", "efesto", "afrodite", "ares", "zeus"]
 related: ["20260827-AJFw_q_tGlk", "20240325-tExGEzCKBkM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

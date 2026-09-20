@@ -10,10 +10,11 @@ view_count: "18514"
 like_count: "970"
 comment_count: "87"
 playlist_index: "0"
-tags: ["tutubi", "vangelo", "gnosticismo", "cattolico", "conversione", "spiritualità"]
-related: ["20260225-tC5PJ0ukeHI", "20180420-NlUnS0zHaK8", "20251219-EBQwDwYympo", "20250904-UxyeeuS9rGc", "20231223-_O4mNtUyzzQ", "20260617-62SpWKbYSuo", "20260501-MfIGVsJKM5w", "20250227--SvTavqJK4M", "20250504--cPDe9izQSs", "20260221-N7zhvUWA-rY"]
+tags: ["tutubi", "vangelo vangelo", "vecchio tutubi", "vangelo", "mondo materiale", "gesù gesù"]
+related: ["20260225-tC5PJ0ukeHI", "20180420-NlUnS0zHaK8", "20171229-vSmXwubdRFk", "20170810-e4ozGKggVJc", "20180323-qVupGkhj9Ss"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,11 +22,6 @@ embeddable: "1"
 ## Correlati
 - [[20260225-tC5PJ0ukeHI|Sul gentile responso di Tutubbi]]
 - [[20180420-NlUnS0zHaK8|La Filosofia del Cristianesimo - #Filosofia 8]]
-- [[20251219-EBQwDwYympo|Alex O'Connor accusato di essere cristiano]]
-- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
-- [[20231223-_O4mNtUyzzQ|La DESTRA accusa il PAPA di essere ERETICO per le benedizioni Gay]]
-- [[20260617-62SpWKbYSuo|Come lo Gnosticismo ha infiltrato il Cristianesimo]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
-- [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
-- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]
-- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20171229-vSmXwubdRFk|PLATONE (Lezione completa) - #Filosofia 4]]
+- [[20170810-e4ozGKggVJc|Dio 2.0 - Recensione Filosofica]]
+- [[20180323-qVupGkhj9Ss|PLOTINO - #Filosofia 7]]

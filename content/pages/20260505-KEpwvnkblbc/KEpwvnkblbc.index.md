@@ -10,22 +10,23 @@ view_count: "6002"
 like_count: "480"
 comment_count: "54"
 playlist_index: "0"
-tags: ["musulmani", "cattolici", "crociate", "islam", "colonialismo", "ortodossi"]
-related: ["20260703-SDMIlwAMmH0", "20251028-_m01MZx8r3w", "20230219-zOxtKKhedQI", "20260429-QbdsvLTq1C4", "20250904-UxyeeuS9rGc", "20251128-IR7vbCMEPO0", "20260502-1K07UwWMWZg", "20210715-fhuC7NwT3Rc", "20221027-Nrb13Cfy8jw", "20250131-RnZ3rZr9tuk"]
+tags: ["musulmani", "chiesa cattolica", "cattolici", "accordo stabilito", "crociate", "islam"]
+related: ["20250904-UxyeeuS9rGc", "20260703-SDMIlwAMmH0", "20260501-MfIGVsJKM5w", "20260502-1K07UwWMWZg", "20260414-BiRiNnQGc3s", "20260221-N7zhvUWA-rY", "20260915-D62wrcXbifU", "20260603-y5o1v6Pv2CI", "20251128-IR7vbCMEPO0", "20241031-fRV8peE_AJQ"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260703-SDMIlwAMmH0|Rick DuFer non conosce l'ISLAM]]
-- [[20251028-_m01MZx8r3w|Dalle CROCIATE all'IMPERO OTTOMANO]]
-- [[20230219-zOxtKKhedQI|E se gli OTTOMANI avessero conquistato l'Europa?]]
-- [[20260429-QbdsvLTq1C4|Cos'è il Colonialismo? Perché è diverso dalla conquista?]]
 - [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
-- [[20251128-IR7vbCMEPO0|Europa e Islam]]
+- [[20260703-SDMIlwAMmH0|Rick DuFer non conosce l'ISLAM]]
+- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
-- [[20210715-fhuC7NwT3Rc|Le RELIGIONI stanno SPARENDO?]]
-- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
-- [[20250131-RnZ3rZr9tuk|M - Il figlio del secolo (Prolegomeni)]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
+- [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
+- [[20260915-D62wrcXbifU|Come avrebbero reagito i cristiani al Death Note?]]
+- [[20260603-y5o1v6Pv2CI|Magnifica Humanitas - Recensione dell'Enciclica di Leone XIV]]
+- [[20251128-IR7vbCMEPO0|Europa e Islam]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]

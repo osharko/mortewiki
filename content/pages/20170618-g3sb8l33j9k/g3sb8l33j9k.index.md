@@ -12,20 +12,18 @@ comment_count: "193"
 playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "68"
-tags: ["gusto", "tatto", "udito", "olfatto", "dovevo", "specchi"]
-related: ["20160228-qrC_cMsu6GY", "20150703-vGQaHhpGHHE", "20170924-vWxHBSqUYRI", "20180311-03y5QVsdR48", "20161030-15InOj8iByM", "20180211-JM_axxwheaI", "20141010-ZLFaaWEexGQ"]
+tags: ["miei sensi", "gusto", "tatto", "udito", "olfatto", "tuoi sensi"]
+related: ["20170115-wixBpXva3xs", "20251012-Z5Jp7iuCuXY", "20160228-qrC_cMsu6GY", "20150513-V3XISiA7shU"]
 video_type: "video"
 description: "Canale di Orobic: https://www.youtube.com/channel/UChnLLDrjpavIsPb_PebFJOg\nContinua la saga dell'Uomo dai molteplici sensi, che questa volta incontra anche due altri giocatori, per potenziare per l'ultima volta il suo potere.\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\nRites Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nGregorian Chant Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=ZPcnF64D8bw\nhttps://www.youtube.com/watch?v=EClaRWJ4p3c\nBlue Sizzle Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nPrivate Reflection Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nEFFETTI SONORI\nPorta\nhttps://www.youtube.com/watch?v=Vi6WOfnuJ2c\nSospiri\nhttps://www.youtube.com/watch?v=yI85C7V88Sc\nMare\nhttps://www.youtube.com/watch?v=wS_I9ewszd0"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20170115-wixBpXva3xs|Ascoltare i colori, Sinestesia - Creepypasta #58]]
+- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
 - [[20160228-qrC_cMsu6GY|Fai finta di nulla - Creepypasta #36]]
-- [[20150703-vGQaHhpGHHE|La Casa abbandonata - Creepypasta #19]]
-- [[20170924-vWxHBSqUYRI|Non guardarti allo specchio di notte - Creepypasta #75]]
-- [[20180311-03y5QVsdR48|Illusionismo - Creepypasta #87]]
-- [[20161030-15InOj8iByM|La Villa degli Specchi - Creepypasta #53]]
-- [[20180211-JM_axxwheaI|Intelligenza Artificiale Forte - Creepypasta #85]]
-- [[20141010-ZLFaaWEexGQ|Voci nella Pioggia - Creepypasta #4]]
+- [[20150513-V3XISiA7shU|Trascendenza - Creepypasta #14]]

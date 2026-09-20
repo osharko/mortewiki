@@ -10,14 +10,16 @@ view_count: "13964"
 like_count: "1139"
 comment_count: "53"
 playlist_index: "0"
-tags: ["checco", "cuovado", "sottotesto", "tagli", "zalone", "trapiantato"]
-related: ["20220715-qXNF6b6tapc", "20250816-AeJx5sVmioA"]
+tags: ["checco", "italiano medio", "quel mondo", "cuovado", "fine checco", "cioè cuovado"]
+related: ["20250401-7Vm3DBfOhnI", "20160527-0bTtbHb0byI", "20200517-XJKaqhKfKfk"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220715-qXNF6b6tapc|La Filosofia di Mulan (ft Violetta Rocks)]]
-- [[20250816-AeJx5sVmioA|La guerra dei conservatori contro le AI]]
+- [[20250401-7Vm3DBfOhnI|Se ti piace vuol dire che lo voti!]]
+- [[20160527-0bTtbHb0byI|Game Story - Creepypasta #42]]
+- [[20200517-XJKaqhKfKfk|La Filosofia di Chuunibyou]]

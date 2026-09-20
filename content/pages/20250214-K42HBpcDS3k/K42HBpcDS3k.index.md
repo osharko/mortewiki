@@ -10,13 +10,12 @@ view_count: "4597"
 like_count: "477"
 comment_count: "30"
 playlist_index: "0"
-tags: ["fanart", "cabina", "editing", "gradita", "ossessione", "profusione"]
-related: ["20190818-QSXnQM7C-lQ"]
+tags: ["nuovo ciclo", "vecchio ciclo", "senza nome", "fanart", "storie astratte", "storia astratta"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190818-QSXnQM7C-lQ|La Condanna - Creepypasta 123]]

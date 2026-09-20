@@ -10,22 +10,20 @@ view_count: "7299"
 like_count: "569"
 comment_count: "32"
 playlist_index: "0"
-tags: ["buddismo", "lama", "dalai", "tibetano", "tibet", "induismo"]
-related: ["20240805-uAy8FZezOwg", "20250618-poHln4Hed0g", "20260813-76zUAirFrTo", "20181216-xAw66CZbIcI", "20210528-LKtWqjRM9E8", "20230926-GZFXBlGYXAE", "20251221-pFdjZ0Tm-l0", "20161016-QFH4rXXh3h8", "20181122-hisEwWmE5hw", "20250221-EaXi0Dz_F88"]
+tags: ["buddismo", "dalai lama", "lama", "buddismo tibetano", "governo cinese", "dalai"]
+related: ["20181216-xAw66CZbIcI", "20240805-uAy8FZezOwg", "20250618-poHln4Hed0g", "20260813-76zUAirFrTo", "20210528-LKtWqjRM9E8", "20230926-GZFXBlGYXAE", "20251221-pFdjZ0Tm-l0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20181216-xAw66CZbIcI|Operazioni CIA di cui non si parla - Creepypasta 107]]
 - [[20240805-uAy8FZezOwg|La Filosofia di KAGUYA]]
 - [[20250618-poHln4Hed0g|Critica a Lisa Simpson]]
 - [[20260813-76zUAirFrTo|La strana storia dei Gesù Cinesi]]
-- [[20181216-xAw66CZbIcI|Operazioni CIA di cui non si parla - Creepypasta 107]]
 - [[20210528-LKtWqjRM9E8|EVOLA - #Filosofia 40]]
 - [[20230926-GZFXBlGYXAE|La Filosofia di MONONOKE]]
 - [[20251221-pFdjZ0Tm-l0|Perché il MONOTEISMO ha trionfato?]]
-- [[20161016-QFH4rXXh3h8|INFERNO - Confronto tra religioni]]
-- [[20181122-hisEwWmE5hw|GIAPPONE e ITALIA a Confronto]]
-- [[20250221-EaXi0Dz_F88|Politeismo: origini, infiltrazione, decadenza]]

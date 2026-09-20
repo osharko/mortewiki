@@ -12,23 +12,24 @@ comment_count: "273"
 playlist: "MAMDANISTAN"
 playlist_id: "PLVoIDZQhRChU"
 playlist_index: "19"
-tags: ["dufer", "mandani", "rick", "ucraina", "putin", "gazza"]
-related: ["20251130-sh54xa67Nuo", "20220228-JAaPG9MHvF8", "20251122-bT5uXCtc85g", "20260211-e_4mA45o-XU", "20250726-a3iKGKd1cTs", "20241118-G5_Xl9Lv4jU", "20221012-CKUHAN5rLm0", "20251007-EMI9sz3wvPQ", "20220224-AfzPCkTR0P0", "20251103-TkDJa3Lhm44"]
+tags: ["cattivo gioco", "dufer", "piano pace", "mandani", "rick", "viso cattivo"]
+related: ["20251130-sh54xa67Nuo", "20260211-e_4mA45o-XU", "20250726-a3iKGKd1cTs", "20260703-SDMIlwAMmH0", "20260517-0m1dlc-akzo", "20260206-8Qx_rLZtL-k", "20260906-UonTUjrzUT0", "20251007-EMI9sz3wvPQ", "20251030--lx5H7MfRo4", "20260313-ynkTjz44iKc"]
 video_type: "video"
 description: "Video originale: https://www.youtube.com/watch?v=xxpEpXlsIqA"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20251130-sh54xa67Nuo|Rick DuFer vs Mamdani: la vendemmia]]
-- [[20220228-JAaPG9MHvF8|La Politica di PUTIN]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
 - [[20260211-e_4mA45o-XU|Rick DuFer mi insulta e prevede il futuro: smentiamolo con i dati]]
 - [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20260703-SDMIlwAMmH0|Rick DuFer non conosce l'ISLAM]]
+- [[20260517-0m1dlc-akzo|Rick DuFer non sa cos'è il Transfemminismo]]
+- [[20260206-8Qx_rLZtL-k|Il PEGGIOR video di DuFer (su Epstein)]]
+- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
 - [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20251103-TkDJa3Lhm44|Sul video in cui Rick DuFer mi attacca personalmente]]
+- [[20251030--lx5H7MfRo4|Rick DuFer non conosce lo Stato Sociale (e neanche Zohran Mamdani)]]
+- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]

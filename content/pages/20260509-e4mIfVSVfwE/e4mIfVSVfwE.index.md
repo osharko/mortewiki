@@ -10,15 +10,12 @@ view_count: "2890"
 like_count: "306"
 comment_count: "71"
 playlist_index: "0"
-tags: ["tromba", "anilingus", "trombe", "flatulenze", "orale", "orifizio"]
-related: ["20250713-q0_iPAsoc_U", "20260206-pABiZkv6YII", "20250122-bGO8tBip2M4"]
+tags: ["tromba", "livello teorico", "anilingus", "trombe", "tromba emette", "singolo orifizio"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250713-q0_iPAsoc_U|Sulla Maturità]]
-- [[20260206-pABiZkv6YII|La ridicola santificazione di Silvio Berlusconi]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]

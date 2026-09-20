@@ -10,11 +10,12 @@ view_count: "16031"
 like_count: "1163"
 comment_count: "62"
 playlist_index: "0"
-tags: ["microsoft", "apple", "steve", "jobs", "gates", "bill"]
-related: ["20260421-10lA1pA-CRc", "20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20250922-8onAikE00Dc", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20260525-NKYI2Uo7448", "20250803-KdI5mLXR9EU"]
+tags: ["steve jobs", "bill gates", "microsoft", "apple", "steve", "capitalista illuminato"]
+related: ["20260421-10lA1pA-CRc", "20260526-5pi77L9A0gw", "20250601-vCSmCMSsvm4", "20250922-8onAikE00Dc", "20260815-LoFSH3Rwa6o", "20251129-s9F0qOjHoLE", "20241225-AjW3mY8JBRY", "20250928-aX21-fN8FOw", "20260907-FHFHHiC4SGU", "20260525-NKYI2Uo7448"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Bill_Gates#/media/File:Bill_og_Melinda_Gates_2009-06-03_(bilde_01).JPG"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -27,6 +28,6 @@ embeddable: "1"
 - [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
 - [[20251129-s9F0qOjHoLE|Il futuro di Steam mi preoccupa...]]
 - [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20250928-aX21-fN8FOw|Critichi il capitalismo, eppure hai soldi]]
 - [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
 - [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
-- [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]

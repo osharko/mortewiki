@@ -10,23 +10,24 @@ view_count: "13928"
 like_count: "938"
 comment_count: "106"
 playlist_index: "0"
-tags: ["credit", "points", "pechino", "wikipedia", "bufala", "system"]
-related: ["20260212-80t_llStvlI", "20240107-XGom_Cer7mw", "20260516-bAoPOuqL9o0", "20250920-JgFUDInERkU", "20250909-HBh5GyfS154", "20241030-9xQ4B10XtQE", "20250523-CboU-fv_Gtc", "20250215-gVNPjtjnIW0", "20260607-Spbd8Fm4faM", "20250412-wRcpG6_gees"]
+tags: ["social credit", "partito comunista", "credit points", "cina democrazia", "point system", "credit"]
+related: ["20260212-80t_llStvlI", "20260606-PLb7SEpZKhs", "20241107-Zsyc4OecXhA", "20260605-BdxjbOWNBkw", "20221113-nRYYBlqBw0w", "20250512-_Grsa_mjlUU", "20260130-9emWU6wdImk", "20250502-dW-nA5qTj_4", "20250305-5Mh3VfogFfM", "20250504--cPDe9izQSs"]
 video_type: "video"
 description: "Fonte: https://www.journals.uchicago.edu/doi/full/10.1086/718358"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20260212-80t_llStvlI|Ho fatto arrabbiare i difensori di Pechino]]
-- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
-- [[20260516-bAoPOuqL9o0|La Verità su ELON MUSK]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20250909-HBh5GyfS154|Lost 2, Jurassic Park 3, to the Moon 4, Haruhi 5, Bioshock 6, Psycho Pass 7, SAO 8, Fallout 9, Saw X]]
-- [[20241030-9xQ4B10XtQE|La PSICOLOGIA di ELON MUSK]]
-- [[20250523-CboU-fv_Gtc|Gli Scacchi dovrebbero essere Sport?]]
-- [[20250215-gVNPjtjnIW0|Domande e risposte varie]]
-- [[20260607-Spbd8Fm4faM|MIGRAZIONE: SMENTIAMO I FALSI MITI]]
-- [[20250412-wRcpG6_gees|ChatLSD: Ma gli androidi allucinano pecore elettroniche?]]
+- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]
+- [[20241107-Zsyc4OecXhA|Prospettive sul futuro della Russia]]
+- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
+- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
+- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
+- [[20260130-9emWU6wdImk|Tentato golpe in Cina?]]
+- [[20250502-dW-nA5qTj_4|Ricchi comunisti oggi: quali sono?]]
+- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
+- [[20250504--cPDe9izQSs|La PEGGIORE critica a MARX di sempre]]

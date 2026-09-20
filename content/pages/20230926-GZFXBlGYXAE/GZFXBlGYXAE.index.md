@@ -12,11 +12,12 @@ comment_count: "86"
 playlist: "Anime e Manga"
 playlist_id: "PLU8-xwslFxH8yssm8Owl7QkPl0RhxBUUh"
 playlist_index: "113"
-tags: ["miyazaki", "spiriti", "buddismo", "mononoke", "indirizzo", "progresso"]
-related: ["20250405-iue5cL-_IE8", "20240115-O_WlvEf091A", "20240805-uAy8FZezOwg", "20250618-poHln4Hed0g", "20260813-76zUAirFrTo", "20240623-5HkbTJJH2Bk", "20180325-QO9LC9RKonk", "20230224-n9a7NL-gMV0", "20240519-lmN3y_Ekt5E", "20231207-qsw2p3PD6Oo"]
+tags: ["miyazaki", "spiriti", "principessa mononoke", "buddismo", "mononoke", "indirizzo"]
+related: ["20250405-iue5cL-_IE8", "20240115-O_WlvEf091A", "20240805-uAy8FZezOwg", "20250618-poHln4Hed0g", "20260813-76zUAirFrTo", "20240623-5HkbTJJH2Bk", "20180325-QO9LC9RKonk", "20230224-n9a7NL-gMV0", "20240519-lmN3y_Ekt5E", "20220422-3ncrgm807mE"]
 video_type: "video"
 description: "Vai su https://nordvpn.com/mortebianca per avere lo sconto su due anni di copertura, più 4 mesi bonus! E’ senza rischi 30 giorni soddisfatti o rimborsati!\nMononoke: https://amzn.to/3RoL5Rj\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#ghibli #miyazaki\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@Drecon come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@Drecon come editor (anche per Biologia)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/lemmino/nocturnal\nhttps://soundcloud.com/lemmino/cipher\nhttps://soundcloud.com/lemmino/lemmino-moon"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -31,4 +32,4 @@ embeddable: "1"
 - [[20180325-QO9LC9RKonk|The Dark Pope - Creepypasta #88]]
 - [[20230224-n9a7NL-gMV0|La Filosofia di Nausicaa]]
 - [[20240519-lmN3y_Ekt5E|La Collina in ALABAMA]]
-- [[20231207-qsw2p3PD6Oo|La Filosofia del CASTELLO ERRANTE di HOWL]]
+- [[20220422-3ncrgm807mE|LA STANZA PIÙ INFESTATA - Creepypasta 180]]

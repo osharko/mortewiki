@@ -10,10 +10,11 @@ view_count: "9275"
 like_count: "678"
 comment_count: "44"
 playlist_index: "0"
-tags: ["mussolini", "cesare", "romani", "confusi", "veni", "governati"]
+tags: ["mussolini", "cesare", "romani", "donna potere", "sarebbero confusi", "hanno eletto"]
 related: ["20250302-_Zx7FzBT12s", "20250131-RnZ3rZr9tuk", "20180527-gHU0YSTwkxo", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20171116-2_DKdiKxVZE", "20250515-Azp54fQKR1w", "20241012-LdQcX3Dm4RM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

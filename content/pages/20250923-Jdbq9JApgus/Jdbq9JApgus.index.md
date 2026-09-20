@@ -10,10 +10,11 @@ view_count: "4984"
 like_count: "431"
 comment_count: "21"
 playlist_index: "0"
-tags: ["kane", "tolken", "rowling", "jake", "platealmente", "interpretare"]
-related: ["20260410-7kqYnIHd-4s", "20231018-HqZGt3YpSV0", "20260421-eEkT449Qi-k", "20260111-fGc-jpcK4TQ", "20260627-cR2zviDlyAY", "20241229-dfUYlYyAIF4", "20250217-qgz4ff0Daww", "20260521-2ekuUIx1Cvo", "20250629-1wpwu_FsHSQ", "20250104-AiEGu0KT9dY"]
+tags: ["team kane", "kane", "tolken", "interpretare opera", "jake rowling", "morte autore"]
+related: ["20260410-7kqYnIHd-4s", "20231018-HqZGt3YpSV0", "20260421-eEkT449Qi-k", "20260111-fGc-jpcK4TQ", "20260627-cR2zviDlyAY", "20241229-dfUYlYyAIF4", "20250217-qgz4ff0Daww", "20260521-2ekuUIx1Cvo", "20250629-1wpwu_FsHSQ", "20260611-OXzKEH_S86M"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -28,4 +29,4 @@ embeddable: "1"
 - [[20250217-qgz4ff0Daww|Razze cattive nei fantasy (Tolkien, Frieren, Martin)]]
 - [[20260521-2ekuUIx1Cvo|I Robot per Tolkien]]
 - [[20250629-1wpwu_FsHSQ|L'Attrice di Zelda potrebbe essere transgender]]
-- [[20250104-AiEGu0KT9dY|La Psicologia di AMAZING DIGITAL CIRCUS]]
+- [[20260611-OXzKEH_S86M|Amazing Digital Circus - Spiegazione del Finale]]

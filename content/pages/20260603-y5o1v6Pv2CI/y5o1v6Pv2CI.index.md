@@ -10,22 +10,23 @@ view_count: "7639"
 like_count: "563"
 comment_count: "65"
 playlist_index: "0"
-tags: ["leone", "enciclica", "just", "magnifica", "medioevo", "poveracci"]
-related: ["20250728---XEhfSbPeU", "20250509-_b6UTmUr-IU", "20260501-MfIGVsJKM5w", "20250414-RIIt23oQ4H0", "20260328-hLdaH20jhYU", "20251113-cvAoFlFBZA4", "20230530-l0x0wRikqb8", "20220513-90G8xDcnP_w", "20260221-N7zhvUWA-rY", "20241223-OcFzlZuZkq0"]
+tags: ["chiesa cattolica", "leone", "possiamo schiavizzare", "torre babele", "magnifica umanitas", "giusta guerra"]
+related: ["20260501-MfIGVsJKM5w", "20250904-UxyeeuS9rGc", "20260414-BiRiNnQGc3s", "20260221-N7zhvUWA-rY", "20260915-D62wrcXbifU", "20260502-1K07UwWMWZg", "20241031-fRV8peE_AJQ", "20260318-dNwyhP11mJM", "20250728---XEhfSbPeU", "20231219-6lxKk1bu4-8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
 - [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
-- [[20250414-RIIt23oQ4H0|La Filosofia di MUFASA]]
-- [[20260328-hLdaH20jhYU|Il Papa ha citato Umineko?!?!]]
-- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
-- [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
-- [[20220513-90G8xDcnP_w|La Filosofia di Hercules]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20260414-BiRiNnQGc3s|Gli USA minacciano la Chiesa Cattolica]]
 - [[20260221-N7zhvUWA-rY|Sull'accusa di essere filo-KKKristiano]]
-- [[20241223-OcFzlZuZkq0|Il MEDIOEVO era popolato da RAGAZZI]]
+- [[20260915-D62wrcXbifU|Come avrebbero reagito i cristiani al Death Note?]]
+- [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
+- [[20241031-fRV8peE_AJQ|LUCE, la mascotte del Vaticano]]
+- [[20260318-dNwyhP11mJM|Perché sono contrario all'esistenza dello stato Vaticano]]
+- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
+- [[20231219-6lxKk1bu4-8|La CHIESA benedice le COPPIE GAY: e ora?]]

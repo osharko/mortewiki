@@ -12,11 +12,12 @@ comment_count: "69"
 playlist: "I miei Shorts"
 playlist_id: "PLU8-xwslFxH8XRHHIxJNm92L3_tukumhO"
 playlist_index: "2"
-tags: ["shorts", "titan"]
+tags: ["titan meme", "meme creepypasta", "creepypasta shorts", "shorts", "titan"]
 related: ["20210328-cPojEf5N5_o", "20210829-cTPdUxABrQA", "20210523-RPpHpgBp-FQ", "20181204-hyqGlcGrKyQ", "20230401-75NbvICQxW8", "uWCjfn57cNQ"]
 video_type: "short"
 description: "Vi prego di perdonare l'estremo cringe ma devo pur sperimentare anche io ogni tanto, e gli Zoomers sembrano apprezzare questi video in stile Tiktok so good for them."
 embeddable: "1"
+qc: 94
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

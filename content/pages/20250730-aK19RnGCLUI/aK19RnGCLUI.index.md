@@ -10,18 +10,19 @@ view_count: "30263"
 like_count: "1985"
 comment_count: "413"
 playlist_index: "0"
-tags: ["killing", "stop", "server", "videogames", "single", "overwatch"]
-related: ["20260822--Cpqd4lD0iQ", "20251024-DmNTskHd94E", "20250802-NzaykUIBvqA", "20230601-F2QLlnB1mSk", "20260918-LVWay7AGCmk", "20190707-vIuByvaaI2U"]
+tags: ["stop killing", "killing videogames", "single player", "amico diverte", "killing", "stop"]
+related: ["20260822--Cpqd4lD0iQ", "20250710-av0mX6et-XY", "20250715-tirsbfqboQ4", "20211101-p9_tffzsNo0", "20250802-NzaykUIBvqA", "20220611-A02qGitUODE"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20260822--Cpqd4lD0iQ|You will own NOTHING and be happy]]
-- [[20251024-DmNTskHd94E|Genitori single]]
+- [[20250710-av0mX6et-XY|Se facciamo *COSA BUONA* alcune aziende falliranno!]]
+- [[20250715-tirsbfqboQ4|Stop killing games]]
+- [[20211101-p9_tffzsNo0|Io e Amico Diverte siamo in SQUID GAME]]
 - [[20250802-NzaykUIBvqA|La caduta di ZEB89]]
-- [[20230601-F2QLlnB1mSk|La Filosofia di Kiki consegne a domicilio]]
-- [[20260918-LVWay7AGCmk|Come avrebbero reagito le religioni al Death Note?]]
-- [[20190707-vIuByvaaI2U|La Filosofia di Black Mirror (Stagione 5)]]
+- [[20220611-A02qGitUODE|Elogio ai miei Amici]]

@@ -12,23 +12,20 @@ comment_count: "184"
 playlist: "Internet e Videogiochi"
 playlist_id: "PLU8-xwslFxH8NHjERCN5uRG9wkHIdEPDz"
 playlist_index: "32"
-tags: ["minecraft", "esplorare", "sfida", "giocatore", "gioca", "zombie"]
-related: ["20190714-BlTmgKCSE1g", "20160319-8nH5kBclonk", "20250810-pYMCG4rvUhE", "20251207-Bg9q6hOYsQY", "20191031-Sns5GfkvAPw", "20211017-yAIcSkzVsPA", "20190821-oG_-JYmTuEc", "20201216-SeA459I2b60", "20210502-jqfLgoI81T4", "20241225-AjW3mY8JBRY"]
+tags: ["minecraft", "esplorare", "generato proceduralmente", "sfida", "plasmare mondo", "minecraft gioco"]
+related: ["20160319-8nH5kBclonk", "20191031-Sns5GfkvAPw", "20201216-SeA459I2b60", "20250802-NzaykUIBvqA", "20241115-vtv_wSlYoRo", "20190414-DgA-fjx29ek"]
 video_type: "video"
 description: "In questo video voglio esaminare nella sua interezza Minecraft: le sue radici nella storia del videogioco, la sua storia, la sua filosofia, le sue features, il segreto del suo successo, le sue critiche, le sue potenzialità, e paragonarlo a No Man's Sky.\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#minecraft\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSECA:\nCipher Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 3.0 License\nhttp://creativecommons.org/licenses/by/3.0/\nhttps://www.youtube.com/watch?v=KdlNv9JNZ34\nhttps://www.youtube.com/watch?v=OoqDuXq0qxw\nhttps://www.youtube.com/watch?v=yrM2TlV_54s\nHo dimenticato di menzionare a voce che per la battuta \"Sono io il cattivo?\" mi ha influenzato Honest Trailers, qui la fonte:\nhttps://www.youtube.com/watch?v=1qEEd7J3DBo&ab_channel=HonestGameTrailers"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190714-BlTmgKCSE1g|ZOMBIE - Creepypasta 121]]
 - [[20160319-8nH5kBclonk|Herobrine (Analisi) - Riscrittura Horror #4]]
-- [[20250810-pYMCG4rvUhE|Zombie al Comic - Creepypasta 257]]
-- [[20251207-Bg9q6hOYsQY|Critica allo Zombie Problem]]
 - [[20191031-Sns5GfkvAPw|PewDiePie e Minecraft]]
-- [[20211017-yAIcSkzVsPA|Il Ritorno dei Mostri - Creepypasta 171]]
-- [[20190821-oG_-JYmTuEc|Mi cerco su Akinator]]
 - [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
-- [[20210502-jqfLgoI81T4|Il Miracolo delle Tombe - Creepypasta 161]]
-- [[20241225-AjW3mY8JBRY|Minecraft, Roblox, Lego e Tetris.... uniti?]]
+- [[20250802-NzaykUIBvqA|La caduta di ZEB89]]
+- [[20241115-vtv_wSlYoRo|Critica all'opulenza]]
+- [[20190414-DgA-fjx29ek|Tutte le Dere (Tsundere, Yandere, Kuudere)]]

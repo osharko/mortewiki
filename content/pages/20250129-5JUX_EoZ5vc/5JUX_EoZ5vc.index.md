@@ -10,18 +10,17 @@ view_count: "6815"
 like_count: "681"
 comment_count: "42"
 playlist_index: "0"
-tags: ["ovvietà", "ascolto", "credibile", "papera", "necrofilia", "docce"]
-related: ["20241222-g5JkuphshQQ", "20241013-Do1d9XuxBHQ", "20210228-N92AnUpo7Nk", "20260813-VWoqsF9auaE", "20251012-Z5Jp7iuCuXY", "20221116-aC-UcdnIjLM"]
+tags: ["video contro", "dare ascolto", "cazzo video", "ovvietà", "terra piatta", "credibile video"]
+related: ["20260912-sa0kUXKYTLg", "20250327-nQOcs5YoGTs", "20260817-FTg2gCuguAM", "20250731-XIlLT3W6iGo"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241222-g5JkuphshQQ|Critica alla Necrofilia]]
-- [[20241013-Do1d9XuxBHQ|Come salvare i complottisti?]]
-- [[20210228-N92AnUpo7Nk|Auschwitz-Birkenau e MENGELE]]
-- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
-- [[20251012-Z5Jp7iuCuXY|Tregua in Palestina? Bene se arriva, ma ci sono problemi]]
-- [[20221116-aC-UcdnIjLM|La Filosofia di Chicken Little]]
+- [[20260912-sa0kUXKYTLg|A Billion Lies (Parte 1)]]
+- [[20250327-nQOcs5YoGTs|Avversari: finché civili, utili]]
+- [[20260817-FTg2gCuguAM|Sul Dialogo Socratico]]
+- [[20250731-XIlLT3W6iGo|Fallacia Tu Quoque]]

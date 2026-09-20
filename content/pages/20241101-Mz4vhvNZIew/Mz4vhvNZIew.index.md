@@ -10,22 +10,23 @@ view_count: "11349"
 like_count: "927"
 comment_count: "40"
 playlist_index: "0"
-tags: ["harris", "donald", "camala", "biden", "herris", "obama"]
-related: ["20241113-RvJ3nmgVDew", "20260718-lb-p2fknQ9g", "20241106-OPbxvJJtkhc", "20250206-HiRzQUZUhHY", "20250125-LBWoXAkM6nM", "20260116-dCXWngTaYCU", "20251105-LafzJEe-BFA", "20251109--BksbKgj4e0", "20260721-Bp0Ywj1_pio", "20241211-faHi7yIvwDw"]
+tags: ["donald trump", "camala harris", "elon musk", "harris", "donald", "camala"]
+related: ["20241113-RvJ3nmgVDew", "20251222-6F5Yin5_lSc", "20241106-OPbxvJJtkhc", "20250416-kX9wUWAVVOY", "20250124-upFt6wNCg8Q", "20250126-icvN1cZWtwo", "20250317-ju7fMck0qMo", "20231015-2n3YvIxIAGE", "20240107-XGom_Cer7mw", "20191003-WkJQmfbYqrU"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
-- [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
+- [[20251222-6F5Yin5_lSc|Trump vs Paracetamolo]]
 - [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
-- [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
-- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
-- [[20251109--BksbKgj4e0|Zohran Mamdani ed il meltdown delle destre e dei liberali]]
-- [[20260721-Bp0Ywj1_pio|Mamdani: come la sinistra vince]]
-- [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
+- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
+- [[20250124-upFt6wNCg8Q|Una Rivoluzione in America?]]
+- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
+- [[20250317-ju7fMck0qMo|Calvinismo: anti-cristianesimo per eccellenza]]
+- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
+- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
+- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]

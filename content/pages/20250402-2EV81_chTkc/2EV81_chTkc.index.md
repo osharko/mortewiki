@@ -10,10 +10,11 @@ view_count: "15799"
 like_count: "1057"
 comment_count: "82"
 playlist_index: "0"
-tags: ["stalinisti", "gorbachov", "burocrati", "collasso", "burocrate", "troschi"]
-related: ["20250512-_Grsa_mjlUU", "20260215-KZi6yzpLsW0", "20260307-YumZXTRtrU0", "20221113-nRYYBlqBw0w", "20250305-5Mh3VfogFfM", "20170113-VSskW7z2BSM", "20170226-HP7Ma_PU_P4", "20250928--aKzIU-_lPE", "20250721-kD4HD5-BWcw"]
+tags: ["collasso unione", "spesso volentieri", "stalinisti", "gorbachov", "burocrati", "collasso"]
+related: ["20250512-_Grsa_mjlUU", "20260215-KZi6yzpLsW0", "20250421-0IATCCXpVu4", "20260307-YumZXTRtrU0", "20250305-5Mh3VfogFfM", "20170113-VSskW7z2BSM", "20170226-HP7Ma_PU_P4"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,10 +22,8 @@ embeddable: "1"
 ## Correlati
 - [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
 - [[20260215-KZi6yzpLsW0|La Filosofia di 1984]]
+- [[20250421-0IATCCXpVu4|Bernie Sanders non è un centrista]]
 - [[20260307-YumZXTRtrU0|No, la scienza non è capitalista]]
-- [[20221113-nRYYBlqBw0w|E se l'URSS avesse vinto la Guerra Fredda?]]
 - [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]
 - [[20170113-VSskW7z2BSM|FALLOUT: Prima della Guerra]]
 - [[20170226-HP7Ma_PU_P4|Cervello Quantistico - Creepypasta #61]]
-- [[20250928--aKzIU-_lPE|Europa vs Cina: chi vincerà la seconda guerra fredda?]]
-- [[20250721-kD4HD5-BWcw|Socialismo e Sud America]]

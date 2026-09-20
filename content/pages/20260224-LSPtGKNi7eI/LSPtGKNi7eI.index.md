@@ -10,11 +10,12 @@ view_count: "24699"
 like_count: "1715"
 comment_count: "183"
 playlist_index: "0"
-tags: ["dufer", "contraddittorio", "giacchetta", "verbo", "polemos", "videorisposta"]
+tags: ["video minuti", "dufer", "contraddittorio", "tirato giacchetta", "stesso verbo", "risposte settimana"]
 related: ["20250726-a3iKGKd1cTs", "20260211-e_4mA45o-XU", "20260313-ynkTjz44iKc", "20260401-mKs1xn6jT80", "20260128-Px2StNHILS8", "20260206-8Qx_rLZtL-k", "20251130-sh54xa67Nuo", "20251202-RZ5cemKSXFw", "20260214-RGD-I9c6Rv8", "20260517-0m1dlc-akzo"]
 video_type: "video"
 description: "Video originale: https://www.youtube.com/watch?v=8raP6eIWIqg"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

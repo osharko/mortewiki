@@ -10,10 +10,11 @@ view_count: "6130"
 like_count: "544"
 comment_count: "30"
 playlist_index: "0"
-tags: ["iran", "afghanistan", "diventerebbe", "seghe", "scontenta", "sunniti"]
-related: ["20250726-a3iKGKd1cTs", "20260109-Tn8JtrbiCBQ", "20260623-xqB-Cf9hcv4", "20260310-UP2KuFgg7Pc", "20250623-ZQ6an4_gVxA", "20251019-UbC7lP9wiOE", "20170326-L34swnN8LK4"]
+tags: ["iran", "facendo seghe", "trump vuole", "bombe atomiche", "afghanistan", "diventerebbe"]
+related: ["20250726-a3iKGKd1cTs", "20260109-Tn8JtrbiCBQ", "20260623-xqB-Cf9hcv4", "20260310-UP2KuFgg7Pc", "20250623-ZQ6an4_gVxA", "20251019-UbC7lP9wiOE"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -25,4 +26,3 @@ embeddable: "1"
 - [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
 - [[20250623-ZQ6an4_gVxA|IRAN accusato di avere armi di distruzione di massa nascoste (Ci risiamo...)]]
 - [[20251019-UbC7lP9wiOE|Israele e le sue MAFIE]]
-- [[20170326-L34swnN8LK4|Le 10 operazioni CIA più OSCURE - Creepypasta #63]]

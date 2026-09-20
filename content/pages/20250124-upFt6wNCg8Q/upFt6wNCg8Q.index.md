@@ -10,23 +10,23 @@ view_count: "16729"
 like_count: "1325"
 comment_count: "50"
 playlist_index: "0"
-tags: ["riforme", "giubbe", "gialle", "avanguardia", "lienin", "donald"]
-related: ["20250821-8_DHVNR7qRo", "20250520-6zskj2lzZH8", "20241101-Mz4vhvNZIew", "20241118-G5_Xl9Lv4jU", "20260129-1o9qL96k5OY", "20240910-b33l186pH04", "20250512-_Grsa_mjlUU", "20260618-FfzvwpVxYwo", "20250903-FfolkwKdC9U", "20260906-UonTUjrzUT0"]
+tags: ["giubbe gialle", "donald trump", "americani hanno", "odiar odiar", "americani abituati", "blood soil"]
+related: ["20241101-Mz4vhvNZIew", "20251222-6F5Yin5_lSc", "20250416-kX9wUWAVVOY", "20250126-icvN1cZWtwo", "20250317-ju7fMck0qMo", "20250311-h2ylzdzt9Ug", "20191003-WkJQmfbYqrU", "20250216-0C_57_nG4C0", "20260415-bf2MjiywJzc"]
 video_type: "video"
 description: "https://www.instagram.com/mrjoshuagray/p/DETj_mpScRD/?locale=ko&hl=am-et"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
-- [[20250520-6zskj2lzZH8|Rispondo a Calenda su Lenin]]
 - [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
-- [[20240910-b33l186pH04|LA STORIA (Secondo MARX)]]
-- [[20250512-_Grsa_mjlUU|La Filosofia di Gorbačëv]]
-- [[20260618-FfzvwpVxYwo|Stanno privatizzando Cuba ORA!]]
-- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
-- [[20260906-UonTUjrzUT0|Mamdani ha il 70% di popolarità]]
+- [[20251222-6F5Yin5_lSc|Trump vs Paracetamolo]]
+- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
+- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
+- [[20250317-ju7fMck0qMo|Calvinismo: anti-cristianesimo per eccellenza]]
+- [[20250311-h2ylzdzt9Ug|USA vs EU 2: la vendemmia]]
+- [[20191003-WkJQmfbYqrU|Cosa è successo DAVVERO al Raid dell'Area 51?]]
+- [[20250216-0C_57_nG4C0|L'ideologia Orwelliana di TRUMP]]
+- [[20260415-bf2MjiywJzc|Magyar ha sconfitto Orban - Ovvero la morte dell'Euroscetticismo]]

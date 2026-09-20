@@ -10,16 +10,16 @@ view_count: "6849"
 like_count: "567"
 comment_count: "119"
 playlist_index: "0"
-tags: ["calcio", "squadre", "milan", "juventus", "lazio", "squadra"]
-related: ["20260218-3neleQ8C3zI", "20211101-p9_tffzsNo0", "20210404-eJE2qy8Ou4k", "20181104-Sj_7l4Gfe9g"]
+tags: ["calcio", "squadre", "milan", "posso capire", "juventus", "lazio"]
+related: ["20260218-3neleQ8C3zI", "20241014-kixbn4YVX6c", "20250127-BCQA2ASjAmo"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
 - [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
-- [[20211101-p9_tffzsNo0|Io e Amico Diverte siamo in SQUID GAME]]
-- [[20210404-eJE2qy8Ou4k|15 SCP PERICOLOSISSIMI – Creepypasta 159]]
-- [[20181104-Sj_7l4Gfe9g|Essi Muoiono - Creepypasta 104 (Speciale Halloween)]]
+- [[20241014-kixbn4YVX6c|Dopo la morte saremo cibo per vermi MA MAGARI]]
+- [[20250127-BCQA2ASjAmo|OSHI NO KO - Spiegazione del finale]]

@@ -12,23 +12,24 @@ comment_count: "146"
 playlist: "Storia"
 playlist_id: "PLU8-xwslFxH_4ccWo_pGUmjXVtVA0orpl"
 playlist_index: "64"
-tags: ["palestinesi", "palestina", "gaza", "amas", "palestinese", "ebraico"]
-related: ["20240323-51sBpAGNpOE", "20231210-qDve480qKsY", "20231029-MhcdzqAUKcI", "20251007-EMI9sz3wvPQ", "20231031-jM5c66bJntQ", "20251013-4bB0mpteH7c", "20251004-vmZseap-b9g", "20240222-JT3sG5KTILA", "20250830-nv4MaICTL6Y", "20251011-Nxw8vwhX4Lw"]
+tags: ["palestinesi", "palestina", "alla palestina", "west bank", "gaza", "soluzione stati"]
+related: ["20231029-MhcdzqAUKcI", "20231031-jM5c66bJntQ", "20251013-4bB0mpteH7c", "20231210-qDve480qKsY", "20251007-EMI9sz3wvPQ", "20240323-51sBpAGNpOE", "20240222-JT3sG5KTILA", "20251011-Nxw8vwhX4Lw", "20250830-nv4MaICTL6Y", "20231030-dRNbAY6XFDw"]
 video_type: "video"
 description: "Emanuele: https://www.youtube.com/@emanuele_emme_colognesi\nLibro: https://amzn.to/3VrdTt6\nTIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#israele #palestina\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://theneondreamer.bandcamp.com/album/neon-dreams\nhttps://theneondreamer.bandcamp.com/album/dissimulation\nALCUNE FONTI:\nhttps://www.youtube.com/watch?v=JiWHkdVEO8M&t=1893s&ab_channel=EliHassell\nhttps://jacobin.com/2023/11/israeli-communist-party-eli-gozansky-war-hadash-netanyahu\nhttps://www.timesofisrael.com/coexistence-despite-everything/\nhttps://en.wikipedia.org/wiki/Self-determination\nDati popolazione: Calendario atlante De Agostini 2024, stime del 2022."
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
-- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
 - [[20231029-MhcdzqAUKcI|ISRAELE E PALESTINA: una storia, due popoli]]
-- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
 - [[20231031-jM5c66bJntQ|ISRAELE è colpevole di APARTHEID e GENOCIDIO]]
 - [[20251013-4bB0mpteH7c|Cosa ne pensa MORTEBIANCA del piano di Pace di Trump?]]
-- [[20251004-vmZseap-b9g|Perché né Hamas né Israele apprezzano il piano di Trump?]]
+- [[20231210-qDve480qKsY|IL GENOCIDIO PALESTINESE: Definizioni, Prove e Consensus]]
+- [[20251007-EMI9sz3wvPQ|Rick DuFer non sa cos'è il Colonialismo (o il Genocidio)]]
+- [[20240323-51sBpAGNpOE|Critica ad HAMAS]]
 - [[20240222-JT3sG5KTILA|Come funziona la PROPAGANDA di ISRAELE]]
-- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
 - [[20251011-Nxw8vwhX4Lw|Perché Netanyahu è TERRORIZZATO da Barghouti?]]
+- [[20250830-nv4MaICTL6Y|Critica ai distruttori di Israele]]
+- [[20231030-dRNbAY6XFDw|Storia della Palestina (e degli Ebrei)]]

@@ -10,15 +10,12 @@ view_count: "17529"
 like_count: "950"
 comment_count: "167"
 playlist_index: "0"
-tags: ["asmogold", "signorina", "asmo", "gold", "doccia", "signora"]
-related: ["20240710-KPmyLsfdVU8", "20251209-mAdr_RsjVvA", "20260303-DejSXDQ373k"]
+tags: ["asmogold", "asmo gold", "casa asmogold", "secondo bagno", "fatti consigliare", "signorina"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240710-KPmyLsfdVU8|Coffin of Alabama (Live Mortebianca's Reaction)]]
-- [[20251209-mAdr_RsjVvA|Coffin of Freud (Live Mortebianca Reaction)]]
-- [[20260303-DejSXDQ373k|Una vendetta, una sentenza]]

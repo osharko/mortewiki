@@ -10,13 +10,12 @@ view_count: "11371"
 like_count: "985"
 comment_count: "71"
 playlist_index: "0"
-tags: ["saremo", "sanremo", "immaginati", "gertrude", "perry", "connettono"]
-related: ["20260606-PLb7SEpZKhs"]
+tags: ["saremo vecchi", "vede quella", "dubbio viene", "vede genere", "saremo tipo", "forse vedremo"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260606-PLb7SEpZKhs|Un PCI potrebbe ambire a cifre enormi]]

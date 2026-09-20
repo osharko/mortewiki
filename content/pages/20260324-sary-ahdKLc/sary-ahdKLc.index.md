@@ -10,10 +10,11 @@ view_count: "11942"
 like_count: "642"
 comment_count: "76"
 playlist_index: "0"
-tags: ["marra", "mister", "meloni", "intervista", "intervistato", "podcast"]
-related: ["20260322-uUpJEd5vCpw", "20251214--BfnnWaimoQ", "20260619-y8-CUN5JYss", "20200917-JTh5ejiEMsY", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260416-dLQ9EZb-_qw", "20260601-MiG7c6YOOgE", "20250304-vOGnydyQbA8", "20260626-uLQhYdH41Ig"]
+tags: ["mister marra", "marra", "mister", "meloni", "voglio vedere", "intervista"]
+related: ["20260322-uUpJEd5vCpw", "20251214--BfnnWaimoQ", "20260619-y8-CUN5JYss", "20200917-JTh5ejiEMsY", "20190515-FmQd99ET7g4", "20200206-pxQBbKS0n5w", "20220923-H8h0Gn2CiHI", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20260416-dLQ9EZb-_qw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -23,9 +24,9 @@ embeddable: "1"
 - [[20251214--BfnnWaimoQ|Mr House è vivo nella seconda stagione di Fallout?]]
 - [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
 - [[20200917-JTh5ejiEMsY|Mortecuore 4: il Ritorno (ft Mr Marra)]]
+- [[20190515-FmQd99ET7g4|La Filosofia di Tim Burton (ft Mr. Marra)]]
+- [[20200206-pxQBbKS0n5w|Mortecuore 2 - La Vendetta del Simp]]
+- [[20220923-H8h0Gn2CiHI|Le Follie dell'Imperatore (ft Mr Marra)]]
 - [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
 - [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
 - [[20260416-dLQ9EZb-_qw|Hanno reso canonico un finale di New Vegas (e non è quello che credi)]]
-- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
-- [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
-- [[20260626-uLQhYdH41Ig|NO a Italia Viva nel Fronte Progressista]]

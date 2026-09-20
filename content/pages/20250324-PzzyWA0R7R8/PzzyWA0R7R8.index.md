@@ -10,22 +10,23 @@ view_count: "7454"
 like_count: "505"
 comment_count: "35"
 playlist_index: "0"
-tags: ["martin", "herbert", "tolken", "ring", "spade", "tolkien"]
-related: ["20260410-7kqYnIHd-4s", "20260706-jNDtv2e0bCE", "20260313-ynkTjz44iKc", "20241016-Qkg_xDHA5a8", "20250527-ZBCBdVv4q5Y", "20260308-KxiAmVhYs-k", "20260127-Okbt1If7Lkw", "20260521-2ekuUIx1Cvo", "20241023-bBnBKpzKzLg", "20260627-cR2zviDlyAY"]
+tags: ["martin", "trono spade", "donna potere", "elden ring", "metto pausa", "avanti avanti"]
+related: ["20260706-jNDtv2e0bCE", "20250104-Zpgjz6_E8wE", "20250105-xXnfFPUWdQI", "20241016-Qkg_xDHA5a8", "20260127-Okbt1If7Lkw", "20241023-bBnBKpzKzLg", "20260729-I3Hmj6d5Sco", "20220525-fPUumekOZBI", "20260320-s8-zmip52LE", "20240225-SvrSztco8a0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
 - [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
-- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]
+- [[20250104-Zpgjz6_E8wE|DISTRUGGO il finale di Game of Thrones (Parte 1)]]
+- [[20250105-xXnfFPUWdQI|DISTRUGGO il finale di Game of Thrones (Parte 2)]]
 - [[20241016-Qkg_xDHA5a8|La mortalità dell'Autore (e le opere orfane)]]
-- [[20250527-ZBCBdVv4q5Y|RT poop riporta Robin Williams]]
-- [[20260308-KxiAmVhYs-k|Critica a Catelyn Stark (née Tully)]]
 - [[20260127-Okbt1If7Lkw|Madoka 4 è stato rimandato]]
-- [[20260521-2ekuUIx1Cvo|I Robot per Tolkien]]
 - [[20241023-bBnBKpzKzLg|Non sanno più fare il Fantasy]]
-- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
+- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]
+- [[20220525-fPUumekOZBI|Mortebianca compie 12 anni]]
+- [[20260320-s8-zmip52LE|Cesare e Mussolini cosa preferirebbero tra una donna al potere e il sionismo?]]
+- [[20240225-SvrSztco8a0|HO FERMATO IL TEMPO - Creepypasta 223]]

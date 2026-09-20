@@ -10,10 +10,11 @@ view_count: "8692"
 like_count: "677"
 comment_count: "59"
 playlist_index: "0"
-tags: ["romani", "galli", "copium", "cartone", "kellog", "jerry"]
-related: ["20241012-LdQcX3Dm4RM", "20250606-3c2BjZ2aLy4", "20260507-xyKa9tpD8GA", "20260320-s8-zmip52LE", "20250302-_Zx7FzBT12s", "20250207-8ududSJJavc", "20241103-1odWEk69h8E", "20241119-8FxNB7i69UI", "20260429-QbdsvLTq1C4", "20220507-meoWVAFpGc8"]
+tags: ["romani", "galli", "pure galli", "galli erano", "copium", "cartone"]
+related: ["20241012-LdQcX3Dm4RM", "20250606-3c2BjZ2aLy4", "20260507-xyKa9tpD8GA", "20260320-s8-zmip52LE", "20250302-_Zx7FzBT12s", "20250207-8ududSJJavc", "20241103-1odWEk69h8E", "20241119-8FxNB7i69UI", "20200712-EcEuwsBv_uo", "20200701-ywLy3z1YohM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -27,5 +28,5 @@ embeddable: "1"
 - [[20250207-8ududSJJavc|Il GLADIATORE DUE è PEGGIO DEL PREVISTO....]]
 - [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
 - [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
-- [[20260429-QbdsvLTq1C4|Cos'è il Colonialismo? Perché è diverso dalla conquista?]]
-- [[20220507-meoWVAFpGc8|La Filosofia del Gobbo di Notre Dame]]
+- [[20200712-EcEuwsBv_uo|Cos'è un Anime? - Risposta a Croix89]]
+- [[20200701-ywLy3z1YohM|Le Origini di Disney]]

@@ -10,22 +10,23 @@ view_count: "5427"
 like_count: "393"
 comment_count: "33"
 playlist_index: "0"
-tags: ["bordella", "francesi", "spagna", "destre", "ucraina", "meloni"]
-related: ["20251122-bT5uXCtc85g", "20260619-y8-CUN5JYss", "20220224-AfzPCkTR0P0", "20220503-JtCgW83lNZ8", "20221231-ZxunrzPftxo", "20231002-pNe3PhDr-EI", "20241118-G5_Xl9Lv4jU", "20260601-MiG7c6YOOgE", "20260416-8mvgZUFK5io", "20221012-CKUHAN5rLm0"]
+tags: ["bordella", "unione europea", "francesi", "destra tedesca", "spagna", "sarebbe francia"]
+related: ["20260506-BWcNXtjYK9Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20241119-8FxNB7i69UI", "20260430-QUXUrmgMeMc", "20241206-_j4XwppAZH0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
-- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20220503-JtCgW83lNZ8|Come sta andando in UCRAINA?]]
-- [[20221231-ZxunrzPftxo|E se NAPOLEONE avesse vinto?]]
-- [[20231002-pNe3PhDr-EI|E se la FRANCIA avesse vinto la GUERRA DEI SETTE ANNI?]]
-- [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
-- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
-- [[20260416-8mvgZUFK5io|La Dottrina Togliatti trionfa in Ungheria]]
-- [[20221012-CKUHAN5rLm0|NON ci sarà nessuna GUERRA MONDIALE NUCLEARE]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
+- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
+- [[20241206-_j4XwppAZH0|Critica al BRICS]]

@@ -10,10 +10,11 @@ view_count: "15009"
 like_count: "984"
 comment_count: "78"
 playlist_index: "0"
-tags: ["dufer", "ebreo", "antisemitismo", "accuse", "manine", "wasp"]
+tags: ["dufer", "ebreo", "quanto ebreo", "manine sante", "favore favore", "antisemitismo"]
 related: ["20250726-a3iKGKd1cTs", "20260211-e_4mA45o-XU", "20260313-ynkTjz44iKc", "20260128-Px2StNHILS8", "20260206-8Qx_rLZtL-k", "20251130-sh54xa67Nuo", "20251202-RZ5cemKSXFw", "20260214-RGD-I9c6Rv8", "20260517-0m1dlc-akzo", "20260703-SDMIlwAMmH0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

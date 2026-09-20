@@ -10,18 +10,15 @@ view_count: "12337"
 like_count: "789"
 comment_count: "38"
 playlist_index: "0"
-tags: ["liberalismo", "inaccettabili", "antidemocratico", "popper", "socialdemocrazia", "fasci"]
-related: ["20200910-7o8HnnSDkTk", "20241006-FZKB0kGHl0k", "20251116-DME61s_RMqE", "20250501-2IzWuf8zSQ0", "20201008-4x00LcUl4Zs", "20220203-DdMVTjoGWtU"]
+tags: ["filosofia vero", "certe idee", "criticare idea", "avessi detto", "liberalismo", "inaccettabili"]
+related: ["20260803-yT-GO5_4OJ4", "20251116-DME61s_RMqE"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200910-7o8HnnSDkTk|POPPER (Lezione completa) - #Filosofia 31]]
-- [[20241006-FZKB0kGHl0k|Come funziona l'indottrinamento fascista (tra Grooming ed Incel)]]
+- [[20260803-yT-GO5_4OJ4|Caverna di Proiezione: in piena rivalutazione]]
 - [[20251116-DME61s_RMqE|Non possiamo definirci Liberali]]
-- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
-- [[20201008-4x00LcUl4Zs|Kuhn e Feyerabend - #Filosofia 32]]
-- [[20220203-DdMVTjoGWtU|Socrate e il Diritto a Ribellarsi]]

@@ -10,13 +10,17 @@ view_count: "3696"
 like_count: "74"
 comment_count: "81"
 playlist_index: "0"
-tags: ["polenta", "muoio", "bruciato", "stomaco", "grana", "acidità"]
-related: ["20141107-N4gqlLjNs4E"]
+tags: ["polenta", "brutta brutta", "merda cane", "vita privata", "vuoi mettere", "prima polenta"]
+related: ["20250322-gb7Hp_-HMlg", "20241102-4wC_IKaJAiM", "20250517-RntUE-9cBtw", "20250204-7yB3loP15w4"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20141107-N4gqlLjNs4E|Videogames #1 - Slenderman Mansion]]
+- [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
+- [[20241102-4wC_IKaJAiM|Se potessi rinascere, quale stato sceglierei come patria?]]
+- [[20250517-RntUE-9cBtw|Il problema degli Speedsters]]
+- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]

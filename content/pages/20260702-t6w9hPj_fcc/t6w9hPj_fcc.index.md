@@ -12,10 +12,11 @@ comment_count: "29"
 playlist: "I miei Shorts"
 playlist_id: "PLU8-xwslFxH8XRHHIxJNm92L3_tukumhO"
 playlist_index: "13"
-tags: ["scomunicato"]
+tags: ["scomunicato società", "hanno scomunicato", "scomunicato"]
 video_type: "short"
 description: "#sspx #meme #shorts"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

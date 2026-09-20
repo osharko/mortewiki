@@ -12,11 +12,12 @@ comment_count: "119"
 playlist: "Terzo Ciclo"
 playlist_id: "PLU8-xwslFxH_HvZyo23L4WA3u5R21rRVC"
 playlist_index: "75"
-tags: ["pesci", "impulso", "altmask", "sottomarino", "alghe", "donald"]
-related: ["20260222-o4g3i77N5gA", "20260118-09GJuFH7_9Y", "20240406-nJUdEfU0bmA", "20210711-2TVzWSugVPo", "20210725-bq84Nu--WQM", "20230202-lK_mQ1dF4YE", "20260801-2cO_ZHBv0PU", "20240611-bPcj2QQI1VQ", "20240728-lpSahM4hpw0", "20241124-SRyAFBeX9q8"]
+tags: ["pesci", "donald altmask", "impulso", "fossa marianne", "altmask", "sottomarino"]
+related: ["20260222-o4g3i77N5gA", "20260118-09GJuFH7_9Y", "20240406-nJUdEfU0bmA", "20210711-2TVzWSugVPo", "20210725-bq84Nu--WQM", "20240728-lpSahM4hpw0", "20241124-SRyAFBeX9q8", "20250706-KQlz0xY60mY"]
 video_type: "video"
 description: "Amico Diverte: https://www.youtube.com/@AmicoDiverte_Racconti_Horror\nTIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#creepypasta #bermuda\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nSigla Live: https://www.youtube.com/watch?v=liMUF306cHs\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://www.youtube.com/watch?v=Sn7znOWntlg\nhttps://www.youtube.com/watch?v=KdmJ3bY84JU\nhttps://www.youtube.com/watch?v=FaQLBae-3Yw"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -27,8 +28,6 @@ embeddable: "1"
 - [[20240406-nJUdEfU0bmA|La Filosofia di NEMO e DORY]]
 - [[20210711-2TVzWSugVPo|La Maledizione dell'Acquario - #Creepypasta 32]]
 - [[20210725-bq84Nu--WQM|Point Nemo - Creepypasta 166]]
-- [[20230202-lK_mQ1dF4YE|Come si sono EVOLUTI gli animali dal MARE alla TERRA?]]
-- [[20260801-2cO_ZHBv0PU|Gli animali domestici non fanno calare la fecondità]]
-- [[20240611-bPcj2QQI1VQ|Perché odio il pesce (e JUNJI ITO concorda)]]
 - [[20240728-lpSahM4hpw0|IL FONDO del lago BAIKAL – Creepypasta 233]]
 - [[20241124-SRyAFBeX9q8|La Filosofia di IRON LUNG]]
+- [[20250706-KQlz0xY60mY|Fossa delle Marianne - Creepypasta 255]]

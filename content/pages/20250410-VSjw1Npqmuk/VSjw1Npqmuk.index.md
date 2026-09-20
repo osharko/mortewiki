@@ -10,18 +10,21 @@ view_count: "9105"
 like_count: "729"
 comment_count: "68"
 playlist_index: "0"
-tags: ["supereroi", "supereroe", "invincible", "lavoratore", "ford", "produttività"]
-related: ["20250215-8_skrIx3dhY", "20250808-DyitJwo8Akw", "20241003-OB8XV7OF1VU", "20251014-iI7HCGIVYT4", "20241008-uAzJsENWF6Y", "20240818-0r-A8hmwIEY"]
+tags: ["supereroi", "stai facendo", "vite umane", "supereroe", "potuto salvare", "linea temporale"]
+related: ["20241003-OB8XV7OF1VU", "20251218-7qMQK4T8Wu0", "20240426-e1UDWKfYYM8", "20250121-aOHfNk30tfM", "20160130-9j4TgDrowZI", "20251211-RwEJwS-9JKc", "20260517-g3_Sm0wxDlM", "20260721-C7mqSY3gxPw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250215-8_skrIx3dhY|Storia delle AUTOMOBILI]]
-- [[20250808-DyitJwo8Akw|Gli Incredibili ha ispirato Invincible e The Boys?]]
 - [[20241003-OB8XV7OF1VU|La Filosofia degli INCREDIBILI]]
-- [[20251014-iI7HCGIVYT4|La Filosofia di WATCHMEN]]
-- [[20241008-uAzJsENWF6Y|Quando il protagonista perde i suoi poteri]]
-- [[20240818-0r-A8hmwIEY|Come sopravvivere alla PIENA AUTOMAZIONE?]]
+- [[20251218-7qMQK4T8Wu0|Una Filosofia che salta nel tempo]]
+- [[20240426-e1UDWKfYYM8|GIOCHI IN 4D SECONDA PERSONA?]]
+- [[20250121-aOHfNk30tfM|La Filosofia degli X-MEN]]
+- [[20160130-9j4TgDrowZI|Ben Drowned - Riscrittura Horror #2]]
+- [[20251211-RwEJwS-9JKc|Apologia della libertà religiosa]]
+- [[20260517-g3_Sm0wxDlM|Occhiali 5D - Creepypasta 273]]
+- [[20260721-C7mqSY3gxPw|La Filosofia di Scarlet]]

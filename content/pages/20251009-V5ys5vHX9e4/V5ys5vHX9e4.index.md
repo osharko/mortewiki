@@ -10,14 +10,12 @@ view_count: "15468"
 like_count: "960"
 comment_count: "63"
 playlist_index: "0"
-tags: ["islamofobia", "dimostrazione"]
-related: ["20250425-Ig0wv5jE2MY", "20250813-92CCkkq4OEw"]
+tags: ["islamofobia definizione", "esistenza critica", "dimostrazione esistenza", "definizione dimostrazione", "islamofobia", "dimostrazione"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250425-Ig0wv5jE2MY|Apologia di Mercadini: atei e fede]]
-- [[20250813-92CCkkq4OEw|Di che parla Polar Express?]]

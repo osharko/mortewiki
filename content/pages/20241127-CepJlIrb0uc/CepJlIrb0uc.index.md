@@ -10,8 +10,10 @@ view_count: "4362"
 like_count: "492"
 comment_count: "35"
 playlist_index: "0"
+tags: ["guarda miei", "incredibile guarda"]
 video_type: "short"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

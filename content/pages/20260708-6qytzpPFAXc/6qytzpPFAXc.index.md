@@ -10,17 +10,16 @@ view_count: "5641"
 like_count: "437"
 comment_count: "75"
 playlist_index: "0"
-tags: ["impoverimento", "linguistica", "finanziario", "inglesismi", "vocabolario", "casuale"]
-related: ["20250524-gxJMX57iVzs", "20260423-CEekRP7glNE", "20201203-Xc70JqExN5Y", "20250703-ASUHq6LIJzc", "20251001-qU8c23zqv4M"]
+tags: ["capitalistico finanziario", "arricchimento culturale", "lingua italiana", "minimo senso", "impoverimento", "linguistica"]
+related: ["20250514-98VILQuSOtU", "20260613-FhyGMpUHhAI", "20260408-1ZZ11IRMvdg"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250524-gxJMX57iVzs|La Crociata contro gli Inglesismi]]
-- [[20260423-CEekRP7glNE|La Torre di BABELE - tra Filosofia e Architettura antica]]
-- [[20201203-Xc70JqExN5Y|Foucault e Lacan - #Filosofia 34]]
-- [[20250703-ASUHq6LIJzc|Minoranze e come trattarle]]
-- [[20251001-qU8c23zqv4M|They/Them]]
+- [[20250514-98VILQuSOtU|Sì, gli italiani esistono, checché ne strillino i leghisti]]
+- [[20260613-FhyGMpUHhAI|Perché sono serenamente pessimista]]
+- [[20260408-1ZZ11IRMvdg|Trump e la gaffe su Pearl Harbor]]

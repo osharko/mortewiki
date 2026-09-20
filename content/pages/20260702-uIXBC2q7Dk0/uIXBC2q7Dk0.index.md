@@ -10,14 +10,14 @@ view_count: "7123"
 like_count: "586"
 comment_count: "60"
 playlist_index: "0"
-tags: ["remigrazione", "straniero", "tempio", "buttati", "accogli", "criticando"]
-related: ["20170810-e4ozGKggVJc", "20260610-PituFoKdKcU"]
+tags: ["buttati fuori", "bibbia dice", "difetto morale", "destra difetto", "vennero buttati", "accogli straniero"]
+related: ["20251006-QDYownw-kEI"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20170810-e4ozGKggVJc|Dio 2.0 - Recensione Filosofica]]
-- [[20260610-PituFoKdKcU|Il collasso dell'Impero Americano]]
+- [[20251006-QDYownw-kEI|La nuova ArcivescovA di Canterbury]]

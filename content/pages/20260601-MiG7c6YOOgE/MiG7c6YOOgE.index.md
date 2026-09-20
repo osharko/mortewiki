@@ -10,22 +10,23 @@ view_count: "7809"
 like_count: "537"
 comment_count: "30"
 playlist_index: "0"
-tags: ["sondaggi", "farange", "meloni", "spagna", "melencon", "sanchez"]
-related: ["20260531-FhFS6ryUvwo", "20260619-y8-CUN5JYss", "20260605-BdxjbOWNBkw", "20260402-VGpKEL1s_6M", "20260621-Y9Nz3xlXK4o", "20260322-uUpJEd5vCpw", "20260324-sary-ahdKLc", "20241113-RvJ3nmgVDew", "20230105-2YG-QNBSTBM", "20250304-vOGnydyQbA8"]
+tags: ["regno unito", "governo meloni", "sondaggi", "farange", "meloni", "europa occidentale"]
+related: ["20250903-FfolkwKdC9U", "20260412-LcWrMgiJZ7k", "20260813-VWoqsF9auaE", "20260531-FhFS6ryUvwo", "20260402-VGpKEL1s_6M", "20241103-1odWEk69h8E", "20250304-vOGnydyQbA8", "20260619-y8-CUN5JYss", "20260325-glBFTY-C52E", "20250331-JXUGBMAbBXA"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20260813-VWoqsF9auaE|L'avvento del Breturn?]]
 - [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
-- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
-- [[20260605-BdxjbOWNBkw|Ricreare il Partito Comunista Italiano? Possibile, ecco i sondaggi]]
 - [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
-- [[20260621-Y9Nz3xlXK4o|Bardella - Elezioni Francesi]]
-- [[20260322-uUpJEd5vCpw|Apologia di Mr Marra al Pulp Podcast con Meloni]]
-- [[20260324-sary-ahdKLc|Mr Marra e Pulp Podcast: la differenza tra Intervista e Dibattito]]
-- [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
-- [[20230105-2YG-QNBSTBM|E se CARLO V non avesse diviso l'Impero?]]
+- [[20241103-1odWEk69h8E|L'inesistente indipendentismo inglese (I.I.I.)]]
 - [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
+- [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
+- [[20260325-glBFTY-C52E|Ha vinto il No: un sobrio festeggiamento]]
+- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]

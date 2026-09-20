@@ -10,21 +10,19 @@ view_count: "6879"
 like_count: "604"
 comment_count: "36"
 playlist_index: "0"
-tags: ["parcheggiare", "parcheggio", "agenti", "esame", "portiamolo", "parcheggia"]
-related: ["20241024-bIkDBjz5MZ8", "20250623-sdS3N-K1g9Y", "20170205-tkLolnjt_L4", "20240407-zAlaUMC59XI", "20200922-DPqIEzEmzS4", "20170326-L34swnN8LK4", "20200621-Vcn5wbSj90Q", "20221127-nEe7D47VH4g", "20241220-hBpJYO0OJz0"]
+tags: ["forze ordine", "parcheggiare", "hanno agito", "trasporti pubblici", "cioè capito", "agenti hanno"]
+related: ["20240227-Hg_3lUx4udI", "20260310-UP2KuFgg7Pc", "20230210-bTd9m2GYtPU", "20181104-Sj_7l4Gfe9g", "20260401-BXe57745OH0", "20250826-GIA-C11y-qU"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241024-bIkDBjz5MZ8|Looking Up I See Only A Ceiling (Arriva lo sviluppatore a sorpresa!)]]
-- [[20250623-sdS3N-K1g9Y|Può un vestito far bloccare un esame?]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
-- [[20240407-zAlaUMC59XI|La Copia di una Copia - Creepypasta 226]]
-- [[20200922-DPqIEzEmzS4|Didattica a Distanza - una Critica Costruttiva]]
-- [[20170326-L34swnN8LK4|Le 10 operazioni CIA più OSCURE - Creepypasta #63]]
-- [[20200621-Vcn5wbSj90Q|L'Area 51 ti sta Ascoltando (SCP) - Creepypasta 139]]
-- [[20221127-nEe7D47VH4g|La PSICOLOGIA di DAHMER]]
-- [[20241220-hBpJYO0OJz0|L'Impronta digitale che lasciamo sul web dopo la morte]]
+- [[20240227-Hg_3lUx4udI|POLIZIA: Studenti MANGANELLATI, i Fascisti invece no]]
+- [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
+- [[20230210-bTd9m2GYtPU|La Filosofia di Zootropolis]]
+- [[20181104-Sj_7l4Gfe9g|Essi Muoiono - Creepypasta 104 (Speciale Halloween)]]
+- [[20260401-BXe57745OH0|Proposta di contratto sociale con i fantasmi]]
+- [[20250826-GIA-C11y-qU|Il citofono fantasma - Creepypasta 258]]

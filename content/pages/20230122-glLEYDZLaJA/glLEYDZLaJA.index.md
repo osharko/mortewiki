@@ -12,11 +12,12 @@ comment_count: "164"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "114"
-tags: ["elsa", "ralph", "anna", "ghiaccio", "frozen", "turbo"]
-related: ["20260621-FEVfUS_VV90", "20240812-FmGhcM2ywxc", "20170820-PGyYprqiJ0U", "20260714-fVIVVZK7AK8", "20260627-cR2zviDlyAY", "20221027-Nrb13Cfy8jw"]
+tags: ["elsa", "ralph", "anna", "forme amore", "ralph spaccatutto", "amore romantico"]
+related: ["20260621-FEVfUS_VV90", "20240812-FmGhcM2ywxc", "20260330-lp3_3UaeMqQ", "20200206-pxQBbKS0n5w"]
 video_type: "video"
 description: "Frozen: https://amzn.to/3iWBlPn\nRalph: https://amzn.to/3XL66pe\nIl mio prossimo LIBRO: https://www.poliniani.com/product-page/abissi-digitali\nIl primo libro: https://bitly.com/creepypasta1\nIl secondo libro: https://www.poliniani.com/product-page/creepypasta2\nAnche su Amazon: https://amzn.to/30h2PSm\nIl mio FUMETTO: https://www.poliniani.com/product-page/morte-bianca\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#frozen #disney\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/lemmino/nocturnal\nhttps://soundcloud.com/lemmino/cipher"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -24,7 +25,5 @@ embeddable: "1"
 ## Correlati
 - [[20260621-FEVfUS_VV90|La Filosofia di Marnie e Totoro]]
 - [[20240812-FmGhcM2ywxc|La Filosofia di METRO 2033]]
-- [[20170820-PGyYprqiJ0U|Dexter - Spiegazione del finale]]
-- [[20260714-fVIVVZK7AK8|Critica al Doomerismo climatico]]
-- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
-- [[20221027-Nrb13Cfy8jw|L'OCCULTISMO NAZISTA]]
+- [[20260330-lp3_3UaeMqQ|La Filosofia di MAQUIA]]
+- [[20200206-pxQBbKS0n5w|Mortecuore 2 - La Vendetta del Simp]]

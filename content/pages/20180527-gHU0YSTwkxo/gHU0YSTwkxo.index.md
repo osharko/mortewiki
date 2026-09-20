@@ -12,11 +12,12 @@ comment_count: "1100"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "39"
-tags: ["mussolini", "ride", "tedeschi", "tedesco", "razze", "nazismo"]
+tags: ["mussolini", "fake news", "ride", "tedeschi", "mussolini film", "livello interpretativo"]
 related: ["20250131-RnZ3rZr9tuk", "20260320-s8-zmip52LE", "20250904-UxyeeuS9rGc", "20250430-gUx4wOdsu-w", "20260411-9MZT8TX4Dk0", "20250514-09NFcoNAF_M", "20210622-tmnpsoL5rNE", "20250220-Sb5g2mS2-J0", "20250515-kvjs_N2Wv54", "20210429-kbqWynJU7Do"]
 video_type: "video"
 description: "Confronto tra Lui è Tornato (Film e Libro) e Sono Tornato, e tra le figure di Hitler e Mussolini nel mondo moderno, analisi del problema del neofascismo.\nLINK AMAZON\nLui è tornato (Libro): https://amzn.to/2J5Zuz4\nSono tornato: https://amzn.to/2siG6Eq\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice logo: https://lovelyhanakochan.deviantart.com/\nhttps://www.tpi.it/2018/02/05/mappa-attacchi-fascisti-italia/\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://www.youtube.com/watch?v=HMJ6Tmq--08\nhttps://www.youtube.com/watch?v=OoqDuXq0qxw\nhttps://www.youtube.com/watch?v=AinXmewlaII\nhttps://www.youtube.com/watch?v=ATt9v9ICn08\nhttps://www.youtube.com/watch?v=C9v84nsJ374"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

@@ -10,11 +10,12 @@ view_count: "19893"
 like_count: "1206"
 comment_count: "254"
 playlist_index: "0"
-tags: ["boldrin", "carico", "interniamolo", "insegno", "credete", "improbabile"]
+tags: ["boldrin", "avessi accettato", "tipo clinico", "nome improbabile", "manga disturbati", "insegno subito"]
 related: ["20260604-FLTvYMJF_Yo", "20260528-YgZwy7UD86c", "20260714-aLl6KZqULBc", "20260529-JlQu1zEslFQ", "20260526-pvNPSuHJznQ", "20260527-KnusyaTfPCc", "20260713-MsjnlM6YZBw"]
 video_type: "video"
 description: "https://techxplore.com/news/2025-09-ai-tools-unreliable-overconfident-sided.html\nhttps://it.wikipedia.org/wiki/Filosofo"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*

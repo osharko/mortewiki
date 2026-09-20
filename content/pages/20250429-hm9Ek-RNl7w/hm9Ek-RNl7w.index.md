@@ -10,15 +10,14 @@ view_count: "8228"
 like_count: "693"
 comment_count: "42"
 playlist_index: "0"
-tags: ["svizzera", "svizzeri", "svizzero", "austria", "zeppo", "attriti"]
-related: ["20250927-4nzDdfzH8SE", "20221219-XTXAPzjsiIw", "20250709-oX0cRj4qvNI"]
+tags: ["svizzera", "diritto voto", "dall europa", "svizzeri", "svizzera deve", "deve accettare"]
+related: ["20250609--N6zDHQjxcQ"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250927-4nzDdfzH8SE|Non scoppierà nessuna terza guerra mondiale nucleare]]
-- [[20221219-XTXAPzjsiIw|E se la GERMANIA avesse vinto la Prima Guerra Mondiale?]]
-- [[20250709-oX0cRj4qvNI|Slavi ed Est Europa: imparare dalla storia per ridisegnare i confini]]
+- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]

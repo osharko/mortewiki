@@ -10,21 +10,18 @@ view_count: "5592"
 like_count: "471"
 comment_count: "21"
 playlist_index: "0"
-tags: ["mario", "vidal", "donny", "comitiva", "chiedermi", "neurosama"]
-related: ["20190303-xjkRz1s78uA", "20200812-QpdEM6RSBZI", "20250803-KdI5mLXR9EU", "20250810-pYMCG4rvUhE", "20251220-Kf_lc_hw9n0", "20260731-P0B5DbMIVfM", "20260906-fW_gTuG8_Jw", "20251110-fAe9JYU4ScQ", "20241204-4HQQgmuKJYA"]
+tags: ["amico amico", "sempre voluto", "mario", "usata contro", "chiesto chiesto", "quella persona"]
+related: ["20200917-JTh5ejiEMsY", "20200812-QpdEM6RSBZI", "20250810-pYMCG4rvUhE", "20250919-k4OWzYlYgfA", "20250913-tw2W3ZPrbJE"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190303-xjkRz1s78uA|La Filosofia di Donnie Darko - Spiegazione del finale]]
+- [[20200917-JTh5ejiEMsY|Mortecuore 4: il Ritorno (ft Mr Marra)]]
 - [[20200812-QpdEM6RSBZI|Super Mario 64 - Creepypasta #38]]
-- [[20250803-KdI5mLXR9EU|NON siamo pronti per i ROBOT...]]
 - [[20250810-pYMCG4rvUhE|Zombie al Comic - Creepypasta 257]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20260731-P0B5DbMIVfM|Un video per il mio amico Donny di Alchill]]
-- [[20260906-fW_gTuG8_Jw|La Scuola Abbandonata - Creepypasta 277]]
-- [[20251110-fAe9JYU4ScQ|Robot in vendita: conviene?]]
-- [[20241204-4HQQgmuKJYA|Le domande a cui non rispondo]]
+- [[20250919-k4OWzYlYgfA|DEVI essere triste per Charkie Kirk?]]
+- [[20250913-tw2W3ZPrbJE|Sfogone 3]]

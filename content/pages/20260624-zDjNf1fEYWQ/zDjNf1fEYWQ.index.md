@@ -10,22 +10,21 @@ view_count: "4221"
 like_count: "370"
 comment_count: "103"
 playlist_index: "0"
-tags: ["cliente", "prequel", "tadk", "beatles", "hollywood", "theorist"]
-related: ["20241229-t-WFMmEtUvE", "20241229-dfUYlYyAIF4", "20161204-638Dp6-PyPs", "20250910-oUhqje4PXMI", "20250311-h2ylzdzt9Ug", "20190811-3GrFuJOtU2E", "20230530-l0x0wRikqb8", "20251030-wLsf2O3c_2I", "20260628-WyLCs2Wewbg", "20180830-Nl5ffkUKj-U"]
+tags: ["film theorist", "cliente sempre", "ultimo episodio", "cliente", "voglio sequel", "ancora ancora"]
+related: ["20161204-638Dp6-PyPs", "20241229-t-WFMmEtUvE", "20260205-6kRSAEQZD_8", "20260419-t1XibxHwYlM", "20190519-tpVCaOnPsIo", "20170813-5HCMfUFszmo", "20181104-Sj_7l4Gfe9g", "20250305-5Mh3VfogFfM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241229-t-WFMmEtUvE|Duale - Creepypasta 244]]
-- [[20241229-dfUYlYyAIF4|Canali ereditati: funzionano?]]
 - [[20161204-638Dp6-PyPs|Non c'è nessuna Matrix dentro Matrix Risposta a Film Theorist]]
-- [[20250910-oUhqje4PXMI|Critica filiale a Game Theorist]]
-- [[20250311-h2ylzdzt9Ug|USA vs EU 2: la vendemmia]]
-- [[20190811-3GrFuJOtU2E|Charles Manson - Creepypasta 122]]
-- [[20230530-l0x0wRikqb8|TUTTI i Sequel DISNEY (Parte 1)]]
-- [[20251030-wLsf2O3c_2I|Apologia di Hazbin Hotel]]
-- [[20260628-WyLCs2Wewbg|Prehistoria: una speranza per l'animazione tradizionale]]
-- [[20180830-Nl5ffkUKj-U|I miei gusti musicali]]
+- [[20241229-t-WFMmEtUvE|Duale - Creepypasta 244]]
+- [[20260205-6kRSAEQZD_8|Critica a Film Theorist su Hazbin Hotel]]
+- [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
+- [[20190519-tpVCaOnPsIo|Lo Sterminio più crudele mai esistito - Creepypasta 118]]
+- [[20170813-5HCMfUFszmo|La Tortura psicologica più crudele - Creepypasta #72]]
+- [[20181104-Sj_7l4Gfe9g|Essi Muoiono - Creepypasta 104 (Speciale Halloween)]]
+- [[20250305-5Mh3VfogFfM|La DISASTROSA America di TRUMP]]

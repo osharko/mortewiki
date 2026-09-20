@@ -6,22 +6,23 @@ playlist: "Vlog"
 playlist_id: "PLU8-xwslFxH8-fsVpMTcxFeZGHUHnr7Xz"
 playlist_index: "21"
 source: "https://youtu.be/e6vQibnKXUw"
-tags: ["stellaris", "trailer", "creepy"]
-related: ["20250316-xx1Pw1EjFKk", "20160312-zN1kr3wikMo", "20250225-jmZ_5QzdFHM", "20260304-LErYsC4F7u8", "20260627-cR2zviDlyAY", "20250723-sOw4syo7ddg", "20260218-3neleQ8C3zI", "20251003-43Hzl1remsY", "20210730-DcZQjaGmwro", "20260824-cNYu_H4axOI"]
+tags: ["trailer creepypasta", "stellaris trailer", "creepy stellaris", "stellaris", "trailer", "creepy"]
+related: ["20160312-zN1kr3wikMo", "20250723-sOw4syo7ddg", "20251003-43Hzl1remsY", "20140921-dQTMSp83rTE", "20150914-IDPGAVQ_8aY", "20151031-lE2MI1SQAf4", "20151230-cc-fsOP2VUo", "20210221-G5C53rkXXu4", "20210912-WwV05lbjZDE", "20230621-l8aY7cO_-uw"]
 embeddable: "0"
 stub: "1"
+qc: 93
 ---
 
 *Video non disponibile all'ingest (accesso limitato, es. 18+). Aprilo su YouTube.*
 
 ## Correlati
-- [[20250316-xx1Pw1EjFKk|Silent Hill f - Reaction al trailer e discussione del futuro della saga]]
 - [[20160312-zN1kr3wikMo|SPECIALE 10.000 - Il Nostro Trionfo (+ Nome sigla/intro)]]
-- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
-- [[20260304-LErYsC4F7u8|Tutti i cartoni animati in produzione (parte 1)]]
-- [[20260627-cR2zviDlyAY|Hexed: non sono convintissimo]]
 - [[20250723-sOw4syo7ddg|Fallout Bakersfield: cosa ne penso]]
-- [[20260218-3neleQ8C3zI|Quando è il Prime di Mortebianca?]]
 - [[20251003-43Hzl1remsY|Furropolis]]
-- [[20210730-DcZQjaGmwro|IL VIDEOGIOCO PEGGIORE]]
-- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20140921-dQTMSp83rTE|Minecraft - Partita perfetta!]]
+- [[20150914-IDPGAVQ_8aY|Speciale 2500 iscritti - V per Vlog di presentazione]]
+- [[20151031-lE2MI1SQAf4|SPECIALE 5000 - INTERVISTA A MORTEBIANCA]]
+- [[20151230-cc-fsOP2VUo|MORTEBIANCA - IL TRAILER]]
+- [[20210221-G5C53rkXXu4|Recensione Key Anthology - Trailer]]
+- [[20210912-WwV05lbjZDE|Trailer della Filosofia degli Hentai]]
+- [[20230621-l8aY7cO_-uw|TRAILER La Filosofia dell'Omosessualità (o Critica all'Omofobia)]]

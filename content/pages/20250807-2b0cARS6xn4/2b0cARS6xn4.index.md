@@ -10,15 +10,15 @@ view_count: "6912"
 like_count: "626"
 comment_count: "55"
 playlist_index: "0"
-tags: ["scultura", "crash", "candy", "vecchissima", "giocano", "generation"]
-related: ["20240418-8Wk2915vtbQ", "20200602-C0GAcBY_lFY", "20250525-p7tnucyztl8"]
+tags: ["arte moderna", "conosciuto videogiochi", "candy crash", "vivente conosciuto", "videogioco dipende", "scultura bambini"]
+related: ["20260223-6sXWZZfebWg", "20260701-zsBed0cG5bc"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
-- [[20200602-C0GAcBY_lFY|Cos'è l'Arte?]]
-- [[20250525-p7tnucyztl8|Tra Arte e Sport: scacchi, programmazione e cucina]]
+- [[20260223-6sXWZZfebWg|L'odio per l'Arte Moderna non ha il minimo senso]]
+- [[20260701-zsBed0cG5bc|La PEGGIORE critica all'Arte Moderna che io abbia mai letto]]

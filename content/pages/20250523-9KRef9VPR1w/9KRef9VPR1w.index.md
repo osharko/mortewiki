@@ -10,17 +10,23 @@ view_count: "5319"
 like_count: "469"
 comment_count: "17"
 playlist_index: "0"
-tags: ["attentato", "shinzoabe", "romanov", "terrorismo", "serbia", "crollato"]
-related: ["20260718-lb-p2fknQ9g", "20251111-3vBeOjHJzMU", "20240714-HMY-2X-G1CY", "20210820-BNQJ7nXbCPU", "20180607-bKc6ByxMrzo"]
+tags: ["pena morte", "democrazia cristiana", "alla pena", "contrario alla", "senso democrazia", "quella romanov"]
+related: ["20260403-rN_ydlfFQiY", "20250205-03AsV9qhnj8", "20250904-UxyeeuS9rGc", "20250522-E50ONjn0O_U", "20260303-DejSXDQ373k", "20180610-NuYhwrjvFD4", "20260310-UP2KuFgg7Pc", "20240213-RqdlRdSbPZM", "20250912-kO3kNZubRMw", "20240714-HMY-2X-G1CY"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
-- [[20251111-3vBeOjHJzMU|TITO e il sogno della JUGOSLAVIA]]
+- [[20260403-rN_ydlfFQiY|Pena di morte, Ergastolo, Carcere: tra abolizione e riforma]]
+- [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
+- [[20250904-UxyeeuS9rGc|Breve storia dei CATTOLICI in politica]]
+- [[20250522-E50ONjn0O_U|Un Manga contro la pena di morte]]
+- [[20260303-DejSXDQ373k|Una vendetta, una sentenza]]
+- [[20180610-NuYhwrjvFD4|Kira o L: Chi ha ragione?]]
+- [[20260310-UP2KuFgg7Pc|Perché Zohran Mamdani ha sconfitto il crimine a New York?]]
+- [[20240213-RqdlRdSbPZM|La CASTRAZIONE CHIMICA: funziona?]]
+- [[20250912-kO3kNZubRMw|Sulla morte di Charlie Kirk]]
 - [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20210820-BNQJ7nXbCPU|Fu giusto eliminare i ROMANOV?]]
-- [[20180607-bKc6ByxMrzo|Come sconfiggere il terrorismo]]

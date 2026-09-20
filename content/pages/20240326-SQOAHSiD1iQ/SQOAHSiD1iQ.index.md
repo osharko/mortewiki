@@ -12,22 +12,13 @@ comment_count: "127"
 playlist: "Storia"
 playlist_id: "PLU8-xwslFxH_4ccWo_pGUmjXVtVA0orpl"
 playlist_index: "37"
-tags: ["laica", "kennedy", "cuccioli", "sputnik", "orbita", "mark"]
-related: ["20200629-u9aTBFfYrw8", "20240813-0DGlNyn5gS8", "20250423-4zhHgdlqIgY", "20251002-YMiew8pi3rY", "20170625-ZEkafgKBueE", "20221103-Js5YHMGfOog", "20260705-r0jBKMVQ8ns", "20260801-2cO_ZHBv0PU", "20240714-HMY-2X-G1CY"]
+tags: ["laica", "tragedia peggiore", "mark bruce", "laica venne", "dopo laica", "americani erano"]
 video_type: "video"
 description: "Laika https://amzn.to/3PzJKW9\nMark: https://amzn.to/4a7mgQu\nTIPEEE: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/join\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#laika #urss\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@Drecon come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@Drecon come editor (anche per Biologia)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:\nhttps://soundcloud.com/buran_sw/nqf4tpcdcs4i?in=buran_sw/sets/istorii-kosmonavtov-ep&si=26bc24dd84f8406db5f0088f809e3dd3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing\nhttps://soundcloud.com/buran_sw/9hhqwcgzrlln?in=buran_sw/sets/istorii-kosmonavtov-ep&si=49fbdaa381e54b63b8303b7f54d52b5b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing\nhttps://soundcloud.com/buran_sw/l6ewdrf0xqwu?in=buran_sw/sets/istorii-kosmonavtov-ep\nhttps://www.youtube.com/watch?v=oM5B6po7Qf8&list=PLbb_NncyMIqv9iWU41u3ThpzRZXHCLW2a&index=9&ab_channel=AudioLibrary-FreeMusic\nhttps://www.youtube.com/watch?v=g5X6KZBk_6s&list=PLt4ZkJ3lYmFXG33Jk4BWaV4y0vypFCGtm&index=16&ab_channel=Myuu\nFONTI:\nhttps://www.youtube.com/watch?v=plX6k0Ihgf0&ab_channel=CharlesPage\nhttps://www.jfklibrary.org/learn/about-jfk/life-of-john-f-kennedy/fast-facts-john-f-kennedy/pets-in-the-whitehouse"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200629-u9aTBFfYrw8|La Maledizione dei Kennedy - Creepypasta #2]]
-- [[20240813-0DGlNyn5gS8|STORIA AMERICANA 4: KENNEDY VS REAGAN]]
-- [[20250423-4zhHgdlqIgY|Asteroidi e Pianeti: differenze e come proteggerci]]
-- [[20251002-YMiew8pi3rY|Charlie Kirk non è stato ucciso dal Mossad]]
-- [[20170625-ZEkafgKBueE|The Martian - Recensione Scientifica e Filosofica]]
-- [[20221103-Js5YHMGfOog|Come si sono evoluti i Mammiferi?]]
-- [[20260705-r0jBKMVQ8ns|La Filosofia degli UFO]]
-- [[20260801-2cO_ZHBv0PU|Gli animali domestici non fanno calare la fecondità]]
-- [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]

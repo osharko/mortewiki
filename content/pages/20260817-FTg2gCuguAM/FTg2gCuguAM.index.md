@@ -10,19 +10,20 @@ view_count: "5560"
 like_count: "418"
 comment_count: "58"
 playlist_index: "0"
-tags: ["dibattimi", "dibattere", "dialoghi", "campanella", "correzione", "smart"]
-related: ["20220617-BnQxbITAEzo", "20241217-H-pJejZ4-gc", "20160326-Nf_8ZtbE8Fg", "20180810-x1o77SHOTGg", "20191215-vcDoZL772FU", "8lc4d7f8Gr4"]
+tags: ["cambiare idea", "dibattimi dibattimi", "suona campanella", "terra piatta", "spiegato livello", "dibattimi"]
+related: ["20190609-9VIV0m7fHDU", "20241219-i54WXMtB0jw", "20241013-Do1d9XuxBHQ", "20250327-nQOcs5YoGTs", "20250129-5JUX_EoZ5vc", "20250731-XIlLT3W6iGo"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Socrates#/media/File:UWASocrates_gobeirne_cropped.jpg"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220617-BnQxbITAEzo|La Filosofia di Watch Dogs]]
-- [[20241217-H-pJejZ4-gc|Critica ai Debatebros]]
-- [[20160326-Nf_8ZtbE8Fg|Ex Machina - Analisi e Recensione]]
-- [[20180810-x1o77SHOTGg|Giordano Bruno e Galileo Galilei - #Filosofia 12]]
-- [[20191215-vcDoZL772FU|Mindmaze - Creepypasta 130]]
-- [[8lc4d7f8Gr4|Dialoghi Politico-Filosofici]]
+- [[20190609-9VIV0m7fHDU|Perché Roberto Burioni ha ragione sui vaccini]]
+- [[20241219-i54WXMtB0jw|Bias e Bambini - Come nasce l'istinto del gregge]]
+- [[20241013-Do1d9XuxBHQ|Come salvare i complottisti?]]
+- [[20250327-nQOcs5YoGTs|Avversari: finché civili, utili]]
+- [[20250129-5JUX_EoZ5vc|Dici solo Ovvietà]]
+- [[20250731-XIlLT3W6iGo|Fallacia Tu Quoque]]

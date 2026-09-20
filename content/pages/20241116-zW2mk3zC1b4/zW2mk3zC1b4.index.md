@@ -10,10 +10,11 @@ view_count: "5405"
 like_count: "488"
 comment_count: "29"
 playlist_index: "0"
-tags: ["nintendo", "pocket", "palw", "pair", "querela", "sony"]
-related: ["20251114-uznIlHcFInI", "20250828-gUXRvczylOM", "20190912-sX777AyfxsI", "20250524-zSGQoSrx00A", "20250922-8onAikE00Dc", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20240614-tlrMiE7BzRY", "20260705-jcu-Hvbspu4", "20250413-Y0jMmKLzDWk"]
+tags: ["nintendo", "pocket pair", "aziende giapponesi", "resto mondo", "pocket", "vendite giappone"]
+related: ["20251114-uznIlHcFInI", "20250828-gUXRvczylOM", "20250524-zSGQoSrx00A", "20190912-sX777AyfxsI", "20250922-8onAikE00Dc", "20250413-Y0jMmKLzDWk", "20250925-E8sntLiSt58", "20241028-fUXftWJQcY0", "20251218-NOr_HttEIfg", "20240614-tlrMiE7BzRY"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,11 +22,11 @@ embeddable: "1"
 ## Correlati
 - [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
 - [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
 - [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
 - [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
-- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
-- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
 - [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
+- [[20250925-E8sntLiSt58|Quel periodo pazzurdo dei videogiochi negli anni 90]]
+- [[20241028-fUXftWJQcY0|NINTENDO è stata BECCATA a usare EMULATORI]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
+- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]

@@ -10,22 +10,16 @@ view_count: "12786"
 like_count: "1037"
 comment_count: "141"
 playlist_index: "0"
-tags: ["rinascere", "canada", "riparliamo", "australia", "sottigliezze", "tamponiamo"]
-related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20250501-2IzWuf8zSQ0", "20250111-xNtUS7w_P74", "20260904-yywIbRjSk6Q", "20250122-bGO8tBip2M4", "20260602-9FjDbnaB3iw", "20260915-KTl0cODi8Mc", "20250321-AviBBQdQqYU", "20260113-TIsMYWmys5c"]
+tags: ["secondo mondo", "mondo secondo", "mondo però", "quei paesi", "vuoi mettere", "nord america"]
+related: ["20250517-RntUE-9cBtw", "20260323-QJOB3UzWnxw", "20260810-4UK4GwqjTVk"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
-- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
-- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
-- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
-- [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
-- [[20260602-9FjDbnaB3iw|Cuba nell'UE? No.]]
-- [[20260915-KTl0cODi8Mc|A Billion Lies: Nucleare divinizzato (Parte 4)]]
-- [[20250321-AviBBQdQqYU|Gli USA si stanno incattivendo....]]
-- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
+- [[20250517-RntUE-9cBtw|Il problema degli Speedsters]]
+- [[20260323-QJOB3UzWnxw|Vendetta - Creepypasta 269]]
+- [[20260810-4UK4GwqjTVk|Ho provato a fare la Polenta (due volte)]]

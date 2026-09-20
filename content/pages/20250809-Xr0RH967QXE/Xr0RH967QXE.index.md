@@ -10,13 +10,12 @@ view_count: "6923"
 like_count: "597"
 comment_count: "26"
 playlist_index: "0"
-tags: ["varietà", "gusti", "predicati", "diversità", "noia", "estremisti"]
-related: ["20231008-5odTHJBjXAQ"]
+tags: ["varietà opinione", "varietà", "esiste esiste", "verità casi", "varietà opinioni", "predicati partono"]
 video_type: "video"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20231008-5odTHJBjXAQ|IMMORTALITÀ - Creepypasta 213]]

@@ -10,22 +10,22 @@ view_count: "8114"
 like_count: "618"
 comment_count: "48"
 playlist_index: "0"
-tags: ["asimov", "cellulare", "alexa", "comprarti", "bolla", "neurosama"]
-related: ["20250727-Fnwa2wg0Xeo", "20150517-53-gqWSXWMY", "20230306-PS2hrmHFfFk", "20251226-QnyN0B_5_44", "20230208-A-E1gjmpPY4", "20230820-dc2sxhkBznE", "20160710-rWe7s3T8DLE", "20190120-vpQb690Bbpw", "20181202-qujZuGxkxDM", "20170205-tkLolnjt_L4"]
+tags: ["robot robot", "aziende tabacco", "realtà virtuale", "asimov", "cioè robot", "idea robot"]
+related: ["20220801-H5H7tojTcHk", "20220730-tWfSji3EySc", "20250415-88ahxSeQh9E", "20250725-pJN6S2T2E6E", "20201212-Xn2y3dOgAV0", "20201216-SeA459I2b60", "20180304--9Y-nkCO6QE", "20210818-YVU4iMRqk60", "20230813-GAmQbWpuNws"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250727-Fnwa2wg0Xeo|Flip phones, Dumb phones e gadget retro: false e vere soluzioni per la detox digitale]]
-- [[20150517-53-gqWSXWMY|Autopilota - Riscrittura Horror #1]]
-- [[20230306-PS2hrmHFfFk|La Filosofia di ASIMOV]]
-- [[20251226-QnyN0B_5_44|Sulla Bolla delle AI]]
-- [[20230208-A-E1gjmpPY4|La Filosofia delle Tre Leggi della Robotica]]
-- [[20230820-dc2sxhkBznE|Il MIGLIOR Libro sui VIAGGI NEL TEMPO]]
-- [[20160710-rWe7s3T8DLE|Pokémon Go - Creepypasta #45]]
-- [[20190120-vpQb690Bbpw|La Filosofia di Time of Eve]]
-- [[20181202-qujZuGxkxDM|CHAT con un MORTO - Creepypasta 106]]
-- [[20170205-tkLolnjt_L4|Animatrix: Come si esce da Matrix?]]
+- [[20220801-H5H7tojTcHk|La Filosofia della Realtà Virtuale]]
+- [[20220730-tWfSji3EySc|La Storia della Realtà Virtuale]]
+- [[20250415-88ahxSeQh9E|Lil bro never knew a world without AI 😭]]
+- [[20250725-pJN6S2T2E6E|Esplorare caverne in VR💀]]
+- [[20201212-Xn2y3dOgAV0|La Filosofia di Sword Art Online]]
+- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]
+- [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
+- [[20210818-YVU4iMRqk60|IL VIDEOGIOCO IDEALE]]
+- [[20230813-GAmQbWpuNws|Super Robot - Creepypasta 209]]

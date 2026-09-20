@@ -10,10 +10,11 @@ view_count: "6684"
 like_count: "596"
 comment_count: "78"
 playlist_index: "0"
-tags: ["flash", "superman", "rider", "biancus", "ghost", "autori"]
-related: ["20180805-k5ys4u7jEyg", "20250808-DyitJwo8Akw", "20260517-g3_Sm0wxDlM", "20260327-T8Q4cqHudcs", "20241016-Qkg_xDHA5a8"]
+tags: ["flash", "morte biancus", "ghost rider", "atto secondo", "superman", "vuoi mettere"]
+related: ["20180805-k5ys4u7jEyg", "20250808-DyitJwo8Akw", "20241102-4wC_IKaJAiM", "20260810-4UK4GwqjTVk"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,6 +22,5 @@ embeddable: "1"
 ## Correlati
 - [[20180805-k5ys4u7jEyg|TOP PERSONAGGI PIU' POTENTI MAI ESISTITI]]
 - [[20250808-DyitJwo8Akw|Gli Incredibili ha ispirato Invincible e The Boys?]]
-- [[20260517-g3_Sm0wxDlM|Occhiali 5D - Creepypasta 273]]
-- [[20260327-T8Q4cqHudcs|Io e GTA San Andreas]]
-- [[20241016-Qkg_xDHA5a8|La mortalità dell'Autore (e le opere orfane)]]
+- [[20241102-4wC_IKaJAiM|Se potessi rinascere, quale stato sceglierei come patria?]]
+- [[20260810-4UK4GwqjTVk|Ho provato a fare la Polenta (due volte)]]

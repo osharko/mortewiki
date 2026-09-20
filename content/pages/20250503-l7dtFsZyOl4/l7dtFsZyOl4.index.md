@@ -10,10 +10,11 @@ view_count: "2832"
 like_count: "221"
 comment_count: "32"
 playlist_index: "0"
-tags: ["andreas", "doom", "stranding", "death", "giocato", "giudizi"]
-related: ["20250411-a5vwJrTqH_8", "20251119-bu24P5q5TlU", "20241117-CgUhuFS6Clc", "20260729-I3Hmj6d5Sco", "20190125-EYEZqMR1fm0", "20260726-sDUpiGAqrCo", "20260824-cNYu_H4axOI", "20251221-oGyxS5oGGfk", "20250713-Q8FViTNue0w", "20250810-Cldu7V6BsE0"]
+tags: ["death stranding", "andreas", "livello gameplay", "doom", "stranding", "death"]
+related: ["20250411-a5vwJrTqH_8", "20251119-bu24P5q5TlU", "20241117-CgUhuFS6Clc", "20260503-OCSEyCqD0Ww", "20260824-cNYu_H4axOI", "20251221-oGyxS5oGGfk", "20250810-Cldu7V6BsE0", "20200223-9abSfFYq7dE", "20180708-FU-Eezlk1CA", "20180513-k-x4n5J1RvM"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -22,10 +23,10 @@ embeddable: "1"
 - [[20250411-a5vwJrTqH_8|Annunciato il film di Death Stranding]]
 - [[20251119-bu24P5q5TlU|Sono usciti i candidati dei Game Awards]]
 - [[20241117-CgUhuFS6Clc|Questo video è uscito prima di GTA VI]]
-- [[20260729-I3Hmj6d5Sco|Giochi da giocare prima di morire]]
-- [[20190125-EYEZqMR1fm0|KANT (Lezione completa) - #Filosofia 17]]
-- [[20260726-sDUpiGAqrCo|La maledizione del minutaggio su Steam]]
+- [[20260503-OCSEyCqD0Ww|Perché CAPCOM ha SCONFITTO la KONAMI]]
 - [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
 - [[20251221-oGyxS5oGGfk|I rivali di GTA]]
-- [[20250713-Q8FViTNue0w|GTA V su Commodore 64 - Creepypasta 256]]
 - [[20250810-Cldu7V6BsE0|Alla ricerca di un lost media italiano]]
+- [[20200223-9abSfFYq7dE|Death Note è TORNATO]]
+- [[20180708-FU-Eezlk1CA|Light è uno Shinigami? - Tutti i film e i romanzi di Death Note]]
+- [[20180513-k-x4n5J1RvM|La Filosofia in DEATH NOTE]]

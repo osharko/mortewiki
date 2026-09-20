@@ -10,18 +10,18 @@ view_count: "8789"
 like_count: "667"
 comment_count: "35"
 playlist_index: "0"
-tags: ["pirateria", "piratare", "sfruttamento", "sfruttare", "indie", "pirati"]
-related: ["20250613-KeCRCoD6ofU", "20250708-gD-Sl6jmcwQ", "20250616-_XAkL3efnyo", "20250711-ck1X8AgRBXo", "20260223-yVF2UI0bwaw", "20251123-wsEigdjVEGg"]
+tags: ["lavoro altrui", "pirateria", "piratare", "sfruttare lavoro", "sfruttamento", "tende piratare"]
+related: ["20260630-sqbJ7cUBEbA", "20250708-gD-Sl6jmcwQ", "20250616-_XAkL3efnyo", "20250711-ck1X8AgRBXo", "20260223-yVF2UI0bwaw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250613-KeCRCoD6ofU|Se comprare non è possedere...]]
+- [[20260630-sqbJ7cUBEbA|Le Tasse NON sono un furto]]
 - [[20250708-gD-Sl6jmcwQ|La gente pirata solo per egoismo!!!123stella]]
 - [[20250616-_XAkL3efnyo|Ma la pirateria è illegale]]
 - [[20250711-ck1X8AgRBXo|Piratare è davvero come rubare un'auto?]]
 - [[20260223-yVF2UI0bwaw|Critica allo sfruttamento minorile]]
-- [[20251123-wsEigdjVEGg|Cowboy, Pirata o Samurai?]]

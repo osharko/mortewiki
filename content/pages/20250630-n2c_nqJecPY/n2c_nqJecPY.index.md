@@ -10,22 +10,23 @@ view_count: "16894"
 like_count: "1268"
 comment_count: "124"
 playlist_index: "0"
-tags: ["umiliare", "nobili", "beast", "automobile", "amano", "liberista"]
-related: ["20241115-vtv_wSlYoRo", "20251218-NOr_HttEIfg", "20221023-JzZA6-PtADc", "20260203-xXkaBG2D-lk", "20260223-yVF2UI0bwaw", "20251116-DME61s_RMqE", "20210630-htumkVflUy4", "20241015-prjokmel458", "20260309-QT-nQXh1xuM", "20260525-NKYI2Uo7448"]
+tags: ["umiliare poveri", "primi nobili", "cuore faccia", "soldi hanno", "luigi mangione", "elon musk"]
+related: ["20250201-2ttk_41Im-A", "20231015-2n3YvIxIAGE", "20240107-XGom_Cer7mw", "20250920-JgFUDInERkU", "20260304-FTDRaTnL7D0", "20241101-Mz4vhvNZIew", "20250105-lRQi4qp8aHI", "20230607-U6lYXM40OOE", "20240906-SCq2YmIAcPY", "20250824-7L7PlAD1RFg"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20241115-vtv_wSlYoRo|Critica all'opulenza]]
-- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
-- [[20221023-JzZA6-PtADc|Ivan il TERRIBILE - Creepypasta 192]]
-- [[20260203-xXkaBG2D-lk|Perché i ricchi si comportano come aristocratici?]]
-- [[20260223-yVF2UI0bwaw|Critica allo sfruttamento minorile]]
-- [[20251116-DME61s_RMqE|Non possiamo definirci Liberali]]
-- [[20210630-htumkVflUy4|Quello che non vi dicono sul Feudalesimo]]
-- [[20241015-prjokmel458|Alle radici della Decadenza italiana]]
-- [[20260309-QT-nQXh1xuM|Sulla monarchia giapponese e il suo futuro]]
-- [[20260525-NKYI2Uo7448|Protezionismo? No, grazie!]]
+- [[20250201-2ttk_41Im-A|Se ti piace Luigi Mangione sei rassista]]
+- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
+- [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
+- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
+- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
+- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
+- [[20250105-lRQi4qp8aHI|IL LATO OSCURO DI ELON MUSK]]
+- [[20230607-U6lYXM40OOE|La Vendetta di ELON MUSK]]
+- [[20240906-SCq2YmIAcPY|ELON MUSK SENZA FRENI!]]
+- [[20250824-7L7PlAD1RFg|Il Tecnofeudalesimo di PALANTIR]]

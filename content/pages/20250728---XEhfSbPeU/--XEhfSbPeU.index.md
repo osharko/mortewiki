@@ -10,11 +10,12 @@ view_count: "6781"
 like_count: "519"
 comment_count: "23"
 playlist_index: "0"
-tags: ["francesco", "leone", "prevost", "gesuiti", "agostiniani", "sperano"]
-related: ["20250509-_b6UTmUr-IU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20241026-3EAwhA0DQ4E"]
+tags: ["francesco", "leone", "papa conservatore", "prevost", "leone papa", "giovanni paolo"]
+related: ["20250509-_b6UTmUr-IU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20250810-pYMCG4rvUhE"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Pope_Leo_XIV#/media/File:Pope_Leo_XIV_on_the_loggia.jpg"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -29,4 +30,4 @@ embeddable: "1"
 - [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
 - [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
 - [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
-- [[20241026-3EAwhA0DQ4E|Papa Francesco dichiara TUTTE le religioni strade verso Dio]]
+- [[20250810-pYMCG4rvUhE|Zombie al Comic - Creepypasta 257]]

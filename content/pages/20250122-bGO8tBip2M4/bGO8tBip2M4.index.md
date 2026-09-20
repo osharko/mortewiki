@@ -10,10 +10,11 @@ view_count: "14230"
 like_count: "1098"
 comment_count: "63"
 playlist_index: "0"
-tags: ["groenlandia", "canada", "nativi", "danimarca", "canadesi", "tromba"]
-related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20260904-yywIbRjSk6Q", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20250501-2IzWuf8zSQ0", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250111-xNtUS7w_P74"]
+tags: ["groenlandia", "canada", "nativi", "hanno bisogno", "danimarca", "aumentato truppe"]
+related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250501-2IzWuf8zSQ0", "20250111-xNtUS7w_P74", "20231010-h4l1OY2BR60"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -21,11 +22,11 @@ embeddable: "1"
 ## Correlati
 - [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
 - [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
 - [[20260117-tspT5RQPpm4|Gli USA vincerebbero facile in Groenlandia No.]]
 - [[20210613-KiVbe8DLOJc|Groenlandia: capitale dei Suicidi - Creepypasta 164]]
-- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
 - [[20260110-dn34OVusXx0|La risposta adeguata a Trump sulla Groenlandia]]
 - [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
 - [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
+- [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
 - [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
+- [[20231010-h4l1OY2BR60|STORIA AMERICANA 1: LE ORIGINI]]

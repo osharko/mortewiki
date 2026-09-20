@@ -10,15 +10,16 @@ view_count: "41690"
 like_count: "2122"
 comment_count: "108"
 playlist_index: "0"
-tags: ["fasci", "based", "ragazzini", "nazi", "loli", "crescono"]
-related: ["20260131-o6_KWpsqVGc", "20210919-AsrzSYG9Tt0", "20241126-EDsndAR9hjM"]
+tags: ["fasci", "based based", "little dark", "blue checkmark", "based", "devi guardare"]
+related: ["20250128-dO092738ZNk", "20231015-2n3YvIxIAGE", "20241220-hBpJYO0OJz0"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260131-o6_KWpsqVGc|Se critichi i liberali sei anti-democratico]]
-- [[20210919-AsrzSYG9Tt0|Viaggio tra i PEDOFILI del DEEP WEB]]
-- [[20241126-EDsndAR9hjM|Il mio youtuber preferito va in pensione]]
+- [[20250128-dO092738ZNk|Cina: vuota opulenza, futuro apofantico]]
+- [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
+- [[20241220-hBpJYO0OJz0|L'Impronta digitale che lasciamo sul web dopo la morte]]

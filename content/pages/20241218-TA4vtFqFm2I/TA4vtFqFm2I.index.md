@@ -10,13 +10,14 @@ view_count: "9363"
 like_count: "801"
 comment_count: "73"
 playlist_index: "0"
-tags: ["muscoli", "trucco", "palestra", "pushup", "piastra", "lavi"]
-related: ["20240709-loNPQlRlQcc"]
+tags: ["muscoli muscoli", "stai cambiando", "rendere illegale", "oppure oppure", "muscoli", "pettinarsi capelli"]
+related: ["20250218-5Ob-ztS22Zs"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240709-loNPQlRlQcc|RUGGINE - CREEPYPASTA 231]]
+- [[20250218-5Ob-ztS22Zs|Bazinga :^)]]

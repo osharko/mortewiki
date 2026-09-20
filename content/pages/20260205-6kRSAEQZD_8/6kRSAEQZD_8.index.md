@@ -10,22 +10,23 @@ view_count: "6084"
 like_count: "480"
 comment_count: "33"
 playlist_index: "0"
-tags: ["purgatorio", "limbo", "dante", "demoni", "finisci", "angeli"]
-related: ["20240218-nCh9NAjg-MA", "20220424-BMiz0RBPros", "20240419-_YTmJeg43MY", "20251021-a9GMGUzHVac", "20260410-7kqYnIHd-4s", "20180921-uzmkwQSzip8", "20170716-kgarwsIMhJ8", "20210216-4JHKOKU8mD0", "20190825-_goj9ecJkwE", "20251002-ibfyhR6UGz0"]
+tags: ["purgatorio", "limbo", "dante", "demoni", "purgatorio posto", "film theorist"]
+related: ["20220424-BMiz0RBPros", "20240218-nCh9NAjg-MA", "20251021-a9GMGUzHVac", "20180921-uzmkwQSzip8", "20161204-638Dp6-PyPs", "20170716-kgarwsIMhJ8", "20260410-7kqYnIHd-4s", "20260624-zDjNf1fEYWQ", "20250525-ouCk8QQ4Zos", "20150919-9MJLLFFKwVs"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
 - [[20220424-BMiz0RBPros|La Filosofia di Promised Neverland]]
-- [[20240419-_YTmJeg43MY|Tutti gli Angeli Biblicamente Accurati]]
+- [[20240218-nCh9NAjg-MA|LA FILOSOFIA DI HAZBIN HOTEL]]
 - [[20251021-a9GMGUzHVac|La Filosofia di FRIEREN]]
-- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
 - [[20180921-uzmkwQSzip8|La Filosofia di Limbo e Inside]]
+- [[20161204-638Dp6-PyPs|Non c'è nessuna Matrix dentro Matrix Risposta a Film Theorist]]
 - [[20170716-kgarwsIMhJ8|Il Monaco - Creepypasta #70]]
-- [[20210216-4JHKOKU8mD0|La Filosofia di INCEPTION - Spiegazione del finale]]
-- [[20190825-_goj9ecJkwE|La Storia di EVANGELION]]
-- [[20251002-ibfyhR6UGz0|Capitalismo e Solitudine Liminale]]
+- [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
+- [[20260624-zDjNf1fEYWQ|NO ad un sequel di Amazing Digital Circus]]
+- [[20250525-ouCk8QQ4Zos|Cosa è umano?]]
+- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]

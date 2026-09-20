@@ -12,11 +12,12 @@ comment_count: "131"
 playlist: "Terzo Ciclo"
 playlist_id: "PLU8-xwslFxH_HvZyo23L4WA3u5R21rRVC"
 playlist_index: "74"
-tags: ["leggo", "cellulare", "telefono", "ambulanza", "vibrazione", "leggendo"]
-related: ["20250727-Fnwa2wg0Xeo", "20150517-53-gqWSXWMY", "20160710-rWe7s3T8DLE", "20150725-_FAu0jmbzf8", "20181202-qujZuGxkxDM", "20251110-fAe9JYU4ScQ", "20160416-_D5aHiwZYj8", "20250420--19Z5epH2fg", "20200410-ONXtJb207Iw", "20201216-SeA459I2b60"]
+tags: ["leggere libro", "prima avevo", "leggo", "cellulare", "sento ignorante", "semplicemente risponde"]
+related: ["20250727-Fnwa2wg0Xeo", "20150517-53-gqWSXWMY", "20160710-rWe7s3T8DLE", "20210506-UC3EGwo3TmA", "20181202-qujZuGxkxDM"]
 video_type: "video"
 description: "TIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#creepypasta #libri\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@DRECON come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@DRECON come editor (anche per Biologia e Fisica)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nSigla Fisica: https://www.instagram.com/hori_music_21/\nSigla Live: https://www.youtube.com/watch?v=liMUF306cHs\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
@@ -25,10 +26,5 @@ embeddable: "1"
 - [[20250727-Fnwa2wg0Xeo|Flip phones, Dumb phones e gadget retro: false e vere soluzioni per la detox digitale]]
 - [[20150517-53-gqWSXWMY|Autopilota - Riscrittura Horror #1]]
 - [[20160710-rWe7s3T8DLE|Pokémon Go - Creepypasta #45]]
-- [[20150725-_FAu0jmbzf8|Il rumore (Concorso THECNOCAOS - Creepypasta #20)]]
+- [[20210506-UC3EGwo3TmA|Il Segreto per leggere tanti libri]]
 - [[20181202-qujZuGxkxDM|CHAT con un MORTO - Creepypasta 106]]
-- [[20251110-fAe9JYU4ScQ|Robot in vendita: conviene?]]
-- [[20160416-_D5aHiwZYj8|Blob (SCP) - Creepypasta #39]]
-- [[20250420--19Z5epH2fg|IL NOZIG - Creepypasta 250]]
-- [[20200410-ONXtJb207Iw|WhatsApp vs Telegram]]
-- [[20201216-SeA459I2b60|Il Futuro dei Videogiochi]]

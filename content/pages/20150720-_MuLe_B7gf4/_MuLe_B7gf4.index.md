@@ -12,17 +12,13 @@ comment_count: "57"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "16"
-tags: ["cantina", "possesso", "abisso", "oscura", "babad", "reprimiamo"]
-related: ["20220319-MHZib7CTmv8", "20230426-H2XBbCXjyIk", "20180923-n6vL4CwKbDQ", "20211127-PJ3UaLjS54E"]
+tags: ["prendere possesso", "serie twisted", "madre cade", "forte vulcano", "fingere esista", "figlio ormai"]
 video_type: "video"
 description: "Recensione di uno dei film horror recenti migliori\nLIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: Haruko Katsura e Alessandro La Calamita\nAutore sigla MORTECUORE: https://soundcloud.com/sigla-studios e Giuliagatta!\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it"
 embeddable: "1"
+qc: 0
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20220319-MHZib7CTmv8|La Filosofia di DEATH STRANDING]]
-- [[20230426-H2XBbCXjyIk|Perché gli Alieni NON vogliono parlare con Noi? - Prima Direttiva]]
-- [[20180923-n6vL4CwKbDQ|APOCALISSE - Creepypasta 101]]
-- [[20211127-PJ3UaLjS54E|Il Confine dell'Universo - Creepypasta 173]]

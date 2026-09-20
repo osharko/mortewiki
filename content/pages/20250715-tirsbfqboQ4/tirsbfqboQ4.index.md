@@ -10,22 +10,23 @@ view_count: "11550"
 like_count: "802"
 comment_count: "27"
 playlist_index: "0"
-tags: ["tarzan", "hardware", "console", "sony", "nintendo", "netflix"]
-related: ["20190912-sX777AyfxsI", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20200509-PIjNe3OByjw", "20251114-uznIlHcFInI", "20260705-jcu-Hvbspu4", "20250413-Y0jMmKLzDWk", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM", "20260907-FHFHHiC4SGU"]
+tags: ["tarzan", "hardware", "console", "single player", "game pass", "stop killing"]
+related: ["20200509-PIjNe3OByjw", "20250730-aK19RnGCLUI", "20250328-ho9q_vbALig", "20250526-yQg5jFVG958", "20251019-1qH9ywYa4Vg", "20260815-LoFSH3Rwa6o", "20220715-qXNF6b6tapc", "20190912-sX777AyfxsI", "20231001-DJ00uo8ipB0", "20250302-_Zx7FzBT12s"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
-- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
 - [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
-- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20260907-FHFHHiC4SGU|Kingdom Hearts 4 arriva su PC: la dittatura Sony è morta]]
+- [[20250730-aK19RnGCLUI|Critica a ZEB89]]
+- [[20250328-ho9q_vbALig|Portatile vs Fisso]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20220715-qXNF6b6tapc|La Filosofia di Mulan (ft Violetta Rocks)]]
+- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
+- [[20231001-DJ00uo8ipB0|Obsolescenza Programmata e Preservazione Videoludica]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]

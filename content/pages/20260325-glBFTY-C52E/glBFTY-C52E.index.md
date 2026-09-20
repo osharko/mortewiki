@@ -10,22 +10,23 @@ view_count: "12630"
 like_count: "1171"
 comment_count: "179"
 playlist_index: "0"
-tags: ["referendum", "meloni", "addio", "dufer", "pietro", "centrosinistra"]
-related: ["20250726-a3iKGKd1cTs", "20260619-y8-CUN5JYss", "20260211-e_4mA45o-XU", "20260531-FhFS6ryUvwo", "20250304-vOGnydyQbA8", "20260313-ynkTjz44iKc", "20260401-mKs1xn6jT80", "20260128-Px2StNHILS8", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk"]
+tags: ["referendum", "dufer ciao", "governo meloni", "quanto cazzo", "meloni", "ciao dufer"]
+related: ["20260619-y8-CUN5JYss", "20260531-FhFS6ryUvwo", "20260601-MiG7c6YOOgE", "20260402-VGpKEL1s_6M", "20250304-vOGnydyQbA8", "20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20260916-Ijw-qfE4jU8"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250726-a3iKGKd1cTs|Il PEGGIOR video sull'IRAN che io abbia MAI visto]]
 - [[20260619-y8-CUN5JYss|Vannacci: ingigantito dai media]]
-- [[20260211-e_4mA45o-XU|Rick DuFer mi insulta e prevede il futuro: smentiamolo con i dati]]
 - [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
+- [[20260601-MiG7c6YOOgE|Europa invertita: occidente di destra, oriente di sinistra?]]
+- [[20260402-VGpKEL1s_6M|Elezioni anticipate? Parliamone!]]
 - [[20250304-vOGnydyQbA8|Meloni e Nucleare: tutti i problemi del DDL]]
-- [[20260313-ynkTjz44iKc|Rick DuFer torna su Israele (citando Einstein e rispondendo a Wesa)]]
-- [[20260401-mKs1xn6jT80|Apologia di Rick DuFer]]
-- [[20260128-Px2StNHILS8|Rick DuFer contro il Femminismo?]]
 - [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
 - [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
+- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
+- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
+- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]

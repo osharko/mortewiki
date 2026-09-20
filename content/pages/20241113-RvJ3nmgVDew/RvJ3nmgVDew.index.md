@@ -10,23 +10,22 @@ view_count: "13431"
 like_count: "1078"
 comment_count: "41"
 playlist_index: "0"
-tags: ["biden", "harris", "clinton", "camala", "sondaggi", "obama"]
-related: ["20260718-lb-p2fknQ9g", "20241101-Mz4vhvNZIew", "20241106-OPbxvJJtkhc", "20250206-HiRzQUZUhHY", "20260116-dCXWngTaYCU", "20250125-LBWoXAkM6nM", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY", "20250720-V5Pgf1-qvXc", "20251105-LafzJEe-BFA"]
+tags: ["biden", "camala harris", "harris", "democratici hanno", "clinton", "camala"]
+related: ["20241106-OPbxvJJtkhc", "20241101-Mz4vhvNZIew", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY", "20250206-HiRzQUZUhHY", "20250125-LBWoXAkM6nM"]
 video_type: "video"
 description: "Fonte immagine:\nhttps://en.wikipedia.org/wiki/Joe_Biden#/media/File:Biden_rally_at_Bowie_State_University_(52485660899).jpg"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
-- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
 - [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
-- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
+- [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
+- [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
 - [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
-- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]
 - [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]
 - [[20240714-HMY-2X-G1CY|Hanno SPARATO a TRUMP]]
-- [[20250720-V5Pgf1-qvXc|AOC ha sbagliato]]
-- [[20251105-LafzJEe-BFA|Zohran Mamdani NON è di destra]]
+- [[20250206-HiRzQUZUhHY|STORIA AMERICANA 5: da BUSH a OBAMA]]
+- [[20250125-LBWoXAkM6nM|Trump vuole 3 mandati (ma non per Obama)]]

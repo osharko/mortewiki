@@ -10,22 +10,20 @@ view_count: "4830"
 like_count: "468"
 comment_count: "87"
 playlist_index: "0"
-tags: ["gamecube", "dragon", "ball", "playstation", "nintendo", "dinotopia"]
-related: ["20190912-sX777AyfxsI", "20251114-uznIlHcFInI", "20250922-8onAikE00Dc", "20250828-gUXRvczylOM", "20260815-LoFSH3Rwa6o", "20250526-yQg5jFVG958", "20250524-zSGQoSrx00A", "20250413-Y0jMmKLzDWk", "20241116-zW2mk3zC1b4", "20260705-jcu-Hvbspu4"]
+tags: ["dragon ball", "gioco madagascar", "ragazzi periodo", "follie imperatore", "dark souls", "erano fatti"]
+related: ["20220717-XO4grJsda3s", "20231106-Py7BT1UUBlI", "20241216-FZMb6bpUTBc", "20260404-k1nBoGeq5M0", "20220923-H8h0Gn2CiHI", "20180805-k5ys4u7jEyg", "20241205-tgSrJakGRWc"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
-- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
-- [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
-- [[20260705-jcu-Hvbspu4|Sony ha DISTRUTTO i suoi fan (che ancora la difendono)]]
+- [[20220717-XO4grJsda3s|La mia Storia con gli Anime]]
+- [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
+- [[20241216-FZMb6bpUTBc|Può un ANIME cambiare il FINALE del Manga?]]
+- [[20260404-k1nBoGeq5M0|Quando gli anime ritornano alle loro origini]]
+- [[20220923-H8h0Gn2CiHI|Le Follie dell'Imperatore (ft Mr Marra)]]
+- [[20180805-k5ys4u7jEyg|TOP PERSONAGGI PIU' POTENTI MAI ESISTITI]]
+- [[20241205-tgSrJakGRWc|Speciazione nella fiction (Vulcaniani, Saiyan, Kriptoniani, Vitruviani, Chiss ecc...)]]

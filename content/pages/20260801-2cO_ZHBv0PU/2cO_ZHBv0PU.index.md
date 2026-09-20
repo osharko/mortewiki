@@ -10,22 +10,21 @@ view_count: "4901"
 like_count: "317"
 comment_count: "45"
 playlist_index: "0"
-tags: ["domestici", "gatti", "pesci", "cuccioli", "francesco", "soluzioni"]
-related: ["20260222-o4g3i77N5gA", "20260118-09GJuFH7_9Y", "20250728---XEhfSbPeU", "20250509-sAJrhWaZLsA", "20250509-_b6UTmUr-IU", "20240406-nJUdEfU0bmA", "20250512-0SKFJ4OIT0Q", "20260712-NjN9WtiW5BE", "20210711-2TVzWSugVPo", "20251113-cvAoFlFBZA4"]
+tags: ["animali domestici", "domestici", "cani gatti", "welfare queen", "esatto contrario", "gatti"]
+related: ["20210213--iQV987leWs", "20240221-LLNdc8FUPQc", "20210106-QaIeDaI6mFU", "20250716-nZdj5jJ9UpQ", "20210519-1RK93CbCktw", "20251023-FTJnzuIHU3U", "20260825-e9Bts9SU3CM", "20260508-LAuCrb2qyQw"]
 video_type: "video"
 embeddable: "1"
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260222-o4g3i77N5gA|Le Balene non sono pesci - Dimostrazione scientifica-logica-linguistica]]
-- [[20260118-09GJuFH7_9Y|I Pesci - Creepypasta 265]]
-- [[20250728---XEhfSbPeU|Sui confronti (inutili) tra Francesco e Leone XIV]]
-- [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
-- [[20240406-nJUdEfU0bmA|La Filosofia di NEMO e DORY]]
-- [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
-- [[20260712-NjN9WtiW5BE|Sono spariti i pesci - Creepypasta 275]]
-- [[20210711-2TVzWSugVPo|La Maledizione dell'Acquario - #Creepypasta 32]]
-- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
+- [[20210213--iQV987leWs|La Filosofia della Bella Addormentata]]
+- [[20240221-LLNdc8FUPQc|L’UNICO SEQUEL mai prodotto dallo Studio GHIBILI]]
+- [[20210106-QaIeDaI6mFU|La Filosofia dell'Animalismo]]
+- [[20250716-nZdj5jJ9UpQ|Lo Squalo]]
+- [[20210519-1RK93CbCktw|La Filosofia del Libro della Giungla]]
+- [[20251023-FTJnzuIHU3U|Lackadaisy: della furrica filosofia]]
+- [[20260825-e9Bts9SU3CM|La Filosofia di Mary e il Fiore della Strega]]
+- [[20260508-LAuCrb2qyQw|Rispondo a 4 critiche diverse]]
