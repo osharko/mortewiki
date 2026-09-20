@@ -8,3 +8,6 @@ __pycache__/
 
 # transcripts: generati dal sync, non committati
 content/transcripts/*.json
+
+# thumbnails: generate dal sync, non committate
+content/pages/*/thumbnail.jpg
