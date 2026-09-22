@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250204"
 duration: "807"
 duration_string: "13:27"
-view_count: "6810"
+view_count: "6811"
 like_count: "669"
 comment_count: "54"
 playlist_index: "0"
-tags: ["netflix", "crunch roll", "vedilo investimento", "netflix disney", "vita privata", "video video"]
-related: ["20230514-i7fzBJOAhs8", "20260419-t1XibxHwYlM", "20241010-WTiVb0TfKIY", "20260822--Cpqd4lD0iQ", "20250225-jmZ_5QzdFHM", "20230930-UjzUn5-as24", "20250315-PhnD0RMTryU", "20210411-Po-nnJdlaPI", "20250322-gb7Hp_-HMlg", "20260810-4UK4GwqjTVk"]
+tags: ["crunch roll", "vedilo investimento", "netflix disney", "vita privata", "video video", "investimento"]
+related: ["20250322-gb7Hp_-HMlg", "20260810-4UK4GwqjTVk", "20251112-R5TE_4z-dYg"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,6 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20230514-i7fzBJOAhs8|Chi vincerà la Guerra dello Streaming?]]
-- [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
-- [[20241010-WTiVb0TfKIY|The Amazing Digital Circus sbarca su Netflix]]
-- [[20260822--Cpqd4lD0iQ|You will own NOTHING and be happy]]
-- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
-- [[20230930-UjzUn5-as24|BLACK MIRROR è MORTO]]
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20210411-Po-nnJdlaPI|La Filosofia di Cuties (Non c'è)]]
 - [[20250322-gb7Hp_-HMlg|Non voglio entrare in politica]]
 - [[20260810-4UK4GwqjTVk|Ho provato a fare la Polenta (due volte)]]
+- [[20251112-R5TE_4z-dYg|TI STO FIDELIZZANDO]]

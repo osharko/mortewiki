@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260119"
 duration: "1133"
 duration_string: "18:53"
-view_count: "12500"
+view_count: "12504"
 like_count: "927"
 comment_count: "78"
 playlist_index: "0"
 tags: ["voglio morire", "groenlandia", "dichiarare guerra", "lucca", "invadi lucca", "parlato leva"]
-related: ["20250122-bGO8tBip2M4", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I"]
+related: ["20250122-bGO8tBip2M4", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260107-4eBHZVUuroo"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,3 +25,4 @@ qc: 100
 - [[20210613-KiVbe8DLOJc|Groenlandia: capitale dei Suicidi - Creepypasta 164]]
 - [[20260110-dn34OVusXx0|La risposta adeguata a Trump sulla Groenlandia]]
 - [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
+- [[20260107-4eBHZVUuroo|Mattone per mattone, ricostruiamo la routine]]

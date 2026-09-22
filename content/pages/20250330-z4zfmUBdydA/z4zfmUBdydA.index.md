@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250330"
 duration: "1614"
 duration_string: "26:54"
-view_count: "10830"
+view_count: "10834"
 like_count: "785"
 comment_count: "70"
 playlist_index: "0"
-tags: ["tecnica tradizionale", "schema ponzi", "proseguire infinito", "artista", "quella risorsa", "puoi proseguire"]
+tags: ["tecnica tradizionale", "schema ponzi", "proseguire infinito", "artista", "quella risorsa", "vengono prodotte"]
 related: ["20240410-SjpVk87JhtA", "20260503-SZBocEbdQao", "20241001-znzWEeJ4g58", "20260217-eIxdxVfrj_g"]
 video_type: "video"
 embeddable: "1"

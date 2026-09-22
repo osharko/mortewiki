@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241010"
 duration: "1062"
 duration_string: "17:42"
-view_count: "6353"
+view_count: "6361"
 like_count: "608"
 comment_count: "51"
 playlist_index: "0"
-tags: ["netflix", "influencer", "digital circus", "visto influencer", "nata internet", "netflix netflix"]
-related: ["20260419-t1XibxHwYlM", "20230514-i7fzBJOAhs8", "20260822--Cpqd4lD0iQ", "20250225-jmZ_5QzdFHM", "20230930-UjzUn5-as24", "20250315-PhnD0RMTryU", "20210411-Po-nnJdlaPI", "20240613-pdWbSqIA2-c", "20250204-7yB3loP15w4", "20260111-fGc-jpcK4TQ"]
+tags: ["influencer", "digital circus", "visto influencer", "nata internet", "netflix netflix", "prime stagioni"]
+related: ["20260419-t1XibxHwYlM", "20240613-pdWbSqIA2-c", "20260111-fGc-jpcK4TQ", "20260421-eEkT449Qi-k", "20260611-OXzKEH_S86M", "20251124-avrmErwu0Tk", "20240713-93hBvl3hhm4", "20260612-zwli8h_OjzU", "20200411-dg3rHUhFE0M", "20250930-mtacieae1RY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,12 +21,12 @@ qc: 100
 
 ## Correlati
 - [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
-- [[20230514-i7fzBJOAhs8|Chi vincerà la Guerra dello Streaming?]]
-- [[20260822--Cpqd4lD0iQ|You will own NOTHING and be happy]]
-- [[20250225-jmZ_5QzdFHM|Ancora domande, ancora risposte]]
-- [[20230930-UjzUn5-as24|BLACK MIRROR è MORTO]]
-- [[20250315-PhnD0RMTryU|Black Mirror 7, ovvero perché ci serve un Netflix pubblico (Europeo)]]
-- [[20210411-Po-nnJdlaPI|La Filosofia di Cuties (Non c'è)]]
 - [[20240613-pdWbSqIA2-c|La Filosofia di AMAZING DIGITAL CIRCUS]]
-- [[20250204-7yB3loP15w4|E' solo un piccolo investimento]]
 - [[20260111-fGc-jpcK4TQ|Spiegazione dell'Amazing Digital Circus]]
+- [[20260421-eEkT449Qi-k|L'Assurdismo di Amazing Digital Circus]]
+- [[20260611-OXzKEH_S86M|Amazing Digital Circus - Spiegazione del Finale]]
+- [[20251124-avrmErwu0Tk|Idolatria portami via]]
+- [[20240713-93hBvl3hhm4|Il POTERE di un iscritto - Speciale 1000 video]]
+- [[20260612-zwli8h_OjzU|Amazing Digital Circus agli Oscar?]]
+- [[20200411-dg3rHUhFE0M|La Casa di Carta 4 (Ft Victorlaszlo88)]]
+- [[20250930-mtacieae1RY|La Filosofia di GUINEVERE]]

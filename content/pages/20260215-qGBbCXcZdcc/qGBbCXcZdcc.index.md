@@ -8,7 +8,7 @@ duration: "830"
 duration_string: "13:50"
 view_count: "12200"
 like_count: "916"
-comment_count: "96"
+comment_count: "95"
 playlist_index: "0"
 tags: ["cibo marito", "empatia", "commenti erano", "detto forse", "stragrande maggioranza", "tipo umanità"]
 related: ["20250126-VGNHmmeqgnk", "20250917-KI_QI--vGJI", "20251120-7G4PLAQzq08"]

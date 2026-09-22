@@ -13,7 +13,7 @@ playlist: "Parodie e altro :D"
 playlist_id: "PLU8-xwslFxH8rRTf-0vmhb69xV2D23ooP"
 playlist_index: "13"
 tags: ["ciao ciao", "zitto monache", "york once", "verdi super", "vede macchiolina", "urlando facciamo"]
-related: ["20180923-n6vL4CwKbDQ", "20190614-rRKVpIqsmH4", "20190924-UKVj44aqHI4", "20210926-oSYpFlRQFCM"]
+related: ["20180923-n6vL4CwKbDQ", "20190614-rRKVpIqsmH4", "20190924-UKVj44aqHI4", "20210926-oSYpFlRQFCM", "20251029-EEx7m3Vue4A"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nAnche su Amazon: https://amzn.to/30h2PSm\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\n#Meme #Creepypasta\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind"
 embeddable: "1"
@@ -27,3 +27,4 @@ qc: 100
 - [[20190614-rRKVpIqsmH4|Live Segreta (Non ditelo a nessuno)]]
 - [[20190924-UKVj44aqHI4|Live così, de botto, senza senso]]
 - [[20210926-oSYpFlRQFCM|LIVE noi da soli]]
+- [[20251029-EEx7m3Vue4A|Silenzio occidentalista, Mortebianca è in live]]

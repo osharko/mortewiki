@@ -11,7 +11,7 @@ like_count: "688"
 comment_count: "19"
 playlist_index: "0"
 tags: ["vogliamo parlare", "tifo calcistico", "corea nord", "occidentali", "grande successo", "arabia saudita"]
-related: ["20260510-Q7fFKhfNJLI", "20251118-Q5fHdhvoM7Y", "20241206-_j4XwppAZH0", "20240107-XGom_Cer7mw", "20250325-Rk9BX3mfdGg", "20200214-tTn5HGIeQww", "20250502-Z14pdE-Kq7g", "20220920-DaxRYD7Dn20", "20241011-Vv4V510t0u8", "20250401-7Vm3DBfOhnI"]
+related: ["20260510-Q7fFKhfNJLI", "20251118-Q5fHdhvoM7Y", "20241203-ZXBlTI6FqKc", "20241206-_j4XwppAZH0", "20240107-XGom_Cer7mw", "20250325-Rk9BX3mfdGg", "20200214-tTn5HGIeQww", "20250502-Z14pdE-Kq7g", "20220920-DaxRYD7Dn20", "20241011-Vv4V510t0u8"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,6 +22,7 @@ qc: 100
 ## Correlati
 - [[20260510-Q7fFKhfNJLI|La Corea del Nord non punta più alla riunificazione?]]
 - [[20251118-Q5fHdhvoM7Y|Perché il Medio Oriente è così?]]
+- [[20241203-ZXBlTI6FqKc|La Corea è impazzuta regaz]]
 - [[20241206-_j4XwppAZH0|Critica al BRICS]]
 - [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
 - [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
@@ -29,4 +30,3 @@ qc: 100
 - [[20250502-Z14pdE-Kq7g|IL MIGLIOR FILM… che voi non potrete MAI guardare]]
 - [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
 - [[20241011-Vv4V510t0u8|Israele UMILIA l'Italia (e noi zitti, a quanto pare)]]
-- [[20250401-7Vm3DBfOhnI|Se ti piace vuol dire che lo voti!]]

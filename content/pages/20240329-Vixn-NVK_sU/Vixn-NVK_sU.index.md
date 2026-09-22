@@ -10,8 +10,8 @@ view_count: "299"
 like_count: "24"
 comment_count: "0"
 playlist_index: "0"
-tags: ["star trek", "spock", "trek", "nave", "ricerca spock", "prossimo film"]
-related: ["20240320-1LdmwqQKSt4", "20240321-WCsJqKLfJkE", "20240403-NtZdQrwR_4A", "20240410-z93RPNkyeFA", "20240418-8Wk2915vtbQ", "20241205-tgSrJakGRWc", "20250219-zsclBvW_Exk", "20230305-SqnpWqRn380", "20250205-64Kfg0zlcYQ"]
+tags: ["star trek", "spock", "trek", "ricerca spock", "prossimo film", "star wars"]
+related: ["20240320-1LdmwqQKSt4", "20240321-WCsJqKLfJkE", "20240403-NtZdQrwR_4A", "20240410-z93RPNkyeFA", "20240418-8Wk2915vtbQ", "20250715-dOs_nnDcbaM", "20241205-tgSrJakGRWc", "20200112-YsAW-FWmH60", "20250303-Vzoc_dfB4d4", "20180510-vqBxrHtQ_FU"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,7 +25,8 @@ qc: 100
 - [[20240403-NtZdQrwR_4A|Rotta verso la Terra (Watchparty con Libri in Pillole)]]
 - [[20240410-z93RPNkyeFA|Star Trek Ultima Frontiera (Watchparty con Libri in Pillole)]]
 - [[20240418-8Wk2915vtbQ|L'Ultimo film di Star Trek (Watchparty con Libri in Pillole)]]
+- [[20250715-dOs_nnDcbaM|Live in cui si sta meglio]]
 - [[20241205-tgSrJakGRWc|Speciazione nella fiction (Vulcaniani, Saiyan, Kriptoniani, Vitruviani, Chiss ecc...)]]
-- [[20250219-zsclBvW_Exk|La Filosofia di WALL•E]]
-- [[20230305-SqnpWqRn380|La Filosofia di CYBERPUNK 2077]]
-- [[20250205-64Kfg0zlcYQ|La Filosofia di MOUTHWASHING]]
+- [[20200112-YsAW-FWmH60|La Filosofia di Star Wars IX (Non c'è)]]
+- [[20250303-Vzoc_dfB4d4|STAR WARS (LORE COMPLETA fino a Episodio 1)]]
+- [[20180510-vqBxrHtQ_FU|PRIMA LIVE PUBBLICA]]

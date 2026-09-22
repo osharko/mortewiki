@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250501"
 duration: "1740"
 duration_string: "29:00"
-view_count: "7836"
-like_count: "624"
+view_count: "7844"
+like_count: "625"
 comment_count: "24"
 playlist_index: "0"
 tags: ["canada", "verdi", "canadesi", "partito liberale", "liberalismo sociale", "partito socialdemocratico"]
-related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20250111-xNtUS7w_P74", "20260904-yywIbRjSk6Q", "20250122-bGO8tBip2M4", "20260602-9FjDbnaB3iw", "20260915-KTl0cODi8Mc", "20240202-IIoL9LY1GDY", "20250321-AviBBQdQqYU", "20250207-4EnqyYgUwDc"]
+related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20250111-xNtUS7w_P74", "20260904-yywIbRjSk6Q", "20250122-bGO8tBip2M4", "20260602-9FjDbnaB3iw", "20260915-KTl0cODi8Mc", "20250325-trcNtn4YnRI", "20240202-IIoL9LY1GDY", "20250321-AviBBQdQqYU"]
 video_type: "video"
 description: "https://en.wikipedia.org/wiki/2025_Canadian_federal_election#/media/File:Canada_Election_2025_Results_Map.svg"
 embeddable: "1"
@@ -28,6 +28,6 @@ qc: 100
 - [[20250122-bGO8tBip2M4|Il pacifista Trump vuole annettere la GROENLANDIA]]
 - [[20260602-9FjDbnaB3iw|Cuba nell'UE? No.]]
 - [[20260915-KTl0cODi8Mc|A Billion Lies: Nucleare divinizzato (Parte 4)]]
+- [[20250325-trcNtn4YnRI|Una Live anticipatoria....]]
 - [[20240202-IIoL9LY1GDY|E se GIUSTINIANO avesse ricostruito l'IMPERO?]]
 - [[20250321-AviBBQdQqYU|Gli USA si stanno incattivendo....]]
-- [[20250207-4EnqyYgUwDc|Prospettive sulla Germania]]

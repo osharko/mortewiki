@@ -7,7 +7,7 @@ upload_date: "20260703"
 duration: "994"
 duration_string: "16:34"
 view_count: "7366"
-like_count: "546"
+like_count: "547"
 comment_count: "55"
 playlist_index: "0"
 tags: ["voglio quelli", "quello funziona", "treccine codine", "provo empatia", "pressi pressi", "palle nasce"]

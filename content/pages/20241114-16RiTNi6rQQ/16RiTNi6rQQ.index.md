@@ -11,7 +11,7 @@ like_count: "675"
 comment_count: "46"
 playlist_index: "0"
 tags: ["pollo", "legittima difesa", "sapore", "pollo pollo", "giusto mangiare", "nutrirsi animali"]
-related: ["20241021-2M1c1mhw7Lo", "20220502-aVB19wGW6xI", "20230618-PanhM58CO7Q", "20220505-6-4Pi6mshlo", "20250912-kO3kNZubRMw", "20241209-Gh142vq95TI", "20260723-zrza0q95Q7k", "20260809-6gR5i-qIQ00", "20250205-03AsV9qhnj8", "20260201-VHWl_BY3izc"]
+related: ["20241021-2M1c1mhw7Lo", "20241217-0N1sWPAkygE", "20220502-aVB19wGW6xI", "20230618-PanhM58CO7Q", "20220505-6-4Pi6mshlo", "20250912-kO3kNZubRMw", "20241209-Gh142vq95TI", "20260723-zrza0q95Q7k", "20260809-6gR5i-qIQ00", "20250205-03AsV9qhnj8"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,7 @@ qc: 100
 
 ## Correlati
 - [[20241021-2M1c1mhw7Lo|Il caso della famiglia avvelenata]]
+- [[20241217-0N1sWPAkygE|Che succede?]]
 - [[20220502-aVB19wGW6xI|Gun Control e Legittima Difesa]]
 - [[20230618-PanhM58CO7Q|Parassita - Creepypasta 207]]
 - [[20220505-6-4Pi6mshlo|La Filosofia di Mahatma Gandhi]]
@@ -29,4 +30,3 @@ qc: 100
 - [[20260723-zrza0q95Q7k|Ulisse è andato in America?]]
 - [[20260809-6gR5i-qIQ00|Burrito e Nachos: cosa ne penso]]
 - [[20250205-03AsV9qhnj8|Norimberga, Ghigliottine e Carcere]]
-- [[20260201-VHWl_BY3izc|Ho preparato uno Scottish Brunch (ASMR Mukbang Taste Test)]]

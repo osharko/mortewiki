@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250916"
 duration: "688"
 duration_string: "11:28"
-view_count: "4564"
+view_count: "4568"
 like_count: "386"
 comment_count: "29"
 playlist_index: "0"
-tags: ["ennesimo fallimento", "deciso deciso", "aspe", "fallimento dello", "fallimento liberismo", "aspe aspe"]
-related: ["20260315-5BmAX31ewQ0"]
+tags: ["ennesimo fallimento", "deciso deciso", "fallimento dello", "fallimento liberismo", "chiaro chiaro", "vediamo vediamo"]
+related: ["20260305-h-ldzyTXpXc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,4 +20,4 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20260315-5BmAX31ewQ0|Raccolta firme per riformare il gruppo: ecco cosa cambieremo (e cosa no)]]
+- [[20260305-h-ldzyTXpXc|Tutti i cartoni animati in produzione (parte 2)]]

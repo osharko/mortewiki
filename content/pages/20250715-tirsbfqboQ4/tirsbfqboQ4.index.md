@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250715"
 duration: "2249"
 duration_string: "37:29"
-view_count: "11550"
+view_count: "11549"
 like_count: "802"
 comment_count: "27"
 playlist_index: "0"
-tags: ["tarzan", "hardware", "console", "single player", "game pass", "stop killing"]
+tags: ["tarzan", "hardware", "console", "game pass", "single player", "stop killing"]
 related: ["20200509-PIjNe3OByjw", "20250730-aK19RnGCLUI", "20250328-ho9q_vbALig", "20250526-yQg5jFVG958", "20251019-1qH9ywYa4Vg", "20260815-LoFSH3Rwa6o", "20220715-qXNF6b6tapc", "20200824-ddOWkFxbq3g", "20190912-sX777AyfxsI", "20231001-DJ00uo8ipB0"]
 video_type: "video"
 embeddable: "1"

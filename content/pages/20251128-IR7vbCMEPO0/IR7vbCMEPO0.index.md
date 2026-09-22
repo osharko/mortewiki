@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20251128"
 duration: "1519"
 duration_string: "25:19"
-view_count: "10675"
-like_count: "633"
+view_count: "10693"
+like_count: "634"
 comment_count: "49"
 playlist_index: "0"
-tags: ["nord africa", "islamica", "vanno prendere", "musulmani", "farei entrare", "problemi africa"]
+tags: ["nord africa", "islamica", "vanno prendere", "musulmani", "problemi africa", "farei entrare"]
 related: ["20260505-KEpwvnkblbc", "20260703-SDMIlwAMmH0"]
 video_type: "video"
 embeddable: "1"

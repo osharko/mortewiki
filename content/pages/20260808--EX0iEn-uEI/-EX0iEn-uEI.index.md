@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260808"
 duration: "1228"
 duration_string: "20:28"
-view_count: "10100"
-like_count: "531"
+view_count: "10140"
+like_count: "532"
 comment_count: "153"
 playlist_index: "0"
 tags: ["villain", "media literacy", "visto film", "regista", "natura malvagia", "silenzio innocenti"]
-related: ["20240204-TRoHvbOsJmI", "20250318--lB5J8F3meQ"]
+related: ["20240204-TRoHvbOsJmI", "20250318--lB5J8F3meQ", "20250422-u0lXk_cY3cw"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,3 +22,4 @@ qc: 100
 ## Correlati
 - [[20240204-TRoHvbOsJmI|Non hai capito Godzilla]]
 - [[20250318--lB5J8F3meQ|Legge di Mortebianca: gli apologi dei villain]]
+- [[20250422-u0lXk_cY3cw|ConcLIVE]]

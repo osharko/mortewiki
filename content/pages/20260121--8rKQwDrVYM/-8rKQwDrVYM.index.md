@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260121"
 duration: "1533"
 duration_string: "25:33"
-view_count: "6429"
+view_count: "6434"
 like_count: "564"
 comment_count: "42"
 playlist_index: "0"
 tags: ["isis", "deporre armi", "rojava", "erdogan", "curdi", "turchia"]
-related: ["20251118-Q5fHdhvoM7Y", "20191015-Ju0ljSLmtUo", "20250303-55UesOxanQs", "20251105-ftcTfO4Q4JY", "20250325-Rk9BX3mfdGg", "20260126-zvHJWqo35ak", "20260904-yywIbRjSk6Q"]
+related: ["20251118-Q5fHdhvoM7Y", "20191015-Ju0ljSLmtUo", "20250303-55UesOxanQs", "20251105-ftcTfO4Q4JY", "20250325-Rk9BX3mfdGg", "20260126-zvHJWqo35ak", "20241210-Wdp8vrgaQqA", "20260904-yywIbRjSk6Q"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,4 +26,5 @@ qc: 100
 - [[20251105-ftcTfO4Q4JY|NASSER e il sogno panarabista]]
 - [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
 - [[20260126-zvHJWqo35ak|Rojava: 3 scenari]]
+- [[20241210-Wdp8vrgaQqA|Live sulle live]]
 - [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]

@@ -6,7 +6,7 @@ playlist: "Le Migliori Creepypasta"
 playlist_id: "PLU8-xwslFxH8VZHZygYh7yYjanPQhSIWq"
 playlist_index: "54"
 source: "https://youtu.be/WJlj88_rPhA"
-tags: ["trypophobia explicit", "images creepypasta", "explicit images", "trypophobia", "images", "explicit"]
+tags: ["trypophobia explicit", "images creepypasta", "explicit images", "trypophobia", "explicit", "images"]
 embeddable: "0"
 stub: "1"
 qc: 0

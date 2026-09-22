@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250321"
 duration: "999"
 duration_string: "16:39"
-view_count: "17377"
-like_count: "1147"
+view_count: "17386"
+like_count: "1148"
 comment_count: "92"
 playlist_index: "0"
-tags: ["vicino casa", "america america", "canada", "america tornata", "america momento", "prossimo presidente"]
+tags: ["vicino casa", "america america", "canada", "america tornata", "america momento", "america deve"]
 related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20250501-2IzWuf8zSQ0", "20250111-xNtUS7w_P74", "20260904-yywIbRjSk6Q", "20250122-bGO8tBip2M4", "20260602-9FjDbnaB3iw", "20250902-7FjEOk8nzA0", "20260915-KTl0cODi8Mc", "20260414-BiRiNnQGc3s"]
 video_type: "video"
 embeddable: "1"

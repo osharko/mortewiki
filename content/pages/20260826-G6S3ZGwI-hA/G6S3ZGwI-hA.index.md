@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260826"
 duration: "1694"
 duration_string: "28:14"
-view_count: "13611"
-like_count: "718"
-comment_count: "97"
+view_count: "13697"
+like_count: "720"
+comment_count: "96"
 playlist_index: "0"
 tags: ["pedofili", "pedofilo", "face wall", "pedofili hanno", "occhio occhio", "luigi mangione"]
-related: ["20210919-AsrzSYG9Tt0", "20260114-dPMTPFNn-u8", "20250201-2ttk_41Im-A", "20250920-JgFUDInERkU", "20260304-FTDRaTnL7D0", "20250228-VI-IovBg0Cw", "20250929-mJps6ONsgk0", "20250630-n2c_nqJecPY"]
+related: ["20210919-AsrzSYG9Tt0", "20241217-0N1sWPAkygE", "20250225-4DEocBBIQm8", "20260114-dPMTPFNn-u8", "20251018-qmEkDJ__CZM", "20250617-WlfP5QTPCko", "20250929-mJps6ONsgk0", "20250201-2ttk_41Im-A", "20250527-jhijk2sQMAk", "20251025-6mTAEfIepi0"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,10 +21,12 @@ qc: 100
 
 ## Correlati
 - [[20210919-AsrzSYG9Tt0|Viaggio tra i PEDOFILI del DEEP WEB]]
+- [[20241217-0N1sWPAkygE|Che succede?]]
+- [[20250225-4DEocBBIQm8|In Live (checché se ne strilli)]]
 - [[20260114-dPMTPFNn-u8|Età del consenso, adulta e diritto di voto]]
-- [[20250201-2ttk_41Im-A|Se ti piace Luigi Mangione sei rassista]]
-- [[20250920-JgFUDInERkU|Breve Apologia di Contrapoints]]
-- [[20260304-FTDRaTnL7D0|L'Iceberg di Mortebianca: quanto va in fondo? (PARTE 1)]]
-- [[20250228-VI-IovBg0Cw|La Filosofia del PERDONO]]
+- [[20251018-qmEkDJ__CZM|REPObblica di gamers con i boys]]
+- [[20250617-WlfP5QTPCko|Live sulla cartoonesca crudeltà di un certo paese]]
 - [[20250929-mJps6ONsgk0|La mia parte intollerante]]
-- [[20250630-n2c_nqJecPY|Bezos blocca Venezia per il suo matrimonio: Neo-feudalesimo distopico]]
+- [[20250201-2ttk_41Im-A|Se ti piace Luigi Mangione sei rassista]]
+- [[20250527-jhijk2sQMAk|Il risorgimento europeo (e il declino muricano)]]
+- [[20251025-6mTAEfIepi0|Scontro tra MAROLLI e i bois]]

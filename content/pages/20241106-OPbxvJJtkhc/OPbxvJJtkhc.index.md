@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241106"
 duration: "1288"
 duration_string: "21:28"
-view_count: "25176"
+view_count: "25177"
 like_count: "1804"
 comment_count: "209"
 playlist_index: "0"
 tags: ["voto popolare", "popolazione americana", "camala harris", "biden", "harris", "elettori"]
-related: ["20241113-RvJ3nmgVDew", "20241101-Mz4vhvNZIew", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY"]
+related: ["20241113-RvJ3nmgVDew", "20241101-Mz4vhvNZIew", "20241112-tXQbB2P_mFc", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241211-faHi7yIvwDw", "20240714-HMY-2X-G1CY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,6 +22,7 @@ qc: 100
 ## Correlati
 - [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
 - [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]
+- [[20241112-tXQbB2P_mFc|Analisi della vittoria di Trump]]
 - [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
 - [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
 - [[20241211-faHi7yIvwDw|Confronto tra Ucraina vs Israele]]

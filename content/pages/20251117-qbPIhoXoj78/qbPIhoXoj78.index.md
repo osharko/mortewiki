@@ -11,7 +11,7 @@ like_count: "281"
 comment_count: "20"
 playlist_index: "0"
 tags: ["steam machine", "steam controller", "valve", "controller", "index", "machine"]
-related: ["20250210-8Kvt27bCw2Y", "20260625-ytK33P50E8g", "20260131-WD5JKKYkYwY", "20220730-tWfSji3EySc"]
+related: ["20250210-8Kvt27bCw2Y", "20260625-ytK33P50E8g", "20260624-JYpfAvUPlxE", "20260512-AalLeW6ZdIU", "20260506-8UeXfXjboF0", "20260131-WD5JKKYkYwY", "20220730-tWfSji3EySc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,5 +22,8 @@ qc: 100
 ## Correlati
 - [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
 - [[20260625-ytK33P50E8g|Steam Machine: cosa ne penso del GabeCube]]
+- [[20260624-JYpfAvUPlxE|Questa è la fine dell'Impero Americano]]
+- [[20260512-AalLeW6ZdIU|La mia live più filosofica in assoluto]]
+- [[20260506-8UeXfXjboF0|Una live da leoni]]
 - [[20260131-WD5JKKYkYwY|La Filosofia di Summer Wars]]
 - [[20220730-tWfSji3EySc|La Storia della Realtà Virtuale]]

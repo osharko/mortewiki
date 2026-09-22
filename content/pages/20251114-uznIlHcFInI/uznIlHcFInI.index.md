@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20251114"
 duration: "1282"
 duration_string: "21:22"
-view_count: "6826"
+view_count: "6827"
 like_count: "514"
 comment_count: "62"
 playlist_index: "0"
-tags: ["nintendo", "pocket pair", "palward", "ufficio brevetti", "pokémon", "pocket"]
-related: ["20250828-gUXRvczylOM", "20250524-zSGQoSrx00A", "20241116-zW2mk3zC1b4", "20251220-Kf_lc_hw9n0", "20251218-NOr_HttEIfg", "20250922-8onAikE00Dc", "20190912-sX777AyfxsI", "20240614-tlrMiE7BzRY", "20251025-pRSIEbpX97Q", "20260228-yd_ytjxiFEM"]
+tags: ["pocket pair", "palward", "ufficio brevetti", "pocket", "pair", "nintendo nintendo"]
+related: ["20250828-gUXRvczylOM", "20250524-zSGQoSrx00A", "20241116-zW2mk3zC1b4", "20250922-8onAikE00Dc", "20250925-E8sntLiSt58"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -23,10 +23,5 @@ qc: 100
 - [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
 - [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
 - [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
 - [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
-- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20260228-yd_ytjxiFEM|Pokémon Vento e Pokémon Onda: hanno smesso di provarci]]
+- [[20250925-E8sntLiSt58|Quel periodo pazzurdo dei videogiochi negli anni 90]]

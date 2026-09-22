@@ -7,11 +7,11 @@ upload_date: "20250315"
 duration: "1101"
 duration_string: "18:21"
 view_count: "7602"
-like_count: "554"
+like_count: "553"
 comment_count: "30"
 playlist_index: "0"
-tags: ["black mirror", "mirror", "netflix", "netflix pubblico", "internet archive", "mirror avuto"]
-related: ["20230930-UjzUn5-as24", "20180429-EjUy1LbT_qc", "20190707-vIuByvaaI2U", "20250428-aa9nUSSlN6s", "20190203-3OflVc82qb8", "20180304--9Y-nkCO6QE", "20180401-SJrN5ouA4Js", "20230514-i7fzBJOAhs8", "20190117-j8JPi-TqpOI", "20260419-t1XibxHwYlM"]
+tags: ["black mirror", "mirror", "internet archive", "netflix pubblico", "mirror avuto", "pubblica deve"]
+related: ["20230930-UjzUn5-as24", "20180429-EjUy1LbT_qc", "20190707-vIuByvaaI2U", "20250428-aa9nUSSlN6s", "20190203-3OflVc82qb8", "20180304--9Y-nkCO6QE", "20180401-SJrN5ouA4Js", "20190117-j8JPi-TqpOI", "20210805-eCNKJBjVoJA"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,5 @@ qc: 100
 - [[20190203-3OflVc82qb8|La Filosofia di Bandersnatch - Black Mirror]]
 - [[20180304--9Y-nkCO6QE|La Psicologia di Black Mirror]]
 - [[20180401-SJrN5ouA4Js|Black Mirror - Analisi della Stagione 4]]
-- [[20230514-i7fzBJOAhs8|Chi vincerà la Guerra dello Streaming?]]
 - [[20190117-j8JPi-TqpOI|Cosa significa Recensire?]]
-- [[20260419-t1XibxHwYlM|The Amazing Digital Circus al cinema?]]
+- [[20210805-eCNKJBjVoJA|Byung Chul Han - #Filosofia 42]]

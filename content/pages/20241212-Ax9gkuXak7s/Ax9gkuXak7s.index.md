@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241212"
 duration: "1671"
 duration_string: "27:51"
-view_count: "9561"
+view_count: "9562"
 like_count: "721"
 comment_count: "97"
 playlist_index: "0"
 tags: ["inno", "alla gioia", "lode alla", "unione europea", "inno europeo", "gioia"]
-related: ["20260506-BWcNXtjYK9Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20241119-8FxNB7i69UI", "20260430-QUXUrmgMeMc", "20241206-_j4XwppAZH0"]
+related: ["20260506-BWcNXtjYK9Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20251203-YJlIHQSQ10Y", "20241119-8FxNB7i69UI", "20250325-trcNtn4YnRI"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,6 @@ qc: 100
 - [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
 - [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
 - [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
+- [[20251203-YJlIHQSQ10Y|Sono in videochiamata con te]]
 - [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
-- [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20241206-_j4XwppAZH0|Critica al BRICS]]
+- [[20250325-trcNtn4YnRI|Una Live anticipatoria....]]

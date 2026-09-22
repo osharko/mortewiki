@@ -10,7 +10,7 @@ view_count: "8032"
 like_count: "707"
 comment_count: "34"
 playlist_index: "0"
-tags: ["persone transgender", "nelle scuole", "hanno diritto", "trans", "pantere rosa", "pantere nere"]
+tags: ["persone transgender", "nelle scuole", "hanno diritto", "trans", "pantere rosa", "armi persone"]
 related: ["20220110--oaVEXEMBdY", "20240510-pIqZwtBb_OY", "20240511-2xCCcYlTV0s", "20260517-0m1dlc-akzo", "20210604-PPgciXLt-v0", "20250126-icvN1cZWtwo", "20250827-A-SRRM-1aus", "20250830-nv4MaICTL6Y", "20240501-1fO1xM-QqZk", "20250611-ULKQLbADwbA"]
 video_type: "video"
 embeddable: "1"

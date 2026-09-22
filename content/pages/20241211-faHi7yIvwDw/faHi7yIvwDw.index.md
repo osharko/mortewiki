@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241211"
 duration: "870"
 duration_string: "14:30"
-view_count: "9857"
-like_count: "803"
+view_count: "9865"
+like_count: "804"
 comment_count: "28"
 playlist_index: "0"
 tags: ["stai ridendo", "biden", "solidarietà popolo", "ucraina israele", "americani stanno", "israele israele"]
-related: ["20241113-RvJ3nmgVDew", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241101-Mz4vhvNZIew", "20241106-OPbxvJJtkhc", "20240714-HMY-2X-G1CY"]
+related: ["20241113-RvJ3nmgVDew", "20241112-tXQbB2P_mFc", "20260718-lb-p2fknQ9g", "20260116-dCXWngTaYCU", "20241101-Mz4vhvNZIew", "20241106-OPbxvJJtkhc", "20240714-HMY-2X-G1CY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,7 @@ qc: 100
 
 ## Correlati
 - [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
+- [[20241112-tXQbB2P_mFc|Analisi della vittoria di Trump]]
 - [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
 - [[20260116-dCXWngTaYCU|Trump ora sta ESAGERANDO...]]
 - [[20241101-Mz4vhvNZIew|De Bello Rappico Harrisi Trumpique]]

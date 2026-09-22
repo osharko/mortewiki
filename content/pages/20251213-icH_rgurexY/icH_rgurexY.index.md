@@ -7,7 +7,7 @@ upload_date: "20251213"
 duration: "1869"
 duration_string: "31:09"
 view_count: "3810"
-like_count: "325"
+like_count: "324"
 comment_count: "14"
 playlist_index: "0"
 tags: ["tartarus engine", "tartarus", "engine", "sheol", "tartaro", "nuovo testamento"]

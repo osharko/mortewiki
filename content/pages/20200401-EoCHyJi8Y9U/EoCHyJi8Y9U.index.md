@@ -6,13 +6,13 @@ channel_url: "https://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA"
 upload_date: "20200401"
 duration: "917"
 duration_string: "15:17"
-view_count: "43674"
+view_count: "43675"
 like_count: "3058"
 comment_count: "312"
 playlist: "Parodie e altro :D"
 playlist_id: "PLU8-xwslFxH8rRTf-0vmhb69xV2D23ooP"
 playlist_index: "15"
-tags: ["joker", "want know", "nell area", "estrema sinistra", "meme estrema", "esaminare meme"]
+tags: ["joker", "want know", "nell area", "estrema sinistra", "esaminare meme", "dovevamo affrontare"]
 related: ["20250920-JgFUDInERkU", "20191219-cmdllE4A-qY", "20241120-FoRJxzBmYeM", "20251020-kAoNRE2vFz0", "20251109--BksbKgj4e0", "20191013-2QTVq5nn1Ew", "20160501-0jJrHTxWfcI", "20191003-WkJQmfbYqrU", "20210404-eJE2qy8Ou4k"]
 video_type: "video"
 description: "LIBRO: https://bitly.com/creepypasta1\nPATREON: https://www.tipeee.com/mortebianca\nMAGLIETTE: https://www.allt-shirt.it/product-category/mortebianca-brand/\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\n#Mortebianca #Clown\nMOOSEECA:\nhttps://www.youtube.com/watch?v=vSX8ncccXhQ\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://www.youtube.com/watch?v=ma3BFoEwjPI\nhttps://www.youtube.com/watch?v=uzpGEx_AT-I\nhttps://www.youtube.com/watch?v=LApkHzyKxrw"

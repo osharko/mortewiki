@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260526"
 duration: "1115"
 duration_string: "18:35"
-view_count: "6563"
+view_count: "6566"
 like_count: "474"
 comment_count: "59"
 playlist_index: "0"
-tags: ["microsoft", "windows", "programmi", "surface", "versione deblottata", "viene sospetto"]
+tags: ["microsoft", "windows", "surface", "versione deblottata", "viene sospetto", "livello marketing"]
 related: ["20250601-vCSmCMSsvm4", "20251129-s9F0qOjHoLE", "20260421-10lA1pA-CRc", "20260204-QxK66ZAFkDE", "20260815-LoFSH3Rwa6o", "20250102-XOArfyW2q58", "20241225-AjW3mY8JBRY", "20260907-FHFHHiC4SGU", "20200824-ddOWkFxbq3g", "20260525-NKYI2Uo7448"]
 video_type: "video"
 description: "Fonte immagine: https://www.reddit.com/r/pcmasterrace/comments/1rinifc/microsoft_gets_tired_of_microslop_bans_the_word/?tl=it"

@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260420"
 duration: "822"
 duration_string: "13:42"
-view_count: "7923"
+view_count: "7934"
 like_count: "666"
 comment_count: "108"
 playlist_index: "0"
-tags: ["ottimo ottimo", "creative commons", "dante alighieri", "plagio", "dante", "ricordo illegale"]
-related: ["20240410-SjpVk87JhtA", "20240614-tlrMiE7BzRY", "20260205-6kRSAEQZD_8", "20241001-znzWEeJ4g58"]
+tags: ["creative commons", "ottimo ottimo", "dante alighieri", "plagio", "dante", "ricordo illegale"]
+related: ["20240410-SjpVk87JhtA", "20240614-tlrMiE7BzRY", "20250109-wuUeYLcRabc", "20260205-6kRSAEQZD_8", "20241001-znzWEeJ4g58"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,5 +22,6 @@ qc: 100
 ## Correlati
 - [[20240410-SjpVk87JhtA|PUÒ UNA AI CREARE ARTE? È PLAGIO?]]
 - [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20250109-wuUeYLcRabc|Live in ritardo (recuperiamo)]]
 - [[20260205-6kRSAEQZD_8|Critica a Film Theorist su Hazbin Hotel]]
 - [[20241001-znzWEeJ4g58|AI Art e Copyright: due ipocrisie si incontrano]]

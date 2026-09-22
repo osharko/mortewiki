@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250514"
 duration: "2646"
 duration_string: "44:06"
-view_count: "17336"
+view_count: "17343"
 like_count: "1032"
 comment_count: "88"
 playlist_index: "0"
-tags: ["secondo ragionamento", "minimo senso", "padania", "lombardo", "veneto", "geografia"]
-related: ["20241121-smIutDtqomo", "20251125-oRcyF209PT8", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20260613-FhyGMpUHhAI", "20260408-1ZZ11IRMvdg", "20251005-vaZ84a-kTyM", "20260708-6qytzpPFAXc"]
+tags: ["secondo ragionamento", "padania", "lombardo", "veneto", "geografia", "integrazione"]
+related: ["20241121-smIutDtqomo", "20251126-Tt-JQPUvW30", "20251125-oRcyF209PT8", "20241120-FoRJxzBmYeM", "20250511-wkyU76rAHC0", "20250708--CG8dI3eTdw", "20251005-vaZ84a-kTyM"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,10 +21,9 @@ qc: 100
 
 ## Correlati
 - [[20241121-smIutDtqomo|Lega Nord tra Venetismo e Nazionalismo]]
+- [[20251126-Tt-JQPUvW30|Live con il poliziotto veneto più di sinistra della storia]]
 - [[20251125-oRcyF209PT8|Commentario alle regionali 2025 (Puglia, Campania e Veneto)]]
 - [[20241120-FoRJxzBmYeM|Perché la sinistra NON perde ovunque?]]
 - [[20250511-wkyU76rAHC0|Sulla questione Sarda]]
-- [[20260613-FhyGMpUHhAI|Perché sono serenamente pessimista]]
-- [[20260408-1ZZ11IRMvdg|Trump e la gaffe su Pearl Harbor]]
+- [[20250708--CG8dI3eTdw|Live post-vacanza]]
 - [[20251005-vaZ84a-kTyM|Wewe wuagliù belle ste elezioni]]
-- [[20260708-6qytzpPFAXc|La PEGGIORE critica agli inglesismi che io abbia mai letto]]

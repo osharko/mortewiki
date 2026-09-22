@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250822"
 duration: "754"
 duration_string: "12:34"
-view_count: "13241"
-like_count: "979"
+view_count: "13363"
+like_count: "981"
 comment_count: "45"
 playlist_index: "0"
 tags: ["anarchia", "anarcocomunismo", "anarco", "differenza anarcocomunismo", "anarco comunismo", "anarco comunista"]
-related: ["20210227-44ySLh11jn8", "20171210-UDxl83w1s5U"]
+related: ["20210227-44ySLh11jn8", "20171210-UDxl83w1s5U", "20250109-wuUeYLcRabc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,3 +22,4 @@ qc: 100
 ## Correlati
 - [[20210227-44ySLh11jn8|Live sull'ANARCHIA (ft Barbasophia)]]
 - [[20171210-UDxl83w1s5U|La filosofia di V per Vendetta]]
+- [[20250109-wuUeYLcRabc|Live in ritardo (recuperiamo)]]

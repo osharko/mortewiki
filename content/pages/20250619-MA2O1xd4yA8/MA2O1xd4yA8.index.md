@@ -7,10 +7,10 @@ upload_date: "20250619"
 duration: "758"
 duration_string: "12:38"
 view_count: "7585"
-like_count: "708"
+like_count: "707"
 comment_count: "31"
 playlist_index: "0"
-tags: ["diamo priorità", "marte", "vuol resto", "voglio marte", "settori deve", "settore energetico"]
+tags: ["diamo priorità", "marte", "voglio marte", "settori deve", "privatizzazione corsa", "pagare paga"]
 related: ["20251012-fqslxNSL-IE", "20190127-_Gn0S9QVJNA", "20170625-ZEkafgKBueE", "20260827-AJFw_q_tGlk", "20250606-3c2BjZ2aLy4", "20240401-znAMSQ86sO8", "20260611-CGJhreKaM-4", "20200412-Rcjz5KIY4_A"]
 video_type: "video"
 embeddable: "1"

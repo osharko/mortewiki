@@ -6,14 +6,14 @@ channel_url: "https://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA"
 upload_date: "20200112"
 duration: "1370"
 duration_string: "22:50"
-view_count: "89467"
+view_count: "89481"
 like_count: "4864"
 comment_count: "420"
 playlist: "100 FILM DA VEDERE PRIMA DI MORIRE"
 playlist_id: "PLU8-xwslFxH_a_BaxOEkN3OIrUzJvcJQV"
 playlist_index: "61"
 tags: ["star wars", "trilogia", "nuova trilogia", "palpata", "universo espanso", "wars"]
-related: ["20250303-Vzoc_dfB4d4", "20260706-jNDtv2e0bCE", "20190721-qorlZhAR2i4", "20241124-on7SEvcKd9I"]
+related: ["20250303-Vzoc_dfB4d4", "20180510-vqBxrHtQ_FU", "20240329-Vixn-NVK_sU", "20260706-jNDtv2e0bCE", "20190721-qorlZhAR2i4", "20241124-on7SEvcKd9I", "20250109-wuUeYLcRabc"]
 video_type: "video"
 description: "WHITE PROJECT:\nhttps://www.youtube.com/watch?v=UdK1LdtjnuE\nDonazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nCanale Twitch: https://twitch.tv/mortebianca000\nMAGLIETTE SU AMAZON: https://amzn.to/2Hj5Ies\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nEditore creepy: https://www.instagram.com/viniciusaugusto374/?hl=it\nMOOSEECA:\nhttps://soundcloud.com/lemmino/lemmino-moon\nhttps://soundcloud.com/sledge23/06-sledge-empty-streets\nhttps://www.youtube.com/watch?v=Qo18SL0Jr9Y\nhttps://soundcloud.com/sledge23/07-sledge-the-killers-thoughts\nhttps://soundcloud.com/sledge23/10-sledge-bones?in=sledge23/sets/wave-2\nhttps://soundcloud.com/sledge23/12-sledge-true-bonus?in=sledge23/sets/wave-2\nhttps://www.youtube.com/watch?v=6xgMwRatNKg\nhttps://www.youtube.com/watch?v=tukn5NK_XRo"
 embeddable: "1"
@@ -24,6 +24,9 @@ qc: 100
 
 ## Correlati
 - [[20250303-Vzoc_dfB4d4|STAR WARS (LORE COMPLETA fino a Episodio 1)]]
+- [[20180510-vqBxrHtQ_FU|PRIMA LIVE PUBBLICA]]
+- [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
 - [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]
 - [[20190721-qorlZhAR2i4|TOP migliori Youtubers del mondo (secondo me)]]
 - [[20241124-on7SEvcKd9I|What if: tra MCU, Star Wars e Game of Stronz]]
+- [[20250109-wuUeYLcRabc|Live in ritardo (recuperiamo)]]

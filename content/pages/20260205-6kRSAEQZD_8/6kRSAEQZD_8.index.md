@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260205"
 duration: "1275"
 duration_string: "21:15"
-view_count: "6084"
+view_count: "6090"
 like_count: "480"
 comment_count: "33"
 playlist_index: "0"
 tags: ["purgatorio", "limbo", "dante", "demoni", "purgatorio posto", "film theorist"]
-related: ["20220424-BMiz0RBPros", "20240218-nCh9NAjg-MA", "20251021-a9GMGUzHVac", "20180921-uzmkwQSzip8", "20161204-638Dp6-PyPs", "20170716-kgarwsIMhJ8", "20260410-7kqYnIHd-4s", "20260624-zDjNf1fEYWQ", "20250525-ouCk8QQ4Zos", "20150919-9MJLLFFKwVs"]
+related: ["20220424-BMiz0RBPros", "20240218-nCh9NAjg-MA", "20251021-a9GMGUzHVac", "20180921-uzmkwQSzip8", "20161204-638Dp6-PyPs", "20170716-kgarwsIMhJ8", "20260410-7kqYnIHd-4s", "20260624-zDjNf1fEYWQ", "20250109-wuUeYLcRabc", "20250525-ouCk8QQ4Zos"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -28,5 +28,5 @@ qc: 100
 - [[20170716-kgarwsIMhJ8|Il Monaco - Creepypasta #70]]
 - [[20260410-7kqYnIHd-4s|Fenomenologia degli Orchi in Tolkien]]
 - [[20260624-zDjNf1fEYWQ|NO ad un sequel di Amazing Digital Circus]]
+- [[20250109-wuUeYLcRabc|Live in ritardo (recuperiamo)]]
 - [[20250525-ouCk8QQ4Zos|Cosa è umano?]]
-- [[20150919-9MJLLFFKwVs|Come funziona un esorcismo]]

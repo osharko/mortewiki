@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260901"
 duration: "2906"
 duration_string: "48:26"
-view_count: "20943"
-like_count: "618"
+view_count: "21068"
+like_count: "619"
 comment_count: "155"
 playlist_index: "0"
-tags: ["rockstar", "playstation", "sony", "grafica", "ragazzi miei", "cyberpunk"]
+tags: ["rockstar", "playstation", "sony", "grafica", "cyberpunk", "salto"]
 related: ["20260907-FHFHHiC4SGU", "20250526-yQg5jFVG958", "20260830-6vZulACux14", "20260815-LoFSH3Rwa6o", "20260705-jcu-Hvbspu4", "20260622-eZnZgZ2B0L4", "20260823-hCx7p_UC4cY", "20240902-zY71hagVf6k", "20250725-pJN6S2T2E6E", "20200509-PIjNe3OByjw"]
 video_type: "video"
 embeddable: "1"

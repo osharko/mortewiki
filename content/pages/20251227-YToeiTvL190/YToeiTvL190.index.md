@@ -6,16 +6,18 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20251227"
 duration: "1182"
 duration_string: "19:42"
-view_count: "6646"
+view_count: "6648"
 like_count: "469"
-comment_count: "96"
+comment_count: "95"
 playlist_index: "0"
 tags: ["medio campidano", "emilia romagna", "carbonia", "carbonia iglesias", "gallura", "emilia"]
+related: ["20250708--CG8dI3eTdw"]
 video_type: "video"
 embeddable: "1"
-qc: 0
+qc: 100
 ---
 
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250708--CG8dI3eTdw|Live post-vacanza]]

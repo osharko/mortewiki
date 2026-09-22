@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250529"
 duration: "2434"
 duration_string: "40:34"
-view_count: "11470"
+view_count: "11563"
 like_count: "695"
 comment_count: "47"
 playlist_index: "0"
-tags: ["grasso", "zucchero", "grassi", "persone obese", "grasso grasso", "vita sana"]
+tags: ["grasso", "zucchero", "grassi", "persone obese", "vita sana", "grasso grasso"]
 related: ["20231129-mshaWKP__Ko", "20250714-NEpXgjWLAjs"]
 video_type: "video"
 embeddable: "1"

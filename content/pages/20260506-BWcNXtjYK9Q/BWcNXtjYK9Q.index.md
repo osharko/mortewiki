@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260506"
 duration: "2216"
 duration_string: "36:56"
-view_count: "7902"
+view_count: "7905"
 like_count: "571"
 comment_count: "52"
 playlist_index: "0"
-tags: ["unione europea", "veto", "entrare europa", "federazione", "federazione mondiale", "vuole entrare"]
-related: ["20260904-yywIbRjSk6Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20241119-8FxNB7i69UI", "20260430-QUXUrmgMeMc", "20241206-_j4XwppAZH0", "20241212-Ax9gkuXak7s"]
+tags: ["unione europea", "veto", "entrare europa", "federazione mondiale", "vuole entrare", "benché minima"]
+related: ["20260904-yywIbRjSk6Q", "20250903-FfolkwKdC9U", "20260812-QHb4P7HwdTQ", "20260412-LcWrMgiJZ7k", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20251203-YJlIHQSQ10Y", "20241119-8FxNB7i69UI", "20250325-trcNtn4YnRI", "20260430-QUXUrmgMeMc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -26,7 +26,7 @@ qc: 100
 - [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
 - [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
 - [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
+- [[20251203-YJlIHQSQ10Y|Sono in videochiamata con te]]
 - [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20250325-trcNtn4YnRI|Una Live anticipatoria....]]
 - [[20260430-QUXUrmgMeMc|Canada in Europa: un primo passo?]]
-- [[20241206-_j4XwppAZH0|Critica al BRICS]]
-- [[20241212-Ax9gkuXak7s|Una proposta per l'Inno Europeo?]]

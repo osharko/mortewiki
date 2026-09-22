@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260813"
 duration: "1227"
 duration_string: "20:27"
-view_count: "6717"
-like_count: "454"
+view_count: "6740"
+like_count: "455"
 comment_count: "49"
 playlist_index: "0"
-tags: ["laburisti", "referendum", "suoi predecessori", "entrare dalla", "brexit", "partito laburista"]
-related: ["20250331-JXUGBMAbBXA", "20260426-TlFsgHQZaNk", "20250408-lT-sJvOpjdM", "20220224-AfzPCkTR0P0", "20220920-DaxRYD7Dn20", "20260916-Ijw-qfE4jU8", "20251122-bT5uXCtc85g", "20250903-FfolkwKdC9U", "20250609--N6zDHQjxcQ", "20250707-qu16PceoXJg"]
+tags: ["laburisti", "suoi predecessori", "entrare dalla", "brexit", "partito laburista", "unione europea"]
+related: ["20250903-FfolkwKdC9U", "20260506-BWcNXtjYK9Q", "20260412-LcWrMgiJZ7k", "20260812-QHb4P7HwdTQ", "20260904-yywIbRjSk6Q", "20260113-TIsMYWmys5c", "20250307-mdez_E0_V88", "20251203-YJlIHQSQ10Y", "20241119-8FxNB7i69UI", "20250325-trcNtn4YnRI"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,13 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250331-JXUGBMAbBXA|Il destino di Carlo III]]
-- [[20260426-TlFsgHQZaNk|La DEMOCRAZIA è scientificamente SUPERIORE]]
-- [[20250408-lT-sJvOpjdM|Sulla santità del referendum Monarchia-Repubblica]]
-- [[20220224-AfzPCkTR0P0|Cosa sta succedendo in UCRAINA?]]
-- [[20220920-DaxRYD7Dn20|Nonostante tutto, sei ancora tu]]
-- [[20260916-Ijw-qfE4jU8|A Billion Lies: Taglia e cuci (Parte 5)]]
-- [[20251122-bT5uXCtc85g|Il piano di pace di Trump per l'Ucraina]]
 - [[20250903-FfolkwKdC9U|Perché NON dovremmo riaccogliere il Regno Unito in Europa (per un bel po')]]
-- [[20250609--N6zDHQjxcQ|Abolire il quorum? Penalizzare l'astensione? No grazie]]
-- [[20250707-qu16PceoXJg|Come deporre le ultime monarchie]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
+- [[20260412-LcWrMgiJZ7k|Starmer si ripiglia sull'Unione Europea?]]
+- [[20260812-QHb4P7HwdTQ|La Grande Europa? Non è utopia]]
+- [[20260904-yywIbRjSk6Q|Definizioni geografiche di Europa]]
+- [[20260113-TIsMYWmys5c|Elogio del Mercosur (nostro futuro alleato)]]
+- [[20250307-mdez_E0_V88|Perché l'Europa batte gli USA?]]
+- [[20251203-YJlIHQSQ10Y|Sono in videochiamata con te]]
+- [[20241119-8FxNB7i69UI|Quante volte pensi all'Impero Romano?]]
+- [[20250325-trcNtn4YnRI|Una Live anticipatoria....]]

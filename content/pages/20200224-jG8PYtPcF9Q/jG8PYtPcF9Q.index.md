@@ -8,7 +8,7 @@ duration: "799"
 duration_string: "13:19"
 view_count: "107121"
 like_count: "8084"
-comment_count: "683"
+comment_count: "682"
 playlist_index: "0"
 tags: ["coronavirus", "panico", "virus uccide", "uccide persone", "uccide quanto", "paragoni influenza"]
 related: ["20200225-sAIHTx4gvpk", "20200505-ltrs70UyKh8", "20210317-vlS5LiWoRCk"]

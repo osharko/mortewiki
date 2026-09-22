@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241110"
 duration: "438"
 duration_string: "7:18"
-view_count: "13207"
+view_count: "13211"
 like_count: "1129"
 comment_count: "71"
 playlist_index: "0"
-tags: ["faro civiltà", "studio troppo", "banca figlia", "dalla banca", "idea stai", "borsa studio"]
+tags: ["faro civiltà", "studio troppo", "banca figlia", "dalla banca", "borsa studio", "idea stai"]
 related: ["20260125-rmn7wPtJB34"]
 video_type: "video"
 embeddable: "1"

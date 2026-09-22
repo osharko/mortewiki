@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250811"
 duration: "1095"
 duration_string: "18:15"
-view_count: "11223"
-like_count: "867"
+view_count: "11225"
+like_count: "868"
 comment_count: "55"
 playlist_index: "0"
-tags: ["questione tutela", "informazioni private", "triste triste", "revenge porn", "quel sito", "senza consenso"]
+tags: ["questione tutela", "informazioni private", "revenge porn", "triste triste", "quel sito", "senza consenso"]
 video_type: "video"
 embeddable: "1"
 qc: 0

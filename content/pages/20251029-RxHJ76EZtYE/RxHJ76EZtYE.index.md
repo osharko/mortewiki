@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20251029"
 duration: "2532"
 duration_string: "42:12"
-view_count: "18716"
-like_count: "1075"
+view_count: "18795"
+like_count: "1081"
 comment_count: "93"
 playlist_index: "0"
-tags: ["religione giusta", "finire inferno", "finisce inferno", "paradiso serie", "finire paradiso", "sola fide"]
+tags: ["religione giusta", "finire inferno", "finisce inferno", "paradiso serie", "sola fide", "finire paradiso"]
 related: ["20170810-e4ozGKggVJc", "20241026-3EAwhA0DQ4E"]
 video_type: "video"
 embeddable: "1"

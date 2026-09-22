@@ -8,10 +8,10 @@ duration: "660"
 duration_string: "11:00"
 view_count: "5574"
 like_count: "451"
-comment_count: "29"
+comment_count: "28"
 playlist_index: "0"
 tags: ["amplifica esempio", "partire certa", "lascia casino", "porno", "vuoi speed", "navigazione controllata"]
-related: ["20250823-lvuDoi8FX5o", "20260802-TeNDxHNNZbU", "20220123-EfCUfd5HKyI", "20250211-1D0clNOe0Dc", "20251216-1Bo2xDFYWss", "20250518-VcEkkhlpvS0"]
+related: ["20250823-lvuDoi8FX5o", "20260802-TeNDxHNNZbU", "20260211-tLPEu6jSkLk", "20220123-EfCUfd5HKyI", "20250211-1D0clNOe0Dc", "20251216-1Bo2xDFYWss", "20250518-VcEkkhlpvS0"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Pavel_Durov#/media/File:Pavel_Durov.jpg"
 embeddable: "1"
@@ -23,6 +23,7 @@ qc: 100
 ## Correlati
 - [[20250823-lvuDoi8FX5o|L'artista che ha RESISTITO alla tentazione]]
 - [[20260802-TeNDxHNNZbU|Il Nofap non ha senso - Critica al No Nut November]]
+- [[20260211-tLPEu6jSkLk|Voglio scalare una montagna Parte 2]]
 - [[20220123-EfCUfd5HKyI|La Psicologia di OnlyFans]]
 - [[20250211-1D0clNOe0Dc|Critica alla Pornificazione mediatica imperante]]
 - [[20251216-1Bo2xDFYWss|Perché i maschi conservatori hanno difficoltà con le donne?]]

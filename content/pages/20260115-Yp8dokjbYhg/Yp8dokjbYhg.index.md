@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260115"
 duration: "696"
 duration_string: "11:36"
-view_count: "10266"
+view_count: "10267"
 like_count: "756"
 comment_count: "96"
 playlist_index: "0"
 tags: ["libero mercato", "prezzi", "debito", "ridurre debito", "dovrebbe obiettivo", "dovrebbe mirare"]
-related: ["20260618-ZtU7yYIfhfM", "20260214-RGD-I9c6Rv8", "20260514-PpFGHECYXf4", "20260519-iBiw-Nfqn8A", "20241224-3Vc0wWzKtsY", "20250120-23-Lrx2KZX0", "20190519-tpVCaOnPsIo", "20250726-HIX-VljEPeA", "20250203-UAQDHMtvngk", "20260911-wODmbcF36ZI"]
+related: ["20260618-ZtU7yYIfhfM", "20260214-RGD-I9c6Rv8", "20260514-PpFGHECYXf4", "20260519-iBiw-Nfqn8A", "20241224-3Vc0wWzKtsY", "20250413-Y0jMmKLzDWk", "20250120-23-Lrx2KZX0", "20190519-tpVCaOnPsIo", "20250726-HIX-VljEPeA", "20250203-UAQDHMtvngk"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -25,8 +25,8 @@ qc: 100
 - [[20260514-PpFGHECYXf4|Il FALLIMENTO liberista sulle macchine cinesi]]
 - [[20260519-iBiw-Nfqn8A|Mamdani ha sanato il deficit di New York]]
 - [[20241224-3Vc0wWzKtsY|Critica costruttiva a Kurzgesagt]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
 - [[20250120-23-Lrx2KZX0|Los Angeles brucia]]
 - [[20190519-tpVCaOnPsIo|Lo Sterminio più crudele mai esistito - Creepypasta 118]]
 - [[20250726-HIX-VljEPeA|Perché odio il CINEMA]]
 - [[20250203-UAQDHMtvngk|GTA 6 potrebbe costare 100 dollari]]
-- [[20260911-wODmbcF36ZI|Sui Costumi da 200 euro e passa]]

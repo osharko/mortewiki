@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260404"
 duration: "514"
 duration_string: "8:34"
-view_count: "4680"
+view_count: "4681"
 like_count: "349"
 comment_count: "34"
 playlist_index: "0"
 tags: ["arco narrativo", "dragon ball", "silent hill", "arco", "prodotto animato", "saiyan"]
-related: ["20210312-0POryNho0X4", "20250316-xx1Pw1EjFKk", "20210122-4WJh9fgiGWY", "20210618-RcDnO7cFii4", "20180524-F3riPjVHbxs", "20220214-IsUNYtOMlyg", "20220717-XO4grJsda3s", "20231226-puhWwBb9ryU", "20231106-Py7BT1UUBlI", "20241216-FZMb6bpUTBc"]
+related: ["20210312-0POryNho0X4", "20250316-xx1Pw1EjFKk", "20210122-4WJh9fgiGWY", "20210618-RcDnO7cFii4", "20180524-F3riPjVHbxs", "20220214-IsUNYtOMlyg", "20220717-XO4grJsda3s", "20231226-puhWwBb9ryU", "20231106-Py7BT1UUBlI", "20250401-YHf-eREF_hc"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -29,4 +29,4 @@ qc: 100
 - [[20220717-XO4grJsda3s|La mia Storia con gli Anime]]
 - [[20231226-puhWwBb9ryU|Sequel: NHK 2, Ib 3, Stranger Things 4, Silent Hill 5, Wasteland 6, Madoka 7, Fallout 8, Dexter 9]]
 - [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
-- [[20241216-FZMb6bpUTBc|Può un ANIME cambiare il FINALE del Manga?]]
+- [[20250401-YHf-eREF_hc|Elogio ad Elon Musk]]

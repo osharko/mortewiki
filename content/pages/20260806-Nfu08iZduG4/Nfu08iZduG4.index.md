@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260806"
 duration: "523"
 duration_string: "8:43"
-view_count: "8679"
-like_count: "153"
+view_count: "8695"
+like_count: "154"
 comment_count: "67"
 playlist_index: "0"
-tags: ["obeso", "talmente grassa", "mamma talmente", "farebbe piacere", "obeso insulto", "michael jordan"]
+tags: ["obeso", "talmente grassa", "mamma talmente", "farebbe piacere", "obeso insulto", "giocatore basket"]
 video_type: "video"
 embeddable: "1"
 qc: 0

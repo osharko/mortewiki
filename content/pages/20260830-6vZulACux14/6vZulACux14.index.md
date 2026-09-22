@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260830"
 duration: "2339"
 duration_string: "38:59"
-view_count: "9848"
+view_count: "9866"
 like_count: "251"
 comment_count: "52"
 playlist_index: "0"
 tags: ["fable", "elder scrolls", "rockstar", "hype", "hanno messo", "grafica"]
-related: ["20260901--REGlLWC-xw", "20260719-7bvr2E_6tuU", "20260824-cNYu_H4axOI", "20260622-eZnZgZ2B0L4", "20250712-B5HdTcWnNjo", "20200604-I9OBDCBOXx4", "20241019-BzE134-U-9A", "20210818-YVU4iMRqk60"]
+related: ["20260901--REGlLWC-xw", "20260719-7bvr2E_6tuU", "20251218-NOr_HttEIfg", "20260824-cNYu_H4axOI", "20260622-eZnZgZ2B0L4", "20250712-B5HdTcWnNjo", "20200604-I9OBDCBOXx4", "20241019-BzE134-U-9A", "20210818-YVU4iMRqk60"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,6 +22,7 @@ qc: 100
 ## Correlati
 - [[20260901--REGlLWC-xw|Il Fandom di GTA 6 ora sta ESAGERANDO...]]
 - [[20260719-7bvr2E_6tuU|Commentiamo TUTTI i Fallout annunciati]]
+- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
 - [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
 - [[20260622-eZnZgZ2B0L4|Rockstar, everybody wants you]]
 - [[20250712-B5HdTcWnNjo|Rumor: più Fallout sono in produzione]]

@@ -10,7 +10,7 @@ view_count: "4903"
 like_count: "403"
 comment_count: "29"
 playlist_index: "0"
-tags: ["game theorist", "tolken", "theorist", "matp", "pugno allo", "alla tolken"]
+tags: ["game theorist", "tolken", "theorist", "matp", "alla tolken", "pugno allo"]
 related: ["20260410-7kqYnIHd-4s", "20250910-oUhqje4PXMI", "20260627-cR2zviDlyAY", "20241126-EDsndAR9hjM", "20250217-qgz4ff0Daww", "20260521-2ekuUIx1Cvo", "20250629-1wpwu_FsHSQ", "20250923-Jdbq9JApgus"]
 video_type: "video"
 embeddable: "1"

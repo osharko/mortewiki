@@ -10,8 +10,8 @@ view_count: "5245"
 like_count: "456"
 comment_count: "32"
 playlist_index: "0"
-tags: ["nintendo", "pocket pair", "pokémon", "marchio", "pocket", "digimon"]
-related: ["20251114-uznIlHcFInI", "20250524-zSGQoSrx00A", "20250922-8onAikE00Dc", "20241116-zW2mk3zC1b4", "20251220-Kf_lc_hw9n0", "20251218-NOr_HttEIfg", "20240614-tlrMiE7BzRY", "20190912-sX777AyfxsI", "20251025-pRSIEbpX97Q", "20260228-yd_ytjxiFEM"]
+tags: ["pocket pair", "marchio", "pocket", "digimon", "pair", "violazione marchio"]
+related: ["20251114-uznIlHcFInI", "20241116-zW2mk3zC1b4", "20250524-zSGQoSrx00A", "20250326-XnkbgT-yDys", "20250915-oVS6mI7DA0E", "20250706-LBeD5Ob7W4o", "20251207-xo095v8Sfac", "20260701-pnI4NxH-bdE", "20200215-r4gqCDLGFl4", "20250922-8onAikE00Dc"]
 video_type: "video"
 description: "L'abbiamo capito che Pokemon Company e Nintendo sono distinte, si capisce cosa sto dicendo lo stesso e non penso che Nintendo si opponga."
 embeddable: "1"
@@ -22,12 +22,12 @@ qc: 100
 
 ## Correlati
 - [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
 - [[20241116-zW2mk3zC1b4|Aggiornamenti su Palworld vs Nintendo]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
-- [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20260228-yd_ytjxiFEM|Pokémon Vento e Pokémon Onda: hanno smesso di provarci]]
+- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20250915-oVS6mI7DA0E|Digimon genderfluid?!?!?!123stella?]]
+- [[20250706-LBeD5Ob7W4o|La mia speranza per il prossimo Digimon]]
+- [[20251207-xo095v8Sfac|La differenza fondamentale tra pokémon e Digimon]]
+- [[20260701-pnI4NxH-bdE|Live strillante ORA!!!]]
+- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
+- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]

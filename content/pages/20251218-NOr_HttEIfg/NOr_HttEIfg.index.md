@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20251218"
 duration: "1598"
 duration_string: "26:38"
-view_count: "2416"
+view_count: "2418"
 like_count: "208"
 comment_count: "10"
 playlist_index: "0"
-tags: ["pokémon", "game freak", "nintendo", "beast reincarnation", "marron merda", "freak"]
-related: ["20251220-Kf_lc_hw9n0", "20251114-uznIlHcFInI", "20250828-gUXRvczylOM", "20200405-4FIOk8SHwjc", "20250922-8onAikE00Dc", "20240614-tlrMiE7BzRY", "20250524-zSGQoSrx00A", "20231117-Vb4_0DGuOvA", "20251025-pRSIEbpX97Q", "20200313-vVUJlCn37NE"]
+tags: ["game freak", "beast reincarnation", "marron merda", "freak", "elder scrolls", "brand"]
+related: ["20251220-Kf_lc_hw9n0", "20260804-14SjrMGalEQ", "20250712-B5HdTcWnNjo", "20260830-6vZulACux14", "20260719-7bvr2E_6tuU", "20260824-cNYu_H4axOI", "20190515-FmQd99ET7g4", "20260622-eZnZgZ2B0L4"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,12 +21,10 @@ qc: 100
 
 ## Correlati
 - [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
-- [[20250524-zSGQoSrx00A|Palworld vs Nintendo: oscuri presagi]]
-- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
-- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
+- [[20260804-14SjrMGalEQ|Sono in piena rivalutazione ORA!]]
+- [[20250712-B5HdTcWnNjo|Rumor: più Fallout sono in produzione]]
+- [[20260830-6vZulACux14|Aspetto Fable 4 più di GTA 6]]
+- [[20260719-7bvr2E_6tuU|Commentiamo TUTTI i Fallout annunciati]]
+- [[20260824-cNYu_H4axOI|I leaks di GTA VI mi annoiano]]
+- [[20190515-FmQd99ET7g4|La Filosofia di Tim Burton (ft Mr. Marra)]]
+- [[20260622-eZnZgZ2B0L4|Rockstar, everybody wants you]]

@@ -10,7 +10,7 @@ view_count: "3720"
 like_count: "372"
 comment_count: "28"
 playlist_index: "0"
-tags: ["toro", "frankenstein", "insomma toro", "frankenstein sempre", "pinocchio", "pinocchio toro"]
+tags: ["toro", "frankenstein", "insomma toro", "frankenstein sempre", "pinocchio", "frankenstein abbiamo"]
 related: ["20260120-xHgUlh5xr-k", "20221218-ONv2zmj4QsE", "20200807-PFL7G6Q7_F0", "20210106-QaIeDaI6mFU"]
 video_type: "video"
 embeddable: "1"

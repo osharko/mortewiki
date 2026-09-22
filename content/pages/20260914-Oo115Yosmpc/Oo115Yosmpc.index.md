@@ -6,13 +6,13 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260914"
 duration: "2408"
 duration_string: "40:08"
-view_count: "12108"
-like_count: "589"
-comment_count: "126"
+view_count: "12580"
+like_count: "608"
+comment_count: "128"
 playlist: "A Billion Lies"
 playlist_id: "PLNSqddIVxJyU"
 playlist_index: "3"
-tags: ["jack", "avvocato atomo", "jacobson", "centrali", "jack stai", "abbiamo capito"]
+tags: ["jack", "avvocato atomo", "jacobson", "centrali", "jack stai", "costruire centrali"]
 related: ["20260913--8ezzWjZ1qE", "20260915-KTl0cODi8Mc", "20260916-Ijw-qfE4jU8", "20260917-qGMQERfraGE", "20260918-bQBGWrMMaWk", "20190331-tD9o5iCsmfU", "20231118-xxcvzFtN3RI", "20260111-fGc-jpcK4TQ", "20260919-IgChd2ZNxEk", "20260920-1spGRt8ku3U"]
 video_type: "video"
 description: "Qui il debunking a Cartoni Morti: https://x.com/stebaraz/status/1569700132806971392?s=46&t=KSPLM1px1RTH0Akzvi03gw\nQui il debunking ad Avvocato dell'Atomo: https://t.me/mortebianca/8428"

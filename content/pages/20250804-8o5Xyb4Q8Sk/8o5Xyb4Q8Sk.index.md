@@ -11,7 +11,7 @@ like_count: "686"
 comment_count: "67"
 playlist_index: "0"
 tags: ["nuovo partito", "corbin", "bernie sanders", "sanders", "sembra starmer", "quell internazionale"]
-related: ["20260605-BdxjbOWNBkw", "20250421-0IATCCXpVu4", "20251105-LafzJEe-BFA", "20260906-UonTUjrzUT0", "20251109--BksbKgj4e0", "20260805-sxLK-rvj04E", "20251101-UDydP_MgAdI", "20250224-ijJAnHWrzis", "20260512-Xnabv3lSijA", "20250313-mpzh-Xn_Lbg"]
+related: ["20260605-BdxjbOWNBkw", "20250421-0IATCCXpVu4", "20251105-LafzJEe-BFA", "20260906-UonTUjrzUT0", "20251109--BksbKgj4e0", "20260805-sxLK-rvj04E", "20251101-UDydP_MgAdI", "20250224-ijJAnHWrzis", "20250729-0YunXFQN978", "20260512-Xnabv3lSijA"]
 video_type: "video"
 description: "Oggi è un bel giorno per la sinistra.... inglese\nDiritti d'autore AP Photo"
 embeddable: "1"
@@ -29,5 +29,5 @@ qc: 100
 - [[20260805-sxLK-rvj04E|Mamdani è il democratico più popolare]]
 - [[20251101-UDydP_MgAdI|Che succede se Trump arresta Zohran Mamdani?]]
 - [[20250224-ijJAnHWrzis|Alexandria Ocasio-Cortez e Bernie Sanders]]
+- [[20250729-0YunXFQN978|Entra in live forz muovt]]
 - [[20260512-Xnabv3lSijA|Celtix: gli indipendentisti trionfano (e Farage trema)]]
-- [[20250313-mpzh-Xn_Lbg|USA vs EU 3: il Ritorno]]

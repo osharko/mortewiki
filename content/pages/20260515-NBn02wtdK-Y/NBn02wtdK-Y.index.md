@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260515"
 duration: "2076"
 duration_string: "34:36"
-view_count: "40710"
-like_count: "2288"
+view_count: "40849"
+like_count: "2285"
 comment_count: "492"
 playlist_index: "0"
-tags: ["storia filosofia", "rick", "kant", "argomentazione", "rick dufer", "spinoza"]
+tags: ["storia filosofia", "rick", "kant", "rick dufer", "spinoza", "importante sappia"]
 related: ["20260211-e_4mA45o-XU", "20251030--lx5H7MfRo4", "20260517-0m1dlc-akzo", "20251103-TkDJa3Lhm44", "20190125-EYEZqMR1fm0", "20260703-SDMIlwAMmH0", "20260206-8Qx_rLZtL-k", "20251130-sh54xa67Nuo", "20250726-a3iKGKd1cTs", "20260726-5uAN1AwZ1XE"]
 video_type: "video"
 description: "Video originale: https://www.youtube.com/watch?v=bK0QcGHXqcE"

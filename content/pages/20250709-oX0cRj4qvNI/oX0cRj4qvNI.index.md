@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250709"
 duration: "1617"
 duration_string: "26:57"
-view_count: "7336"
+view_count: "7337"
 like_count: "580"
 comment_count: "39"
 playlist_index: "0"
-tags: ["macedonia", "tito", "jugoslavia", "austro ungarico", "impero austro", "cazzo cane"]
+tags: ["macedonia", "tito", "jugoslavia", "impero austro", "austro ungarico", "cazzo cane"]
 related: ["20251111-3vBeOjHJzMU"]
 video_type: "video"
 embeddable: "1"

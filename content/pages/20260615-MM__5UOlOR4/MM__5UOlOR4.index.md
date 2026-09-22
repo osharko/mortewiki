@@ -10,8 +10,8 @@ view_count: "3774"
 like_count: "322"
 comment_count: "59"
 playlist_index: "0"
-tags: ["fortnite", "glitch", "balletti", "youtuber però", "urta alcun", "thanos faceva"]
-related: ["20250930-mtacieae1RY"]
+tags: ["fortnite", "glitch", "balletti", "urta alcun", "thanos faceva", "resta integra"]
+related: ["20250314-lzGs1WFN0sY", "20250930-mtacieae1RY"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,4 +20,5 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
+- [[20250314-lzGs1WFN0sY|SPLIT FICTION con Amico Diverte]]
 - [[20250930-mtacieae1RY|La Filosofia di GUINEVERE]]

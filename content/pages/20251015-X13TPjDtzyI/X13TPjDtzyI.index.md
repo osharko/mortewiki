@@ -10,8 +10,8 @@ view_count: "5283"
 like_count: "342"
 comment_count: "35"
 playlist_index: "0"
-tags: ["pokémon", "leggende galar", "nintendo", "galar", "switch", "leggende"]
-related: ["20190912-sX777AyfxsI", "20200405-4FIOk8SHwjc", "20251114-uznIlHcFInI", "20251220-Kf_lc_hw9n0", "20250828-gUXRvczylOM", "20251218-NOr_HttEIfg", "20231117-Vb4_0DGuOvA", "20250922-8onAikE00Dc", "20200313-vVUJlCn37NE", "20240614-tlrMiE7BzRY"]
+tags: ["leggende galar", "galar", "switch", "leggende", "console", "tutte regioni"]
+related: ["20190912-sX777AyfxsI", "20200509-PIjNe3OByjw", "20250413-Y0jMmKLzDWk", "20250209-yfjF8ki7EHw", "20250526-yQg5jFVG958", "20251019-1qH9ywYa4Vg", "20260815-LoFSH3Rwa6o", "20200824-ddOWkFxbq3g", "20231001-DJ00uo8ipB0", "20250302-_Zx7FzBT12s"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,12 +21,12 @@ qc: 100
 
 ## Correlati
 - [[20190912-sX777AyfxsI|La mia pessima esperienza con la Nintendo]]
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20251114-uznIlHcFInI|Palworld sta UMILIANDO Pokemon]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20250828-gUXRvczylOM|Palworld vs Pokemon: la vendetta]]
-- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
-- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
-- [[20250922-8onAikE00Dc|Nintendo sta ESAGERANDO....]]
-- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20200509-PIjNe3OByjw|Il Futuro delle Console]]
+- [[20250413-Y0jMmKLzDWk|Critica ai prezzi di Nintendo]]
+- [[20250209-yfjF8ki7EHw|Console-PC portatili: il mio pensiero]]
+- [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
+- [[20251019-1qH9ywYa4Vg|Ancora sulle console portatili]]
+- [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
+- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]
+- [[20231001-DJ00uo8ipB0|Obsolescenza Programmata e Preservazione Videoludica]]
+- [[20250302-_Zx7FzBT12s|E se l'IMPERO ROMANO fosse SOPRAVVISSUTO?]]

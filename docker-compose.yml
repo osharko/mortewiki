@@ -8,13 +8,15 @@ services:
       context: ./code/wiki-tube
       dockerfile: Containerfile
     container_name: mortewiki-web
-    ports:
-      - "127.0.0.1:8080:80"
+    # network_mode host: la wiki è su http://127.0.0.1:8080 (nginx-host.conf).
+    # Evita pasta/tun (rootless) e funziona sia con podman che con docker.
+    network_mode: host
     env_file: .env
     environment:
       WIKI_CONTENT: /data/content
     volumes:
       - ./content:/data/content:Z
+      - ./nginx-host.conf:/etc/nginx/http.d/default.conf:ro,Z
 
   cron:
     image: python:3.12-alpine
@@ -29,7 +31,9 @@ services:
       - ./data/raw_subs:/data/raw_subs:Z
     working_dir: /sync
     # cron ogni 6h esegue manage.py run (sync canali + build + relink)
+    # ffmpeg: serve a yt-dlp per --convert-subs srt; yt-dlp installato diretto
     command: >
-      sh -c "pip install --quiet -r requirements.txt &&
-             echo '0 */6 * * * cd /sync && python manage.py run >/var/log/sync.log 2>&1' > /etc/crontabs/root &&
+      sh -c "apk add --no-cache ffmpeg &&
+             pip install --quiet yt-dlp &&
+             echo '0 */6 * * * cd /sync && python manage.py run >>/var/log/sync.log 2>&1' > /etc/crontabs/root &&
              crond -f"

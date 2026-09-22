@@ -11,7 +11,7 @@ like_count: "394"
 comment_count: "19"
 playlist_index: "0"
 tags: ["possano riprodursi", "altro pianeta", "star trek", "dragon ball", "quella mutazione", "puro culo"]
-related: ["20240320-1LdmwqQKSt4", "20240403-NtZdQrwR_4A", "20240410-z93RPNkyeFA", "20240321-WCsJqKLfJkE", "20240418-8Wk2915vtbQ", "20240329-Vixn-NVK_sU", "20220717-XO4grJsda3s", "20231106-Py7BT1UUBlI", "20241216-FZMb6bpUTBc", "20250519-g4r0xZF8-9o"]
+related: ["20240320-1LdmwqQKSt4", "20240403-NtZdQrwR_4A", "20240410-z93RPNkyeFA", "20240321-WCsJqKLfJkE", "20240418-8Wk2915vtbQ", "20240329-Vixn-NVK_sU", "20220717-XO4grJsda3s", "20231106-Py7BT1UUBlI", "20250401-YHf-eREF_hc", "20250715-dOs_nnDcbaM"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -28,5 +28,5 @@ qc: 100
 - [[20240329-Vixn-NVK_sU|Alla ricerca di SPOCK (Commentiamo con Libri in Pillole)]]
 - [[20220717-XO4grJsda3s|La mia Storia con gli Anime]]
 - [[20231106-Py7BT1UUBlI|TUTTA la STORIA degli ANIME]]
-- [[20241216-FZMb6bpUTBc|Può un ANIME cambiare il FINALE del Manga?]]
-- [[20250519-g4r0xZF8-9o|Quando TUTTI i brand facevano videogiochi]]
+- [[20250401-YHf-eREF_hc|Elogio ad Elon Musk]]
+- [[20250715-dOs_nnDcbaM|Live in cui si sta meglio]]

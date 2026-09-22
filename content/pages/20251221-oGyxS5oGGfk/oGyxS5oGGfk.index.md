@@ -10,8 +10,8 @@ view_count: "3058"
 like_count: "240"
 comment_count: "28"
 playlist_index: "0"
-tags: ["open world", "pokémon", "doom", "saints", "call duty", "souls"]
-related: ["20200405-4FIOk8SHwjc", "20231117-Vb4_0DGuOvA", "20200313-vVUJlCn37NE", "20191011-JYRfEqEBygs", "20251220-Kf_lc_hw9n0", "20241018-3e0D4lFgBfs", "20251218-NOr_HttEIfg", "20200215-r4gqCDLGFl4", "20251025-pRSIEbpX97Q", "20240614-tlrMiE7BzRY"]
+tags: ["open world", "doom", "saints", "call duty", "souls", "souls like"]
+related: ["20190111-3HIe9O2A_rc", "20200730-j8wQGaXVpEs", "20250812-FjYpUO2xY6w", "20250326-XnkbgT-yDys", "20241226-Jtoy4mElA4c", "20250503-l7dtFsZyOl4", "20250723-sOw4syo7ddg", "20260911-xpaEtnJJF8k"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -20,13 +20,11 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20200405-4FIOk8SHwjc|Il Futuro di Pokémon]]
-- [[20231117-Vb4_0DGuOvA|Il MIGLIOR gioco POKÉMON]]
-- [[20200313-vVUJlCn37NE|L'Evoluzione di Pokémon]]
-- [[20191011-JYRfEqEBygs|Pokémon Horror]]
-- [[20251220-Kf_lc_hw9n0|Pokémon Pokopia: ovvero come subappaltarsi al meglio]]
-- [[20241018-3e0D4lFgBfs|1 miliardo di leoni vs tutti i Pokémon]]
-- [[20251218-NOr_HttEIfg|Beast of Reincarnation - il destino di Game Freak]]
-- [[20200215-r4gqCDLGFl4|La Filosofia dei Pokémon]]
-- [[20251025-pRSIEbpX97Q|Il lento declino di Pokemon]]
-- [[20240614-tlrMiE7BzRY|PALWORLD è meglio di POKÉMON]]
+- [[20190111-3HIe9O2A_rc|La Storia degli Open World]]
+- [[20200730-j8wQGaXVpEs|I Giochi di Harry Potter]]
+- [[20250812-FjYpUO2xY6w|Ho predictato di nuovo....]]
+- [[20250326-XnkbgT-yDys|Da dove iniziare con i giochi DIGIMON?]]
+- [[20241226-Jtoy4mElA4c|Live natalizia]]
+- [[20250503-l7dtFsZyOl4|Il prossimo GOTY?]]
+- [[20250723-sOw4syo7ddg|Fallout Bakersfield: cosa ne penso]]
+- [[20260911-xpaEtnJJF8k|Difficoltà nei videogiochi: tra Gatekeeping e Capitalismo]]

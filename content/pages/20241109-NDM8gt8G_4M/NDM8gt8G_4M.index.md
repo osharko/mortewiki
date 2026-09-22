@@ -10,7 +10,7 @@ view_count: "3765"
 like_count: "317"
 comment_count: "24"
 playlist_index: "0"
-tags: ["carino", "oscar", "avrei vincere", "film carino", "alza vento", "meritato"]
+tags: ["oscar", "avrei vincere", "alza vento", "film carino", "meritato", "disney periodo"]
 related: ["20260612-zwli8h_OjzU", "20241208-pKPFXw4uv_U", "20240623-5HkbTJJH2Bk"]
 video_type: "video"
 embeddable: "1"

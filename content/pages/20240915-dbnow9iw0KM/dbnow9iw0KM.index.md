@@ -1,0 +1,34 @@
+---
+title: "Live con domande e risposte dal pubblico"
+video_id: "dbnow9iw0KM"
+channel: "Mortebianca"
+channel_url: "https://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA"
+upload_date: "20240915"
+duration: "5099"
+duration_string: "1:24:59"
+view_count: "11440"
+like_count: "630"
+comment_count: "13"
+playlist_index: "0"
+source: "https://youtu.be/dbnow9iw0KM"
+tags: ["grazie mille", "alti bassi", "unione europea", "baldur gate", "bassi alti", "devi creare"]
+related: ["20251203-YJlIHQSQ10Y", "20250624-86lmhxXJqic", "20250225-4DEocBBIQm8", "20251216-b_VO379x7Lc", "20260107-4eBHZVUuroo", "20241226-Jtoy4mElA4c", "20260506-BWcNXtjYK9Q", "20250826-Amfh0bTidmY", "20250527-jhijk2sQMAk", "20250812-FjYpUO2xY6w"]
+video_type: "live"
+description: "TIPEEE: https://www.tipeee.com/mortebianca\nInstant Gaming: https://www.instant-gaming.com/it/?igr=mortebianca\nMAGLIETTE: https://www.allt-shirt.it/merchandiser/mortebiancastore/\nIL MIO NEGOZIO AMAZON: https://amzn.to/3gJ5xcq\nSe non puoi abbonarti a Tipeee c'è l'abbonamento da Youtube:\nhttps://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA/joinù\nLinktree: https://linktr.ee/mortebianca\nPianta un albero nella Morteforesta! https://www.treedom.net/it/user/mortebianca/event/morteforesta/trees\nFacebook: https://www.facebook.com/Mortebianca000/\nInstagram: https://www.instagram.com/mortebianca0000/\nTwitch: https://twitch.tv/mortebianca000\nTwitter: https://twitter.com/Mortebianca000\nTelegram: https://t.me/mortebianca\nWishlist di Steam: https://store.steampowered.com/wishlist/id/mortebianca/#sort=order\nRISPOSTE A TUTTI I DISSING\nhttps://t.me/mortebianca/4053\nWattpad: https://www.wattpad.com/user/mortebianca000\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/photos/a.426633120854903.1073741825.110340322484186/961685387349671/?type=3&theater\nRINGRAZIAMENTI\nSigla originale: https://www.youtube.com/watch?v=ma3BFoEwjPI\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyagatta97\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_KBehMizGXZJnJVNCetw\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShowchannel\nAutore sigla FILM: https://soundcloud.com/sigla-studios e Giuliagatta!\nAutori sigla TEOLOGIA: https://www.youtube.com/@Drecon come editor\nhttps://www.youtube.com/watch?v=H1KWEUWfTTw&ab_channel=1Pingan8 come musica\nAutori sigla STORIA e UCRONIE: https://www.youtube.com/@Drecon come editor (anche per Biologia)\nhttps://www.youtube.com/@doctornebelghast come musica\nAutore sigla MORTECUORE: Haruko Katsura e Alessandro La Calamita\nhttps://soundcloud.com/leonemarcobartolo?fbclid=IwAR1Scu5Ipliy8GIDCPAPYSyZTN19NwUfCvAyUwNPltDNsOgmTrnAUlkddv0\nSigla Biologia: https://www.youtube.com/watch?v=fyaMSx3o49s&ab_channel=LazyGales\nImmagini Mortecuore: https://instagram.com/san_pistone?igshid=YmMyMTA2M2Y=\nEditore creepy: https://www.instagram.com/viniazazeyal/\nAutrice Logo: https://www.deviantart.com/marumind\nMortebianca partecipa al Programma Affiliazione Amazon EU, un programma di affiliazione che consente ai siti di percepire una commissione pubblicitaria pubblicizzando http://Amazon.it\nPer domande, richieste commerciali o di copyright o per sban scrivetemi per mail (descrizione del canale)\nMOOSEECA:"
+embeddable: "1"
+qc: 100
+---
+
+*Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
+
+## Correlati
+- [[20251203-YJlIHQSQ10Y|Sono in videochiamata con te]]
+- [[20250624-86lmhxXJqic|Live iraniana (senza armi di distruzione di massa promesso)]]
+- [[20250225-4DEocBBIQm8|In Live (checché se ne strilli)]]
+- [[20251216-b_VO379x7Lc|Live at casa vostra]]
+- [[20260107-4eBHZVUuroo|Mattone per mattone, ricostruiamo la routine]]
+- [[20241226-Jtoy4mElA4c|Live natalizia]]
+- [[20260506-BWcNXtjYK9Q|L'ONU potrebbe diventare una federazione globale?]]
+- [[20250826-Amfh0bTidmY|TRUMP COMUNISTA??]]
+- [[20250527-jhijk2sQMAk|Il risorgimento europeo (e il declino muricano)]]
+- [[20250812-FjYpUO2xY6w|Ho predictato di nuovo....]]

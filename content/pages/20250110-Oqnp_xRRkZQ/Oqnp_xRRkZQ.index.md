@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250110"
 duration: "552"
 duration_string: "9:12"
-view_count: "10368"
-like_count: "893"
+view_count: "10375"
+like_count: "894"
 comment_count: "45"
 playlist_index: "0"
-tags: ["napoleone", "napoleone napoleone", "diritti civili", "napoleonico", "spauracchio contro", "portato indietro"]
+tags: ["napoleone", "napoleone napoleone", "diritti civili", "napoleonico", "portato indietro", "oggi napoleone"]
 related: ["20221231-ZxunrzPftxo", "20231126--FPPHNyRAEg", "20251215-46FwrpfxRJE", "20221103-1jlQb56y3dY", "20231128-epoaj7CrpVY", "20210801-UKRtqnOJeeg", "20250913-_APe0Ai3hWM"]
 video_type: "video"
 embeddable: "1"

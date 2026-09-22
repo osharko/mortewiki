@@ -11,7 +11,7 @@ like_count: "500"
 comment_count: "29"
 playlist_index: "0"
 tags: ["chiesa anglicana", "anglicana", "sacerdozio femminile", "protestanti", "bibbia dice", "elisabetta"]
-related: ["20260502-1K07UwWMWZg", "20260501-MfIGVsJKM5w", "20250418-YlPgqczhrj4", "20250510-xnnBHDexKLE", "20250821-wN1Fx2z3Txc", "20260702-uIXBC2q7Dk0", "20250331-JXUGBMAbBXA", "20150912-SCa0IsQezdw"]
+related: ["20260502-1K07UwWMWZg", "20260501-MfIGVsJKM5w", "20250418-YlPgqczhrj4", "20240418-eiy4N1n85Vs", "20250510-xnnBHDexKLE", "20250821-wN1Fx2z3Txc", "20260702-uIXBC2q7Dk0", "20250331-JXUGBMAbBXA", "20150912-SCa0IsQezdw"]
 video_type: "video"
 description: "Fonte immagine: https://www.bbc.com/news/articles/c2lxyxqzxkdo"
 embeddable: "1"
@@ -24,6 +24,7 @@ qc: 100
 - [[20260502-1K07UwWMWZg|L'Anglicanesimo e il suo futuro]]
 - [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20250418-YlPgqczhrj4|Il PEGGIOR commento che io abbia mai corretto]]
+- [[20240418-eiy4N1n85Vs|Live con l'Oscuro Teologo]]
 - [[20250510-xnnBHDexKLE|Le radici di LUTERO]]
 - [[20250821-wN1Fx2z3Txc|Dottrina sessuale cattolica: come sta cambiando]]
 - [[20260702-uIXBC2q7Dk0|Gesù voleva la remigrazione!!!]]

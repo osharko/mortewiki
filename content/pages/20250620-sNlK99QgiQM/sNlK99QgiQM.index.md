@@ -7,7 +7,7 @@ upload_date: "20250620"
 duration: "1225"
 duration_string: "20:25"
 view_count: "6879"
-like_count: "604"
+like_count: "603"
 comment_count: "36"
 playlist_index: "0"
 tags: ["forze ordine", "parcheggiare", "hanno agito", "trasporti pubblici", "cioè capito", "agenti hanno"]

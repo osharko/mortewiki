@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260110"
 duration: "995"
 duration_string: "16:35"
-view_count: "11880"
+view_count: "11885"
 like_count: "948"
 comment_count: "81"
 playlist_index: "0"
 tags: ["groenlandia", "polo nord", "dobbiamo dirgli", "dicono stati", "natale", "uniti ritirano"]
-related: ["20191225-DGyCgIQkHLA", "20250122-bGO8tBip2M4", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20231118-xxcvzFtN3RI", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250813-92CCkkq4OEw", "20220802-T0B1FafHsTo", "20180204-8_IHgAz-PSI"]
+related: ["20191225-DGyCgIQkHLA", "20250122-bGO8tBip2M4", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20231118-xxcvzFtN3RI", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20260107-4eBHZVUuroo", "20250813-92CCkkq4OEw", "20220802-T0B1FafHsTo"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,6 @@ qc: 100
 - [[20231118-xxcvzFtN3RI|La Filosofia di NIGHTMARE BEFORE CHRISTMAS]]
 - [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
 - [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
+- [[20260107-4eBHZVUuroo|Mattone per mattone, ricostruiamo la routine]]
 - [[20250813-92CCkkq4OEw|Di che parla Polar Express?]]
 - [[20220802-T0B1FafHsTo|Critica a Dugin, filosofo di Putin]]
-- [[20180204-8_IHgAz-PSI|Black Mirror e la Politica]]

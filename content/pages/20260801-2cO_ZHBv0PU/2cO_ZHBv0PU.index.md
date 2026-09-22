@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260801"
 duration: "971"
 duration_string: "16:11"
-view_count: "4901"
-like_count: "317"
+view_count: "4908"
+like_count: "318"
 comment_count: "45"
 playlist_index: "0"
-tags: ["animali domestici", "domestici", "cani gatti", "welfare queen", "esatto contrario", "gatti"]
+tags: ["animali domestici", "domestici", "cani gatti", "welfare queen", "gatti", "cuccioli"]
 related: ["20210213--iQV987leWs", "20240221-LLNdc8FUPQc", "20210106-QaIeDaI6mFU", "20250716-nZdj5jJ9UpQ", "20210519-1RK93CbCktw", "20251023-FTJnzuIHU3U", "20260825-e9Bts9SU3CM", "20260508-LAuCrb2qyQw"]
 video_type: "video"
 embeddable: "1"

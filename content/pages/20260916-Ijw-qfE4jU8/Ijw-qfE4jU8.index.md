@@ -6,13 +6,13 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260916"
 duration: "3212"
 duration_string: "53:32"
-view_count: "10774"
-like_count: "496"
-comment_count: "125"
+view_count: "11441"
+like_count: "520"
+comment_count: "128"
 playlist: "A Billion Lies"
 playlist_id: "PLNSqddIVxJyU"
 playlist_index: "5"
-tags: ["jack", "centrali nucleari", "pannelli", "pannelli solari", "referendum", "centrali"]
+tags: ["jack", "centrali nucleari", "pannelli", "pannelli solari", "centrali", "argomentum populum"]
 related: ["20260917-qGMQERfraGE", "20260914-Oo115Yosmpc", "20260915-KTl0cODi8Mc", "20260918-bQBGWrMMaWk", "20260913--8ezzWjZ1qE", "20190331-tD9o5iCsmfU", "20231118-xxcvzFtN3RI", "20260111-fGc-jpcK4TQ", "20230108-BOKnDdrrd1c", "20260919-IgChd2ZNxEk"]
 video_type: "video"
 description: "Il video \"\"\"\"visto\"\"\" da Jack: https://youtu.be/dujI3dl8vTk"

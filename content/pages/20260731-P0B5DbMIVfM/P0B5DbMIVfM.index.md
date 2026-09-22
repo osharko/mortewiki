@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260731"
 duration: "1616"
 duration_string: "26:56"
-view_count: "3415"
-like_count: "226"
+view_count: "3420"
+like_count: "227"
 comment_count: "21"
 playlist_index: "0"
-tags: ["donny", "tris tris", "sempre nuovi", "berserk", "campi sterminio", "ottimismo"]
+tags: ["donny", "tris tris", "sempre nuovi", "campi sterminio", "berserk", "ottimismo"]
 related: ["20190303-xjkRz1s78uA", "20250430-gUx4wOdsu-w", "20250927-T9AlBLaIjcg"]
 video_type: "video"
 embeddable: "1"

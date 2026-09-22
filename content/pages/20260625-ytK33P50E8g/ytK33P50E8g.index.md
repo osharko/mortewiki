@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260625"
 duration: "775"
 duration_string: "12:55"
-view_count: "3817"
-like_count: "289"
+view_count: "3820"
+like_count: "290"
 comment_count: "41"
 playlist_index: "0"
 tags: ["steam machine", "steam deck", "deck", "machine", "console", "qualità prezzo"]
-related: ["20250209-yfjF8ki7EHw", "20251019-1qH9ywYa4Vg", "20251117-qbPIhoXoj78", "20200509-PIjNe3OByjw", "20250210-8Kvt27bCw2Y", "20250328-ho9q_vbALig", "20250601-vCSmCMSsvm4", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o", "20200824-ddOWkFxbq3g"]
+related: ["20250209-yfjF8ki7EHw", "20251019-1qH9ywYa4Vg", "20251117-qbPIhoXoj78", "20200509-PIjNe3OByjw", "20250210-8Kvt27bCw2Y", "20250328-ho9q_vbALig", "20250601-vCSmCMSsvm4", "20260624-JYpfAvUPlxE", "20250526-yQg5jFVG958", "20260815-LoFSH3Rwa6o"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -27,6 +27,6 @@ qc: 100
 - [[20250210-8Kvt27bCw2Y|Apologia dello Steam controller]]
 - [[20250328-ho9q_vbALig|Portatile vs Fisso]]
 - [[20250601-vCSmCMSsvm4|SteamOS è la migliore distro Linux]]
+- [[20260624-JYpfAvUPlxE|Questa è la fine dell'Impero Americano]]
 - [[20250526-yQg5jFVG958|La Masterrace trionfa ancora]]
 - [[20260815-LoFSH3Rwa6o|SONY ha PERSO]]
-- [[20200824-ddOWkFxbq3g|Live sui Videogiochi (Ft Svet)]]

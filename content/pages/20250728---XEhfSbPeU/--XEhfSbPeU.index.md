@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250728"
 duration: "1170"
 duration_string: "19:30"
-view_count: "6781"
-like_count: "519"
+view_count: "6785"
+like_count: "518"
 comment_count: "23"
 playlist_index: "0"
-tags: ["francesco", "leone", "papa conservatore", "prevost", "leone papa", "giovanni paolo"]
-related: ["20250509-_b6UTmUr-IU", "20251113-cvAoFlFBZA4", "20260501-MfIGVsJKM5w", "20250509-sAJrhWaZLsA", "20250512-0SKFJ4OIT0Q", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20250810-pYMCG4rvUhE"]
+tags: ["francesco", "papa conservatore", "prevost", "leone papa", "giovanni paolo", "gesuiti"]
+related: ["20250509-sAJrhWaZLsA", "20250509-_b6UTmUr-IU", "20250512-0SKFJ4OIT0Q", "20251113-cvAoFlFBZA4", "20210606-KUEe3zpJYdc", "20250422-IjEejHvQxTI", "20250227--SvTavqJK4M", "20250222-QuNpgW83n0w", "20260501-MfIGVsJKM5w", "20250810-pYMCG4rvUhE"]
 video_type: "video"
 description: "Fonte immagine: https://en.wikipedia.org/wiki/Pope_Leo_XIV#/media/File:Pope_Leo_XIV_on_the_loggia.jpg"
 embeddable: "1"
@@ -21,13 +21,13 @@ qc: 100
 *Scorri sotto per la **trascrizione** timestampata: clicca un blocco per saltare al punto esatto nel player.*
 
 ## Correlati
-- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
-- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
-- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20250509-sAJrhWaZLsA|Come RIFORMARE la CHIESA]]
+- [[20250509-_b6UTmUr-IU|LEONE XIV: TUTTO quello che sappiamo]]
 - [[20250512-0SKFJ4OIT0Q|I Retroscena del Conclave]]
+- [[20251113-cvAoFlFBZA4|Leone XIV è Apocatastatico]]
 - [[20210606-KUEe3zpJYdc|La Filosofia dei due Papi]]
 - [[20250422-IjEejHvQxTI|Eulogia di Papa Francesco]]
 - [[20250227--SvTavqJK4M|Vi consiglio 5 canali di teologia]]
 - [[20250222-QuNpgW83n0w|Dei crudeli irrisori alla malattia di Papa Francesco]]
+- [[20260501-MfIGVsJKM5w|Leone XIV accusato di essere WOKE per aver incontrato l'Arcivescova]]
 - [[20250810-pYMCG4rvUhE|Zombie al Comic - Creepypasta 257]]

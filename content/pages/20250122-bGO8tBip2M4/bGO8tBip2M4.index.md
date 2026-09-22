@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250122"
 duration: "1187"
 duration_string: "19:47"
-view_count: "14230"
+view_count: "14237"
 like_count: "1098"
 comment_count: "63"
 playlist_index: "0"
 tags: ["groenlandia", "canada", "nativi", "hanno bisogno", "danimarca", "aumentato truppe"]
-related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250501-2IzWuf8zSQ0", "20250111-xNtUS7w_P74", "20231010-h4l1OY2BR60"]
+related: ["20250416-kX9wUWAVVOY", "20260430-QUXUrmgMeMc", "20260117-tspT5RQPpm4", "20210613-KiVbe8DLOJc", "20260110-dn34OVusXx0", "20260120-l464ALtjP9I", "20260119-Ei20aYi6FEk", "20250501-2IzWuf8zSQ0", "20260107-4eBHZVUuroo", "20231010-h4l1OY2BR60"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -28,5 +28,5 @@ qc: 100
 - [[20260120-l464ALtjP9I|Dovremmo allearci con Putin?]]
 - [[20260119-Ei20aYi6FEk|Non voglio difendere la Groenlandiaaaaa mammaaaa]]
 - [[20250501-2IzWuf8zSQ0|Risultato elezioni del Canada]]
-- [[20250111-xNtUS7w_P74|Il CANADA vuole annettere gli USA (in parte)]]
+- [[20260107-4eBHZVUuroo|Mattone per mattone, ricostruiamo la routine]]
 - [[20231010-h4l1OY2BR60|STORIA AMERICANA 1: LE ORIGINI]]

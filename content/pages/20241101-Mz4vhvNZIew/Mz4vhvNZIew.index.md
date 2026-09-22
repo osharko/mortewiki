@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20241101"
 duration: "1527"
 duration_string: "25:27"
-view_count: "11349"
+view_count: "11350"
 like_count: "927"
 comment_count: "40"
 playlist_index: "0"
-tags: ["donald trump", "camala harris", "elon musk", "harris", "camala", "biden"]
-related: ["20241113-RvJ3nmgVDew", "20241106-OPbxvJJtkhc", "20260718-lb-p2fknQ9g", "20251222-6F5Yin5_lSc", "20250416-kX9wUWAVVOY", "20250124-upFt6wNCg8Q", "20250126-icvN1cZWtwo", "20250317-ju7fMck0qMo", "20231015-2n3YvIxIAGE", "20240107-XGom_Cer7mw"]
+tags: ["camala harris", "elon musk", "harris", "camala", "biden", "camala herris"]
+related: ["20241113-RvJ3nmgVDew", "20260718-lb-p2fknQ9g", "20241112-tXQbB2P_mFc", "20241106-OPbxvJJtkhc", "20231015-2n3YvIxIAGE", "20240107-XGom_Cer7mw", "20250129-UHHhsLg_SFE", "20250121-1HTWmN0qqJY", "20250401-YHf-eREF_hc", "20250105-lRQi4qp8aHI"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,12 +21,12 @@ qc: 100
 
 ## Correlati
 - [[20241113-RvJ3nmgVDew|Le colpe di Biden]]
-- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
 - [[20260718-lb-p2fknQ9g|Kamala Harris bis sarebbe una PESSIMA idea]]
-- [[20251222-6F5Yin5_lSc|Trump vs Paracetamolo]]
-- [[20250416-kX9wUWAVVOY|USA vs Canada: tutte le endings]]
-- [[20250124-upFt6wNCg8Q|Una Rivoluzione in America?]]
-- [[20250126-icvN1cZWtwo|TRUMP ha scoperto cos'è una DONNA]]
-- [[20250317-ju7fMck0qMo|Calvinismo: anti-cristianesimo per eccellenza]]
+- [[20241112-tXQbB2P_mFc|Analisi della vittoria di Trump]]
+- [[20241106-OPbxvJJtkhc|Commentario sulla vittoria di Trump]]
 - [[20231015-2n3YvIxIAGE|ELON MUSK COLPISCE ANCORA]]
 - [[20240107-XGom_Cer7mw|ELON MUSK CONTRO TUTTI]]
+- [[20250129-UHHhsLg_SFE|Live post Ban da Elon Musk]]
+- [[20250121-1HTWmN0qqJY|Live in cui dedicate i vostri cuori]]
+- [[20250401-YHf-eREF_hc|Elogio ad Elon Musk]]
+- [[20250105-lRQi4qp8aHI|IL LATO OSCURO DI ELON MUSK]]

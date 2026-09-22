@@ -6,11 +6,11 @@ channel_url: "https://www.youtube.com/channel/UC2N0bFREZDPYg5H-t7LKgnA"
 upload_date: "20191106"
 duration: "15322"
 duration_string: "4:15:22"
-view_count: "98713"
+view_count: "98756"
 like_count: "3764"
 comment_count: "134"
 playlist_index: "0"
-tags: ["mortebianca confronto", "live finirà", "finirà dufer", "dufer mortebianca", "mortebianca", "dufer"]
+tags: ["mortebianca confronto", "finirà dufer", "dufer mortebianca", "live finirà", "mortebianca", "dufer"]
 related: ["20250726-a3iKGKd1cTs", "20260211-e_4mA45o-XU", "20260313-ynkTjz44iKc", "20260401-mKs1xn6jT80", "20260128-Px2StNHILS8", "20260206-8Qx_rLZtL-k", "20251130-sh54xa67Nuo", "20251202-RZ5cemKSXFw", "20260214-RGD-I9c6Rv8", "20260517-0m1dlc-akzo"]
 video_type: "live"
 description: "Canale di Rick Dufer: https://www.youtube.com/channel/UCKoFUWEIFF33-92tBA0Cvzg\nTipeee: Donazioni Tipeee (Patreon europeo) https://www.tipeee.com/mortebianca\nPagina Facebook: https://www.facebook.com/Mortebianca-...\nInstagram: mortebianca0000\nCanale Twitch: https://twitch.tv/mortebianca000\nProfilo Twitter: https://twitter.com/Mortebianca000\nCanale Telegram: https://t.me/mortebianca\nWattpad: https://www.wattpad.com/user/mortebia...\nFAQ/domande frequenti: https://facebook.com/Mortebianca000/p...\nWishlist di Steam: https://store.steampowered.com/wishli...\nSigla originale: https://www.youtube.com/watch?v=ma3BF...\nAutrice della parte video della sigla\nhttps://www.youtube.com/user/giulyaga...\nAutore della Sigla REMIXATA/Horror che uso: https://www.facebook.com/Aand0\nAutore sigla ANIME: https://www.youtube.com/channel/UCPc_...\nAutore sigla VIDEOGAMES: https://www.youtube.com/user/SianShow...\nEditore creepy: Vinicius"

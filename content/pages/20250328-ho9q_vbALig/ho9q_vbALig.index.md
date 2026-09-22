@@ -7,7 +7,7 @@ upload_date: "20250328"
 duration: "759"
 duration_string: "12:39"
 view_count: "5395"
-like_count: "464"
+like_count: "463"
 comment_count: "33"
 playlist_index: "0"
 tags: ["portatile", "game pass", "fisso", "avanzano soldi", "steam deck", "console"]

@@ -11,7 +11,7 @@ like_count: "523"
 comment_count: "15"
 playlist_index: "0"
 tags: ["erdogan", "curdi", "okalan", "ocalan", "abbandonare armi", "curdi siria"]
-related: ["20251118-Q5fHdhvoM7Y", "20191015-Ju0ljSLmtUo", "20260121--8rKQwDrVYM", "20250325-Rk9BX3mfdGg"]
+related: ["20251118-Q5fHdhvoM7Y", "20191015-Ju0ljSLmtUo", "20260121--8rKQwDrVYM", "20250325-Rk9BX3mfdGg", "20241210-Wdp8vrgaQqA"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -24,3 +24,4 @@ qc: 100
 - [[20191015-Ju0ljSLmtUo|RISPOSTA a BREAKING ITALY Sulla COERENZA]]
 - [[20260121--8rKQwDrVYM|Rojava sotto assedio (di nuovo)]]
 - [[20250325-Rk9BX3mfdGg|Il destino di Erdogan e Ocalan]]
+- [[20241210-Wdp8vrgaQqA|Live sulle live]]

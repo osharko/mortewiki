@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250104"
 duration: "9363"
 duration_string: "2:36:03"
-view_count: "16964"
+view_count: "16981"
 like_count: "691"
 comment_count: "76"
 playlist_index: "0"
 tags: ["deneris", "trono spade", "sansa", "sette regni", "snow", "drago"]
-related: ["20250105-xXnfFPUWdQI", "20250324-PzzyWA0R7R8", "20241023-bBnBKpzKzLg", "20260706-jNDtv2e0bCE", "20220525-fPUumekOZBI", "20260308-KxiAmVhYs-k"]
+related: ["20250105-xXnfFPUWdQI", "20250415-T0smIqhwH-g", "20250324-PzzyWA0R7R8", "20241023-bBnBKpzKzLg", "20260706-jNDtv2e0bCE", "20220525-fPUumekOZBI", "20260308-KxiAmVhYs-k"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -21,6 +21,7 @@ qc: 100
 
 ## Correlati
 - [[20250105-xXnfFPUWdQI|DISTRUGGO il finale di Game of Thrones (Parte 2)]]
+- [[20250415-T0smIqhwH-g|Make Mortebianca Great Again]]
 - [[20250324-PzzyWA0R7R8|Fenomenologia di George RR Martin]]
 - [[20241023-bBnBKpzKzLg|Non sanno più fare il Fantasy]]
 - [[20260706-jNDtv2e0bCE|Game of Thrones potrebbe concludersi al cinema?]]

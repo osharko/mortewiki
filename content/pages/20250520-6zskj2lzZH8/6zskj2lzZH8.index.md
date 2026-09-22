@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20250520"
 duration: "1119"
 duration_string: "18:39"
-view_count: "12114"
+view_count: "12137"
 like_count: "936"
 comment_count: "48"
 playlist_index: "0"
 tags: ["lienin", "calenda", "lienin dicendo", "inghilterra", "borghesia", "cauzzi"]
-related: ["20250821-8_DHVNR7qRo", "20241118-G5_Xl9Lv4jU", "20231002-pNe3PhDr-EI", "20260531-FhFS6ryUvwo", "20260203-xXkaBG2D-lk", "20260529-JlQu1zEslFQ", "20241103-1odWEk69h8E", "20230625-gLngvmizkzg"]
+related: ["20250821-8_DHVNR7qRo", "20241118-G5_Xl9Lv4jU", "20260129-1o9qL96k5OY", "20231002-pNe3PhDr-EI", "20260531-FhFS6ryUvwo", "20260203-xXkaBG2D-lk", "20260529-JlQu1zEslFQ", "20241103-1odWEk69h8E", "20230625-gLngvmizkzg"]
 video_type: "video"
 embeddable: "1"
 qc: 100
@@ -22,6 +22,7 @@ qc: 100
 ## Correlati
 - [[20250821-8_DHVNR7qRo|La Filosofia di LENIN]]
 - [[20241118-G5_Xl9Lv4jU|Analisi dell'intervista di Putin da Tucker Carlson]]
+- [[20260129-1o9qL96k5OY|Revisionismo Marxista: promosso o bocciato?]]
 - [[20231002-pNe3PhDr-EI|E se la FRANCIA avesse vinto la GUERRA DEI SETTE ANNI?]]
 - [[20260531-FhFS6ryUvwo|Prognostici sulle elezioni nazionali]]
 - [[20260203-xXkaBG2D-lk|Perché i ricchi si comportano come aristocratici?]]

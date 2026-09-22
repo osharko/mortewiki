@@ -6,12 +6,12 @@ channel_url: "https://www.youtube.com/channel/UCd4iBI3UoeBbh0twplAuf-Q"
 upload_date: "20260723"
 duration: "1004"
 duration_string: "16:44"
-view_count: "3486"
-like_count: "280"
+view_count: "3489"
+like_count: "281"
 comment_count: "110"
 playlist_index: "0"
 tags: ["imperium", "nell imperium", "nell impero", "humanity first", "mezzo secondo", "sette caos"]
-related: ["20241001-hSR2jzfj434", "20200209-QTPYi_l8noY", "20200311-d0wBOsX1gfc"]
+related: ["20241001-hSR2jzfj434", "20200209-QTPYi_l8noY", "20200311-d0wBOsX1gfc", "20241011-p5xWPIn2NYc"]
 video_type: "video"
 description: "Fonte immagine: https://x.com/alejofnm/status/1887992071786492140"
 embeddable: "1"
@@ -24,3 +24,4 @@ qc: 100
 - [[20241001-hSR2jzfj434|IL FUTURO di WARHAMMER 40K]]
 - [[20200209-QTPYi_l8noY|L'Imperium dell'Umanità]]
 - [[20200311-d0wBOsX1gfc|La Filosofia di Warhammer 40.000]]
+- [[20241011-p5xWPIn2NYc|Humanity first? No, grazie!]]
